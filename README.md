@@ -21,10 +21,10 @@ If you like this mod and want to support me, feel free to share it with your fri
 1. **This mod is savegame compatible. You can start it mid-game.** 
 **HOWEVER**: To experience the full potential of this mod, I recommend starting a new savegame to explore the additional content. This mod is specifically designed to expand the early game up to Engineers and also comes with a number of new fertilities. These are provided for free in an existing savegame, but are intended to provide an extra challenge in the early game!
 
-2. DLC Dependency: 
+2. **DLC Dependency:** 
 - "Seeds of Change" DLC.
 
-3. HIGHLY RECOMMENDED:
+3. **HIGHLY RECOMMENDED:**
 - "Old Town" cDLC
 
 4. Multiplayer and AI: Not tested and therefore not supported! Use at your own risk! Although I have disabled all new content for the AIs, I cannot guarantee that they will not get stuck. In particular, the progress of scholars may be hampered by this mod's adjustments to certain products from the "Land of Lion" DLC.
@@ -119,8 +119,8 @@ Vanison Butchering: In the earlygame you can generate Beef by building a module
 
 Suggested Mods, that play well with this one:
 
-River Slots by Taludas
-Industrial Cities by Jakob
-City Variations by Jakob
-Military Attention by Hier0nimus
-Old Town Extended by MrKoekie
+- River Slots by Taludas
+- Industrial Cities by Jakob
+- City Variations by Jakob
+- Military Attention by Hier0nimus
+- Old Town Extended by MrKoekie
