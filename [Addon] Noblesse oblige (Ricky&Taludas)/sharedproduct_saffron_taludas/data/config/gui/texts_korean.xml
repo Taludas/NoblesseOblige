@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005090</GUID>
+      <Text>사프란</Text>
+    </Text>
+    <Text>
+      <GUID>1999005091</GUID>
+      <Text>세상에서 가장 비싼 향신료이지만 맛이 압도적입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005092</GUID>
+      <Text>이제 금으로 요리하고 있지, 그렇죠?</Text>
+    </Text>
+  </ModOp>
+</ModOps>

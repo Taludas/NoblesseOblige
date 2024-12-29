@@ -1,0 +1,9 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>102037222</GUID>
+      			<Text>Teatro Comunale</Text>
+		</Text>
+
+	</ModOp>
+</ModOps>

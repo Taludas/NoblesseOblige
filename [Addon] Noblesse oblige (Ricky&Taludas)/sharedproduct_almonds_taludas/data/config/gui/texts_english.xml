@@ -1,0 +1,18 @@
+<ModOps>
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005084</GUID>
+      <Text>Almonds</Text>
+    </Text>
+    <Text>
+      <GUID>1999005085</GUID>
+      <Text>Did you know it is actually a drupe?</Text>
+    </Text>
+    <Text>
+      <GUID>1999005086</GUID>
+      <Text>Some sweet, some bitter. Pick wisely...</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

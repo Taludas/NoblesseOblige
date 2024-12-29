@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005051</GUID>
+      <Text>Most</Text>
+    </Text>
+    <Text>
+      <GUID>1999005052</GUID>
+      <Text>Die sozialverträgliche Art, gesunden Fruchtsaft zu trinken und so zu tun, als wäre man nüchtern</Text>
+    </Text>
+    <Text>
+      <GUID>1999005053</GUID>
+      <Text>Erhellt die Atmosphäre an jedem Stammtisch</Text>
+    </Text>
+  </ModOp>
+</ModOps>

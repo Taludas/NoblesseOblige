@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>Gulasz rybny</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>Wystarczająco fantazyjny, aby zrobić wrażenie, ale nadal sprawia, że zastanawiasz się, czy ktoś po prostu wrzucił całe akwarium do doniczki.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>Wykwintni goście nazwaliby to Bouillabaisse. Ale z pewnością nie jest to to samo z puszki.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

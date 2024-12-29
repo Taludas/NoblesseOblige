@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005078</GUID>
+      <Text>Лакированные изделия</Text>
+    </Text>
+    <Text>
+      <GUID>1999005079</GUID>
+      <Text>Сверкающие глаза, кажется, смотрят прямо в вашу душу.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005080</GUID>
+      <Text>Не берите его с собой на корабль! Он привлекает злых духов!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

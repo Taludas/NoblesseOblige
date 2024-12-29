@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005075</GUID>
+      <Text>랍스터 디너</Text>
+    </Text>
+    <Text>
+      <GUID>1999005076</GUID>
+      <Text>화려한 잔치이지만 그것을 먹기 위해서는 도구가 필요합니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005077</GUID>
+      <Text>크라켄을 위한 훌륭한 간식...</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>생선 스튜</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>인상적일 만큼 충분히 화려하지만 여전히 누군가가 수족관 전체를 냄비에 버렸는지 궁금하게 만듭니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>파인 다이너스(Fine Diners)는 이것을 부야베스(Bouillabaisse)라고 부릅니다. 그러나 그것은 확실히 캔에서 동일하지 않습니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

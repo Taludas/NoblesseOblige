@@ -1,0 +1,9 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>102037222</GUID>
+      			<Text>市政剧院</Text>
+		</Text>
+
+	</ModOp>
+</ModOps>

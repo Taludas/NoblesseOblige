@@ -1,0 +1,55 @@
+{
+  "Version": "1.1",
+  "ModID": "Taludas_sharedproduct_ebony",
+  "DeprecateIds": [],
+  "ModDependencies": [
+    "Taludas_shared_tradingcompany"
+  ],
+  "LoadAfterIds": [
+  ],
+  "IncompatibleIds": null,
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "sharedproduct_ebony (Taludas)",
+    "English": "sharedproduct_ebony (Taludas)",
+    "French": "sharedproduct_ebony (Taludas)",
+    "German": " sharedproduct_ebony (Taludas)",
+    "Italian": "sharedproduct_ebony (Taludas)",
+    "Japanese": "sharedproduct_ebony (Taludas)",
+    "Korean": "sharedproduct_ebony (Taludas)",
+    "Polish": "sharedproduct_ebony (Taludas)",
+    "Russian": "sharedproduct_ebony (Taludas)",
+    "Spanish": "sharedproduct_ebony (Taludas)",
+    "Taiwanese": "sharedproduct_ebony (Taludas)"
+  },
+  "Description": {
+    "English": "# Extra Goods \n\n Extra Goods implemented by me for use in some of my mods. \n\n - New product: Ebony",
+    "German": "# Extra Goods \n\n Zusätzliche Waren, die von mir für einige meiner Mods implementiert wurden. \n\n - Neues Produkt: Ebenholz",
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+  ],
+  "CreatorName": "Taludas",
+  "Image": null
+}

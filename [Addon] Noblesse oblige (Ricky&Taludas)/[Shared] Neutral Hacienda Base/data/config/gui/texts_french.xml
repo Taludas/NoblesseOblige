@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>Cliquez pour accéder au menu de construction des routes et modules.</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>Modules</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>Modules</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>Modules</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>Rayon</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>Adoptez un nouvel édit. Il ne peut y en avoir qu'un seul actif à la fois.</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>Hors de portée</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Choisissez une politique. Il ne peut y avoir qu'une politique active.</Text>
+		</Text>
+	</ModOp>
+</ModOps>

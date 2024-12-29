@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>燉魚</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>花哨到足以給人留下深刻印象，但仍然讓你懷疑是不是有人剛剛把整個水族箱倒進了一個罐子裡。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>Fine Diners 會稱之為 Bouillabaisse。但它肯定與罐頭不同。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

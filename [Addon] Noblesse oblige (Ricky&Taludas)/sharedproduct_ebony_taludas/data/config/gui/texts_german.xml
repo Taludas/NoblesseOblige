@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005093</GUID>
+      <Text>Ebenholz</Text>
+    </Text>
+    <Text>
+      <GUID>1999005094</GUID>
+      <Text>Rot wie Blut, Weiß wie Schnee und Schwarz wie Ebenholz</Text>
+    </Text>
+    <Text>
+      <GUID>1999005095</GUID>
+      <Text>Eignet sich nicht allzu gut als Schiffsbaumaterial</Text>
+    </Text>
+  </ModOp>
+</ModOps>

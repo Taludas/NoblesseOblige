@@ -1,0 +1,57 @@
+{
+  "Version": "1.1",
+  "ModID": "Taludas_sharedproduct_lobsterdinner",
+  "DeprecateIds": [],
+  "ModDependencies": [
+    "Taludas_sharedproduct_saffron"
+  ],
+  "LoadAfterIds": [
+  ],
+  "IncompatibleIds": null,
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "sharedproduct_lobsterdinner (Taludas)",
+    "English": "sharedproduct_lobsterdinner (Taludas)",
+    "French": "sharedproduct_lobsterdinner (Taludas)",
+    "German": " sharedproduct_lobsterdinner (Taludas)",
+    "Italian": "sharedproduct_lobsterdinner (Taludas)",
+    "Japanese": "sharedproduct_lobsterdinner (Taludas)",
+    "Korean": "sharedproduct_lobsterdinner (Taludas)",
+    "Polish": "sharedproduct_lobsterdinner (Taludas)",
+    "Russian": "sharedproduct_lobsterdinner (Taludas)",
+    "Spanish": "sharedproduct_lobsterdinner (Taludas)",
+    "Taiwanese": "sharedproduct_lobsterdinner (Taludas)"
+  },
+  "Description": {
+    "English": "# Extra Goods \n\n Extra Goods implemented by me for use in some of my mods. \n\n - New product: Lobster Dinner",
+    "German": "# Extra Goods \n\n Zusätzliche Waren, die von mir für einige meiner Mods implementiert wurden. \n\n - Neues Produkt: Homard à l'aristocrate",
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    "LandOfLions",
+    "NewWorldRising"
+  ],
+  "CreatorName": "Taludas",
+  "Image": null
+}

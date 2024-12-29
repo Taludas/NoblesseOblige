@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>フィッシュシチュー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>感動させるのに十分な派手さですが、それでも誰かが水槽全体を鍋に捨てたのではないかと思わせます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>高級ダイナーはこれをブイヤベースと呼ぶでしょう。しかし、それは確かに缶から同じではありません。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

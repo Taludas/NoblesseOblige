@@ -1,0 +1,56 @@
+{
+  "Version": "1.1",
+  "ModID": "Taludas_sharedproduct_lacquerware",
+  "DeprecateIds": [],
+  "ModDependencies": [
+    "Taludas_sharedproduct_diamonds",
+    "Taludas_sharedproduct_ebony"
+  ],
+  "LoadAfterIds": [
+  ],
+  "IncompatibleIds": null,
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "sharedproduct_lacquerware (Taludas)",
+    "English": "sharedproduct_lacquerware (Taludas)",
+    "French": "sharedproduct_lacquerware (Taludas)",
+    "German": " sharedproduct_lacquerware (Taludas)",
+    "Italian": "sharedproduct_lacquerware (Taludas)",
+    "Japanese": "sharedproduct_lacquerware (Taludas)",
+    "Korean": "sharedproduct_lacquerware (Taludas)",
+    "Polish": "sharedproduct_lacquerware (Taludas)",
+    "Russian": "sharedproduct_lacquerware (Taludas)",
+    "Spanish": "sharedproduct_lacquerware (Taludas)",
+    "Taiwanese": "sharedproduct_lacquerware (Taludas)"
+  },
+  "Description": {
+    "English": "# Extra Goods \n\n Extra Goods implemented by me for use in some of my mods. \n\n - New product: Lacquerware",
+    "German": "# Extra Goods \n\n Zusätzliche Waren, die von mir für einige meiner Mods implementiert wurden. \n\n - Neues Produkt: Lackware",
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+  ],
+  "CreatorName": "Taludas",
+  "Image": null
+}

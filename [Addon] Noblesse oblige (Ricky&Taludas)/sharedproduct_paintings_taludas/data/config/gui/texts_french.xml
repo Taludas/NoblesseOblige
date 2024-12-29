@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005069</GUID>
+      <Text>Peintures</Text>
+    </Text>
+    <Text>
+      <GUID>1999005070</GUID>
+      <Text>Où que vous soyez, ces portraits vous regardent toujours droit dans les yeux !</Text>
+    </Text>
+    <Text>
+      <GUID>1999005071</GUID>
+      <Text>Est-ce de l’art ou de la poubelle ?!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

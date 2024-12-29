@@ -1,0 +1,19 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010822</GUID>
+      <Text>Fabricante de cuerdas</Text>
+    </Text>
+    <Text>
+      <GUID>1500011520</GUID>
+      <!-- Mod origin/name -->
+      <Text>Producción (Jakob)</Text>
+      <IndustrialCities />
+    </Text>
+    <Text>
+      <GUID>1500011530</GUID>
+      <Text>Producción (Jakob)</Text>
+      <IndustrialCities />
+    </Text>
+  </ModOp>
+</ModOps>

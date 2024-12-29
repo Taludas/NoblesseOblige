@@ -1,0 +1,53 @@
+{
+  "Version": "1.0.4",
+  "ModID": "ow-linen-jakob",
+  "ModDependencies": [
+    "hemp-jakob",
+    "ow-hemp-jakob",
+    "ow-flax-jakob"
+  ],
+  "LoadAfterIds": [
+    "ow-hemp-jakob"
+  ],
+  "Category": {
+    "English": "Production",
+    "Chinese": "Production",
+    "French": "Production",
+    "German": "Production",
+    "Italian": "Production",
+    "Japanese": "Production",
+    "Korean": "Production",
+    "Polish": "Production",
+    "Russian": "Production",
+    "Spanish": "Production",
+    "Taiwanese": "Production"
+  },
+  "ModName": {
+    "English": "OW Linen (Jakob)",
+    "Chinese": "OW Linen (Jakob)",
+    "French": "OW Linen (Jakob)",
+    "German": "OW Linen (Jakob)",
+    "Italian": "OW Linen (Jakob)",
+    "Japanese": "OW Linen (Jakob)",
+    "Korean": "OW Linen (Jakob)",
+    "Polish": "OW Linen (Jakob)",
+    "Russian": "OW Linen (Jakob)",
+    "Spanish": "OW Linen (Jakob)",
+    "Taiwanese": "OW Linen (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno1800-shared-mods",
+  "Description": {
+    "English": "README.md",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

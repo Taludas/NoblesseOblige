@@ -1,0 +1,118 @@
+<ModOps>
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>10026</GUID>
+      <Text>Beryl veranstaltet ein Mittagessen und möchte ihre Gäste mit viel Wein versorgen, damit sie unachtsam werden.</Text>
+    </Text>
+    <Text>
+      <GUID>10059</GUID>
+      <Text>Beryl möchten Sie mit ihren Geschäftsstrategien vertraut machen. Versenken Sie die Wein-​Lieferung, die Mr. Perky erwartet, damit er gezwungen ist, wieder mit Beryl ins Geschäft zu kommen.</Text>
+    </Text>
+    <Text>
+      <GUID>17650</GUID>
+      <Text>Ich erwarte einige steife Gäste, deren Zungen ruhig ein wenig gelockert werden könnten -​ ich habe noch nie erlebt, dass jemand ein Glas Wein abgelehnt hätte.</Text>
+    </Text>
+    <Text>
+      <GUID>17655</GUID>
+      <Text>Das Geschäft ist wie Krieg, deshalb braucht man eine gute Taktik. Willst du ein paar Tricks von einer alten Kriegstreiberin lernen? Kappe Mr. Perkys Wein-​Versorgung, damit ihm nichts anderes übrig bleibt, als bettelnd bei der alten Beryl angekrochen zu kommen.</Text>
+    </Text>
+    <Text>
+      <GUID>14144</GUID>
+      <Text>Gasparov erwartet einen vornehmen Gast, der an erlesene Dinge gewöhnt ist, in diesem Fall an Wein. Bringen Sie Gasparov, was er verlangt, bevor seine Gäste enttäuscht abreisen.</Text>
+    </Text>
+    <Text>
+      <GUID>18198</GUID>
+      <Text>Gasparov verlangt von Ihnen, zu beweisen, dass Ihre Keller stets mit edlem Wein gefüllt sind, denn seiner Meinung nach macht es einen zu einem Hochstapler, wenn man nur hier und da ein paar Flaschen besitzt.</Text>
+    </Text>
+    <Text>
+      <GUID>16940</GUID>
+      <Text>Bist du für die Getränke zuständig? Wir brauchen Wein, und zwar reichlich. Monsieur Vichyssoise müsste jede Minute hier sein und ich brauche diese Investition unbedingt!</Text>
+    </Text>
+    <Text>
+      <GUID>18222</GUID>
+      <Text>Ich könnte immer noch erschaudern, wenn ich an deinen lachhaften Weinvorrat denke. Weißt du denn nicht, wie peinlich es in der feinen Gesellschaft ist, keinen Keller gefüllt mit erlesenem Wein zu haben? Der erste Eindruck zählt, immer!</Text>
+    </Text>
+    <Text>
+      <GUID>18466</GUID>
+      <Text>Alonso will Wein! Er ist sich bewusst, dass es seiner Philosophie widerspricht, solch ein überaus kultiviertes Produkt zu verzehren, aber er ist bereit, eine Ausnahme zu machen, um dieses göttliche Sinnesvergnügen zu erleben.</Text>
+    </Text>
+    <Text>
+      <GUID>18467</GUID>
+      <Text>Wein ist ein lasterhaftes Vergnügen. Eine Sünde für einen Mann wie mich, der so schnell alles ablehnt, was nach „Zivilisation“ riecht. Aber es tut mir leid, er schmeckt einfach wundervoll. Ich kann nicht widerstehen, all diese verschiedenen Geschmäcker kitzeln meinen Gaumen!</Text>
+    </Text>
+    <Text>
+      <GUID>17058</GUID>
+      <Text>Eli hätte gern immer einen Vorrat an gutem Wein auf Lager, den er den Inspekteuren anbieten kann, wenn sie vorbeikommen. Außerdem soll er seinen Wärtern als Anreiz dienen und sie glauben machen, sie würden vielleicht eines Tages mit einem Glas davon belohnt.</Text>
+    </Text>
+    <Text>
+      <GUID>18648</GUID>
+      <Text>Oh, leider bereiten mir meine Gelenke wieder Ärger und ich werde am Fest nicht teilnehmen können. Sorgen Sie bitte dennoch dafür, dass Sir Archibald meinen besonderen Wein erhält, ich habe meine gesamte Liebe hineingeschüttet.</Text>
+    </Text>
+    <Text>
+      <GUID>13532</GUID>
+      <Text>The Worker would like to taste Wine.</Text>
+    </Text>
+    <Text>
+      <GUID>15482</GUID>
+      <Text>Ich bin gerade Vater eines kleinen Mädchens geworden! Wir brauchen was Anständiges, nur dieses eine Mal, um auf meine Kleine anzustoßen. Sie könnten uns doch Wein besorgen, oder nicht?</Text>
+    </Text>
+    <Text>
+      <GUID>15485</GUID>
+      <Text>Äh, so schmeckt Wein? Da bleib ich doch lieber bei Bier, vielen Dank auch.</Text>
+    </Text>
+    <Text>
+      <GUID>16246</GUID>
+      <Text>Dieser Arbeiter ist soeben Vater eines kleinen Mädchens geworden! Die Familie möchte darauf mit etwas Feinerem als einem Bier anstoßen, kann sich mit seinem Lohn aber keinen Wein leisten ...</Text>
+    </Text>
+    <Text>
+      <GUID>16314</GUID>
+      <Text>Ein Investor braucht einen Berg von Wein und Zigarren für eine imposante Feier in seinem Haus.</Text>
+    </Text>
+    <Text>
+      <GUID>20003</GUID>
+      <Text>Das Geschenk eines Investors. „Ihre kluge Führerschaft ist uns allen sehr zuträglich. Das wollen wir mit einer kleinen Flasche Wein feiern.“</Text>
+    </Text>
+    <Text>
+      <GUID>12858</GUID>
+      <Text>Wein</Text>
+    </Text>
+    <Text>
+      <GUID>14973</GUID>
+      <Text>WEINFLAUTE!</Text>
+    </Text>
+    <Text>
+      <GUID>11373</GUID>
+      <Text>WEIN-FEST</Text>
+    </Text>
+    <Text>
+      <GUID>11756</GUID>
+      <Text>Perfekt für einen entspannten Abend vorm Kaminfeuer.</Text>
+    </Text>
+    <Text>
+      <GUID>100659</GUID>
+      <Text>Weinkeller</Text>
+    </Text>
+    <Text>
+      <GUID>120016</GUID>
+      <Text>Wein</Text>
+    </Text>
+    <Text>
+      <GUID>190647</GUID>
+      <Text>Weinverkoster</Text>
+    </Text>
+    <Text>
+      <GUID>192213</GUID>
+      <Text>Eine Flasche Wein</Text>
+    </Text>
+    <Text>
+      <GUID>192269</GUID>
+      <Text>Gewürzter Wein</Text>
+    </Text>
+    <Text>
+      <GUID>500434</GUID>
+      <Text>Wein</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

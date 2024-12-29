@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005051</GUID>
+      <Text>林檎酒</Text>
+    </Text>
+    <Text>
+      <GUID>1999005052</GUID>
+      <Text>健康的なフルーツジュースを飲み、しらふのふりをするための社会的に受け入れられる方法</Text>
+    </Text>
+    <Text>
+      <GUID>1999005053</GUID>
+      <Text>どんなバーテーブルの雰囲気も明るくなります</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005057</GUID>
+      <Text>マジパン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005058</GUID>
+      <Text>砂糖にこだわる彫刻家が作った食用芸術作品。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005059</GUID>
+      <Text>シアン化物の匂い...今回は正しいアーモンドを選んだことを願っています。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

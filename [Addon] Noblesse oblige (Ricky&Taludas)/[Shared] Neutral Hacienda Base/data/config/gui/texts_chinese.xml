@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>点击即可进入模块以及道路的建设菜单。</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>模块</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>模块</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>模块</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>范围</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>为设置一个新法令。每座岛只能激活一个法令。</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>在范围外</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>选择一个政策。每个同时只能启用一个政策。</Text>
+		</Text>
+	</ModOp>
+</ModOps>

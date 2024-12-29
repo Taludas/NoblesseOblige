@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005090</GUID>
+      <Text>Zafferano</Text>
+    </Text>
+    <Text>
+      <GUID>1999005091</GUID>
+      <Text>La spezia più costosa del mondo, eppure così deludente nel gusto.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005092</GUID>
+      <Text>Cucinando con l'oro ora, vero?</Text>
+    </Text>
+  </ModOp>
+</ModOps>

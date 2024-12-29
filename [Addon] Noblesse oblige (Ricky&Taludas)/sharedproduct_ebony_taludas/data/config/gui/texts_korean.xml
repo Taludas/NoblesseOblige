@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005093</GUID>
+      <Text>흑 단</Text>
+    </Text>
+    <Text>
+      <GUID>1999005094</GUID>
+      <Text>밤처럼 검은</Text>
+    </Text>
+    <Text>
+      <GUID>1999005095</GUID>
+      <Text>선박 건축 자재로 너무 잘하지 않을 것입니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

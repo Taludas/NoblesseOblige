@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005057</GUID>
+      <Text>杏仁糖</Text>
+    </Text>
+    <Text>
+      <GUID>1999005058</GUID>
+      <Text>由一位痴迷于糖的雕塑家制作的可食用艺术品。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005059</GUID>
+      <Text>氰化物的味道......希望他们这次选对了杏仁。</Text>
+    </Text>
+  </ModOp>
+</ModOps>

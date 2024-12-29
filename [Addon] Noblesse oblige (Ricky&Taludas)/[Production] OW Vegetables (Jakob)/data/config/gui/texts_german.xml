@@ -1,0 +1,30 @@
+<ModOps>
+  <!-- # Vegetables -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010830</GUID>
+      <Text>Gemüsehof</Text>
+    </Text>
+    <Text>
+      <GUID>1500010944</GUID>
+      <Text>Gemüsefeld</Text>
+    </Text>
+    <Text>
+      <GUID>1500011342</GUID>
+      <Text>Gemüse-Fruchtbarkeit</Text>
+    </Text>
+    <Text>
+      <GUID>1500011390</GUID>
+      <Text>Speicherstand-Kompatibilität</Text>
+    </Text>
+    <Text>
+      <GUID>1500011391</GUID>
+      <Text>Buff für Spielstände ohne benötigte Fruchtbarkeiten.</Text>
+    </Text>
+    <Text>
+      <GUID>1500011522</GUID>
+      <!-- Mod origin/name -->
+      <Text>Produktion (Jakob)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

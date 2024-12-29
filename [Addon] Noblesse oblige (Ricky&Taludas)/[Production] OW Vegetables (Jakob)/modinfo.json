@@ -1,0 +1,52 @@
+{
+  "Version": "1.0.6",
+  "ModID": "ow-vegetables-jakob",
+  "ModDependencies": [
+    "shared-pools-and-definitions",
+    "vegetables-jakob"
+  ],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+  ],
+  "Category": {
+    "English": "Production",
+    "Chinese": "Production",
+    "French": "Production",
+    "German": "Production",
+    "Italian": "Production",
+    "Japanese": "Production",
+    "Korean": "Production",
+    "Polish": "Production",
+    "Russian": "Production",
+    "Spanish": "Production",
+    "Taiwanese": "Production"
+  },
+  "ModName": {
+    "English": "OW Vegetables (Jakob)",
+    "Chinese": "OW Vegetables (Jakob)",
+    "French": "OW Vegetables (Jakob)",
+    "German": "OW Vegetables (Jakob)",
+    "Italian": "OW Vegetables (Jakob)",
+    "Japanese": "OW Vegetables (Jakob)",
+    "Korean": "OW Vegetables (Jakob)",
+    "Polish": "OW Vegetables (Jakob)",
+    "Russian": "OW Vegetables (Jakob)",
+    "Spanish": "OW Vegetables (Jakob)",
+    "Taiwanese": "OW Vegetables (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno1800-shared-mods",
+  "Description": {
+    "English": "README.md",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

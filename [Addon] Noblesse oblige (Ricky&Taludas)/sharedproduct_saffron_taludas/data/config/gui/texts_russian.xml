@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005090</GUID>
+      <Text>Шафран</Text>
+    </Text>
+    <Text>
+      <GUID>1999005091</GUID>
+      <Text>Самая дорогая специя в мире, и в то же время такая не впечатляющая по вкусу.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005092</GUID>
+      <Text>Теперь мы готовим с золотом, не так ли?</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,18 @@
+<ModOps>
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005078</GUID>
+      <Text>Lacquerware</Text>
+    </Text>
+    <Text>
+      <GUID>1999005079</GUID>
+      <Text>The sparkling eyes seem to look straight into your soul.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005080</GUID>
+      <Text>Don't bring it on the ship! It attracts bad spirits!</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

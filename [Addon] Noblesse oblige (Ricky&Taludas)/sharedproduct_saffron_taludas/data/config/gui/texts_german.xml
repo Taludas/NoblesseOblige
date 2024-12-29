@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005090</GUID>
+      <Text>Safran</Text>
+    </Text>
+    <Text>
+      <GUID>1999005091</GUID>
+      <Text>Das teuerste Gewürz der Welt und doch so enttäuschend im Geschmack.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005092</GUID>
+      <Text>Kochen wir jetzt mit Gold, oder was?</Text>
+    </Text>
+  </ModOp>
+</ModOps>

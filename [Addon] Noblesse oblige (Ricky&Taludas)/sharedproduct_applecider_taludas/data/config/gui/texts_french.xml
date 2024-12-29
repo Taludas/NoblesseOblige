@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005051</GUID>
+      <Text>Cidre</Text>
+    </Text>
+    <Text>
+      <GUID>1999005052</GUID>
+      <Text>La façon socialement acceptable de boire des jus de fruits sains et de faire semblant d’être sobre</Text>
+    </Text>
+    <Text>
+      <GUID>1999005053</GUID>
+      <Text>Égaye l’atmosphère de n’importe quelle table de bar</Text>
+    </Text>
+  </ModOp>
+</ModOps>

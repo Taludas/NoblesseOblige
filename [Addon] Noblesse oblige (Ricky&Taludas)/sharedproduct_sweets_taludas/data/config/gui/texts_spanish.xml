@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005060</GUID>
+      <Text>Dulce</Text>
+    </Text>
+    <Text>
+      <GUID>1999005061</GUID>
+      <Text>Dulces coloridos hechos con cubos llenos de azúcar</Text>
+    </Text>
+    <Text>
+      <GUID>1999005062</GUID>
+      <Text>¡No te excedas, de lo contrario, tu dentista no estará muy contento!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

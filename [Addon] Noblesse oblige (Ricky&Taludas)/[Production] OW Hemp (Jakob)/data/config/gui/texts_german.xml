@@ -1,0 +1,30 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010124</GUID>
+      <Text>Hanfhof</Text>
+    </Text>
+    <Text>
+      <GUID>1500010125</GUID>
+      <Text>Hanffeld</Text>
+    </Text>
+    <Text>
+      <GUID>1500011340</GUID>
+      <Text>Hanf-Fruchtbarkeit</Text>
+    </Text>
+    <Text>
+      <GUID>1500011345</GUID>
+      <Text>Spielstand-Kompatibilität</Text>
+    </Text>
+    <Text>
+      <GUID>1500011347</GUID>
+      <Text>Buff für Spielstände ohne benötigte Fruchtbarkeiten.</Text>
+    </Text>
+    <Text>
+      <GUID>1500011516</GUID>
+      <!-- Mod origin/name -->
+      <Text>Produktion (Jakob)</Text>
+      <IndustrialCities />
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,30 @@
+<ModOps>
+	<!-- Make the Hacienda a neutral preset -->
+
+	<!-- Hacienda abstract good Clone to replace Radius Icon-->
+	<ModOp Type="addNextSibling" GUID="25546">
+		<Asset>
+			<BaseAssetGUID>25546</BaseAssetGUID>
+			<Values>
+				<Standard>
+					<GUID>1500200651</GUID>
+					<Name>Hacienda</Name>
+					<IconFilename>data/modgraphics/icons/icon_radius.png</IconFilename>
+				</Standard>
+				<Text/>
+				<Locked/>
+				<Product/>
+				<ExpeditionAttribute/>
+			</Values>
+		</Asset>
+	</ModOp>
+	<ModOp Type="replace" GUID="502258" Path="/Values/MaintenanceBarConfig/HaciendaRadiusIcon">
+		<HaciendaRadiusIcon>1500200651</HaciendaRadiusIcon>
+	</ModOp>
+
+	<!-- Replace Module Icon -->
+	<ModOp Type="replace" GUID="20831" Path="/Values/Standard/IconFilename">
+		<IconFilename>data/modgraphics/icons/icon_modules.png</IconFilename>
+	</ModOp>
+
+</ModOps>

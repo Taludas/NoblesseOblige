@@ -1,0 +1,16 @@
+{
+  "ModID": "municipal_theatre",
+  "Version": "1.3",
+  "Category": {
+    "English": "Building"
+  },
+  "ModName": {
+    "English": "Municipal Theatre"
+  },
+  "Description": {
+    "English": "This mod adds a new municipal theatre as a investor-tier building that can constructed in your Old World and New World cities."
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

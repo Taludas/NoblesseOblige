@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005084</GUID>
+      <Text>アーモンド</Text>
+    </Text>
+    <Text>
+      <GUID>1999005085</GUID>
+      <Text>実は核果であることをご存知ですか?</Text>
+    </Text>
+    <Text>
+      <GUID>1999005086</GUID>
+      <Text>甘いものもあれば、苦いものもあります。賢く選んでください...</Text>
+    </Text>
+  </ModOp>
+</ModOps>

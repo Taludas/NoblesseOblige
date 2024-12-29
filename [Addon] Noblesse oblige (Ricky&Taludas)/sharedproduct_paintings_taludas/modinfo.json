@@ -1,0 +1,54 @@
+{
+  "Version": "1.0",
+  "ModID": "Taludas_sharedproduct_paintings",
+  "DeprecateIds": [],
+  "ModDependencies": [
+  ],
+  "LoadAfterIds": [
+  ],
+  "IncompatibleIds": null,
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "sharedproduct_paintings (Taludas)",
+    "English": "sharedproduct_paintings (Taludas)",
+    "French": "sharedproduct_paintings (Taludas)",
+    "German": " sharedproduct_paintings (Taludas)",
+    "Italian": "sharedproduct_paintings (Taludas)",
+    "Japanese": "sharedproduct_paintings (Taludas)",
+    "Korean": "sharedproduct_paintings (Taludas)",
+    "Polish": "sharedproduct_paintings (Taludas)",
+    "Russian": "sharedproduct_paintings (Taludas)",
+    "Spanish": "sharedproduct_paintings (Taludas)",
+    "Taiwanese": "sharedproduct_paintings (Taludas)"
+  },
+  "Description": {
+    "English": "# Extra Goods \n\n Extra Goods implemented by me for use in some of my mods. \n\n - New product: Paintings",
+    "German": "# Extra Goods \n\n Zusätzliche Waren, die von mir für einige meiner Mods implementiert wurden. \n\n - Neues Produkt: Gemälde",
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+  ],
+  "CreatorName": "Taludas",
+  "Image": null
+}

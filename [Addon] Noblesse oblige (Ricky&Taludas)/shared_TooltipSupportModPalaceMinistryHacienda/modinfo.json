@@ -1,0 +1,22 @@
+{
+  "Version": "1.0",
+  "ModID": "TooltipSupportModPalaceMinistryHacienda_Serp",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "LoadAfterIds": null,
+  "Category": {
+    "English": "Shared",
+    "German": "Shared"
+  },
+  "ModName": {
+    "English": "Tooltips Support Mod Palace-/Ministry Hacienda (Serp)",
+    "German": "Tooltips unterstützen Mod Palace-/Ministry Hacienda (Serp)"
+  },
+  "Description": {
+    "English": "Eg. when hovering over policies, the game does not show the buff targets in the tooltip, if the policy building is not a vanilla building (palace/ministry or hacienda). This mod adds this tooltip also if it is none of these.",
+    "German": "Zb. wenn man die Maus über eine Richtlinie fährt, dann zeigt der Tooltip die Buffziele nicht an, sofern das Richtliniengebäude kein vanilla Gebäude ist (Palast/Ministerium oder Hacienda). Dieser Mod fügt diese Info zum Tooltip hinzu auch wenns keines dieser Gebäude ist."
+  },
+  "DLCDependencies": null,
+  "CreatorName": "Serp",
+  "CreatorContact": "https://github.com/Serpens66"
+}

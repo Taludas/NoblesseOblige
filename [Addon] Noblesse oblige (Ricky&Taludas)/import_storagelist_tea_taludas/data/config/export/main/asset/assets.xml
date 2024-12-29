@@ -1,0 +1,10 @@
+<ModOps>
+
+  <!-- Add Import Product 'Imported Tea' to the trading company Storage list if not already present in the StandardStorageProductList -->
+  <ModOp Type="add" GUID="1999005354" Path="/Values/ProductStorageList/ProductList" Condition="!//Values[Standard/GUID='120055']/ProductStorageList/ProductList/Item[Product='1500011161']">
+    <Item>
+      <Product>1500011161</Product>
+    </Item>
+  </ModOp>
+
+</ModOps>

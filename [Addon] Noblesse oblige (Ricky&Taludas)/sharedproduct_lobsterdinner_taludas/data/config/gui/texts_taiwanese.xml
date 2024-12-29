@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005075</GUID>
+      <Text>龍蝦晚餐</Text>
+    </Text>
+    <Text>
+      <GUID>1999005076</GUID>
+      <Text>這是一場華麗的盛宴，但您需要工具才能食用。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005077</GUID>
+      <Text>海妖的精美小吃......</Text>
+    </Text>
+  </ModOp>
+</ModOps>

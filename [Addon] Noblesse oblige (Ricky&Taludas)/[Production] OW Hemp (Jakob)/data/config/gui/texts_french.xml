@@ -1,0 +1,30 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010124</GUID>
+      <Text>Ferme de chanvre</Text>
+    </Text>
+    <Text>
+      <GUID>1500010125</GUID>
+      <Text>Champ de chanvre</Text>
+    </Text>
+    <Text>
+      <GUID>1500011340</GUID>
+      <Text>Fertilité du chanvre</Text>
+    </Text>
+    <Text>
+      <GUID>1500011345</GUID>
+      <Text>Compatibilité des sauvegardes</Text>
+    </Text>
+    <Text>
+      <GUID>1500011347</GUID>
+      <Text>Amélioration pour soutenir les sauvegardes existantes sans les fertilités nécessaires.</Text>
+    </Text>
+    <Text>
+      <GUID>1500011516</GUID>
+      <!-- Mod origin/name -->
+      <Text>Production (Jakob)</Text>
+      <IndustrialCities />
+    </Text>
+  </ModOp>
+</ModOps>

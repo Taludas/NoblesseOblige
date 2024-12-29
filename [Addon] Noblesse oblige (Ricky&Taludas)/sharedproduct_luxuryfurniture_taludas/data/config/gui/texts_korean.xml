@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005072</GUID>
+      <Text>고급 가구</Text>
+    </Text>
+    <Text>
+      <GUID>1999005073</GUID>
+      <Text>그리고 그것은 현대적이어야합니까?</Text>
+    </Text>
+    <Text>
+      <GUID>1999005074</GUID>
+      <Text>해먹보다 낫다!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

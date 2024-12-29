@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005093</GUID>
+      <Text>乌木</Text>
+    </Text>
+    <Text>
+      <GUID>1999005094</GUID>
+      <Text>黑如夜</Text>
+    </Text>
+    <Text>
+      <GUID>1999005095</GUID>
+      <Text>作为船舶建造材料不太好</Text>
+    </Text>
+  </ModOp>
+</ModOps>

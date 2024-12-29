@@ -1,0 +1,136 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>10026</GUID>
+      <Text>Beryl 正在舉辦一場午餐會，她想用一些美酒給她的客人擦擦，以確保他們放鬆警惕。</Text>
+    </Text>
+    <Text>
+      <GUID>10059</GUID>
+      <Text>Beryl 想教你做生意的訣竅。打倒 Perky 先生的葡萄酒供應商，迫使他再次與 Beryl 進行交易。</Text>
+    </Text>
+    <Text>
+      <GUID>17650</GUID>
+      <Text>我有幾個口硬舌燥的客人過來，他們可能需要一些放鬆，但我還沒有遇到過一個可以拒絕一杯酒的人。</Text>
+    </Text>
+    <Text>
+      <GUID>17655</GUID>
+      <Text>商業是一場戰爭，因此需要戰術。想從老戰爭戰士那裡學一兩個技巧嗎？拿掉 Perky 先生的酒供應，他將別無選擇，只能來 Old Beryl 腳下乞討。</Text>
+    </Text>
+    <Text>
+      <GUID>14144</GUID>
+      <Text>加斯帕羅夫期待著一位習慣於精緻事物的尊貴客人，在這種情況下，就是葡萄酒。在客人失望地離開之前，把他所要求的東西帶給加斯帕羅夫。</Text>
+    </Text>
+    <Text>
+      <GUID>18198</GUID>
+      <Text>加斯帕羅夫希望你證明你可以維護你的美酒窖，因為在這裡和那裡只有幾瓶酒只會讓你看起來像一個社會騙子。</Text>
+    </Text>
+    <Text>
+      <GUID>16940</GUID>
+      <Text>您是餐飲人員嗎？我們需要葡萄酒，很多。Vichyssoise 夫人隨時可能到達，我需要這筆投資！</Text>
+    </Text>
+    <Text>
+      <GUID>18222</GUID>
+      <Text>聽到關於你們葡萄酒庫存的消息，我仍然感到畏縮。你知道在禮貌的社會中，不擁有一個完整而完整的年份酒窖是多麼尷尬嗎？第一印象就是一切，一切！</Text>
+    </Text>
+    <Text>
+      <GUID>18466</GUID>
+      <Text>阿隆索想要葡萄酒。他似乎很清楚需要這樣一種精耕細作的產品與他的哲學相矛盾，但為了體驗這種神聖的感官享受，他願意原諒自己。</Text>
+    </Text>
+    <Text>
+      <GUID>18467</GUID>
+      <Text>葡萄酒是一種有罪的快樂。對於像我這樣的人來說，這是一種罪過，他總是如此迅速地拒絕任何散發著“文明”味道的東西。但對不起，它的味道很棒。我無法抗拒，所有這些令人驚歎的味道都讓我的扁桃體發癢！</Text>
+    </Text>
+    <Text>
+      <GUID>17058</GUID>
+      <Text>Eli 想儲備優質葡萄酒，以備檢查員來訪時使用，並讓他的看守保持敏銳，相信他們有一天可能會得到一杯獎勵。</Text>
+    </Text>
+    <Text>
+      <GUID>18648</GUID>
+      <Text>哦，不幸的是，我的關節又給我帶來了麻煩，我將無法參加派對。不過，確保阿奇博爾德爵士收到了我的特製葡萄酒，我把我所有的愛都傾注了進去。</Text>
+    </Text>
+    <Text>
+      <GUID>13532</GUID>
+      <Text>工人想品嘗葡萄酒。</Text>
+    </Text>
+    <Text>
+      <GUID>15482</GUID>
+      <Text>我剛剛成為一個珍貴的小女孩的爸爸，Guv！我們需要一些更高級的東西來為我的寶寶乾杯。你可以給我們買一瓶酒，對吧？</Text>
+    </Text>
+    <Text>
+      <GUID>15485</GUID>
+      <Text>呃，這就是葡萄酒的味道嗎？那我就堅持喝啤酒了，非常感謝。</Text>
+    </Text>
+    <Text>
+      <GUID>16246</GUID>
+      <Text>這個工人剛生了一個女嬰！他們想用比一品脫麥芽酒更優雅的東西來向她敬酒，但他們用他們的薪水買不起一杯酒......</Text>
+    </Text>
+    <Text>
+      <GUID>16314</GUID>
+      <Text>一位投資者想要為一場盛大的家庭派對提供大量葡萄酒和雪茄。</Text>
+    </Text>
+    <Text>
+      <GUID>20003</GUID>
+      <Text>投資者的禮物。“您的英明領導對我們所有人都有好處。讓我們用一小瓶酒來慶祝吧！</Text>
+    </Text>
+    <Text>
+      <GUID>12858</GUID>
+      <Text>酒</Text>
+    </Text>
+    <Text>
+      <GUID>14973</GUID>
+      <Text>酒幹了！</Text>
+    </Text>
+    <Text>
+      <GUID>14974</GUID>
+      <Text>葡萄酒短缺 in [Newspaper FindArticle（[RefGuid]） Context TownName] 讓生活變得嘶嘶作響。隨著供應繼續搖搖欲墜，對當局的信任陷入僵局。</Text>
+    </Text>
+    <Text>
+      <GUID>11373</GUID>
+      <Text>美酒時刻</Text>
+    </Text>
+    <Text>
+      <GUID>11374</GUID>
+      <Text>新的 Wine Cellar 在 [Newspaper FindArticle（[RefGuid]） 上下文中嘶嘶作響 TownName]，讓大家突然感到驚訝！但不要驚慌，因為這種「魔鬼的酒」實際上是神聖的——一種慶祝這座城市變得多麼精緻的優雅。</Text>
+    </Text>
+    <Text>
+      <GUID>11756</GUID>
+      <Text>非常適合在壁爐旁度過悠閒的夜晚。</Text>
+    </Text>
+    <Text>
+      <GUID>100659</GUID>
+      <Text>酒窖</Text>
+    </Text>
+    <Text>
+      <GUID>120016</GUID>
+      <Text>酒</Text>
+    </Text>
+    <Text>
+      <GUID>190647</GUID>
+      <Text>品酒師</Text>
+    </Text>
+    <Text>
+      <GUID>192213</GUID>
+      <Text>一瓶葡萄酒</Text>
+    </Text>
+    <Text>
+      <GUID>192269</GUID>
+      <Text>·五香酒</Text>
+    </Text>
+    <Text>
+      <GUID>500434</GUID>
+      <Text>酒</Text>
+    </Text>
+    <Text>
+      <GUID>115037</GUID>
+      <Text>技術員要了酒。除了一點居家般的舒適感外，新年份的風味可能會在科學界產生影響。</Text>
+    </Text>
+    <Text>
+      <GUID>115038</GUID>
+      <Text>現在有了葡萄酒，Fritz 會毫不猶豫地在他的磁學論文中指定我為合著者。我甚至可能在某個頒獎典禮上被提及。</Text>
+    </Text>
+    <Text>
+      <GUID>133282</GUID>
+      <Text>Montmartre '75' （糖、葡萄酒、柑橘）</Text>
+    </Text>
+  </ModOp>
+</ModOps>

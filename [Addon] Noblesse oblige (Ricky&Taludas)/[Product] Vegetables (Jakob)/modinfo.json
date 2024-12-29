@@ -1,0 +1,45 @@
+{
+  "Version": "1.0",
+  "ModID": "vegetables-jakob",
+  "Category": {
+    "English": "Product",
+    "Chinese": "Product",
+    "French": "Product",
+    "German": "Product",
+    "Italian": "Product",
+    "Japanese": "Product",
+    "Korean": "Product",
+    "Polish": "Product",
+    "Russian": "Product",
+    "Spanish": "Product",
+    "Taiwanese": "Product"
+  },
+  "ModName": {
+    "English": "Vegetables (Jakob)",
+    "Chinese": "Vegetables (Jakob)",
+    "French": "Vegetables (Jakob)",
+    "German": "Vegetables (Jakob)",
+    "Italian": "Vegetables (Jakob)",
+    "Japanese": "Vegetables (Jakob)",
+    "Korean": "Vegetables (Jakob)",
+    "Polish": "Vegetables (Jakob)",
+    "Russian": "Vegetables (Jakob)",
+    "Spanish": "Vegetables (Jakob)",
+    "Taiwanese": "Vegetables (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno1800-shared-mods",
+  "Description": {
+    "English": "README.md",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>クリックして、モジュールと通路の建設メニューを開く。</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>モジュール</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>モジュール</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>モジュール</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>範囲</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>法令を洗濯する。法令は1つの島につき1つだけ有効にできる。</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>範囲外</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>法令を選択してください。法令は1つのにつき1つだけ有効にできます。</Text>
+		</Text>
+	</ModOp>
+</ModOps>

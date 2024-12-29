@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005075</GUID>
+      <Text>Dîner de homard</Text>
+    </Text>
+    <Text>
+      <GUID>1999005076</GUID>
+      <Text>Un festin raffiné, mais vous aurez besoin d’outils pour le manger.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005077</GUID>
+      <Text>Une collation raffinée pour un Kraken...</Text>
+    </Text>
+  </ModOp>
+</ModOps>

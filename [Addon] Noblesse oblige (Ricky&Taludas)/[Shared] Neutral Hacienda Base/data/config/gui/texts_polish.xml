@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>Kliknij, by przejść do menu budowy dla modułów i ścieżek.</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>Moduły</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>Moduły</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>Moduły</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>Promień</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>Wybierz nowy edykt. Na wyspie może być aktywny tylko jeden edykt.</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>Zewnętrzny zasięg</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Wybierz dekret. Tylko jeden dekret może być aktywny.</Text>
+		</Text>
+	</ModOp>
+</ModOps>

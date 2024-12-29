@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005057</GUID>
+      <Text>Марципан</Text>
+    </Text>
+    <Text>
+      <GUID>1999005058</GUID>
+      <Text>Съедобное произведение искусства, созданное скульптором, помешанным на сахаре.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005059</GUID>
+      <Text>Пахнет цианидами... Надеюсь, на этот раз они выбрали правильный миндаль.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

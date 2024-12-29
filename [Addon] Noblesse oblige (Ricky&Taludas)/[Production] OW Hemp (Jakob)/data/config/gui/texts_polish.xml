@@ -1,0 +1,30 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010124</GUID>
+      <Text>Uprawa konopii</Text>
+    </Text>
+    <Text>
+      <GUID>1500010125</GUID>
+      <Text>Pole konopii</Text>
+    </Text>
+    <Text>
+      <GUID>1500011340</GUID>
+      <Text>Plenność konopi</Text>
+    </Text>
+    <Text>
+      <GUID>1500011345</GUID>
+      <Text>Zgodność zapisu gry</Text>
+    </Text>
+    <Text>
+      <GUID>1500011347</GUID>
+      <Text>Wzmocnienie wsparcia istniejących zapisów gry bez wymaganych płodności.</Text>
+    </Text>
+    <Text>
+      <GUID>1500011516</GUID>
+      <!-- Mod origin/name -->
+      <Text>Production (Jakob)</Text>
+      <IndustrialCities />
+    </Text>
+  </ModOp>
+</ModOps>

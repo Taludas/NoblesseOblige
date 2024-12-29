@@ -1,0 +1,48 @@
+{
+  "Version": "1.0.5",
+  "ModID": "ow-hemp-jakob",
+  "ModDependencies": [
+    "hemp-jakob"
+  ],
+  "Category": {
+    "English": "Production",
+    "Chinese": "Production",
+    "French": "Production",
+    "German": "Production",
+    "Italian": "Production",
+    "Japanese": "Production",
+    "Korean": "Production",
+    "Polish": "Production",
+    "Russian": "Production",
+    "Spanish": "Production",
+    "Taiwanese": "Production"
+  },
+  "ModName": {
+    "English": "OW Hemp (Jakob)",
+    "Chinese": "OW Hemp (Jakob)",
+    "French": "OW Hemp (Jakob)",
+    "German": "OW Hemp (Jakob)",
+    "Italian": "OW Hemp (Jakob)",
+    "Japanese": "OW Hemp (Jakob)",
+    "Korean": "OW Hemp (Jakob)",
+    "Polish": "OW Hemp (Jakob)",
+    "Russian": "OW Hemp (Jakob)",
+    "Spanish": "OW Hemp (Jakob)",
+    "Taiwanese": "OW Hemp (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno1800-shared-mods",
+  "Description": {
+    "English": "README.md",
+    "Chinese": null,
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  }
+}

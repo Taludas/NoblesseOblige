@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>Klicken Sie, um auf Module und Pfad-Ornamente zuzugreifen.</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>Module</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>Module</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>Module</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>Radius</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>Wählen Sie einen neuen Erlass aus. Es kann immer nur jeweils ein Erlass pro Insel gültig sein.</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>Außerhalb des Einflussbereichs</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Wählen Sie eine Richtlinie. Es kann nur eine Richtlinie aktiv sein.</Text>
+		</Text>
+	</ModOp>
+</ModOps>

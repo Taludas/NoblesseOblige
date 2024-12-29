@@ -1,0 +1,123 @@
+<ModOps>
+
+  <Group>
+    <!-- # Product: Fish Stew -->
+    <!-- Herbs: vanilla: GUID= 5383, also look Kurilas Shared Production Mod! -->
+    <ModOp Type="addNextSibling" GUID="1010217">
+      <Asset>
+        <Template>Product</Template>
+        <Values>
+          <Standard>
+            <GUID>1999005054</GUID>
+            <Name>Fish Stew</Name>
+            <IconFilename>data\ui\2kimages\main\3dicons\icon_fish_stew.png</IconFilename>
+            <InfoDescription>1999005055</InfoDescription>
+          </Standard>
+          <Locked />
+          <Product>
+            <StorageLevel>Building</StorageLevel>
+            <ProductCategory>11704</ProductCategory>
+            <BasePrice>400</BasePrice>
+            <CivLevel>3</CivLevel>
+            <AssociatedRegion>Moderate</AssociatedRegion>
+            <ProductionRegions>
+              <Item>
+                <RegionType>Moderate</RegionType>
+              </Item>
+            </ProductionRegions>
+          </Product>
+          <ExpeditionAttribute>
+            <BaseMorale>30</BaseMorale>
+            <FluffText>1999005056</FluffText>
+          </ExpeditionAttribute>
+        </Values>
+      </Asset>
+    </ModOp>
+
+    <!-- # Expeditions -->
+    <ModOp Type="add" GUID="800111" Condition="!~/Values/ExpeditionFeature/FeedOption/FeedOptions[Item/Product='1999005054']" Path="/Values/ExpeditionFeature/FeedOption/FeedOptions">
+      <Item>
+        <MoraleFactor>0.2</MoraleFactor>
+        <Product>1999005054</Product>
+      </Item>
+    </ModOp>
+
+    <!-- # Storage List -->
+    <ModOp Type="addNextSibling" GUID="120055" Condition="!~/Values/ProductStorageList/ProductList/Item[Product='1999005054']" Path="/Values/ProductStorageList/ProductList/Item[Product='1010215']">
+      <Item>
+        <Product>1999005054</Product>
+      </Item>
+    </ModOp>
+
+    <!-- # Docklands: NONE -->
+
+    <!-- # Fake MainFactory -->
+    <ModOp Type="addNextSibling" GUID="1010295" Condition="!//FactoryBase[FactoryOutputs/Item/Product='1999005054']/IsMainFactory[text()='1']">
+      <Asset>
+        <Template>FactoryBuilding7</Template>
+        <Values>
+          <Standard>
+            <GUID>1999005654</GUID>
+            <Name>IsMainfactory_Fake: Almonds</Name>
+            <IconFilename>data\ui\2kimages\main\3dicons\icon_fish_stew.png</IconFilename>
+          </Standard>
+          <Building>
+            <AssociatedRegions>Moderate</AssociatedRegions>
+            <SecondPartyRelevant>0</SecondPartyRelevant>
+          </Building>
+          <Blocking />
+          <Object>
+            <Variations>
+              <Item>
+                <Filename>data\graphics\buildings\public\logistic_01\logistic_01.cfg</Filename>
+              </Item>
+            </Variations>
+          </Object>
+          <Locked />
+          <FactoryBase>
+            <FactoryInputs>
+              <Item>
+                <Product>1010200</Product>
+                <Amount>1</Amount>
+                <StorageAmount>3</StorageAmount>
+              </Item>
+              <Item>
+                <Product>1742100242</Product>
+                <Amount>1</Amount>
+                <StorageAmount>3</StorageAmount>
+              </Item>
+              <Item>
+                <Product>5383</Product>
+                <Amount>1</Amount>
+                <StorageAmount>3</StorageAmount>
+              </Item>
+            </FactoryInputs>
+            <FactoryOutputs>
+              <Item>
+                <Product>1999005054</Product>
+                <Amount>1</Amount>
+                <StorageAmount>2</StorageAmount>
+              </Item>
+            </FactoryOutputs>
+            <CycleTime>60</CycleTime>
+            <IsMainFactory>1</IsMainFactory>
+          </FactoryBase>
+          <Maintenance>
+            <Maintenances>
+              <Item>
+                <Product>1010017</Product>
+                <Amount>100</Amount>
+                <InactiveAmount>50</InactiveAmount>
+              </Item>
+              <Item>
+                <Product>1010116</Product>
+                <Amount>75</Amount>
+              </Item>
+            </Maintenances>
+          </Maintenance>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+</ModOps>

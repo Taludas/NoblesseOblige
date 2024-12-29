@@ -1,0 +1,123 @@
+<ModOps>
+
+  <Group>
+    <!-- # Product: Apple Cider -->
+    <!-- Apples: Kurilas Shared Mods: GUID= 1404420032 -->
+    <ModOp Type="addNextSibling" GUID="1010237">
+      <Asset>
+        <Template>Product</Template>
+        <Values>
+          <Standard>
+            <GUID>1999005051</GUID>
+            <Name>Apple Cider</Name>
+            <IconFilename>data\modgraphics\ui\icon_apple_cider.png</IconFilename>
+            <InfoDescription>1999005052</InfoDescription>
+          </Standard>
+          <Locked />
+          <Product>
+            <StorageLevel>Building</StorageLevel>
+            <ProductCategory>11704</ProductCategory>
+            <BasePrice>325</BasePrice>
+            <CivLevel>1</CivLevel>
+            <AssociatedRegion>Moderate</AssociatedRegion>
+            <ProductionRegions>
+              <Item>
+                <RegionType>Moderate</RegionType>
+              </Item>
+            </ProductionRegions>
+          </Product>
+          <ExpeditionAttribute>
+            <BaseMorale>15</BaseMorale>
+            <ExpeditionAttributes>
+              <Item>
+                <Attribute>Diplomacy</Attribute>
+                <Amount>10</Amount>
+              </Item>
+            </ExpeditionAttributes>
+            <FluffText>1999005053</FluffText>
+          </ExpeditionAttribute>
+        </Values>
+      </Asset>
+    </ModOp>
+
+    <!-- # StandardProductStorageList -->
+    <ModOp Type="addNextSibling" GUID="120055" Condition="!~/Values/ProductStorageList/ProductList/Item[Product='1999005051']" Path="/Values/ProductStorageList/ProductList/Item[Product='1010237']">
+      <Item>
+          <Product>1999005051</Product>
+      </Item>
+    </ModOp>
+
+    <!-- # Expeditions -->
+    <ModOp Type="add" GUID="800111" Condition="!~/Values/ExpeditionFeature/FeedOption/FeedOptions[Item/Product='1999005051']" Path="/Values/ExpeditionFeature/FeedOption/FeedOptions">
+      <Item>
+        <MoraleFactor>0.4</MoraleFactor>
+        <Product>1999005051</Product>
+      </Item>
+    </ModOp>
+
+    <!-- # Docklands: NONE -->
+
+    <!-- # Fake MainFactory -->
+    <ModOp Type="addNextSibling" GUID="1010294" Condition="!//FactoryBase[FactoryOutputs/Item/Product='1999005051']/IsMainFactory[text()='1']">
+      <Asset>
+        <Template>FactoryBuilding7</Template>
+        <Values>
+          <Standard>
+            <GUID>1999005651</GUID>
+            <Name>IsMainfactory_Fake: Apple Cider</Name>
+            <IconFilename>data\modgraphics\ui\icon_apple_cider.png</IconFilename>
+          </Standard>
+          <Building>
+            <AssociatedRegions>Moderate</AssociatedRegions>
+            <SecondPartyRelevant>0</SecondPartyRelevant>
+          </Building>
+          <Blocking />
+          <Object>
+            <Variations>
+              <Item>
+                <Filename>data\graphics\buildings\public\logistic_01\logistic_01.cfg</Filename>
+              </Item>
+            </Variations>
+          </Object>
+          <Locked />
+          <FactoryBase>
+            <FactoryInputs>
+              <Item>
+                <Product>1404420032</Product>
+                <Amount>1</Amount>
+                <StorageAmount>6</StorageAmount>
+              </Item>
+              <Item>
+                <Product>1010201</Product>
+                <Amount>1</Amount>
+                <StorageAmount>6</StorageAmount>
+              </Item>
+            </FactoryInputs>
+            <FactoryOutputs>
+              <Item>
+                <Product>1999005051</Product>
+                <Amount>1</Amount>
+                <StorageAmount>4</StorageAmount>
+              </Item>
+            </FactoryOutputs>
+            <CycleTime>30</CycleTime>
+            <IsMainFactory>1</IsMainFactory>
+          </FactoryBase>
+          <Maintenance>
+            <Maintenances>
+              <Item>
+                <Product>1010017</Product>
+                <Amount>50</Amount>
+                <InactiveAmount>25</InactiveAmount>
+              </Item>
+              <Item>
+                <Product>1010052</Product>
+                <Amount>30</Amount>
+              </Item>
+            </Maintenances>
+          </Maintenance>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+</ModOps>

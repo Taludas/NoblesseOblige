@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>Estofado de pescado</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>Lo suficientemente elegante como para impresionar, pero aún así te hace preguntarte si alguien acaba de tirar todo el acuario en una olla.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>Los buenos comensales llamarían a esto Bouillabaisse. Pero ciertamente no es lo mismo desde la lata.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

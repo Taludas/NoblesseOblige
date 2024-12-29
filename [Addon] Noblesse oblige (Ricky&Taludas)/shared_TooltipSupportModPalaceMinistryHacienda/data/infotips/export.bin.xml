@@ -1,0 +1,113 @@
+<ModOps>
+    <!-- https://github.com/jakobharder/anno1800-mod-loader/blob/main/doc/modloader11.md#patching-infotip-exportbin -->
+
+  <!-- This mod should add tooltip support for mod buildings using the Palace/PalaceMinistry/Hacienda property. -->
+   <!-- Especially notable in the tooltips showing the EffectTargets from Policies/Decrees. -->
+        
+   <!-- Eg. the vanilla infotip 269338 checks for the building GUID (palace/ministry/hacienda) because they use specialized texts like "... in palace street range". -->
+    <!-- In general it is a bad idea to hardcode GUIDs as condition in infotips, but I see the point for differentating. Devs should have added proper conditions to check for the palace/hacienda property instead... -->
+
+  <!-- We will replace these hardcoded GUID conditions with general ones, but: -->
+  <!-- ATTENTION: the conditions [Selection Object Palace]/[Selection Object PalaceMinistry]/[Selection Object Hacienda] are -->
+   <!-- ALWAYS fullfilled for Objects having this property, regardless if we check for True/False or anything else! -->
+   <!-- On the other side it is never fullfilled for objects that don't have this property!  -->
+   <!-- So a check like "does not have Hacienda property" is not possible unfortunately! -->
+
+  <ModOp Type="replace" Path="//VisibilityElement[Condition='[Selection Object GUID]' and ExpectedValueInt='249947' and (CompareOperator/CompareOperator='0' or CompareOperator[not(CompareOperator)])]">
+    <VisibilityElement>
+      <ElementType>
+        <ElementType>1</ElementType>
+      </ElementType>
+      <CompareOperator>
+        <CompareOperator>0</CompareOperator>
+      </CompareOperator>
+      <ResultType>
+        <ResultType>0</ResultType>
+      </ResultType>
+      <ExpectedValueBool>True</ExpectedValueBool>
+      <Condition>[Selection Object Palace]</Condition>
+    </VisibilityElement>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="//VisibilityElement[Condition='[Selection Object GUID]' and ExpectedValueInt='269602' and (CompareOperator/CompareOperator='0' or CompareOperator[not(CompareOperator)])]">
+    <VisibilityElement>
+      <ElementType>
+        <ElementType>1</ElementType>
+      </ElementType>
+      <CompareOperator>
+        <CompareOperator>0</CompareOperator>
+      </CompareOperator>
+      <ResultType>
+        <ResultType>0</ResultType>
+      </ResultType>
+      <ExpectedValueBool>True</ExpectedValueBool>
+      <Condition>[Selection Object PalaceMinistry]</Condition>
+    </VisibilityElement>
+  </ModOp>
+  
+  <ModOp Type="replace" Path="//VisibilityElement[Condition='[Selection Object GUID]' and ExpectedValueInt='24768' and (CompareOperator/CompareOperator='0' or CompareOperator[not(CompareOperator)])]">
+    <VisibilityElement>
+      <ElementType>
+        <ElementType>1</ElementType>
+      </ElementType>
+      <CompareOperator>
+        <CompareOperator>0</CompareOperator>
+      </CompareOperator>
+      <ResultType>
+        <ResultType>0</ResultType>
+      </ResultType>
+      <ExpectedValueBool>True</ExpectedValueBool>
+      <Condition>[Selection Object Hacienda]</Condition>
+    </VisibilityElement>
+  </ModOp>
+  
+  
+  <!-- CompareOperator==1 == NOT this GUID -->
+  <!-- Since a check like "does not have Hacienda property" is not possible, we have to find other solutions... We will decide from case to case.  -->
+  <!-- - In case of the palace: This seems to be some global thing and I doubt one can create mod buildings with that property anyways. -->
+   <!-- The "is not place GUID" check appears only once in vanilla for attracitvness and the worst that can happen if we don't adjust it, that the word "Attractivness" is also in the tooltip.  -->
+    <!-- So it is not a big deal to leave this unchanged. -->
+  <!-- - in case of palaceministry: In vanilla there is no "is not palaceministry GUID", so nothing to change here too. -->
+  <!-- - in case of hacienda: in the only case found in vanilla it is just a choice between hacienda, palace and palaceministry, so instead of checking "does not have hacienda property" -->
+    <!-- we will check "has palace or palaceministry property".  -->
+    
+  <ModOp Type="replace" Path="//InfoTipData[Guid='269559']//VisibilityElement[Condition='[Selection Object GUID]' and ExpectedValueInt='24768' and CompareOperator/CompareOperator='1']">
+    <VisibilityElement>
+      <ElementType>
+        <ElementType>2</ElementType>
+      </ElementType>
+      <ChildCount>2</ChildCount>
+      <VisibilityElement>
+        <ElementType>
+          <ElementType>1</ElementType>
+        </ElementType>
+        <CompareOperator>
+          <CompareOperator>0</CompareOperator>
+        </CompareOperator>
+        <ResultType>
+          <ResultType>0</ResultType>
+        </ResultType>
+        <ExpectedValueBool>True</ExpectedValueBool>
+        <Condition>[Selection Object Palace]</Condition>
+      </VisibilityElement>
+      <VisibilityElement>
+        <ElementType>
+          <ElementType>1</ElementType>
+        </ElementType>
+        <CompareOperator>
+          <CompareOperator>0</CompareOperator>
+        </CompareOperator>
+        <ResultType>
+          <ResultType>0</ResultType>
+        </ResultType>
+        <ExpectedValueBool>True</ExpectedValueBool>
+        <Condition>[Selection Object PalaceMinistry]</Condition>
+      </VisibilityElement>
+      <OperatorType>
+        <OperatorType>1</OperatorType>
+      </OperatorType>
+    </VisibilityElement>
+  </ModOp>
+
+  
+</ModOps>

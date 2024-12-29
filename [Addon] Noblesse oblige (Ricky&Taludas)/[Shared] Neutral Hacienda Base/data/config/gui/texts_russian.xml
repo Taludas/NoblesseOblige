@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>Щелкните, чтобы открыть меню строительства модулей и дорожек.</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>Модули</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>Модули</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>Модули</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>Радиус действия</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>Выберите новый приказ. На острове может действовать только один приказ.</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>Вне радиуса действия</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Выберите акт. В может быть только один действующий акт.</Text>
+		</Text>
+	</ModOp>
+</ModOps>

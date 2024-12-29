@@ -1,0 +1,56 @@
+{
+  "Version": "1.1",
+  "ModID": "Taludas_sharedproduct_fishstew",
+  "DeprecateIds": [],
+  "ModDependencies": [
+    "shared_goods_clean_water"
+  ],
+  "LoadAfterIds": [
+  ],
+  "IncompatibleIds": null,
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "sharedproduct_fishstew (Taludas)",
+    "English": "sharedproduct_fishstew (Taludas)",
+    "French": "sharedproduct_fishstew (Taludas)",
+    "German": " sharedproduct_fishstew (Taludas)",
+    "Italian": "sharedproduct_fishstew (Taludas)",
+    "Japanese": "sharedproduct_fishstew (Taludas)",
+    "Korean": "sharedproduct_fishstew (Taludas)",
+    "Polish": "sharedproduct_fishstew (Taludas)",
+    "Russian": "sharedproduct_fishstew (Taludas)",
+    "Spanish": "sharedproduct_fishstew (Taludas)",
+    "Taiwanese": "sharedproduct_fishstew (Taludas)"
+  },
+  "Description": {
+    "English": "# Extra Goods \n\n Extra Goods implemented by me for use in some of my mods. \n\n - New product: Fish Stew",
+    "German": "# Extra Goods \n\n Zusätzliche Waren, die von mir für einige meiner Mods implementiert wurden. \n\n - Neues Produkt: Fischsuppe",
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    "NewWorldRising"
+  ],
+  "CreatorName": "Taludas",
+  "Image": null
+}

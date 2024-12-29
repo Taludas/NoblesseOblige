@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005057</GUID>
+      <Text>감 복숭아 사탕</Text>
+    </Text>
+    <Text>
+      <GUID>1999005058</GUID>
+      <Text>설탕에 집착하는 조각가가 만든 먹을 수 있는 예술 작품.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005059</GUID>
+      <Text>청산가리 냄새... 이번에는 올바른 아몬드를 골랐기를 바랍니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>Spezzatino di pesce</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>Abbastanza elegante da impressionare, ma ti fa ancora chiedere se qualcuno ha appena scaricato l'intero acquario in una pentola.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>I commensali raffinati la chiamerebbero Bouillabaisse. Ma non è certo lo stesso dalla lattina.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

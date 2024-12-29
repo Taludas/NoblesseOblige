@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>Click to access the construction menu for modules.</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>Modules</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>Modules</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>Modules</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>Radius</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>Set a new edict for your island. Only one edict can be active at a time.</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>Outside Range</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>Select a Policy. Only one Policy can be active.</Text>
+		</Text>
+	</ModOp>
+</ModOps>

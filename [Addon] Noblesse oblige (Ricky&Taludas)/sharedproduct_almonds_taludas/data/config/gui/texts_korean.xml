@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005084</GUID>
+      <Text>아몬드</Text>
+    </Text>
+    <Text>
+      <GUID>1999005085</GUID>
+      <Text>실제로 핵과라는 것을 알고 계셨습니까?</Text>
+    </Text>
+    <Text>
+      <GUID>1999005086</GUID>
+      <Text>어떤 것은 달콤하고 어떤 것은 씁쓸합니다. 현명하게 선택하세요...</Text>
+    </Text>
+  </ModOp>
+</ModOps>

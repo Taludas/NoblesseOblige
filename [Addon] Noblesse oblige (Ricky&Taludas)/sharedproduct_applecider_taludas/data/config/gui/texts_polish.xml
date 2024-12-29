@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005051</GUID>
+      <Text>Cydr</Text>
+    </Text>
+    <Text>
+      <GUID>1999005052</GUID>
+      <Text>Społecznie akceptowalny sposób picia zdrowych soków owocowych i udawania, że jesteś trzeźwy</Text>
+    </Text>
+    <Text>
+      <GUID>1999005053</GUID>
+      <Text>Rozjaśnia atmosferę przy każdym stoliku barowym</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,136 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>10026</GUID>
+      <Text>Beryl organizuje lunch i chciałaby natrzeć swoich gości dobrym winem, aby upewnić się, że nie mają się na baczności.</Text>
+    </Text>
+    <Text>
+      <GUID>10059</GUID>
+      <Text>Beryl chciałaby nauczyć Cię podstaw biznesu. Zniszcz dostawców wina pana Perky'ego, aby zmusić go do ponownego handlu z Beryl.</Text>
+    </Text>
+    <Text>
+      <GUID>17650</GUID>
+      <Text>Przychodzi do mnie kilku gości o sztywnym języku, którym przydałoby się trochę rozluźnienia, i nie spotkałem jeszcze ani jednej duszy, która mogłaby odmówić kieliszka wina.</Text>
+    </Text>
+    <Text>
+      <GUID>17655</GUID>
+      <Text>Biznes to wojna i jako taki wymaga taktyki. Masz ochotę nauczyć się jednej lub dwóch sztuczek od starego podżegacza wojennego? Zabierz zapas wina pana Perky'ego, a nie będzie miał innego wyjścia, jak tylko przyjść żebrać do stóp starej Beryla.</Text>
+    </Text>
+    <Text>
+      <GUID>14144</GUID>
+      <Text>Gasparow spodziewa się dostojnego gościa, przyzwyczajonego do wykwintnych rzeczy, w tym przypadku wina. Przynieś Gasparowowi to, o co prosi, zanim jego goście odejdą rozczarowani.</Text>
+    </Text>
+    <Text>
+      <GUID>18198</GUID>
+      <Text>Gasparow chce, żebyś udowodnił, że potrafisz utrzymać swoje piwnice z wybornym winem, ponieważ posiadanie tylko kilku butelek tu i ówdzie sprawia, że wyglądasz jak oszust z towarzystwa.</Text>
+    </Text>
+    <Text>
+      <GUID>16940</GUID>
+      <Text>Czy jesteś ludźmi z cateringu? Będziemy potrzebować wina, i to dużo. Pani Vichyssoise może przyjechać w każdej chwili, a ja potrzebuję tej inwestycji!</Text>
+    </Text>
+    <Text>
+      <GUID>18222</GUID>
+      <Text>Wciąż wzdrygam się, słysząc wieści o twoich zapasach wina. Czy masz pojęcie, jak krępujące jest w kulturalnym społeczeństwie nie mieć pełnej i kompletnej piwnicy vintage? Pierwsze wrażenie to wszystko, wszystko!</Text>
+    </Text>
+    <Text>
+      <GUID>18466</GUID>
+      <Text>Alonso ma ochotę na wino. Wydaje się, że doskonale zdaje sobie sprawę z sprzeczności ze swoją filozofią, jaką jest potrzeba tak intensywnie uprawianego produktu, ale jest gotów wybaczyć sobie, aby doświadczyć takiej boskiej przyjemności zmysłowej.</Text>
+    </Text>
+    <Text>
+      <GUID>18467</GUID>
+      <Text>Wino to grzeszna przyjemność. Grzech dla człowieka takiego jak ja, który zawsze tak szybko odrzuca wszystko, co śmierdzi "cywilizacją". Ale przepraszam, smakuje wyśmienicie. Nie mogę się oprzeć, te wszystkie niesamowite smaki łaskoczą moje migdałki!</Text>
+    </Text>
+    <Text>
+      <GUID>17058</GUID>
+      <Text>Eli chciałby mieć zapas wysokiej jakości wina na czas wizyty inspektorów i utrzymać swoich strażników w gotowości, wierząc, że pewnego dnia mogą zostać nagrodzeni kieliszkiem.</Text>
+    </Text>
+    <Text>
+      <GUID>18648</GUID>
+      <Text>Och, niestety moje stawy znowu sprawiają mi kłopoty i nie będę mógł uczestniczyć w imprezie. Mimo to upewnij się, że sir Archibald otrzyma moje wyjątkowe wino, w które włożyłem całą moją miłość.</Text>
+    </Text>
+    <Text>
+      <GUID>13532</GUID>
+      <Text>Pracownik chciałby skosztować wina.</Text>
+    </Text>
+    <Text>
+      <GUID>15482</GUID>
+      <Text>Właśnie stałem się tatą ukochanej małej dziewczynki, Guv! Potrzebujemy czegoś bardziej wyszukanego, aby wznieść toast tylko ten jeden raz, dla mojego dziecka. Mógłbyś nam przynieść butelkę wina, prawda?</Text>
+    </Text>
+    <Text>
+      <GUID>15485</GUID>
+      <Text>Eee, czy tak smakuje wino? W takim razie będę się trzymał piwa, dziękuję bardzo.</Text>
+    </Text>
+    <Text>
+      <GUID>16246</GUID>
+      <Text>Ta pracownica właśnie urodziła córeczkę! Chcą wznieść toast za nią czymś bardziej eleganckim niż kufel piwa, ale nie stać ich na kieliszek wina za swoją pensję...</Text>
+    </Text>
+    <Text>
+      <GUID>16314</GUID>
+      <Text>Inwestor chce lawiny wina i cygar na monumentalną domówkę.</Text>
+    </Text>
+    <Text>
+      <GUID>20003</GUID>
+      <Text>Prezent od inwestora. "Twoje mądre przywództwo jest korzystne dla nas wszystkich. Świętujmy to przy małej butelce wina!"</Text>
+    </Text>
+    <Text>
+      <GUID>12858</GUID>
+      <Text>Wino</Text>
+    </Text>
+    <Text>
+      <GUID>14973</GUID>
+      <Text>WINO WYSYCHA!</Text>
+    </Text>
+    <Text>
+      <GUID>14974</GUID>
+      <Text>Niedobór wina w [Newspaper FindArticle([RefGuid]) Kontekst TownName] odbiera musowanie z życia. Zaufanie do władz zostało zamrożone, ponieważ podaż nadal słabnie.</Text>
+    </Text>
+    <Text>
+      <GUID>11373</GUID>
+      <Text>WYŚMIENITA CHWILA WINA</Text>
+    </Text>
+    <Text>
+      <GUID>11374</GUID>
+      <Text>Nowa Piwnica z Winami pojawia się w [Newspaper FindArticle([RefGuid]) Context TownName] ku nagłemu zaskoczeniu każdego! Ale nie martw się, ponieważ to "diabelskie wino" jest de facto boskie – elegancja, która celebruje, jak wyrafinowane stało się to miasto.</Text>
+    </Text>
+    <Text>
+      <GUID>11756</GUID>
+      <Text>Idealna na wyluzowany wieczór przy kominku.</Text>
+    </Text>
+    <Text>
+      <GUID>100659</GUID>
+      <Text>Piwnica</Text>
+    </Text>
+    <Text>
+      <GUID>120016</GUID>
+      <Text>Wino</Text>
+    </Text>
+    <Text>
+      <GUID>190647</GUID>
+      <Text>Degustator wina</Text>
+    </Text>
+    <Text>
+      <GUID>192213</GUID>
+      <Text>Butelka wina</Text>
+    </Text>
+    <Text>
+      <GUID>192269</GUID>
+      <Text>Wino korzenne</Text>
+    </Text>
+    <Text>
+      <GUID>500434</GUID>
+      <Text>Wino</Text>
+    </Text>
+    <Text>
+      <GUID>115037</GUID>
+      <Text>Technik poprosił o wino. Oprócz odrobiny domowego komfortu, smaki nowego rocznika mogą okazać się wpływowe w kręgach naukowych.</Text>
+    </Text>
+    <Text>
+      <GUID>115038</GUID>
+      <Text>Skoro jest wino, Fritz nie zawaha się wymienić mnie na współautora swojej pracy o magnetyzmie. Może nawet dostanę wzmiankę na jakiejś ceremonii wręczenia nagród.</Text>
+    </Text>
+    <Text>
+      <GUID>133282</GUID>
+      <Text>Montmartre '75' (cukier, wino, cytrusy)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

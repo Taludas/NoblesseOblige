@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005078</GUID>
+      <Text>Wyroby z lakieru</Text>
+    </Text>
+    <Text>
+      <GUID>1999005079</GUID>
+      <Text>Błyszczące oczy zdają się patrzeć prosto w twoją duszę.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005080</GUID>
+      <Text>Nie zabieraj go na pokład statku! Przyciąga złe duchy!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,136 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>10026</GUID>
+      <Text>Beryl organise un déjeuner et aimerait frotter ses invités avec du bon vin pour s’assurer qu’ils restent sur leurs gardes.</Text>
+    </Text>
+    <Text>
+      <GUID>10059</GUID>
+      <Text>Beryl aimerait vous apprendre les ficelles du métier. S’en prendre aux fournisseurs de vin de M. Perky pour le forcer à commercer à nouveau avec Beryl.</Text>
+    </Text>
+    <Text>
+      <GUID>17650</GUID>
+      <Text>J’ai quelques invités à la langue raide qui pourraient utiliser un peu de relâchement, et je n’ai pas encore rencontré une seule âme qui puisse dire non à un verre de vin.</Text>
+    </Text>
+    <Text>
+      <GUID>17655</GUID>
+      <Text>Les affaires sont une guerre et, en tant que telle, elles nécessitent des tactiques. Envie d’apprendre un tour ou deux d’un vieux wargonguer ? Prenez la provision de vin de M. Perky et il n’aura d’autre choix que de venir mendier aux pieds du vieux Beryl.</Text>
+    </Text>
+    <Text>
+      <GUID>14144</GUID>
+      <Text>Gasparov attend un invité de marque habitué aux belles choses, en l’occurrence le vin. Apportez à Gasparov ce qu’il demande avant que ses invités ne partent déçus.</Text>
+    </Text>
+    <Text>
+      <GUID>18198</GUID>
+      <Text>Gasparov veut que vous prouviez que vous pouvez entretenir vos caves de grands vins, car n’avoir que quelques bouteilles ici et là ne fait que vous faire passer pour un imposteur de la société.</Text>
+    </Text>
+    <Text>
+      <GUID>16940</GUID>
+      <Text>Êtes-vous les traiteurs ? Nous aurons besoin de vin, beaucoup de vin. Mme Vichyssoise peut arriver d’une minute à l’autre, et j’ai besoin de cet investissement !</Text>
+    </Text>
+    <Text>
+      <GUID>18222</GUID>
+      <Text>Je grince encore des dents à l’idée d’apprendre la nouvelle de vos stocks de vin. Avez-vous une idée à quel point il est gênant dans la société polie de ne pas avoir une cave pleine et entière de millésimes ? La première impression est tout, tout !</Text>
+    </Text>
+    <Text>
+      <GUID>18466</GUID>
+      <Text>Alonso veut du vin. Il semble bien conscient de la contradiction avec sa philosophie d’avoir besoin d’un produit si intensément cultivé, mais il est prêt à se pardonner à lui-même afin d’éprouver un tel plaisir sensoriel divin.</Text>
+    </Text>
+    <Text>
+      <GUID>18467</GUID>
+      <Text>Le vin est un plaisir coupable. Un péché pour un homme comme moi, qui est toujours si prompt à rejeter tout ce qui sent la « civilisation ». Mais je suis désolé, c’est merveilleux. Je n’y résiste pas, toutes ces saveurs incroyables qui chatouillent mes amygdales !</Text>
+    </Text>
+    <Text>
+      <GUID>17058</GUID>
+      <Text>Eli aimerait garder un stock de vin de qualité pour la visite des inspecteurs, et garder ses gardiens enthousiastes, croyant qu’ils pourraient un jour être récompensés par un verre.</Text>
+    </Text>
+    <Text>
+      <GUID>18648</GUID>
+      <Text>Oh, malheureusement, mes articulations me posent à nouveau des problèmes et je ne pourrai pas assister à la fête. Pourtant, assurez-vous que Sir Archibald reçoit mon vin spécial, j’y ai mis tout mon amour.</Text>
+    </Text>
+    <Text>
+      <GUID>13532</GUID>
+      <Text>Le travailleur aimerait déguster du vin.</Text>
+    </Text>
+    <Text>
+      <GUID>15482</GUID>
+      <Text>Je viens de devenir le papa d’une petite fille précieuse, Guv ! Nous avons besoin de quelque chose de plus sophistiqué pour griller juste cette fois, pour mon bébé. Vous pourriez nous offrir une bouteille de vin, n’est-ce pas ?</Text>
+    </Text>
+    <Text>
+      <GUID>15485</GUID>
+      <Text>Euh, c’est ça le goût du vin ? Je vais m’en tenir à la bière alors, merci beaucoup.</Text>
+    </Text>
+    <Text>
+      <GUID>16246</GUID>
+      <Text>Cette travailleuse vient d’avoir une petite fille ! Ils veulent lui porter un toast avec quelque chose de plus chic qu’une pinte de bière, mais ils ne peuvent pas s’offrir un verre de vin avec leur salaire...</Text>
+    </Text>
+    <Text>
+      <GUID>16314</GUID>
+      <Text>Un investisseur veut une avalanche de vin et de cigares pour une fête monumentale à la maison.</Text>
+    </Text>
+    <Text>
+      <GUID>20003</GUID>
+      <Text>Le cadeau d’un investisseur. « Votre sage leadership est bénéfique pour nous tous. Célébrons avec une petite bouteille de vin !</Text>
+    </Text>
+    <Text>
+      <GUID>12858</GUID>
+      <Text>Vin</Text>
+    </Text>
+    <Text>
+      <GUID>14973</GUID>
+      <Text>LE VIN S’ASSÈCHE !</Text>
+    </Text>
+    <Text>
+      <GUID>14974</GUID>
+      <Text>Pénurie de vin dans [Newspaper FindArticle([RefGuid]) Contexte TownName] enlève l’effervescence de la vie. La confiance dans les autorités est mise sur la glace, alors que l’approvisionnement continue de faiblir.</Text>
+    </Text>
+    <Text>
+      <GUID>11373</GUID>
+      <Text>MOMENT DES VINS FINS</Text>
+    </Text>
+    <Text>
+      <GUID>11374</GUID>
+      <Text>New Wine Cellar pétille dans [Newspaper FindArticle([RefGuid]) Contexte TownName] à la surprise soudaine de tout le monde ! Mais ne vous inquiétez pas, car ce « vin du diable » est de facto divin – une élégance qui célèbre à quel point cette ville est devenue raffinée.</Text>
+    </Text>
+    <Text>
+      <GUID>11756</GUID>
+      <Text>Parfait pour une soirée décontractée au coin du feu.</Text>
+    </Text>
+    <Text>
+      <GUID>100659</GUID>
+      <Text>Cave</Text>
+    </Text>
+    <Text>
+      <GUID>120016</GUID>
+      <Text>Vin</Text>
+    </Text>
+    <Text>
+      <GUID>190647</GUID>
+      <Text>Dégustateur de vin</Text>
+    </Text>
+    <Text>
+      <GUID>192213</GUID>
+      <Text>Une bouteille de vin</Text>
+    </Text>
+    <Text>
+      <GUID>192269</GUID>
+      <Text>Vin épicé</Text>
+    </Text>
+    <Text>
+      <GUID>500434</GUID>
+      <Text>Vin</Text>
+    </Text>
+    <Text>
+      <GUID>115037</GUID>
+      <Text>Le technicien a demandé du vin. En dehors d’un peu de confort à la maison, les saveurs du nouveau millésime peuvent s’avérer influentes dans les cercles scientifiques.</Text>
+    </Text>
+    <Text>
+      <GUID>115038</GUID>
+      <Text>Maintenant, il y a le vin, Fritz n’hésitera pas à me nommer co-auteur sur son article sur le magnétisme. Je pourrais même être mentionné lors d’une cérémonie de remise de prix.</Text>
+    </Text>
+    <Text>
+      <GUID>133282</GUID>
+      <Text>Montmartre '75' (sucre, vin, agrumes)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>Ragoût de poisson</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>Assez chic pour impressionner, mais on se demande quand même si quelqu’un vient de jeter tout l’aquarium dans un pot.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>Les fins gourmets appelleraient cela de la bouillabaisse. Mais ce n’est certainement pas la même chose de la boîte.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

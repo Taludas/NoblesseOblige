@@ -1,0 +1,5460 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005009</GUID>
+      <Text>ローズマダー不妊治療</Text>
+    </Text>
+    <Text>
+      <GUID>1999005050</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005102</GUID>
+      <Text>荘園</Text>
+    </Text>
+    <Text>
+      <GUID>1999005103</GUID>
+      <Text>貴族を収容する豪華な邸宅</Text>
+    </Text>
+    <Text>
+      <GUID>1999005104</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005105</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005106</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005107</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005108</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005109</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005110</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005111</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005112</GUID>
+      <Text>怒っている土地所有者</Text>
+    </Text>
+    <Text>
+      <GUID>1999005113</GUID>
+      <Text>不幸な土地所有者</Text>
+    </Text>
+    <Text>
+      <GUID>1999005114</GUID>
+      <Text>コンテンツ ランドオーナー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005115</GUID>
+      <Text>幸せな土地所有者</Text>
+    </Text>
+    <Text>
+      <GUID>1999005116</GUID>
+      <Text>陶酔感のある土地所有者</Text>
+    </Text>
+    <Text>
+      <GUID>1999005117</GUID>
+      <Text>広々としたマナー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005118</GUID>
+      <Text>豪華な邸宅</Text>
+    </Text>
+    <Text>
+      <GUID>1999005120</GUID>
+      <Text>行政</Text>
+    </Text>
+    <Text>
+      <GUID>1999005121</GUID>
+      <Text>マナーパーク</Text>
+    </Text>
+    <Text>
+      <GUID>1999005122</GUID>
+      <Text>温室</Text>
+    </Text>
+    <Text>
+      <GUID>1999005123</GUID>
+      <Text>チャペル</Text>
+    </Text>
+    <Text>
+      <GUID>1999005124</GUID>
+      <Text>教会</Text>
+    </Text>
+    <Text>
+      <GUID>1999005125</GUID>
+      <Text>大聖堂</Text>
+    </Text>
+    <Text>
+      <GUID>1999005126</GUID>
+      <Text>市立劇場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005127</GUID>
+      <Text>まぁ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005128</GUID>
+      <Text>宮殿</Text>
+    </Text>
+    <Text>
+      <GUID>1999005129</GUID>
+      <Text>Hidden-ForwardBuff Palace Modules PBシリーズ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005130</GUID>
+      <Text>隠された-パレスモジュールからのPB範囲を拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005131</GUID>
+      <Text>行政</Text>
+    </Text>
+    <Text>
+      <GUID>1999005132</GUID>
+      <Text>管理許可証</Text>
+    </Text>
+    <Text>
+      <GUID>1999005200</GUID>
+      <Text>温室</Text>
+    </Text>
+    <Text>
+      <GUID>1999005201</GUID>
+      <Text>柑橘</Text>
+    </Text>
+    <Text>
+      <GUID>1999005300</GUID>
+      <Text>自給自足農家の住居</Text>
+    </Text>
+    <Text>
+      <GUID>1999005301</GUID>
+      <Text>農村労働者の住居</Text>
+    </Text>
+    <Text>
+      <GUID>1999005302</GUID>
+      <Text>伝統的な職人の邸宅</Text>
+    </Text>
+    <Text>
+      <GUID>1999005303</GUID>
+      <Text>自給自足農家</Text>
+    </Text>
+    <Text>
+      <GUID>1999005304</GUID>
+      <Text>農村労働者</Text>
+    </Text>
+    <Text>
+      <GUID>1999005305</GUID>
+      <Text>伝統工芸士</Text>
+    </Text>
+    <Text>
+      <GUID>1999005066</GUID>
+      <Text>輸入製品</Text>
+    </Text>
+    <Text>
+      <GUID>1999005203</GUID>
+      <Text>空の自給自足農場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005204</GUID>
+      <Text>自給自足農場植物年鑑</Text>
+    </Text>
+    <Text>
+      <GUID>1999005205</GUID>
+      <Text>自給自足農場で利用可能な作物の種類の概要</Text>
+    </Text>
+    <Text>
+      <GUID>1999005206</GUID>
+      <Text>ジャガイモ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005207</GUID>
+      <Text>菜</Text>
+    </Text>
+    <Text>
+      <GUID>1999005208</GUID>
+      <Text>麻</Text>
+    </Text>
+    <Text>
+      <GUID>1999005209</GUID>
+      <Text>蜂</Text>
+    </Text>
+    <Text>
+      <GUID>1999005210</GUID>
+      <Text>穀物</Text>
+    </Text>
+    <Text>
+      <GUID>1999005211</GUID>
+      <Text>ホップ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005212</GUID>
+      <Text>ハーブ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005213</GUID>
+      <Text>ブドウ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005214</GUID>
+      <Text>ジャガイモは注目に値するものです:それは非常に多様な栄養素、バナナよりも多くのカリウム、そしてボリュームたっぷりのビタミンCを含んでいます。揚げたり、焼いたり、つぶしたり、ローストしたり、煮込んだりすることができます。しかし、ご存知のように、このmodでは、その主な用途はもはやSchnappsだけではありません。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005215</GUID>
+      <Text>毎日野菜を食べましょう!微量栄養素が豊富なこれらの主食は、健康で豊かな生活のためにすべての人の食事の一部であるべきです!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005216</GUID>
+      <Text>現代の法律における最近の変更とは対照的に、これらの植物の唯一の用途は、基本的な繊維やロープの製造における高い繊維含有量のためです。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005217</GUID>
+      <Text>ミツバチの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005218</GUID>
+      <Text>小麦を使えば、パンとビールの両方を作ることができます:旧世界の特定の国に関する限り、完全な食事です。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005219</GUID>
+      <Text>かつては裕福な政治家の庭に閉じ込められていたこの植物は、今では労働者のお気に入りの飲み物にスパイスを加えるための防腐成分として大量に必要とされています。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005220</GUID>
+      <Text>この農場では、美しい色と香りの香りから、さまざまなハーブが栽培されています。どんな料理も締めくくるのに素晴らしい食材です!絶対にどのキッチンでも見逃せません。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005221</GUID>
+      <Text>少しくすんで見える緑と紫のブドウ。旧世界のこれらの最近のヴィンテージは、あなたの土地所有者の魂を喜ばせるでしょう!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005222</GUID>
+      <Text>自給自足ポテトファーム</Text>
+    </Text>
+    <Text>
+      <GUID>1999005223</GUID>
+      <Text>自給自足野菜農場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005224</GUID>
+      <Text>自給自足ヘンプファーム</Text>
+    </Text>
+    <Text>
+      <GUID>1999005225</GUID>
+      <Text>自給自足養蜂場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005226</GUID>
+      <Text>自給自足穀物農場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005227</GUID>
+      <Text>自給自足ホップファーム</Text>
+    </Text>
+    <Text>
+      <GUID>1999005228</GUID>
+      <Text>自給自足ハーブファーム</Text>
+    </Text>
+    <Text>
+      <GUID>1999005229</GUID>
+      <Text>自給自足のブドウ園</Text>
+    </Text>
+    <Text>
+      <GUID>1999005230</GUID>
+      <Text>自給自足ローズマッダーファーム</Text>
+    </Text>
+    <Text>
+      <GUID>1999005231</GUID>
+      <Text>ローズマッダー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005232</GUID>
+      <Text>茜は伝統的な染色植物です。古代から合成染料の発見まで、この植物は布を染色する過程で中心的な役割を果たしてきました。その強烈な赤色は、非常に高価なティリアンパープルの代用品としてよく使用されましたが、その独特の色合いは達成されていません。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005233</GUID>
+      <Text>マダープランテーション</Text>
+    </Text>
+    <Text>
+      <GUID>1999005234</GUID>
+      <Text>自給自足農場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005235</GUID>
+      <Text>利用可能なすべての自給自足農場タイプの概要</Text>
+    </Text>
+    <Text>
+      <GUID>25260</GUID>
+      <Text>ファームアルマナック</Text>
+    </Text>
+    <Text>
+      <GUID>1999005236</GUID>
+      <Text>すべての自給自足農場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005237</GUID>
+      <Text>ゲームの互換性を保存する</Text>
+    </Text>
+    <Text>
+      <GUID>1999005238</GUID>
+      <Text>必要な受精力なしで既存のセーブゲームをサポートするためのバフ。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005241</GUID>
+      <Text>ゲームの互換性を保存する</Text>
+    </Text>
+    <Text>
+      <GUID>1999005242</GUID>
+      <Text>必要な受精力なしで既存のセーブゲームをサポートするためのバフ。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005246</GUID>
+      <Text>糞コレクター</Text>
+    </Text>
+    <Text>
+      <GUID>1999005247</GUID>
+      <Text>動物農場では、さらなる加工のために糞を生産しています。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005248</GUID>
+      <Text>[AssetData(24806) テキスト]</Text>
+    </Text>
+    <Text>
+      <GUID>1999005249</GUID>
+      <Text>[AssetData(24806) テキスト]</Text>
+    </Text>
+    <Text>
+      <GUID>1999005250</GUID>
+      <Text>[AssetData(24806) テキスト]</Text>
+    </Text>
+    <Text>
+      <GUID>1999005254</GUID>
+      <Text>自給自足養蜂場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005255</GUID>
+      <Text>ミツバチのコロニー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005257</GUID>
+      <Text>土地改革法</Text>
+    </Text>
+    <Text>
+      <GUID>1999005643</GUID>
+      <Text>土地改革法</Text>
+    </Text>
+    <Text>
+      <GUID>1999005256</GUID>
+      <Text>牧草</Text>
+    </Text>
+    <Text>
+      <GUID>1999005258</GUID>
+      <Text>伝統的なチャンドラー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005259</GUID>
+      <Text>華やかなキャンドル</Text>
+    </Text>
+    <Text>
+      <GUID>1999005261</GUID>
+      <Text>ウェルハウス</Text>
+    </Text>
+    <Text>
+      <GUID>1999005262</GUID>
+      <Text>モダンなポンプハウス</Text>
+    </Text>
+    <Text>
+      <GUID>1999005263</GUID>
+      <Text>モダンなポンプハウスワークエリア</Text>
+    </Text>
+    <Text>
+      <GUID>1999005264</GUID>
+      <Text>ウォーターポンプ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005265</GUID>
+      <Text>ゲームの互換性を保存する</Text>
+    </Text>
+    <Text>
+      <GUID>1999005266</GUID>
+      <Text>必要な受精力なしで既存のセーブゲームをサポートするためのバフ。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005269</GUID>
+      <Text>果樹園:リンゴ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005270</GUID>
+      <Text>りんごの木</Text>
+    </Text>
+    <Text>
+      <GUID>1999005271</GUID>
+      <Text>リンゴ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005272</GUID>
+      <Text>一日一個のリンゴが医者を遠ざけます!20000種類以上の品種から1つを選んでください!リンゴは、アップルシュトルーデルから高級サイダーまで、おいしいものなら何でも作ることができます。真のオールラウンダー!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005273</GUID>
+      <Text>伝統的な醸造所:空</Text>
+    </Text>
+    <Text>
+      <GUID>1999005274</GUID>
+      <Text>すべての伝統的な醸造所の調合</Text>
+    </Text>
+    <Text>
+      <GUID>1999005275</GUID>
+      <Text>トラディショナル醸造所は、ニーズを解き放った限り、旧世界の世界で生産されたあらゆる飲料を製造できます。飲み物を選択し、「醸造開始」ボタンをクリックして開始します!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005276</GUID>
+      <Text>シュナップス</Text>
+    </Text>
+    <Text>
+      <GUID>1999005277</GUID>
+      <Text>林檎酒</Text>
+    </Text>
+    <Text>
+      <GUID>1999005278</GUID>
+      <Text>ワイン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005279</GUID>
+      <Text>ビール</Text>
+    </Text>
+    <Text>
+      <GUID>1999005280</GUID>
+      <Text>コニャック</Text>
+    </Text>
+    <Text>
+      <GUID>1999005281</GUID>
+      <Text>サイダーは何千年もの歴史を持つ飲み物で、すでにケルト人に非常に人気がありました。酵母の発酵によって保存された甘いリンゴジュースは、暑い日にはフルーティーでピリッとしたリフレッシュメントに変わります。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005282</GUID>
+      <Text>太陽の光を浴びて熟したブドウの強烈な風味が、独特のブーケを生み出します。オーク樽の無垢材で若いワインを熟成させることで、その酸味がさらに洗練されます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005283</GUID>
+      <Text>伝統的な醸造所:シュナップス</Text>
+    </Text>
+    <Text>
+      <GUID>1999005284</GUID>
+      <Text>伝統的な醸造所:アップルサイダー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005285</GUID>
+      <Text>伝統的な醸造所:ワイン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005286</GUID>
+      <Text>伝統的な醸造所:ビール</Text>
+    </Text>
+    <Text>
+      <GUID>1999005287</GUID>
+      <Text>伝統的な醸造所:コニャック</Text>
+    </Text>
+    <Text>
+      <GUID>1999005288</GUID>
+      <Text>すべての伝統的な醸造所</Text>
+    </Text>
+    <Text>
+      <GUID>1999005289</GUID>
+      <Text>すべての伝統的な醸造所</Text>
+    </Text>
+    <Text>
+      <GUID>1999005290</GUID>
+      <Text>利用可能なすべての伝統的な醸造所の概要</Text>
+    </Text>
+    <Text>
+      <GUID>1999005291</GUID>
+      <Text>林檎酒</Text>
+    </Text>
+    <Text>
+      <GUID>25265</GUID>
+      <Text>醸造所の調合</Text>
+    </Text>
+    <Text>
+      <GUID>1999005292</GUID>
+      <Text>鹿肉の屠殺場</Text>
+    </Text>
+    <Text>
+      <GUID>1999005293</GUID>
+      <Text>より優れたツールを使用して、このモジュールは狩猟された狩猟動物からの鹿肉の準備を可能にします。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005294</GUID>
+      <Text>鹿肉の屠殺</Text>
+    </Text>
+    <Text>
+      <GUID>1999005306</GUID>
+      <Text>チャペル</Text>
+    </Text>
+    <Text>
+      <GUID>1999005320</GUID>
+      <Text>伝統的な大工仕事:空</Text>
+    </Text>
+    <Text>
+      <GUID>1999005321</GUID>
+      <Text>伝統工芸</Text>
+    </Text>
+    <Text>
+      <GUID>1999005322</GUID>
+      <Text>熟練した大工は、産業革命前の最も用途の広い材料の1つである木材からさまざまな製品を作ることができます</Text>
+    </Text>
+    <Text>
+      <GUID>1999005323</GUID>
+      <Text>粗工具</Text>
+    </Text>
+    <Text>
+      <GUID>1999005324</GUID>
+      <Text>樽</Text>
+    </Text>
+    <Text>
+      <GUID>1999005325</GUID>
+      <Text>ウッドベニヤ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005326</GUID>
+      <Text>シャシ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005327</GUID>
+      <Text>現代のエンジニアリングの驚異の最も基本的なバージョンは、これらのワークショップで適切な広葉樹種から作られています。ツールを使用することで、労働者は生産性を向上させ、生産量を新たな高みに押し上げることができます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005328</GUID>
+      <Text>現代人類の歴史における最初のストレージソリューションの1つ。陶器よりも耐久性があり、広々としている樽は、後で使用するためにほぼすべての種類の製品を保管できます。樽は、特定の飲み物をおいしい調合に精製するためにも不可欠です。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005329</GUID>
+      <Text>貴重な木材から彫られたこれらの突板は、熟練した職人によって手作りされています。木製のベニヤは、最も熱心な芸術愛好家を驚かせるために、最も豪華な用途で使用されています。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005330</GUID>
+      <Text>このフレームワークは、何か大きなことの始まりにすぎません。シャシーは、増え続ける個人輸送の発展に不可欠です。そして最後に、それらの隆起はもはや長い旅行であなたのお尻を台無しにすることはありません。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005331</GUID>
+      <Text>伝統的な大工仕事:粗雑な道具</Text>
+    </Text>
+    <Text>
+      <GUID>1999005332</GUID>
+      <Text>伝統的な大工仕事:樽</Text>
+    </Text>
+    <Text>
+      <GUID>1999005333</GUID>
+      <Text>伝統的な大工仕事:ウッドベニヤ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005334</GUID>
+      <Text>伝統的な大工仕事:シャーシ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005335</GUID>
+      <Text>すべての伝統的な大工仕事</Text>
+    </Text>
+    <Text>
+      <GUID>1999005336</GUID>
+      <Text>すべての伝統的な大工仕事</Text>
+    </Text>
+    <Text>
+      <GUID>1999005337</GUID>
+      <Text>利用可能なすべての伝統的な大工仕事の概要</Text>
+    </Text>
+    <Text>
+      <GUID>1999005295</GUID>
+      <Text>フィッシュシチューキッチン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005296</GUID>
+      <Text>フィッシュシチュー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005297</GUID>
+      <Text>製菓</Text>
+    </Text>
+    <Text>
+      <GUID>1999005298</GUID>
+      <Text>お菓子</Text>
+    </Text>
+    <Text>
+      <GUID>1999005299</GUID>
+      <Text>菓子</Text>
+    </Text>
+    <Text>
+      <GUID>1999005338</GUID>
+      <Text>マジパン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005339</GUID>
+      <Text>伝統的なグーラッシュキッチン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005340</GUID>
+      <Text>グヤーシュ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005341</GUID>
+      <Text>トラディショナルテーラー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005342</GUID>
+      <Text>テーラードスーツ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005343</GUID>
+      <Text>ファインジョイナー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005344</GUID>
+      <Text>高級家具</Text>
+    </Text>
+    <Text>
+      <GUID>1999005345</GUID>
+      <Text>手動ペイントショップ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005346</GUID>
+      <Text>アーティザンスタジオ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005347</GUID>
+      <Text>絵画</Text>
+    </Text>
+    <Text>
+      <GUID>1999005348</GUID>
+      <Text>絶妙なレストラン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005349</GUID>
+      <Text>ロブスターディナー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005350</GUID>
+      <Text>ロブスターファーム</Text>
+    </Text>
+    <Text>
+      <GUID>1999005355</GUID>
+      <Text>漆器工房</Text>
+    </Text>
+    <Text>
+      <GUID>1999005356</GUID>
+      <Text>漆器</Text>
+    </Text>
+    <Text>
+      <GUID>1999005357</GUID>
+      <Text>輸出契約</Text>
+    </Text>
+    <Text>
+      <GUID>1999005358</GUID>
+      <Text>輸出契約:工具</Text>
+    </Text>
+    <Text>
+      <GUID>1999005362</GUID>
+      <Text>輸出契約:鉄鋼</Text>
+    </Text>
+    <Text>
+      <GUID>1999005360</GUID>
+      <Text>輸出契約:武器</Text>
+    </Text>
+    <Text>
+      <GUID>1999005361</GUID>
+      <Text>輸出受託:ミシン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005362</GUID>
+      <Text>輸出契約:ダイナマイト</Text>
+    </Text>
+    <Text>
+      <GUID>1999005363</GUID>
+      <Text>輸出契約:Advanced Weapons</Text>
+    </Text>
+    <Text>
+      <GUID>1999005364</GUID>
+      <Text>輸出契約:蒸気機関</Text>
+    </Text>
+    <Text>
+      <GUID>1999005365</GUID>
+      <Text>輸出契約:タイプライター</Text>
+    </Text>
+    <Text>
+      <GUID>1999005366</GUID>
+      <Text>すべての輸出契約</Text>
+    </Text>
+    <Text>
+      <GUID>1999005367</GUID>
+      <Text>ツールの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005368</GUID>
+      <Text>スチールの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005369</GUID>
+      <Text>武器の説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005370</GUID>
+      <Text>ミシンの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005371</GUID>
+      <Text>ダイナマイトの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005372</GUID>
+      <Text>Advanced Weapons 説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005373</GUID>
+      <Text>蒸気機関の説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005374</GUID>
+      <Text>タイプライターの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005387</GUID>
+      <Text>エクストラエクスポートオフィス</Text>
+    </Text>
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>ハンドリング桟橋</Text>
+    </Text>
+    <Text>
+      <GUID>1999005389</GUID>
+      <Text>ドックのエクスポート</Text>
+    </Text>
+    <Text>
+      <GUID>1999005390</GUID>
+      <Text>利用可能なすべてのエクスポートドックの概要</Text>
+    </Text>
+    <Text>
+      <GUID>1999005391</GUID>
+      <Text>インポートドック</Text>
+    </Text>
+    <Text>
+      <GUID>1999005392</GUID>
+      <Text>輸入契約:アーモンド</Text>
+    </Text>
+    <Text>
+      <GUID>1999005393</GUID>
+      <Text>輸入契約:黒檀</Text>
+    </Text>
+    <Text>
+      <GUID>1999005394</GUID>
+      <Text>輸入契約:シルク</Text>
+    </Text>
+    <Text>
+      <GUID>1999005395</GUID>
+      <Text>輸入契約:サフラン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005396</GUID>
+      <Text>輸入契約:お茶</Text>
+    </Text>
+    <Text>
+      <GUID>1999005397</GUID>
+      <Text>輸入契約:ダイヤモンド</Text>
+    </Text>
+    <Text>
+      <GUID>1999005398</GUID>
+      <Text>アーモンドの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005399</GUID>
+      <Text>黒檀の説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005400</GUID>
+      <Text>シルクの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005401</GUID>
+      <Text>サフランの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005402</GUID>
+      <Text>お茶の説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005403</GUID>
+      <Text>ダイヤモンドの説明</Text>
+    </Text>
+    <Text>
+      <GUID>1999005404</GUID>
+      <Text>すべての輸入契約</Text>
+    </Text>
+    <Text>
+      <GUID>1999005405</GUID>
+      <Text>輸入ドック:アーモンド</Text>
+    </Text>
+    <Text>
+      <GUID>1999005406</GUID>
+      <Text>インポートドック:黒檀</Text>
+    </Text>
+    <Text>
+      <GUID>1999005407</GUID>
+      <Text>輸入ドック:シルク</Text>
+    </Text>
+    <Text>
+      <GUID>1999005408</GUID>
+      <Text>輸入ドック:サフラン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005409</GUID>
+      <Text>輸入ドック:お茶</Text>
+    </Text>
+    <Text>
+      <GUID>1999005410</GUID>
+      <Text>輸入ドック:ダイヤモンド</Text>
+    </Text>
+    <Text>
+      <GUID>1999005411</GUID>
+      <Text>インポートドック</Text>
+    </Text>
+    <Text>
+      <GUID>1999005412</GUID>
+      <Text>インポートドック</Text>
+    </Text>
+    <Text>
+      <GUID>1999005413</GUID>
+      <Text>利用可能なすべてのインポートドックの概要</Text>
+    </Text>
+    <Text>
+      <GUID>1827</GUID>
+      <Text>レシピを選択</Text>
+    </Text>
+    <Text>
+      <GUID>1829</GUID>
+      <Text>インベントリリスト</Text>
+    </Text>
+    <Text>
+      <GUID>1830</GUID>
+      <Text>始める</Text>
+    </Text>
+    <Text>
+      <GUID>1831</GUID>
+      <Text>現在のレシピ</Text>
+    </Text>
+    <Text>
+      <GUID>1832</GUID>
+      <Text>ボタンをクリックしてレシピを選択します。</Text>
+    </Text>
+    <Text>
+      <GUID>25756</GUID>
+      <Text>レシピ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005415</GUID>
+      <Text>皇帝大聖堂:財団</Text>
+    </Text>
+    <Text>
+      <GUID>1999005416</GUID>
+      <Text>この壮大なモニュメントが完成すると、帝国大聖堂は住民にすべての宗教的な公共サービスを提供します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005417</GUID>
+      <Text>インペリアルカテドラル:上部構造</Text>
+    </Text>
+    <Text>
+      <GUID>1999005418</GUID>
+      <Text>皇帝大聖堂 ステージ2</Text>
+    </Text>
+    <Text>
+      <GUID>1999005419</GUID>
+      <Text>インペリアル大聖堂:インテリアデザイン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005420</GUID>
+      <Text>皇帝大聖堂 ステージ3</Text>
+    </Text>
+    <Text>
+      <GUID>1999005421</GUID>
+      <Text>インペリアルカテドラル</Text>
+    </Text>
+    <Text>
+      <GUID>1999005422</GUID>
+      <Text>あなたの住民にすべての宗教的な公共サービスのニーズを提供します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005423</GUID>
+      <Text>皇帝大聖堂は礼拝の場所です。この壮大なモニュメントが完成すると、大聖堂はすべての宗教的な公共サービスのニーズを提供し、あなたの大衆は物質的な世界ではなく、彼らの信仰にもっと焦点を合わせるでしょう。モノの消費は5%減少し、幸福度は5%増加します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005424</GUID>
+      <Text>倹約の説教 - 投資家</Text>
+    </Text>
+    <Text>
+      <GUID>1999005425</GUID>
+      <Text>インペリアルカテドラル</Text>
+    </Text>
+    <Text>
+      <GUID>1999005426</GUID>
+      <Text>倹約を説く</Text>
+    </Text>
+    <Text>
+      <GUID>1999005427</GUID>
+      <Text>あなたの居住者にすべてのエンターテイメント公共サービスのニーズを提供します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005445</GUID>
+      <Text>学校へのアクセスを提供することによる影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005446</GUID>
+      <Text>馬の提供による影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005447</GUID>
+      <Text>馬の提供による影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005448</GUID>
+      <Text>馬の提供による影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005449</GUID>
+      <Text>オランジェリーへのアクセスを提供することからの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005450</GUID>
+      <Text>チャペルへのアクセスを提供することからの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005451</GUID>
+      <Text>毛皮のコートを提供することからの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005452</GUID>
+      <Text>毛皮のコートを提供することからの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005453</GUID>
+      <Text>葉巻の提供による影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005454</GUID>
+      <Text>葉巻の提供による影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005455</GUID>
+      <Text>ラグジュアリーファニチャーの提供からの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005456</GUID>
+      <Text>ラグジュアリーファニチャーの提供からの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005457</GUID>
+      <Text>絵画の提供からの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005458</GUID>
+      <Text>絵画の提供からの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005462</GUID>
+      <Text>教会へのアクセスを提供することによる影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005460</GUID>
+      <Text>バラエティシアターへのアクセスを提供することからの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005461</GUID>
+      <Text>懐中時計の提供からの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005462</GUID>
+      <Text>漆器の提供による影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005463</GUID>
+      <Text>蓄音機の提供による影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005464</GUID>
+      <Text>皇帝の大聖堂へのアクセスを提供することからの影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005465</GUID>
+      <Text>オペラへのアクセスを提供することによる影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005466</GUID>
+      <Text>メンバーズクラブへのアクセスを提供することによる影響</Text>
+    </Text>
+    <Text>
+      <GUID>1999005467</GUID>
+      <Text>土地所有者に特定の幸福ニーズを提供することで、追加の影響力を得ることができます</Text>
+    </Text>
+    <Text>
+      <GUID>1999005468</GUID>
+      <Text>お茶の供給による影響</Text>
+    </Text>
+    <Text>
+      <GUID>19990055512</GUID>
+      <Text>貴族の紙が必要</Text>
+    </Text>
+    <Text>
+      <GUID>1999005514</GUID>
+      <Text>農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005515</GUID>
+      <Text>土地所有者は、農民に彼らの土地の使用に対して十分の一を支払うように要求します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005516</GUID>
+      <Text>土地所有者は、彼らの土地で働く農民に対して、耕作可能な土地の提供と引き換えに十分の一を支払う義務を制定します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005517</GUID>
+      <Text>社会福祉政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005518</GUID>
+      <Text>社会福祉制度は、工業化社会で働くことができない人々を支援するものです。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005519</GUID>
+      <Text>ますます工業化する社会で労働者階級の負担を支えるために、社会福祉制度は、取り残された人々や働くことができない人々に安全を提供します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005520</GUID>
+      <Text>ホーム ワークショップポリシー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005521</GUID>
+      <Text>農村部の農場でのホームワークショップは、下層の消費製品の入手可能性を大幅に高めます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005522</GUID>
+      <Text>農村部の農場に在宅工房を導入することで、下層部の特定の消費財の利用可能性を大幅に増やすことができます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005523</GUID>
+      <Text>持続可能な野生生物政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005524</GUID>
+      <Text>狩猟権は王族の個人にのみ与えられます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005525</GUID>
+      <Text>狩猟の権利を地元の農家から、優れたツールを備えた高度に訓練された個人のより選択的なグループに移すことで、狩猟キャビンの希少な生産量が増加します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005526</GUID>
+      <Text>ワークショップ・イノベーション・ポリシー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005527</GUID>
+      <Text>工業化に感銘を受けた地主は、工場を近代化しようとしますが、機械や電力が不足しているため、人間の労働を強化することで生産量を増やします。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005528</GUID>
+      <Text>都市の工場での産業プロセスの発展に感銘を受けた土地所有者は、職人のワークショップも近代化したいと考えています。しかし、彼らは工場に十分な機械と電力を供給することができないため、人的資源の使用を増やして、より多くの生産量を強引に生産しています。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005529</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005530</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005531</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005532</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005533</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005534</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005535</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005536</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005537</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005538</GUID>
+      <Text>地域農業什分の一政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005539</GUID>
+      <Text>社会福祉政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005540</GUID>
+      <Text>ホーム ワークショップポリシー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005541</GUID>
+      <Text>持続可能な野生生物政策</Text>
+    </Text>
+    <Text>
+      <GUID>1999005542</GUID>
+      <Text>ワークショップ・イノベーション・ポリシー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005543</GUID>
+      <Text>すべての伝統的な職人のワークショップ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005544</GUID>
+      <Text>ワークショップ・イノベーション・ポリシー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005545</GUID>
+      <Text>ワークショップ・イノベーション・ポリシー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005546</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005547</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005548</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005549</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005550</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005551</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005552</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005553</GUID>
+      <Text>マナーパークの拡大</Text>
+    </Text>
+    <Text>
+      <GUID>1999005554</GUID>
+      <Text>マナーパークエントランス</Text>
+    </Text>
+    <Text>
+      <GUID>1999005555</GUID>
+      <Text>&lt;b&gt;この門は、壮大なマナーパークの始まりにすぎません!このカテゴリーの装飾品や、邸宅の近くに特定のバニラ装飾を建てて、それを拡大しましょう。&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;各装飾品は、土地所有者の「マナーパーク」の必要性を少しだけ減らします。荘園の近くに十分な装飾品を建設して、必要量を100%減らすことで、土地所有者のニーズを満たすことができます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005559</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(レベル1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005560</GUID>
+      <Text>女王は、市民により多くの貴族の称号を割り当てることができるようになったとあなたに知らせます。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005561</GUID>
+      <Text>女王は、一定額のお金と引き換えに、より多くの貴族の称号をあなたに付与します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005562</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(レベル2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005563</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005564</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(レベル4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005565</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005566</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005567</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(レベル7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005568</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005569</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(レベル9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005570</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv.10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005571</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv.11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005572</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005573</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv.13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005574</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(レベル14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005575</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv.15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005576</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv.16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005577</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005578</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(レベル18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005579</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv.19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005580</GUID>
+      <Text>貴族の拡大&lt;br /&gt;(Lv20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005581</GUID>
+      <Text>オランジェリー栽培エリア</Text>
+    </Text>
+    <Text>
+      <GUID>1999005582</GUID>
+      <Text>オランジェリーのための追加の栽培エリア</Text>
+    </Text>
+    <Text>
+      <GUID>1999005583</GUID>
+      <Text>果樹園の剪定</Text>
+    </Text>
+    <Text>
+      <GUID>1999005584</GUID>
+      <Text>オランジェリーの労働者に柑橘類の木の枝を刈り込むための洗練されたツールを提供することで、全体的な収量が増加します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005587</GUID>
+      <Text>伝統的な市場の屋台</Text>
+    </Text>
+    <Text>
+      <GUID>1999005588</GUID>
+      <Text>ラバーズパーク</Text>
+    </Text>
+    <Text>
+      <GUID>1999005589</GUID>
+      <Text>マーメイドファウンテン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005590</GUID>
+      <Text>バニーパビリオン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005591</GUID>
+      <Text>マナーパーク&amp;伝統的な装飾品</Text>
+    </Text>
+    <Text>
+      <GUID>1999005592</GUID>
+      <Text>この門は、壮大なマナーパークの始まりにすぎません!その周りに装飾品を建てて拡張します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005594</GUID>
+      <Text>きれいな水の供給</Text>
+    </Text>
+    <Text>
+      <GUID>1999005596</GUID>
+      <Text>処理水供給</Text>
+    </Text>
+    <Text>
+      <GUID>1999005597</GUID>
+      <Text>現代の地主邸宅</Text>
+    </Text>
+    <Text>
+      <GUID>1999005598</GUID>
+      <Text>受粉の強化</Text>
+    </Text>
+    <Text>
+      <GUID>1999005599</GUID>
+      <Text>受粉の強化</Text>
+    </Text>
+    <Text>
+      <GUID>1999005630</GUID>
+      <Text>肥料サイロ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005633</GUID>
+      <Text>ホースプラウ納屋</Text>
+    </Text>
+    <Text>
+      <GUID>1999005634</GUID>
+      <Text>ホースプラウは、農場の耕作面積と生産性を向上させると同時に、馬と道具を消費しながら労働力の要件を減らします。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005635</GUID>
+      <Text>ホースプラウ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005638</GUID>
+      <Text>バイオリン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005639</GUID>
+      <Text>伝統的な大工:バイオリン</Text>
+    </Text>
+    <Text>
+      <GUID>1999005641</GUID>
+      <Text>土地所有者は、公式に交渉された貿易協定から逸脱して、トレーダーとの収益性の高い「追加」取引を確保しています。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005642</GUID>
+      <Text>「追加」エクスポート</Text>
+    </Text>
+    <Text>
+      <GUID>1999005643</GUID>
+      <Text>土地改革法</Text>
+    </Text>
+    <Text>
+      <GUID>1999005644</GUID>
+      <Text>土地所有者は、公式に交渉された貿易協定から逸脱して、トレーダーとの収益性の高い「追加」取引を確保しており、その過程で追加の貿易ライセンスを確保しています。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>適切な取り扱い桟橋と包装の進歩により、輸入桟橋の効率が向上します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>ハンドリング橋脚</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>適切な取り扱い桟橋と包装の進歩により、輸入桟橋の効率が向上し、保管されている輸入品が長持ちします。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005664</GUID>
+      <Text>倹約を説く</Text>
+    </Text>
+    <Text>
+      <GUID>1999005665</GUID>
+      <Text>倹約を説く</Text>
+    </Text>
+    <Text>
+      <GUID>1999005666</GUID>
+      <Text>倹約の説教 - 地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005667</GUID>
+      <Text>投資家と土地所有者は、すべての商品の消費を5%減らします。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005668</GUID>
+      <Text>すべての商品</Text>
+    </Text>
+    <Text>
+      <GUID>1999005669</GUID>
+      <Text>動物園訪問</Text>
+    </Text>
+    <Text>
+      <GUID>1999005670</GUID>
+      <Text>美術館訪問</Text>
+    </Text>
+    <Text>
+      <GUID>1999005671</GUID>
+      <Text>植物園訪問</Text>
+    </Text>
+    <Text>
+      <GUID>1999005672</GUID>
+      <Text>文化</Text>
+    </Text>
+    <Text>
+      <GUID>1999005673</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005674</GUID>
+      <Text>すべての管理棟には、標準のデバフが付属しています。管理範囲外の建物は正しく機能しません。それらを管理の半径内に移動するか、より多くの土地所有者の労働力を割り当てることで範囲を広げます(2番目のUIでShift + Cを押す)最初のデバフを相殺するカウンターバフを取得します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005675</GUID>
+      <Text>すべての管理モジュール</Text>
+    </Text>
+    <Text>
+      <GUID>1999005676</GUID>
+      <Text>デフォルトの管理デバフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005677</GUID>
+      <Text>電気バフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005678</GUID>
+      <Text>地主</Text>
+    </Text>
+    <Text>
+      <GUID>1999005679</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005680</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005681</GUID>
+      <Text>デフォルトの管理デバフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005682</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005683</GUID>
+      <Text>デフォルトの管理デバフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005684</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005685</GUID>
+      <Text>デフォルトの管理デバフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005686</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005687</GUID>
+      <Text>デフォルトの管理デバフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005688</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005689</GUID>
+      <Text>デフォルトの管理デバフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005690</GUID>
+      <Text>管理範囲内</Text>
+    </Text>
+    <Text>
+      <GUID>1999005691</GUID>
+      <Text>デフォルトの管理デバフ</Text>
+    </Text>
+    <Text>
+      <GUID>1999005800</GUID>
+      <Text>土地所有者の数が増えるにつれて、文化施設の建設と拡張に投資し始め、展示会の効果が高まり、島の魅力がレベルごとに向上します。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005801</GUID>
+      <Text>伝統的な後援(レベル1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005802</GUID>
+      <Text>伝統的な後援(レベル2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005803</GUID>
+      <Text>伝統的な後援(レベル3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005804</GUID>
+      <Text>伝統的な後援(レベル4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005805</GUID>
+      <Text>伝統的な後援(レベル5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005806</GUID>
+      <Text>伝統的な後援(レベル6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005807</GUID>
+      <Text>伝統的な後援(レベル7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005808</GUID>
+      <Text>伝統的な後援(レベル8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005809</GUID>
+      <Text>伝統的な後援(レベル9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005810</GUID>
+      <Text>伝統的な後援(レベル10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005811</GUID>
+      <Text>伝統的な後援(レベル11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005812</GUID>
+      <Text>伝統的な後援(レベル12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005813</GUID>
+      <Text>伝統的な後援(レベル13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005814</GUID>
+      <Text>伝統的な後援(レベル14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005815</GUID>
+      <Text>伝統的な後援(レベル15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005816</GUID>
+      <Text>伝統的な後援(レベル16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005817</GUID>
+      <Text>伝統的な後援(レベル17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005818</GUID>
+      <Text>伝統的な後援(レベル18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005819</GUID>
+      <Text>伝統的な後援(レベル19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005820</GUID>
+      <Text>伝統的な後援(レベル20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005864</GUID>
+      <Text>伝統的な後援</Text>
+    </Text>
+    <Text>
+      <GUID>1999005864</GUID>
+      <Text>伝統的な後援</Text>
+    </Text>
+    <Text>
+      <GUID>1999005865</GUID>
+      <Text>レベル1</Text>
+    </Text>
+    <Text>
+      <GUID>1999005866</GUID>
+      <Text>レベル2</Text>
+    </Text>
+    <Text>
+      <GUID>1999005867</GUID>
+      <Text>レベル3</Text>
+    </Text>
+    <Text>
+      <GUID>1999005868</GUID>
+      <Text>レベル4</Text>
+    </Text>
+    <Text>
+      <GUID>1999005869</GUID>
+      <Text>レベル5</Text>
+    </Text>
+    <Text>
+      <GUID>1999005870</GUID>
+      <Text>レベル6</Text>
+    </Text>
+    <Text>
+      <GUID>1999005871</GUID>
+      <Text>レベル7</Text>
+    </Text>
+    <Text>
+      <GUID>1999005872</GUID>
+      <Text>レベル8</Text>
+    </Text>
+    <Text>
+      <GUID>1999005873</GUID>
+      <Text>レベル9</Text>
+    </Text>
+    <Text>
+      <GUID>1999005874</GUID>
+      <Text>レベル10</Text>
+    </Text>
+    <Text>
+      <GUID>1999005875</GUID>
+      <Text>レベル11</Text>
+    </Text>
+    <Text>
+      <GUID>1999005876</GUID>
+      <Text>レベル12</Text>
+    </Text>
+    <Text>
+      <GUID>1999005877</GUID>
+      <Text>レベル13</Text>
+    </Text>
+    <Text>
+      <GUID>1999005878</GUID>
+      <Text>レベル14</Text>
+    </Text>
+    <Text>
+      <GUID>1999005879</GUID>
+      <Text>レベル15</Text>
+    </Text>
+    <Text>
+      <GUID>1999005880</GUID>
+      <Text>レベル16</Text>
+    </Text>
+    <Text>
+      <GUID>1999005881</GUID>
+      <Text>レベル17</Text>
+    </Text>
+    <Text>
+      <GUID>1999005882</GUID>
+      <Text>レベル18</Text>
+    </Text>
+    <Text>
+      <GUID>1999005883</GUID>
+      <Text>レベル19</Text>
+    </Text>
+    <Text>
+      <GUID>1999005884</GUID>
+      <Text>レベル20</Text>
+    </Text>
+    <Text>
+      <GUID>1999005901</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005902</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005903</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005904</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005905</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005906</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005907</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005908</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005909</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005910</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005911</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005912</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005913</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005914</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005915</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005916</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005917</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005918</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005919</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005920</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191132) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006001</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006002</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006003</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006004</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006005</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006006</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006007</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006008</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006009</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006010</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006011</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006012</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006013</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006014</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006015</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006016</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006017</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006018</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006019</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006020</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191133) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006101</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006102</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006103</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006104</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006105</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006106</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006107</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006108</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006109</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006110</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006111</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006112</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006113</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006114</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006115</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006116</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006117</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006118</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006119</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006120</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191134) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006201</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006202</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006203</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006204</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006205</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006206</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006207</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006208</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006209</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006210</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006211</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006212</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006213</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006214</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006215</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006216</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006217</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006218</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006219</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006220</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191140) テキスト] (レベル20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006301</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006302</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006303</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006304</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006305</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006306</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006307</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006308</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006309</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006310</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006311</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006312</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006313</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006314</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006315</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006316</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006317</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006318</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006319</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006320</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191136) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006401</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006402</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006403</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006404</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006405</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006406</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006407</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006408</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006409</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006410</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006411</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006412</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006413</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006414</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006415</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006416</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006417</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006418</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006419</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006420</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191138) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006501</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006502</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006503</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006504</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006505</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006506</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006507</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006508</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006509</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006510</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006511</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006512</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006513</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006514</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006515</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006516</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006517</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006518</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006519</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006520</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191139) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006601</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006602</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006603</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006604</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006605</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006606</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006607</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006608</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006609</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006610</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006611</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006612</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006613</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006614</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006615</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006616</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006617</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006618</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006619</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006620</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191135) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006701</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006702</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006703</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006704</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006705</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006706</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006707</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006708</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006709</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006710</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006711</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006712</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006713</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006714</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006715</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006716</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006717</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006718</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006719</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006720</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193194) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006801</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006802</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006803</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006804</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006805</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006806</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006807</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006808</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006809</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006810</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006811</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006812</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006813</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006814</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006815</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006816</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006817</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006818</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006819</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006820</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193402) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006901</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006902</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006903</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006904</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006905</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006906</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006907</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006908</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006909</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006910</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006911</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006912</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006913</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006914</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006915</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006916</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006917</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006918</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006919</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006920</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193404) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007001</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007002</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007003</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007004</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007005</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007006</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007007</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007008</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007009</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007010</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007011</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007012</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007013</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007014</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007015</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007016</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007017</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007018</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007019</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007020</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191137) Text] (Lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007101</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007102</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007103</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007104</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007105</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007106</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007107</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007108</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007109</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007110</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007111</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007112</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007113</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007114</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007115</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007116</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007117</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007118</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007119</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007120</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193772) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007201</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007202</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007203</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007204</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007205</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007206</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007207</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007208</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007209</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007210</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007211</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007212</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007213</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007214</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007215</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007216</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007217</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007218</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007219</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007220</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124206) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007301</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007302</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007303</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007304</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007305</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007306</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007307</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007308</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007309</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007310</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007311</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007312</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007313</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007314</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007315</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007316</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007317</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007318</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007319</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007320</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124207) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007401</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007402</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007403</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007404</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007405</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007406</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007407</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007408</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007409</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007410</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007411</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007412</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007413</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007414</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007415</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007416</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007417</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007418</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007419</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007420</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124208) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007501</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007502</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007503</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007504</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007505</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007506</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007507</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007508</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007509</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007510</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007511</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007512</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007513</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007514</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007515</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007516</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007517</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007518</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007519</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007520</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124209) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007601</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007602</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007603</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007604</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007605</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007606</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007607</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007608</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007609</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007610</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007611</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007612</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007613</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007614</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007615</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007616</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007617</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007618</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007619</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007620</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124210) テキスト] (レベル20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007701</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007702</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007703</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007704</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007705</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007706</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007707</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007708</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007709</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007710</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007711</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007712</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007713</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007714</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007715</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007716</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007717</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007718</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007719</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007720</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191148) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007801</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007802</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007803</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007804</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007805</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007806</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007807</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007808</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007809</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007810</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007811</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007812</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007813</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007814</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007815</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007816</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007817</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007818</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007819</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007820</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191145) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007901</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007902</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007903</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007904</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007905</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007906</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007907</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007908</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007909</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007910</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007911</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007912</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007913</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007914</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007915</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007916</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007917</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007918</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007919</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007920</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191147) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008001</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008002</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008003</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008004</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008005</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008006</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008007</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008008</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008009</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008010</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008011</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008012</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008013</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008014</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008015</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008016</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008017</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008018</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008019</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008020</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191146) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008101</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008102</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008103</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008104</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008105</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008106</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008107</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008108</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008109</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008110</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008111</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008112</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008113</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008114</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008115</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008116</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008117</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008118</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008119</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008120</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191142) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008201</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008202</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008203</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008204</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008205</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008206</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008207</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008208</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008209</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008210</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008211</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008212</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008213</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008214</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008215</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008216</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008217</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008218</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008219</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008220</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191144) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008301</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008302</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008303</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008304</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008305</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008306</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008307</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008308</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008309</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008310</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008311</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008312</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008313</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008314</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008315</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008316</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008317</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008318</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008319</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008320</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191149) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008401</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008402</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008403</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008404</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008405</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008406</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008407</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008408</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008409</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008410</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008411</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008412</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008413</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008414</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008415</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008416</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008417</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008418</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008419</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008420</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191143) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008501</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008502</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008503</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008504</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008505</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008506</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008507</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008508</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008509</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008510</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008511</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008512</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008513</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008514</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008515</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008516</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008517</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008518</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008519</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008520</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(191141) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008601</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008602</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008603</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008604</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008605</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008606</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008607</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008608</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008609</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008610</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008611</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008612</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008613</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008614</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008615</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008616</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008617</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008618</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008619</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008620</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193406) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008701</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008702</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008703</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008704</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008705</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008706</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008707</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008708</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008709</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008710</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008711</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008712</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008713</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008714</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008715</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008716</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008717</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008718</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008719</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008720</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193407) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008801</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008802</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008803</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008804</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008805</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008806</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008807</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008808</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008809</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008810</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008811</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008812</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008813</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008814</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008815</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008816</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008817</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008818</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008819</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008820</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193775) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008901</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008902</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008903</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008904</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008905</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008906</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008907</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008908</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008909</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008910</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008911</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008912</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008913</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008914</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008915</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008916</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008917</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008918</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008919</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008920</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193777) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009001</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009002</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009003</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009004</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009005</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009006</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009007</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009008</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009009</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009010</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009011</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009012</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009013</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009014</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009015</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009016</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009017</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009018</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009019</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009020</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124913) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009101</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009102</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009103</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009104</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009105</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009106</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009107</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009108</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009109</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009110</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009111</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009112</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009113</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009114</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009115</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009116</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009117</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009118</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009119</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009120</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124914) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009201</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009202</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009203</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009204</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009205</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009206</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009207</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009208</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009209</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009210</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009211</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009212</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009213</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009214</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009215</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009216</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009217</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009218</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009219</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009220</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124915) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009301</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009302</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009303</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009304</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009305</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009306</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009307</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009308</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009309</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009310</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009311</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009312</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009313</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009314</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009315</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009316</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009317</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009318</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009319</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009320</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(124916) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009401</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009402</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009403</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009404</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009405</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009406</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009407</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009408</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009409</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009410</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009411</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009412</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009413</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009414</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009415</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009416</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009417</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009418</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009419</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009420</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193764) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009501</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009502</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009503</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009504</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009505</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009506</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009507</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009508</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009509</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009510</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009511</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009512</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009513</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009514</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009515</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009516</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009517</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009518</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009519</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009520</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193654) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009601</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009602</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009603</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009604</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009605</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009606</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009607</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009608</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009609</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009610</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009611</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009612</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009613</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009614</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009615</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009616</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009617</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009618</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009619</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009620</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193656) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009701</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009702</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009703</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009704</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009705</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009706</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009707</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009708</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009709</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009710</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009711</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009712</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009713</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009714</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009715</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009716</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009717</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009718</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009719</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009720</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193765) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009801</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009802</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009803</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009804</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009805</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009806</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009807</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009808</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009809</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009810</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009811</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009812</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009813</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009814</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009815</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009816</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009817</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009818</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009819</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009820</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193661) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009901</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009902</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009903</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009904</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009905</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009906</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009907</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009908</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009909</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009910</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009911</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009912</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009913</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009914</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009915</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009916</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009917</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009918</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009919</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009920</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193766) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010001</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010002</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010003</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010004</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010005</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010006</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010007</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010008</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010009</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010010</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010011</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010012</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010013</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010014</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010015</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010016</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010017</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010018</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010019</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010020</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193767) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010101</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010102</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010103</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010104</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010105</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010106</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010107</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010108</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010109</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010110</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010111</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010112</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010113</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010114</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010115</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010116</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010117</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010118</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010119</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010120</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193669) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010201</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010202</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010203</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010204</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010205</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010206</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010207</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010208</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010209</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010210</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010211</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010212</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010213</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010214</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010215</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010216</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010217</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010218</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010219</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010220</GUID>
+      <Text>伝統的な後援: &lt;br /&gt;[AssetData(193768) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010302</GUID>
+      <Text>すべてのマナー</Text>
+    </Text>
+    <Text>
+      <GUID>1999010305</GUID>
+      <Text>古い貴族</Text>
+    </Text>
+    <Text>
+      <GUID>1999010307</GUID>
+      <Text>家父長制の独裁政治</Text>
+    </Text>
+    <Text>
+      <GUID>1999010309</GUID>
+      <Text>現代の保守主義</Text>
+    </Text>
+    <Text>
+      <GUID>1999010311</GUID>
+      <Text>自給自足農業</Text>
+    </Text>
+    <Text>
+      <GUID>1999010313</GUID>
+      <Text>工業化前</Text>
+    </Text>
+    <Text>
+      <GUID>1999010315</GUID>
+      <Text>伝統工芸の技</Text>
+    </Text>
+    <Text>
+      <GUID>1999010317</GUID>
+      <Text>糞や馬が引く鋤の普及が農業に革命を起こす</Text>
+    </Text>
+    <Text>
+      <GUID>1999010318</GUID>
+      <Text>農家は、新しく開発された馬車の導入に困惑しています。収穫量は急上昇し、忘却の彼方へと進んでいます。すぐに、インタビューを受けた農民は、この新しいミリカーレ鋼製鋤の助けを借りて、彼は一人で彼の村を養うことができると言いました!私たちは、[参加者の現在のプロフィールCompanyName]が再び土壌の道をシェブロンすることを期待しています。</Text>
+    </Text>
+    <Text>
+      <GUID>1999010320</GUID>
+      <Text>旧倉庫</Text>
+    </Text>
+    <Text>
+      <GUID>1999010408</GUID>
+      <Text>教皇庁のミサ</Text>
+    </Text>
+    <Text>
+      <GUID>1999010321</GUID>
+      <Text>教皇庁のミサ</Text>
+    </Text>
+    <Text>
+      <GUID>1999010322</GUID>
+      <Text>チラシ、勅令、宗教専門家</Text>
+    </Text>
+    <Text>
+      <GUID>1999010323</GUID>
+      <Text>毎週日曜日に教会に行くことは、結局のところ、ある時点でそれだけの価値があるかもしれません...</Text>
+    </Text>
+    <Text>
+      <GUID>1999010380</GUID>
+      <Text>教皇庁のミサを開催する</Text>
+    </Text>
+    <Text>
+      <GUID>1999010381</GUID>
+      <Text>教皇庁のミサの間、大聖堂から美しい合唱の歌声が響き渡ります</Text>
+    </Text>
+    <Text>
+      <GUID>1999010382</GUID>
+      <Text>今週、かなりの量のグッズがコレクションに寄付されました</Text>
+    </Text>
+    <Text>
+      <GUID>1999010383</GUID>
+      <Text>チラシ、勅令、宗教専門家</Text>
+    </Text>
+    <Text>
+      <GUID>1999010384</GUID>
+      <Text>教皇庁のミサ</Text>
+    </Text>
+    <Text>
+      <GUID>1999010385</GUID>
+      <Text>チラシ、パンフレット、新聞</Text>
+    </Text>
+    <Text>
+      <GUID>1999010386</GUID>
+      <Text>脆弱な典礼規則</Text>
+    </Text>
+    <Text>
+      <GUID>1999010387</GUID>
+      <Text>堅固な典礼規則</Text>
+    </Text>
+    <Text>
+      <GUID>1999010388</GUID>
+      <Text>広範な典礼規則</Text>
+    </Text>
+    <Text>
+      <GUID>1999010389</GUID>
+      <Text>宗教専門家</Text>
+    </Text>
+    <Text>
+      <GUID>1999010407</GUID>
+      <Text>予想される収集量</Text>
+    </Text>
+    <Text>
+      <GUID>1999010408</GUID>
+      <Text>教皇庁のミサ</Text>
+    </Text>
+    <Text>
+      <GUID>1999010409</GUID>
+      <Text>聖具室へのアクセス</Text>
+    </Text>
+    <Text>
+      <GUID>1999010410</GUID>
+      <Text>サービスへの予想出席者数</Text>
+    </Text>
+    <Text>
+      <GUID>1999010411</GUID>
+      <Text>次の典礼のための計画</Text>
+    </Text>
+    <Text>
+      <GUID>1999010412</GUID>
+      <Text>あなたの民は説教によって元気を取り戻し、家に帰りました</Text>
+    </Text>
+    <Text>
+      <GUID>1999010413</GUID>
+      <Text>コレクションへの土地所有者の貢献</Text>
+    </Text>
+    <Text>
+      <GUID>1999010414</GUID>
+      <Text>説教の余波</Text>
+    </Text>
+    <Text>
+      <GUID>1999010415</GUID>
+      <Text>ホスト</Text>
+    </Text>
+    <Text>
+      <GUID>1999010416</GUID>
+      <Text>マスワイン</Text>
+    </Text>
+    <Text>
+      <GUID>1999010417</GUID>
+      <Text>犠牲のキャンドル</Text>
+    </Text>
+    <Text>
+      <GUID>1999010418</GUID>
+      <Text>典礼文学</Text>
+    </Text>
+    <Text>
+      <GUID>1999010419</GUID>
+      <Text>宗教画</Text>
+    </Text>
+    <Text>
+      <GUID>1999010425</GUID>
+      <Text>モニュメントイベントの余波</Text>
+    </Text>
+    <Text>
+      <GUID>1999010426</GUID>
+      <Text>イベントカレンダー</Text>
+    </Text>
+    <Text>
+      <GUID>1999010427</GUID>
+      <Text>この街がこれまでに見た中で最も大きなイベントの1つを計画してください!市立劇場では、あなたのハイクラスを楽しませるためのさまざまなイベントを開催できます!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010428</GUID>
+      <Text>ドラマ、劇場、演劇</Text>
+    </Text>
+    <Text>
+      <GUID>1999010429</GUID>
+      <Text>クラシックコンサート</Text>
+    </Text>
+    <Text>
+      <GUID>1999010430</GUID>
+      <Text>スヌーカー選手権</Text>
+    </Text>
+    <Text>
+      <GUID>1999010431</GUID>
+      <Text>科学展</Text>
+    </Text>
+    <Text>
+      <GUID>1999010432</GUID>
+      <Text>映画上映会</Text>
+    </Text>
+    <Text>
+      <GUID>1999010433</GUID>
+      <Text>ファッションショー</Text>
+    </Text>
+    <Text>
+      <GUID>1999010434</GUID>
+      <Text>美術展</Text>
+    </Text>
+    <Text>
+      <GUID>1999010435</GUID>
+      <Text>市立劇場:ドラマ劇場</Text>
+    </Text>
+    <Text>
+      <GUID>1999010436</GUID>
+      <Text>ホームズ氏は、今回、新たに発明した推理法で再び犯人を有罪にすることができるのでしょうか?あなたのステートシアターでの最新公演で見つけてください!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010437</GUID>
+      <Text>市立劇場:クラシックコンサート</Text>
+    </Text>
+    <Text>
+      <GUID>1999010438</GUID>
+      <Text>モーツァルト、ベートーヴェン、ヘイデン!世界で最も美しい作品がステージに生きています!あなたが専門家にお金を使うことができるとき、家で才能のないいじくり回しはもうありません!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010439</GUID>
+      <Text>市立劇場:スヌーカー選手権</Text>
+    </Text>
+    <Text>
+      <GUID>1999010440</GUID>
+      <Text>落ち着いて熟考しながら、小さなボールは明らかに特大のテーブルの上に計画されたストロークで押し出されます。客席では静かにしてください!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010441</GUID>
+      <Text>市立劇場:科学展</Text>
+    </Text>
+    <Text>
+      <GUID>1999010442</GUID>
+      <Text>私たちの時代の最も賢いエンジニアが彼らの新しい発明を発表し、さらにはそれらをライブでデモンストレーションするとき、たくさんのガタガタとバンバンと音を立てます!気をつけて:隠れてください!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010443</GUID>
+      <Text>市立劇場:映画上映会</Text>
+    </Text>
+    <Text>
+      <GUID>1999010444</GUID>
+      <Text>ここの画面は、自宅のプロジェクターの約30倍の大きさです。なんという画質の違いでしょう。</Text>
+    </Text>
+    <Text>
+      <GUID>1999010445</GUID>
+      <Text>市立劇場:ファッションショー</Text>
+    </Text>
+    <Text>
+      <GUID>1999010446</GUID>
+      <Text>世界中のモデルが、最も才能のあるドレスメーカーによる最新のコレクションを紹介します!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010447</GUID>
+      <Text>市立劇場:美術展</Text>
+    </Text>
+    <Text>
+      <GUID>1999010448</GUID>
+      <Text>分厚いガラスの手すりの下には貴重なジュエリーがきらめき、壁には有名な芸術家の絵画が飾られています。自分の家よりもさらに良いです!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010449</GUID>
+      <Text>市立劇場:ドラマ劇場</Text>
+    </Text>
+    <Text>
+      <GUID>1999010450</GUID>
+      <Text>市立劇場:クラシックコンサート</Text>
+    </Text>
+    <Text>
+      <GUID>1999010451</GUID>
+      <Text>市立劇場:スヌーカー選手権</Text>
+    </Text>
+    <Text>
+      <GUID>1999010452</GUID>
+      <Text>市立劇場:科学展</Text>
+    </Text>
+    <Text>
+      <GUID>1999010453</GUID>
+      <Text>市立劇場:映画上映会</Text>
+    </Text>
+    <Text>
+      <GUID>1999010454</GUID>
+      <Text>市立劇場:ファッションショー</Text>
+    </Text>
+    <Text>
+      <GUID>1999010455</GUID>
+      <Text>市立劇場:美術展</Text>
+    </Text>
+  </ModOp>
+</ModOps>

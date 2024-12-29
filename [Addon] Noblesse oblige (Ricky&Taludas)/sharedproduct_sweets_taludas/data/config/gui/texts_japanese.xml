@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005060</GUID>
+      <Text>お菓子</Text>
+    </Text>
+    <Text>
+      <GUID>1999005061</GUID>
+      <Text>砂糖がたっぷり入ったバケツから作られたカラフルなお菓子</Text>
+    </Text>
+    <Text>
+      <GUID>1999005062</GUID>
+      <Text>無理をしないでください、そうでなければあなたの歯科医はあまり幸せにならないでしょう!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

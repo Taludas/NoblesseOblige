@@ -1,0 +1,55 @@
+{
+  "Version": "3.0.0",
+  "ModID": "neutral_hacienda_genshi",
+  "IncompatibleIds": [],
+  "ModDependencies": [],
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "English": "Neutral Hacienda Base (Genshi)",
+    "Chinese": "Neutral Hacienda Base (Genshi)",
+    "French": "Neutral Hacienda Base (Genshi)",
+    "German": "Neutral Hacienda Base (Genshi)",
+    "Italian": "Neutral Hacienda Base (Genshi)",
+    "Japanese": "Neutral Hacienda Base (Genshi)",
+    "Korean": "Neutral Hacienda Base (Genshi)",
+    "Polish": "Neutral Hacienda Base (Genshi)",
+    "Russian": "Neutral Hacienda Base (Genshi)",
+    "Spanish": "Neutral Hacienda Base (Genshi)",
+    "Taiwanese": "Neutral Hacienda Base (Genshi)"
+  },
+  "Description": {
+    "English": "Provides a neutral hacienda UI",
+    "Chinese": "提供中性的庄园 UI",
+    "French": "Fournit une interface utilisateur hacienda neutre",
+    "German": "Bietet eine neutrale Hacienda-Benutzeroberfläche",
+    "Italian": "Fornisce un'interfaccia utente hacienda neutrale",
+    "Japanese": "中立的なハシエンダ UI を提供します",
+    "Korean": "중립적인 목장 UI 제공",
+    "Polish": "Zapewnia neutralny interfejs hacjendy",
+    "Russian": "Обеспечивает нейтральный пользовательский интерфейс гасиенды",
+    "Spanish": "Proporciona una interfaz de usuario de hacienda neutral",
+    "Taiwanese": "提供一个中性的庄园用户界面"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC":"SeedsOfChange",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Genshi",
+  "CreatorContact": null,
+  "Image": null
+}

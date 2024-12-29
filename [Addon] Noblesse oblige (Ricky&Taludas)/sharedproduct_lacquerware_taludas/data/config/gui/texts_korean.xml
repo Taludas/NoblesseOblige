@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005078</GUID>
+      <Text>칠기</Text>
+    </Text>
+    <Text>
+      <GUID>1999005079</GUID>
+      <Text>반짝이는 눈은 당신의 영혼을 똑바로 들여다보는 것 같습니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005080</GUID>
+      <Text>배에 싣지 마세요! 그것은 나쁜 영혼을 끌어들입니다!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005084</GUID>
+      <Text>Миндаль</Text>
+    </Text>
+    <Text>
+      <GUID>1999005085</GUID>
+      <Text>Знаете ли вы, что на самом деле это костянка?</Text>
+    </Text>
+    <Text>
+      <GUID>1999005086</GUID>
+      <Text>Некоторые сладкие, некоторые горькие. Выбирайте с умом...</Text>
+    </Text>
+  </ModOp>
+</ModOps>

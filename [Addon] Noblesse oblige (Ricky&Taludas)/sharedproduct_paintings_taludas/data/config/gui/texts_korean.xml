@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005069</GUID>
+      <Text>그림</Text>
+    </Text>
+    <Text>
+      <GUID>1999005070</GUID>
+      <Text>당신이 어디에 서 있든 이 초상화는 항상 당신의 눈을 똑바로 바라봅니다!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005071</GUID>
+      <Text>이것은 예술인가 쓰레기인가?!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

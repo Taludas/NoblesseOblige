@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005090</GUID>
+      <Text>番紅花</Text>
+    </Text>
+    <Text>
+      <GUID>1999005091</GUID>
+      <Text>世界上最昂貴的香料，但味道卻如此平淡無奇。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005092</GUID>
+      <Text>我們現在用黃金做飯了，是嗎？</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,5460 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005009</GUID>
+      <Text>Rose Madder Fertilidad</Text>
+    </Text>
+    <Text>
+      <GUID>1999005050</GUID>
+      <Text>Terratenientes</Text>
+    </Text>
+    <Text>
+      <GUID>1999005102</GUID>
+      <Text>Señorío</Text>
+    </Text>
+    <Text>
+      <GUID>1999005103</GUID>
+      <Text>Una residencia espléndida para albergar a la aristocracia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005104</GUID>
+      <Text>Terratenientes</Text>
+    </Text>
+    <Text>
+      <GUID>1999005105</GUID>
+      <Text>El terrateniente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005106</GUID>
+      <Text>El terrateniente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005107</GUID>
+      <Text>El terrateniente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005108</GUID>
+      <Text>El terrateniente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005109</GUID>
+      <Text>El terrateniente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005110</GUID>
+      <Text>El terrateniente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005111</GUID>
+      <Text>Terratenientes</Text>
+    </Text>
+    <Text>
+      <GUID>1999005112</GUID>
+      <Text>Terratenientes enojados</Text>
+    </Text>
+    <Text>
+      <GUID>1999005113</GUID>
+      <Text>Terratenientes descontentos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005114</GUID>
+      <Text>Contenido Propietarios de tierras</Text>
+    </Text>
+    <Text>
+      <GUID>1999005115</GUID>
+      <Text>Terratenientes felices</Text>
+    </Text>
+    <Text>
+      <GUID>1999005116</GUID>
+      <Text>Terratenientes eufóricos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005117</GUID>
+      <Text>Mansión espaciosa</Text>
+    </Text>
+    <Text>
+      <GUID>1999005118</GUID>
+      <Text>Lujosa mansión</Text>
+    </Text>
+    <Text>
+      <GUID>1999005120</GUID>
+      <Text>Administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005121</GUID>
+      <Text>Parque Solariega</Text>
+    </Text>
+    <Text>
+      <GUID>1999005122</GUID>
+      <Text>Orangerie</Text>
+    </Text>
+    <Text>
+      <GUID>1999005123</GUID>
+      <Text>Capilla</Text>
+    </Text>
+    <Text>
+      <GUID>1999005124</GUID>
+      <Text>Iglesia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005125</GUID>
+      <Text>Catedral</Text>
+    </Text>
+    <Text>
+      <GUID>1999005126</GUID>
+      <Text>Teatro Municipal</Text>
+    </Text>
+    <Text>
+      <GUID>1999005127</GUID>
+      <Text>Pozo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005128</GUID>
+      <Text>Palacio</Text>
+    </Text>
+    <Text>
+      <GUID>1999005129</GUID>
+      <Text>Gama PB de módulos Hidden-ForwardBuff Palace</Text>
+    </Text>
+    <Text>
+      <GUID>1999005130</GUID>
+      <Text>Gama de PB de aumento oculto de los módulos Palace</Text>
+    </Text>
+    <Text>
+      <GUID>1999005131</GUID>
+      <Text>Administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005132</GUID>
+      <Text>Permiso de Administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005200</GUID>
+      <Text>Orangerie</Text>
+    </Text>
+    <Text>
+      <GUID>1999005201</GUID>
+      <Text>Cítrico</Text>
+    </Text>
+    <Text>
+      <GUID>1999005300</GUID>
+      <Text>Residencia de Agricultores de Subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005301</GUID>
+      <Text>Residencia de Trabajadores Rurales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005302</GUID>
+      <Text>Residencia Artesanal Tradicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005303</GUID>
+      <Text>Agricultores de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005304</GUID>
+      <Text>Trabajadores Rurales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005305</GUID>
+      <Text>Artesanos Tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005066</GUID>
+      <Text>Productos de importación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005203</GUID>
+      <Text>Granja de subsistencia vacía</Text>
+    </Text>
+    <Text>
+      <GUID>1999005204</GUID>
+      <Text>Planta de Granja de Subsistencia Almanach</Text>
+    </Text>
+    <Text>
+      <GUID>1999005205</GUID>
+      <Text>Una descripción general de los tipos de cultivos disponibles para las granjas de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005206</GUID>
+      <Text>Papas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005207</GUID>
+      <Text>Verduras</Text>
+    </Text>
+    <Text>
+      <GUID>1999005208</GUID>
+      <Text>Cáñamo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005209</GUID>
+      <Text>Abejas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005210</GUID>
+      <Text>Grano</Text>
+    </Text>
+    <Text>
+      <GUID>1999005211</GUID>
+      <Text>Lúpulo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005212</GUID>
+      <Text>Hierbas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005213</GUID>
+      <Text>Uvas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005214</GUID>
+      <Text>La papa es algo notable: contiene una extraordinaria variedad de nutrientes, más potasio que un plátano y abundantes cantidades de vitamina C. Se puede freír, hornear, triturar, asar o guisar. Pero como todos sabemos, con este mod su uso principal ya no es solo el aguardiente.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005215</GUID>
+      <Text>¡Come tus verduras todos los días! Ricos en micronutrientes, estos alimentos básicos deberían formar parte de la dieta de todos para una vida sana y próspera.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005216</GUID>
+      <Text>Contrariamente a los cambios recientes en la legislación moderna, el único uso de estas plantas es por su alto contenido de fibra en la fabricación de textiles básicos y cuerdas.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005217</GUID>
+      <Text>Descripción de las abejas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005218</GUID>
+      <Text>Con el trigo se puede hacer pan y cerveza: una dieta completa, en lo que respecta a ciertas naciones del Viejo Mundo.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005219</GUID>
+      <Text>Una vez confinada a los jardines de los monasterios ricos, esta planta ahora se necesita en grandes cantidades por sus ingredientes conservantes para condimentar la bebida favorita de sus trabajadores.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005220</GUID>
+      <Text>En esta granja se cultiva una gran variedad de hierbas por sus hermosos colores y su aroma aromático. ¡Un ingrediente maravilloso para redondear cualquier plato! Definitivamente no debe faltar en ninguna cocina.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005221</GUID>
+      <Text>Uvas verdes y violetas de aspecto un poco apagado. ¡Estas cosechas recientes del Viejo Mundo deleitarán las almas de sus terratenientes!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005222</GUID>
+      <Text>Granja de papa de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005223</GUID>
+      <Text>Granja de hortalizas de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005224</GUID>
+      <Text>Granja de cáñamo de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005225</GUID>
+      <Text>Colmenar de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005226</GUID>
+      <Text>Granja de granos de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005227</GUID>
+      <Text>Granja de lúpulo de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005228</GUID>
+      <Text>Granja de hierbas de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005229</GUID>
+      <Text>Viñedo de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005230</GUID>
+      <Text>Granja de subsistencia Rose Madder</Text>
+    </Text>
+    <Text>
+      <GUID>1999005231</GUID>
+      <Text>Rosa Madder</Text>
+    </Text>
+    <Text>
+      <GUID>1999005232</GUID>
+      <Text>Madder es una planta de teñido tradicional. Desde la antigüedad hasta el descubrimiento de los tintes sintéticos, esta planta desempeñó un papel central en el proceso de teñido de telas. Su color rojo intenso se utilizaba a menudo como sustituto del muy caro púrpura de Tiro, pero no alcanza su tono único.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005233</GUID>
+      <Text>Plantación de Madder</Text>
+    </Text>
+    <Text>
+      <GUID>1999005234</GUID>
+      <Text>Granjas de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005235</GUID>
+      <Text>Resumen de todos los tipos de granjas de subsistencia disponibles</Text>
+    </Text>
+    <Text>
+      <GUID>25260</GUID>
+      <Text>Almanaque de la granja</Text>
+    </Text>
+    <Text>
+      <GUID>1999005236</GUID>
+      <Text>Todas las granjas de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005237</GUID>
+      <Text>Compatibilidad con partidas guardadas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005238</GUID>
+      <Text>Buff para soportar partidas guardadas existentes sin los fertilizantes requeridos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005241</GUID>
+      <Text>Compatibilidad con partidas guardadas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005242</GUID>
+      <Text>Buff para soportar partidas guardadas existentes sin los fertilizantes requeridos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005246</GUID>
+      <Text>Recolector de estiércol</Text>
+    </Text>
+    <Text>
+      <GUID>1999005247</GUID>
+      <Text>Las granjas de animales producen estiércol para su posterior procesamiento.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005248</GUID>
+      <Text>[AssetData(24806) Texto]</Text>
+    </Text>
+    <Text>
+      <GUID>1999005249</GUID>
+      <Text>[AssetData(24806) Texto]</Text>
+    </Text>
+    <Text>
+      <GUID>1999005250</GUID>
+      <Text>[AssetData(24806) Texto]</Text>
+    </Text>
+    <Text>
+      <GUID>1999005254</GUID>
+      <Text>Colmenar de subsistencia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005255</GUID>
+      <Text>Colonia de abejas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005257</GUID>
+      <Text>Ley de Reforma Agraria</Text>
+    </Text>
+    <Text>
+      <GUID>1999005643</GUID>
+      <Text>Ley de Reforma Agraria</Text>
+    </Text>
+    <Text>
+      <GUID>1999005256</GUID>
+      <Text>Pasto</Text>
+    </Text>
+    <Text>
+      <GUID>1999005258</GUID>
+      <Text>Chandler Tradicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005259</GUID>
+      <Text>Velas ornamentadas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005261</GUID>
+      <Text>Casa del pozo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005262</GUID>
+      <Text>Casa de bombas moderna</Text>
+    </Text>
+    <Text>
+      <GUID>1999005263</GUID>
+      <Text>Área de trabajo moderna de la casa de bombas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005264</GUID>
+      <Text>Bombas de agua</Text>
+    </Text>
+    <Text>
+      <GUID>1999005265</GUID>
+      <Text>Compatibilidad con partidas guardadas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005266</GUID>
+      <Text>Buff para soportar partidas guardadas existentes sin los fertilizantes requeridos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005269</GUID>
+      <Text>Huerto: Manzanas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005270</GUID>
+      <Text>Manzanos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005271</GUID>
+      <Text>Manzanas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005272</GUID>
+      <Text>¡Una manzana al día mantiene alejado al Doctor! ¡Elige una de las más de 20000 variedades! Las manzanas se pueden usar para hacer casi cualquier cosa que sepa bien: desde strudel de manzana hasta sidra fina. ¡Un verdadero todoterreno!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005273</GUID>
+      <Text>Cervecería Tradicional: Vacía</Text>
+    </Text>
+    <Text>
+      <GUID>1999005274</GUID>
+      <Text>Todos los brebajes tradicionales de la cervecería</Text>
+    </Text>
+    <Text>
+      <GUID>1999005275</GUID>
+      <Text>La Cervecería Tradicional puede producir cualquier bebida producida en el Viejo Mundo Mundial, siempre que hayas desbloqueado la necesidad. Seleccione una bebida, luego haga clic en el botón 'Comenzar a preparar' para comenzar.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005276</GUID>
+      <Text>Aguardiente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005277</GUID>
+      <Text>Sidra</Text>
+    </Text>
+    <Text>
+      <GUID>1999005278</GUID>
+      <Text>Vino</Text>
+    </Text>
+    <Text>
+      <GUID>1999005279</GUID>
+      <Text>Cerveza</Text>
+    </Text>
+    <Text>
+      <GUID>1999005280</GUID>
+      <Text>Coñac</Text>
+    </Text>
+    <Text>
+      <GUID>1999005281</GUID>
+      <Text>La sidra es una bebida que tiene miles de años de antigüedad y que ya era muy popular entre los celtas. Conservado por fermentación de levadura, el jugo de manzana dulce se convierte en un refresco afrutado y ácido para los días calurosos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005282</GUID>
+      <Text>El intenso sabor de estas uvas maduradas al sol produce un bouquet único. La maduración del vino joven en barricas de roble macizo afina aún más su sabor ácido.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005283</GUID>
+      <Text>Cervecería tradicional: aguardiente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005284</GUID>
+      <Text>Cervecería tradicional: Sidra de manzana</Text>
+    </Text>
+    <Text>
+      <GUID>1999005285</GUID>
+      <Text>Cervecería Tradicional: Vino</Text>
+    </Text>
+    <Text>
+      <GUID>1999005286</GUID>
+      <Text>Cervecería Tradicional: Cerveza</Text>
+    </Text>
+    <Text>
+      <GUID>1999005287</GUID>
+      <Text>Cervecería tradicional: Coñac</Text>
+    </Text>
+    <Text>
+      <GUID>1999005288</GUID>
+      <Text>Todas las cervecerías tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005289</GUID>
+      <Text>Todas las cervecerías tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005290</GUID>
+      <Text>Un resumen de todas las cervecerías tradicionales disponibles</Text>
+    </Text>
+    <Text>
+      <GUID>1999005291</GUID>
+      <Text>Sidra</Text>
+    </Text>
+    <Text>
+      <GUID>25265</GUID>
+      <Text>Brebajes de cervecería</Text>
+    </Text>
+    <Text>
+      <GUID>1999005292</GUID>
+      <Text>Carnicería de venado</Text>
+    </Text>
+    <Text>
+      <GUID>1999005293</GUID>
+      <Text>Utilizando mejores herramientas, este módulo permitirá la preparación de carne de venado a partir de la caza cazada.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005294</GUID>
+      <Text>Carnicería de venado</Text>
+    </Text>
+    <Text>
+      <GUID>1999005306</GUID>
+      <Text>Capilla</Text>
+    </Text>
+    <Text>
+      <GUID>1999005320</GUID>
+      <Text>Carpintería Tradicional: Vacía</Text>
+    </Text>
+    <Text>
+      <GUID>1999005321</GUID>
+      <Text>Artesanía Tradicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005322</GUID>
+      <Text>Los carpinteros expertos pueden elaborar una variedad de productos a partir de uno de los materiales más versátiles de la era preindustrial: la madera</Text>
+    </Text>
+    <Text>
+      <GUID>1999005323</GUID>
+      <Text>Herramientas rudimentarias</Text>
+    </Text>
+    <Text>
+      <GUID>1999005324</GUID>
+      <Text>Barriles</Text>
+    </Text>
+    <Text>
+      <GUID>1999005325</GUID>
+      <Text>Chapas de madera</Text>
+    </Text>
+    <Text>
+      <GUID>1999005326</GUID>
+      <Text>Chasis</Text>
+    </Text>
+    <Text>
+      <GUID>1999005327</GUID>
+      <Text>Las versiones más básicas de las maravillas de la ingeniería moderna se fabrican en estos talleres a partir de especies de madera dura adecuadas. ¡El uso de herramientas permitirá a sus trabajadores aumentar su productividad y llevar las cifras de producción a nuevas alturas!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005328</GUID>
+      <Text>Una de las primeras soluciones de almacenamiento en la historia moderna de la humanidad. Más duraderos y espaciosos que la cerámica, los barriles pueden almacenar casi cualquier tipo de producto para su uso posterior. Los barriles también son esenciales para refinar ciertas bebidas y convertirlas en deliciosos brebajes.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005329</GUID>
+      <Text>Estas chapas, talladas en maderas preciosas, están hechas a mano por hábiles artesanos. Las chapas de madera se utilizan en las aplicaciones más lujosas para sorprender a los amantes del arte más ardientes.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005330</GUID>
+      <Text>¡Este marco es solo el comienzo de algo enorme! Los chasis son esenciales para el desarrollo cada vez mayor del transporte personal. Y por último, esos bultos ya no te arruinarán los glúteos en los viajes largos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005331</GUID>
+      <Text>Carpintería tradicional: herramientas rudimentarias</Text>
+    </Text>
+    <Text>
+      <GUID>1999005332</GUID>
+      <Text>Carpintería Tradicional: Barricas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005333</GUID>
+      <Text>Carpintería tradicional: chapas de madera</Text>
+    </Text>
+    <Text>
+      <GUID>1999005334</GUID>
+      <Text>Carpintería Tradicional: Chasis</Text>
+    </Text>
+    <Text>
+      <GUID>1999005335</GUID>
+      <Text>Todas las carpinterías tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005336</GUID>
+      <Text>Todas las carpinterías tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005337</GUID>
+      <Text>Un resumen de todas las Carpinterías Tradicionales disponibles</Text>
+    </Text>
+    <Text>
+      <GUID>1999005295</GUID>
+      <Text>Cocina de guiso de pescado</Text>
+    </Text>
+    <Text>
+      <GUID>1999005296</GUID>
+      <Text>Estofado de pescado</Text>
+    </Text>
+    <Text>
+      <GUID>1999005297</GUID>
+      <Text>Confitería</Text>
+    </Text>
+    <Text>
+      <GUID>1999005298</GUID>
+      <Text>Dulce</Text>
+    </Text>
+    <Text>
+      <GUID>1999005299</GUID>
+      <Text>Pastel</Text>
+    </Text>
+    <Text>
+      <GUID>1999005338</GUID>
+      <Text>Mazapán</Text>
+    </Text>
+    <Text>
+      <GUID>1999005339</GUID>
+      <Text>Cocina tradicional de goulash</Text>
+    </Text>
+    <Text>
+      <GUID>1999005340</GUID>
+      <Text>Goulash</Text>
+    </Text>
+    <Text>
+      <GUID>1999005341</GUID>
+      <Text>Sastre Tradicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005342</GUID>
+      <Text>Trajes a medida</Text>
+    </Text>
+    <Text>
+      <GUID>1999005343</GUID>
+      <Text>Carpintero fino</Text>
+    </Text>
+    <Text>
+      <GUID>1999005344</GUID>
+      <Text>Muebles de lujo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005345</GUID>
+      <Text>Taller de pintura manual</Text>
+    </Text>
+    <Text>
+      <GUID>1999005346</GUID>
+      <Text>Estudio Artesanal</Text>
+    </Text>
+    <Text>
+      <GUID>1999005347</GUID>
+      <Text>Pinturas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005348</GUID>
+      <Text>Exquisito Restaurante</Text>
+    </Text>
+    <Text>
+      <GUID>1999005349</GUID>
+      <Text>Cena de langosta</Text>
+    </Text>
+    <Text>
+      <GUID>1999005350</GUID>
+      <Text>Granja de langosta</Text>
+    </Text>
+    <Text>
+      <GUID>1999005355</GUID>
+      <Text>Fábrica de laca</Text>
+    </Text>
+    <Text>
+      <GUID>1999005356</GUID>
+      <Text>Laca</Text>
+    </Text>
+    <Text>
+      <GUID>1999005357</GUID>
+      <Text>Contratos de exportación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005358</GUID>
+      <Text>Contrato de exportación: Herramientas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005362</GUID>
+      <Text>Contrato de exportación: Acero</Text>
+    </Text>
+    <Text>
+      <GUID>1999005360</GUID>
+      <Text>Contrato de Exportación: Armas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005361</GUID>
+      <Text>Contrato de exportación: Máquinas de coser</Text>
+    </Text>
+    <Text>
+      <GUID>1999005362</GUID>
+      <Text>Contrato de exportación: Dinamita</Text>
+    </Text>
+    <Text>
+      <GUID>1999005363</GUID>
+      <Text>Contrato de Exportación: Armas Avanzadas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005364</GUID>
+      <Text>Contrato de exportación: Máquinas de vapor</Text>
+    </Text>
+    <Text>
+      <GUID>1999005365</GUID>
+      <Text>Contrato de Exportación: Máquinas de Escribir</Text>
+    </Text>
+    <Text>
+      <GUID>1999005366</GUID>
+      <Text>Todos los contratos de exportación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005367</GUID>
+      <Text>Descripción de las herramientas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005368</GUID>
+      <Text>Descripción del acero</Text>
+    </Text>
+    <Text>
+      <GUID>1999005369</GUID>
+      <Text>Descripción de las armas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005370</GUID>
+      <Text>Descripción de las máquinas de coser</Text>
+    </Text>
+    <Text>
+      <GUID>1999005371</GUID>
+      <Text>Descripción de la dinamita</Text>
+    </Text>
+    <Text>
+      <GUID>1999005372</GUID>
+      <Text>Descripción de las armas avanzadas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005373</GUID>
+      <Text>Descripción de las máquinas de vapor</Text>
+    </Text>
+    <Text>
+      <GUID>1999005374</GUID>
+      <Text>Descripción de las máquinas de escribir</Text>
+    </Text>
+    <Text>
+      <GUID>1999005387</GUID>
+      <Text>Oficina Extra de Exportación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>Muelle de manipulación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005389</GUID>
+      <Text>Muelles de exportación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005390</GUID>
+      <Text>Un resumen de todos los muelles de exportación disponibles</Text>
+    </Text>
+    <Text>
+      <GUID>1999005391</GUID>
+      <Text>Muelle de importación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005392</GUID>
+      <Text>Contrato de Importación: Almendras</Text>
+    </Text>
+    <Text>
+      <GUID>1999005393</GUID>
+      <Text>Contrato de Importación: Ébano</Text>
+    </Text>
+    <Text>
+      <GUID>1999005394</GUID>
+      <Text>Contrato de Importación: Seda</Text>
+    </Text>
+    <Text>
+      <GUID>1999005395</GUID>
+      <Text>Contrato de Importación: Azafrán</Text>
+    </Text>
+    <Text>
+      <GUID>1999005396</GUID>
+      <Text>Contrato de Importación: Té</Text>
+    </Text>
+    <Text>
+      <GUID>1999005397</GUID>
+      <Text>Contrato de Importación: Diamantes</Text>
+    </Text>
+    <Text>
+      <GUID>1999005398</GUID>
+      <Text>Almendras Descripción</Text>
+    </Text>
+    <Text>
+      <GUID>1999005399</GUID>
+      <Text>Ébano Descripción</Text>
+    </Text>
+    <Text>
+      <GUID>1999005400</GUID>
+      <Text>Descripción de la seda</Text>
+    </Text>
+    <Text>
+      <GUID>1999005401</GUID>
+      <Text>Azafrán Descripción</Text>
+    </Text>
+    <Text>
+      <GUID>1999005402</GUID>
+      <Text>Descripción del té</Text>
+    </Text>
+    <Text>
+      <GUID>1999005403</GUID>
+      <Text>Diamantes Descripción</Text>
+    </Text>
+    <Text>
+      <GUID>1999005404</GUID>
+      <Text>Todos los contratos de importación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005405</GUID>
+      <Text>Muelle de Importación: Almendras</Text>
+    </Text>
+    <Text>
+      <GUID>1999005406</GUID>
+      <Text>Muelle de importación: Ébano</Text>
+    </Text>
+    <Text>
+      <GUID>1999005407</GUID>
+      <Text>Muelle de importación: Silk</Text>
+    </Text>
+    <Text>
+      <GUID>1999005408</GUID>
+      <Text>Muelle de importación: Azafrán</Text>
+    </Text>
+    <Text>
+      <GUID>1999005409</GUID>
+      <Text>Muelle de importación: Té</Text>
+    </Text>
+    <Text>
+      <GUID>1999005410</GUID>
+      <Text>Muelle de importación: Diamantes</Text>
+    </Text>
+    <Text>
+      <GUID>1999005411</GUID>
+      <Text>Muelle de importación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005412</GUID>
+      <Text>Muelles de importación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005413</GUID>
+      <Text>Un resumen de todos los muelles de importación disponibles</Text>
+    </Text>
+    <Text>
+      <GUID>1827</GUID>
+      <Text>Seleccionar Receta</Text>
+    </Text>
+    <Text>
+      <GUID>1829</GUID>
+      <Text>Lista de inventario</Text>
+    </Text>
+    <Text>
+      <GUID>1830</GUID>
+      <Text>Empezar</Text>
+    </Text>
+    <Text>
+      <GUID>1831</GUID>
+      <Text>Receta actual</Text>
+    </Text>
+    <Text>
+      <GUID>1832</GUID>
+      <Text>Haga clic en el botón para elegir una receta.</Text>
+    </Text>
+    <Text>
+      <GUID>25756</GUID>
+      <Text>Recetas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005415</GUID>
+      <Text>Catedral Imperial: Fundación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005416</GUID>
+      <Text>Una vez terminado este magnífico monumento, la Catedral Imperial proporciona todos los servicios públicos religiosos necesarios para sus residentes.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005417</GUID>
+      <Text>Catedral Imperial: Superestructura</Text>
+    </Text>
+    <Text>
+      <GUID>1999005418</GUID>
+      <Text>Catedral Imperial Etapa 2</Text>
+    </Text>
+    <Text>
+      <GUID>1999005419</GUID>
+      <Text>Catedral Imperial: Diseño de interiores</Text>
+    </Text>
+    <Text>
+      <GUID>1999005420</GUID>
+      <Text>Catedral Imperial Etapa 3</Text>
+    </Text>
+    <Text>
+      <GUID>1999005421</GUID>
+      <Text>Catedral Imperial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005422</GUID>
+      <Text>Proporciona todas las necesidades de servicio público religioso a sus residentes.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005423</GUID>
+      <Text>La Catedral Imperial es un lugar de culto. Una vez que este magnífico monumento esté terminado, la Catedral proveerá todas las necesidades de servicio público religioso y su población se centrará más en su fe y menos en el mundo material. El consumo de bienes se reducirá en un 5% y la felicidad aumentará en un 5.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005424</GUID>
+      <Text>Predicando la frugalidad - Inversores</Text>
+    </Text>
+    <Text>
+      <GUID>1999005425</GUID>
+      <Text>Catedral Imperial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005426</GUID>
+      <Text>Predicando la frugalidad</Text>
+    </Text>
+    <Text>
+      <GUID>1999005427</GUID>
+      <Text>Proporciona todas las necesidades de servicio público de entretenimiento a sus residentes.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005445</GUID>
+      <Text>Influencia de proporcionar acceso a una escuela</Text>
+    </Text>
+    <Text>
+      <GUID>1999005446</GUID>
+      <Text>Influencia de la provisión de caballos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005447</GUID>
+      <Text>Influencia de la provisión de caballos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005448</GUID>
+      <Text>Influencia de la provisión de caballos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005449</GUID>
+      <Text>Influencia de proporcionar acceso a un invernadero de naranjos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005450</GUID>
+      <Text>Influencia de proporcionar acceso a una capilla</Text>
+    </Text>
+    <Text>
+      <GUID>1999005451</GUID>
+      <Text>Influencia de proporcionar abrigos de piel</Text>
+    </Text>
+    <Text>
+      <GUID>1999005452</GUID>
+      <Text>Influencia de proporcionar abrigos de piel</Text>
+    </Text>
+    <Text>
+      <GUID>1999005453</GUID>
+      <Text>Influencia de la provisión de cigarros</Text>
+    </Text>
+    <Text>
+      <GUID>1999005454</GUID>
+      <Text>Influencia de la provisión de cigarros</Text>
+    </Text>
+    <Text>
+      <GUID>1999005455</GUID>
+      <Text>Influencia de la provisión de muebles de lujo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005456</GUID>
+      <Text>Influencia de la provisión de muebles de lujo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005457</GUID>
+      <Text>Influencia de la provisión de Pinturas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005458</GUID>
+      <Text>Influencia de la provisión de Pinturas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005462</GUID>
+      <Text>Influencia de proporcionar acceso a una Iglesia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005460</GUID>
+      <Text>Influencia de proporcionar acceso a un teatro de variedades</Text>
+    </Text>
+    <Text>
+      <GUID>1999005461</GUID>
+      <Text>Influencia de la oferta de relojes de bolsillo</Text>
+    </Text>
+    <Text>
+      <GUID>1999005462</GUID>
+      <Text>Influencia del suministro de laca</Text>
+    </Text>
+    <Text>
+      <GUID>1999005463</GUID>
+      <Text>Influencia del suministro de gramófonos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005464</GUID>
+      <Text>Influencia de facilitar el acceso a la Catedral Imperial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005465</GUID>
+      <Text>Influencia de proporcionar acceso a una ópera</Text>
+    </Text>
+    <Text>
+      <GUID>1999005466</GUID>
+      <Text>Influencia de proporcionar acceso a un Club de Miembros</Text>
+    </Text>
+    <Text>
+      <GUID>1999005467</GUID>
+      <Text>Abastecer a tus Propietarios con ciertas Necesidades de Felicidad te proporciona Influencia adicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005468</GUID>
+      <Text>Influencia del suministro de té</Text>
+    </Text>
+    <Text>
+      <GUID>19990055512</GUID>
+      <Text>Papel aristocrático requerido</Text>
+    </Text>
+    <Text>
+      <GUID>1999005514</GUID>
+      <Text>Política de Diezmos Agrícolas</Text>
+    </Text>
+    <Text>
+      <GUID>1999005515</GUID>
+      <Text>Los terratenientes exigen a los agricultores que paguen un diezmo por el uso de sus tierras.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005516</GUID>
+      <Text>Los terratenientes imponen la obligación a los agricultores que trabajan en sus tierras de pagar un diezmo a cambio de su provisión de tierra cultivable.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005517</GUID>
+      <Text>Política de Bienestar Social</Text>
+    </Text>
+    <Text>
+      <GUID>1999005518</GUID>
+      <Text>Un sistema de bienestar social apoya a aquellos que no pueden trabajar en una sociedad industrializada.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005519</GUID>
+      <Text>Para soportar la carga de la clase trabajadora en una sociedad cada vez más industrializada, un sistema de bienestar social proporciona seguridad a los que se quedan atrás o son incapaces de trabajar.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005520</GUID>
+      <Text>Política de Taller en Casa</Text>
+    </Text>
+    <Text>
+      <GUID>1999005521</GUID>
+      <Text>Los talleres domésticos en las granjas rurales aumentan significativamente la disponibilidad de productos de consumo para los estratos más bajos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005522</GUID>
+      <Text>Con la introducción de talleres domésticos en las granjas rurales, la disponibilidad de ciertos bienes de consumo para los estratos más bajos puede aumentarse en un buen margen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005523</GUID>
+      <Text>Política de Vida Silvestre Sostenible</Text>
+    </Text>
+    <Text>
+      <GUID>1999005524</GUID>
+      <Text>Los derechos de caza solo se entregarán a los miembros de la realeza.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005525</GUID>
+      <Text>Trasladar el derecho a cazar de los agricultores locales a un grupo más selectivo de individuos altamente entrenados con herramientas superiores da como resultado un aumento de la producción rara de cabañas de caza.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005526</GUID>
+      <Text>Taller de Política de Innovación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005527</GUID>
+      <Text>Impresionados por la industrialización, los terratenientes buscan modernizar sus talleres pero, al carecer de maquinaria y energía, aumentan la producción intensificando el trabajo humano.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005528</GUID>
+      <Text>Impresionados por el desarrollo de más procesos industriales en las fábricas de la ciudad, los terratenientes quieren modernizar también sus talleres artesanales. Sin embargo, dado que no pueden suministrar suficiente maquinaria y energía a los talleres, utilizan la fuerza bruta para aumentar la producción con un mayor uso de recursos humanos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005529</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005530</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005531</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005532</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005533</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005534</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005535</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005536</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005537</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005538</GUID>
+      <Text>Política de Diezmos Agrícolas Locales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005539</GUID>
+      <Text>Política de Bienestar Social</Text>
+    </Text>
+    <Text>
+      <GUID>1999005540</GUID>
+      <Text>Política de Taller en Casa</Text>
+    </Text>
+    <Text>
+      <GUID>1999005541</GUID>
+      <Text>Política de Vida Silvestre Sostenible</Text>
+    </Text>
+    <Text>
+      <GUID>1999005542</GUID>
+      <Text>Taller de Política de Innovación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005543</GUID>
+      <Text>Todo el taller artesanal tradicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005544</GUID>
+      <Text>Taller de Política de Innovación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005545</GUID>
+      <Text>Taller de Política de Innovación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005546</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005547</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005548</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005549</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005550</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005551</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005552</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005553</GUID>
+      <Text>Ampliación del parque señorial</Text>
+    </Text>
+    <Text>
+      <GUID>1999005554</GUID>
+      <Text>Entrada a Manor Park</Text>
+    </Text>
+    <Text>
+      <GUID>1999005555</GUID>
+      <Text>&lt;b&gt;¡Esta puerta es solo el comienzo de un magnífico parque señorial! Expándelo construyendo Adornos de esta categoría o ciertos de vainilla en las cercanías de tus Manusiones.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;Cada Ornamento reduce la necesidad de los Propietarios de "Parque Manor" en una pequeña cantidad. Construye suficientes Ornamentos en las cercanías de las Mansiones para reducir el requisito en un 100%, lo que resulta en el cumplimiento de las necesidades de tus Propietarios.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005559</GUID>
+      <Text>Expandiendo la Nobleza&lt;br /&gt;(Lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005560</GUID>
+      <Text>La Reina te informa que ahora puede asignar más Títulos Aristocráticos a tus ciudadanos.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005561</GUID>
+      <Text>La Reina te concederá más Títulos Aristocráticos a cambio de una cierta cantidad de dinero.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005562</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005563</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Nvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005564</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005565</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005566</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005567</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005568</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005569</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005570</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005571</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005572</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005573</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005574</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005575</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005576</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005577</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005578</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005579</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005580</GUID>
+      <Text>Expansión de la nobleza&lt;br /&gt;(Lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005581</GUID>
+      <Text>Zona de cultivo de orangerie</Text>
+    </Text>
+    <Text>
+      <GUID>1999005582</GUID>
+      <Text>Superficie de cultivo adicional para el invernadero de naranjos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005583</GUID>
+      <Text>Poda de huertos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005584</GUID>
+      <Text>Proporcionar a los trabajadores de su invernadero herramientas sofisticadas para recortar las ramas de sus árboles de cítricos aumentará el rendimiento general.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005587</GUID>
+      <Text>Puestos de mercado tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005588</GUID>
+      <Text>Parque de los Enamorados</Text>
+    </Text>
+    <Text>
+      <GUID>1999005589</GUID>
+      <Text>Fuente de la Sirena</Text>
+    </Text>
+    <Text>
+      <GUID>1999005590</GUID>
+      <Text>Pabellón de los conejitos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005591</GUID>
+      <Text>Parque Solariega y Ornamentos Tradicionales</Text>
+    </Text>
+    <Text>
+      <GUID>1999005592</GUID>
+      <Text>¡Esta puerta es solo el comienzo de un magnífico parque señorial! Expándelo construyendo adornos a su alrededor.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005594</GUID>
+      <Text>Suministro de agua limpia</Text>
+    </Text>
+    <Text>
+      <GUID>1999005596</GUID>
+      <Text>Suministro de agua tratada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005597</GUID>
+      <Text>Mansión moderna del terrateniente</Text>
+    </Text>
+    <Text>
+      <GUID>1999005598</GUID>
+      <Text>Polinización intensificada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005599</GUID>
+      <Text>Polinización intensificada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005630</GUID>
+      <Text>Silo de fertilización</Text>
+    </Text>
+    <Text>
+      <GUID>1999005633</GUID>
+      <Text>Granero de arado de caballos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005634</GUID>
+      <Text>Los arados de caballos aumentan el área de cultivo y la productividad de una granja, al tiempo que reducen la necesidad de mano de obra mientras consumen caballos y herramientas.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005635</GUID>
+      <Text>Arados para caballos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005638</GUID>
+      <Text>Violines</Text>
+    </Text>
+    <Text>
+      <GUID>1999005639</GUID>
+      <Text>Carpintería Tradicional: Violines</Text>
+    </Text>
+    <Text>
+      <GUID>1999005641</GUID>
+      <Text>Los terratenientes están asegurando acuerdos "adicionales" rentables con los comerciantes en desviación del acuerdo comercial negociado oficialmente.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005642</GUID>
+      <Text>Exportaciones "extra"</Text>
+    </Text>
+    <Text>
+      <GUID>1999005643</GUID>
+      <Text>Ley de Reforma Agraria</Text>
+    </Text>
+    <Text>
+      <GUID>1999005644</GUID>
+      <Text>Los terratenientes están asegurando acuerdos "adicionales" rentables con los comerciantes en desviación del acuerdo comercial negociado oficialmente, asegurando licencias comerciales adicionales en el proceso.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>Los muelles de manejo adecuados y los avances en el embalaje aumentan la eficiencia de los muelles de importación.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>Manipulación de muelles</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>Los muelles de manipulación adecuados y los avances en el embalaje aumentan la eficiencia de los muelles de importación, lo que hace que sus productos importados almacenados duren más.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005664</GUID>
+      <Text>Predicando la frugalidad</Text>
+    </Text>
+    <Text>
+      <GUID>1999005665</GUID>
+      <Text>Predicando la frugalidad</Text>
+    </Text>
+    <Text>
+      <GUID>1999005666</GUID>
+      <Text>Predicando la frugalidad - terratenientes</Text>
+    </Text>
+    <Text>
+      <GUID>1999005667</GUID>
+      <Text>Los inversores y terratenientes consumen un 5% menos de todos los bienes.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005668</GUID>
+      <Text>Todos los productos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005669</GUID>
+      <Text>Visitas al zoológico</Text>
+    </Text>
+    <Text>
+      <GUID>1999005670</GUID>
+      <Text>Visitas a museos</Text>
+    </Text>
+    <Text>
+      <GUID>1999005671</GUID>
+      <Text>Visitas al Jardín Botánico</Text>
+    </Text>
+    <Text>
+      <GUID>1999005672</GUID>
+      <Text>Cultura</Text>
+    </Text>
+    <Text>
+      <GUID>1999005673</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005674</GUID>
+      <Text>Todos los edificios de administración vienen con una desventaja estándar. Los edificios fuera del rango de administración no funcionarán correctamente. Muévelos dentro del radio de la Administración o aumenta su alcance asignando más mano de obra de Terrateniente (Presiona Mayús+C para la segunda IU) para obtener un contra-beneficio que compense la desventaja inicial.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005675</GUID>
+      <Text>Todos los módulos de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005676</GUID>
+      <Text>Desventaja de administración predeterminada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005677</GUID>
+      <Text>Potenciador de la electricidad</Text>
+    </Text>
+    <Text>
+      <GUID>1999005678</GUID>
+      <Text>Terratenientes</Text>
+    </Text>
+    <Text>
+      <GUID>1999005679</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005680</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005681</GUID>
+      <Text>Desventaja de administración predeterminada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005682</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005683</GUID>
+      <Text>Desventaja de administración predeterminada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005684</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005685</GUID>
+      <Text>Desventaja de administración predeterminada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005686</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005687</GUID>
+      <Text>Desventaja de administración predeterminada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005688</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005689</GUID>
+      <Text>Desventaja de administración predeterminada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005690</GUID>
+      <Text>Dentro del rango de administración</Text>
+    </Text>
+    <Text>
+      <GUID>1999005691</GUID>
+      <Text>Desventaja de administración predeterminada</Text>
+    </Text>
+    <Text>
+      <GUID>1999005800</GUID>
+      <Text>Con un número cada vez mayor, los propietarios comenzarán a invertir en la construcción y expansión de instituciones culturales, lo que aumentará la efectividad de sus exhibiciones y aumentará el atractivo de sus islas nivel por nivel.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005801</GUID>
+      <Text>Mecenazgo tradicional (nivel 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005802</GUID>
+      <Text>Mecenazgo tradicional (nivel 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005803</GUID>
+      <Text>Mecenazgo tradicional (nivel 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005804</GUID>
+      <Text>Mecenazgo tradicional (nivel 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005805</GUID>
+      <Text>Patrocinio tradicional (nivel 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005806</GUID>
+      <Text>Patrocinio tradicional (nivel 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005807</GUID>
+      <Text>Mecenazgo tradicional (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005808</GUID>
+      <Text>Patrocinio tradicional (nivel 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005809</GUID>
+      <Text>Mecenazgo tradicional (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005810</GUID>
+      <Text>Mecenazgo tradicional (nivel 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005811</GUID>
+      <Text>Mecenazgo tradicional (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005812</GUID>
+      <Text>Mecenazgo tradicional (nivel 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005813</GUID>
+      <Text>Mecenazgo tradicional (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005814</GUID>
+      <Text>Patrocinio tradicional (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005815</GUID>
+      <Text>Patrocinio tradicional (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005816</GUID>
+      <Text>Mecenazgo tradicional (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005817</GUID>
+      <Text>Mecenazgo tradicional (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005818</GUID>
+      <Text>Patrocinio tradicional (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005819</GUID>
+      <Text>Mecenazgo tradicional (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005820</GUID>
+      <Text>Mecenazgo tradicional (nivel 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005864</GUID>
+      <Text>Mecenazgo tradicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005864</GUID>
+      <Text>Mecenazgo tradicional</Text>
+    </Text>
+    <Text>
+      <GUID>1999005865</GUID>
+      <Text>Nivel 1</Text>
+    </Text>
+    <Text>
+      <GUID>1999005866</GUID>
+      <Text>Nivel 2</Text>
+    </Text>
+    <Text>
+      <GUID>1999005867</GUID>
+      <Text>Nivel 3</Text>
+    </Text>
+    <Text>
+      <GUID>1999005868</GUID>
+      <Text>Nivel 4</Text>
+    </Text>
+    <Text>
+      <GUID>1999005869</GUID>
+      <Text>Nivel 5</Text>
+    </Text>
+    <Text>
+      <GUID>1999005870</GUID>
+      <Text>Nivel 6</Text>
+    </Text>
+    <Text>
+      <GUID>1999005871</GUID>
+      <Text>Nivel 7</Text>
+    </Text>
+    <Text>
+      <GUID>1999005872</GUID>
+      <Text>Nivel 8</Text>
+    </Text>
+    <Text>
+      <GUID>1999005873</GUID>
+      <Text>Nivel 9</Text>
+    </Text>
+    <Text>
+      <GUID>1999005874</GUID>
+      <Text>Nivel 10</Text>
+    </Text>
+    <Text>
+      <GUID>1999005875</GUID>
+      <Text>Nivel 11</Text>
+    </Text>
+    <Text>
+      <GUID>1999005876</GUID>
+      <Text>Nivel 12</Text>
+    </Text>
+    <Text>
+      <GUID>1999005877</GUID>
+      <Text>Nivel 13</Text>
+    </Text>
+    <Text>
+      <GUID>1999005878</GUID>
+      <Text>Nivel 14</Text>
+    </Text>
+    <Text>
+      <GUID>1999005879</GUID>
+      <Text>Nivel 15</Text>
+    </Text>
+    <Text>
+      <GUID>1999005880</GUID>
+      <Text>Nivel 16</Text>
+    </Text>
+    <Text>
+      <GUID>1999005881</GUID>
+      <Text>Nivel 17</Text>
+    </Text>
+    <Text>
+      <GUID>1999005882</GUID>
+      <Text>Nivel 18</Text>
+    </Text>
+    <Text>
+      <GUID>1999005883</GUID>
+      <Text>Nivel 19</Text>
+    </Text>
+    <Text>
+      <GUID>1999005884</GUID>
+      <Text>Nivel 20</Text>
+    </Text>
+    <Text>
+      <GUID>1999005901</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005902</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005903</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005904</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005905</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005906</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005907</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005908</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005909</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005910</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005911</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005912</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005913</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005914</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005915</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005916</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005917</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005918</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005919</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999005920</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191132) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006001</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006002</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006003</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006004</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006005</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006006</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006007</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006008</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006009</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006010</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006011</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006012</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006013</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006014</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006015</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006016</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006017</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006018</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006019</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006020</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191133) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006101</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006102</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006103</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006104</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006105</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006106</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006107</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006108</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006109</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006110</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006111</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006112</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006113</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006114</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006115</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006116</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006117</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006118</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006119</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006120</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191134) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006201</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006202</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006203</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006204</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006205</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006206</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006207</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006208</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006209</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006210</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006211</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006212</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006213</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006214</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006215</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006216</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006217</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006218</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006219</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006220</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191140) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006301</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006302</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006303</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006304</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006305</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006306</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006307</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Text] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006308</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006309</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006310</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006311</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006312</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006313</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006314</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006315</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006316</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006317</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006318</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006319</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006320</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191136) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006401</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006402</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006403</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006404</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006405</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006406</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006407</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006408</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006409</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006410</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006411</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006412</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006413</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006414</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006415</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006416</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006417</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006418</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006419</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006420</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191138) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006501</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Text] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006502</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006503</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006504</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006505</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006506</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006507</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006508</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006509</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006510</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006511</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006512</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006513</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006514</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006515</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006516</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006517</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006518</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006519</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006520</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191139) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006601</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006602</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006603</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006604</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006605</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006606</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006607</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006608</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006609</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006610</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006611</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006612</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006613</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006614</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006615</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006616</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006617</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006618</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006619</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006620</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191135) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006701</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006702</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006703</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006704</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006705</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006706</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006707</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006708</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006709</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006710</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006711</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006712</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006713</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006714</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006715</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006716</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006717</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006718</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006719</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006720</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193194) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006801</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006802</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006803</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006804</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006805</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006806</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006807</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006808</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006809</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006810</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006811</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006812</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006813</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006814</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006815</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006816</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006817</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006818</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006819</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006820</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193402) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006901</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006902</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006903</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006904</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006905</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006906</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006907</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006908</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006909</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006910</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006911</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006912</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006913</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006914</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006915</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006916</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006917</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006918</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006919</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999006920</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193404) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007001</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007002</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007003</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007004</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007005</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007006</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007007</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007008</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007009</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007010</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007011</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007012</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007013</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007014</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007015</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007016</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007017</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007018</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007019</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007020</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191137) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007101</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007102</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Text] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007103</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007104</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007105</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007106</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007107</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007108</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007109</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007110</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007111</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007112</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007113</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007114</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007115</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007116</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007117</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007118</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007119</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007120</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193772) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007201</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007202</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007203</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007204</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007205</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007206</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007207</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007208</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007209</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007210</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007211</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007212</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007213</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007214</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007215</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007216</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007217</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007218</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007219</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Text] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007220</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124206) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007301</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007302</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007303</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007304</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007305</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007306</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007307</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007308</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007309</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007310</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007311</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007312</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007313</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007314</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007315</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007316</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007317</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007318</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007319</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007320</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124207) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007401</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007402</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007403</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007404</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007405</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007406</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007407</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007408</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007409</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007410</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007411</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007412</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007413</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007414</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007415</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007416</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007417</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007418</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007419</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007420</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124208) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007501</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007502</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007503</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007504</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007505</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007506</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007507</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007508</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007509</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007510</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007511</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007512</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007513</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007514</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007515</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007516</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007517</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007518</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007519</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007520</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124209) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007601</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007602</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007603</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007604</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007605</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007606</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007607</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007608</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007609</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007610</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007611</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007612</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007613</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007614</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007615</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007616</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007617</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007618</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007619</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007620</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124210) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007701</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007702</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007703</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007704</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007705</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007706</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007707</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007708</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007709</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007710</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007711</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007712</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007713</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007714</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007715</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007716</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007717</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007718</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007719</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007720</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191148) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007801</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007802</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007803</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007804</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007805</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007806</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007807</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007808</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007809</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007810</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007811</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007812</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007813</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007814</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007815</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007816</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007817</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007818</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007819</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007820</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191145) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007901</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007902</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007903</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007904</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007905</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007906</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007907</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007908</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Text] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007909</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007910</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007911</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007912</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007913</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007914</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007915</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007916</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007917</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007918</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007919</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999007920</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191147) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008001</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008002</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008003</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008004</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008005</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008006</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008007</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008008</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008009</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008010</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008011</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008012</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008013</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008014</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008015</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008016</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008017</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008018</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008019</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008020</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191146) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008101</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008102</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008103</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008104</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008105</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008106</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008107</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008108</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008109</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008110</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008111</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008112</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008113</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008114</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008115</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008116</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008117</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008118</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008119</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008120</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191142) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008201</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008202</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008203</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008204</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008205</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008206</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008207</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008208</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008209</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008210</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008211</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008212</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008213</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008214</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008215</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008216</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008217</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008218</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008219</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008220</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191144) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008301</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008302</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008303</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008304</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008305</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008306</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008307</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008308</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008309</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008310</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008311</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008312</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008313</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008314</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008315</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008316</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008317</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008318</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008319</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008320</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191149) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008401</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008402</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008403</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008404</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008405</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008406</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008407</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008408</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008409</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008410</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008411</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008412</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008413</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008414</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008415</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008416</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008417</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008418</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008419</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008420</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191143) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008501</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008502</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008503</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008504</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008505</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008506</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008507</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008508</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008509</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008510</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008511</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008512</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008513</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008514</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008515</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008516</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008517</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008518</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008519</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008520</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(191141) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008601</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008602</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008603</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008604</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008605</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008606</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008607</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008608</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008609</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008610</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008611</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008612</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008613</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008614</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008615</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008616</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008617</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008618</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008619</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008620</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193406) Text] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008701</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008702</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008703</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008704</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008705</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008706</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008707</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008708</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008709</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008710</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008711</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008712</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008713</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008714</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008715</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008716</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008717</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008718</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008719</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008720</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193407) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008801</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008802</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008803</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008804</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008805</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008806</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008807</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008808</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008809</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008810</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008811</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008812</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008813</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008814</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008815</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008816</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008817</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Text] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008818</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008819</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008820</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193775) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008901</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008902</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008903</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008904</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008905</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008906</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008907</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008908</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008909</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008910</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008911</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008912</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008913</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008914</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008915</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008916</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008917</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008918</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008919</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999008920</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193777) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009001</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009002</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009003</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009004</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009005</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009006</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009007</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009008</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009009</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009010</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009011</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009012</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009013</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009014</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009015</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009016</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009017</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009018</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009019</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009020</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124913) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009101</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009102</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009103</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009104</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009105</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009106</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009107</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009108</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009109</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009110</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009111</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009112</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009113</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009114</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009115</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009116</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009117</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009118</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009119</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009120</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124914) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009201</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009202</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009203</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009204</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009205</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009206</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009207</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009208</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009209</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009210</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009211</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009212</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009213</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009214</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009215</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009216</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009217</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009218</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009219</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009220</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124915) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009301</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009302</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009303</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009304</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009305</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009306</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009307</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009308</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009309</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009310</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009311</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009312</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009313</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009314</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009315</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009316</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009317</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009318</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009319</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009320</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(124916) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009401</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009402</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009403</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009404</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009405</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009406</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009407</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009408</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009409</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009410</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009411</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Text] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009412</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009413</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009414</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009415</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009416</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009417</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009418</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009419</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009420</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193764) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009501</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009502</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009503</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009504</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009505</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009506</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009507</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009508</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009509</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009510</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009511</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009512</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009513</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009514</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009515</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009516</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009517</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009518</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009519</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009520</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193654) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009601</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009602</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009603</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009604</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009605</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009606</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009607</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009608</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009609</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009610</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009611</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009612</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009613</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009614</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009615</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009616</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009617</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009618</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009619</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009620</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193656) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009701</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009702</GUID>
+      <Text>Mecenazgo tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009703</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009704</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009705</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009706</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009707</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009708</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009709</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009710</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009711</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009712</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009713</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009714</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009715</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009716</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009717</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009718</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009719</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009720</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193765) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009801</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009802</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009803</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009804</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009805</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009806</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009807</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009808</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009809</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009810</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009811</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009812</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009813</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009814</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009815</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009816</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009817</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009818</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009819</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009820</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193661) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009901</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009902</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009903</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009904</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009905</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009906</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009907</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009908</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009909</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009910</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009911</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009912</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009913</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009914</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009915</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009916</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009917</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009918</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009919</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999009920</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193766) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010001</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010002</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010003</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010004</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010005</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010006</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010007</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010008</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010009</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010010</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010011</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010012</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010013</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010014</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010015</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010016</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010017</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010018</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010019</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010020</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193767) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010101</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010102</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010103</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010104</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010105</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010106</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010107</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010108</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010109</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010110</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Text] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010111</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010112</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010113</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010114</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010115</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010116</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010117</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010118</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010119</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010120</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193669) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010201</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 1)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010202</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 2)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010203</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 3)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010204</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 4)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010205</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 5)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010206</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 6)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010207</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 7)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010208</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 8)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010209</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 9)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010210</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 10)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010211</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 11)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010212</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 12)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010213</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 13)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010214</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 14)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010215</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 15)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010216</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 16)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010217</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 17)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010218</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 18)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010219</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 19)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010220</GUID>
+      <Text>Patrocinio tradicional: &lt;br /&gt;[AssetData(193768) Texto] (lvl 20)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010302</GUID>
+      <Text>Todas las mansiones</Text>
+    </Text>
+    <Text>
+      <GUID>1999010305</GUID>
+      <Text>VIEJA NOBLEZA</Text>
+    </Text>
+    <Text>
+      <GUID>1999010307</GUID>
+      <Text>AUTOCRACIA PATRIARCAL</Text>
+    </Text>
+    <Text>
+      <GUID>1999010309</GUID>
+      <Text>CONSERVADURISMO MODERNO</Text>
+    </Text>
+    <Text>
+      <GUID>1999010311</GUID>
+      <Text>AGRICULTURA DE SUBSISTENCIA</Text>
+    </Text>
+    <Text>
+      <GUID>1999010313</GUID>
+      <Text>PRE-INDUSTRIALIZACIÓN</Text>
+    </Text>
+    <Text>
+      <GUID>1999010315</GUID>
+      <Text>ARTESANÍA TRADICIONAL</Text>
+    </Text>
+    <Text>
+      <GUID>1999010317</GUID>
+      <Text>EL USO GENERALIZADO DE ESTIÉRCOL Y ARADOS TIRADOS POR CABALLOS REVOLUCIONA LA AGRICULTURA</Text>
+    </Text>
+    <Text>
+      <GUID>1999010318</GUID>
+      <Text>Los granjeros están desconcertados después de la introducción de equipos tirados por caballos recientemente desarrollados. Los rendimientos se están disparando hasta el olvido. Pronto, dijo un agricultor entrevistado, podría alimentar a su aldea él solo con la ayuda de este nuevo arado de acero mirical. Esperamos que [Participants Current Profile CompanyName] vuelva a abrir un camino en el suelo para que otros lo sigan.</Text>
+    </Text>
+    <Text>
+      <GUID>1999010320</GUID>
+      <Text>Antiguo almacén</Text>
+    </Text>
+    <Text>
+      <GUID>1999010408</GUID>
+      <Text>Misa Pontifical</Text>
+    </Text>
+    <Text>
+      <GUID>1999010321</GUID>
+      <Text>Misa Pontifical</Text>
+    </Text>
+    <Text>
+      <GUID>1999010322</GUID>
+      <Text>Folletos, Edictos y Especialistas Religiosos</Text>
+    </Text>
+    <Text>
+      <GUID>1999010323</GUID>
+      <Text>Después de todo, ir a la iglesia todos los domingos podría valer la pena en algún momento...</Text>
+    </Text>
+    <Text>
+      <GUID>1999010380</GUID>
+      <Text>Celebrar una misa pontifical</Text>
+    </Text>
+    <Text>
+      <GUID>1999010381</GUID>
+      <Text>Un hermoso canto coral resuena desde la catedral durante la misa pontifical</Text>
+    </Text>
+    <Text>
+      <GUID>1999010382</GUID>
+      <Text>Una cantidad considerable de golosinas fue donada a la colección esta semana</Text>
+    </Text>
+    <Text>
+      <GUID>1999010383</GUID>
+      <Text>Folletos, Edictos y Especialistas Religiosos</Text>
+    </Text>
+    <Text>
+      <GUID>1999010384</GUID>
+      <Text>Misa Pontifical</Text>
+    </Text>
+    <Text>
+      <GUID>1999010385</GUID>
+      <Text>Folletos, folletos y periódicos</Text>
+    </Text>
+    <Text>
+      <GUID>1999010386</GUID>
+      <Text>Frágiles regulaciones litúrgicas</Text>
+    </Text>
+    <Text>
+      <GUID>1999010387</GUID>
+      <Text>Sólidas normas litúrgicas</Text>
+    </Text>
+    <Text>
+      <GUID>1999010388</GUID>
+      <Text>Extenso Reglamento Litúrgico</Text>
+    </Text>
+    <Text>
+      <GUID>1999010389</GUID>
+      <Text>Especialistas Religiosos</Text>
+    </Text>
+    <Text>
+      <GUID>1999010407</GUID>
+      <Text>Volumen de colección esperado</Text>
+    </Text>
+    <Text>
+      <GUID>1999010408</GUID>
+      <Text>Misa Pontifical</Text>
+    </Text>
+    <Text>
+      <GUID>1999010409</GUID>
+      <Text>Acceso a la Sacristía</Text>
+    </Text>
+    <Text>
+      <GUID>1999010410</GUID>
+      <Text>Asistencia prevista al servicio</Text>
+    </Text>
+    <Text>
+      <GUID>1999010411</GUID>
+      <Text>Planificación de la próxima liturgia</Text>
+    </Text>
+    <Text>
+      <GUID>1999010412</GUID>
+      <Text>Tu pueblo se fue a casa revitalizado por el sermón</Text>
+    </Text>
+    <Text>
+      <GUID>1999010413</GUID>
+      <Text>Contribución de los propietarios a la recaudación</Text>
+    </Text>
+    <Text>
+      <GUID>1999010414</GUID>
+      <Text>Secuelas del sermón</Text>
+    </Text>
+    <Text>
+      <GUID>1999010415</GUID>
+      <Text>Hosts</Text>
+    </Text>
+    <Text>
+      <GUID>1999010416</GUID>
+      <Text>Vino de misa</Text>
+    </Text>
+    <Text>
+      <GUID>1999010417</GUID>
+      <Text>Velas de sacrificio</Text>
+    </Text>
+    <Text>
+      <GUID>1999010418</GUID>
+      <Text>Literatura litúrgica</Text>
+    </Text>
+    <Text>
+      <GUID>1999010419</GUID>
+      <Text>Pinturas Religiosas</Text>
+    </Text>
+    <Text>
+      <GUID>1999010425</GUID>
+      <Text>Secuelas del evento Monumento</Text>
+    </Text>
+    <Text>
+      <GUID>1999010426</GUID>
+      <Text>Calendario de eventos</Text>
+    </Text>
+    <Text>
+      <GUID>1999010427</GUID>
+      <Text>¡Planea uno de los eventos más grandes que esta ciudad haya visto jamás! ¡El Teatro Municipal puede albergar una variedad de eventos para entretener a su clase alta!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010428</GUID>
+      <Text>Drama Teatro</Text>
+    </Text>
+    <Text>
+      <GUID>1999010429</GUID>
+      <Text>Concierto de Música Clásica</Text>
+    </Text>
+    <Text>
+      <GUID>1999010430</GUID>
+      <Text>Campeonato de Snooker</Text>
+    </Text>
+    <Text>
+      <GUID>1999010431</GUID>
+      <Text>Exposición de Ciencias</Text>
+    </Text>
+    <Text>
+      <GUID>1999010432</GUID>
+      <Text>Proyección de películas</Text>
+    </Text>
+    <Text>
+      <GUID>1999010433</GUID>
+      <Text>Desfile de moda</Text>
+    </Text>
+    <Text>
+      <GUID>1999010434</GUID>
+      <Text>Exposición de Arte</Text>
+    </Text>
+    <Text>
+      <GUID>1999010435</GUID>
+      <Text>Teatro Municipal: Obra de Teatro Dramático</Text>
+    </Text>
+    <Text>
+      <GUID>1999010436</GUID>
+      <Text>¿Conseguirá el señor Holmes volver a condenar al culpable, esta vez con su recién inventado método de deducción? ¡Descúbrelo en la última función en tu teatro estatal!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010437</GUID>
+      <Text>Teatro Municipal: Concierto de Música Clásica</Text>
+    </Text>
+    <Text>
+      <GUID>1999010438</GUID>
+      <Text>¡Mozart, Beethoven y Hayden! ¡Las piezas más bellas del mundo viven en el escenario! ¡No más toques de violín sin talento en casa cuando puedes gastar dinero en profesionales!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010439</GUID>
+      <Text>Teatro Municipal: Campeonato de Snooker</Text>
+    </Text>
+    <Text>
+      <GUID>1999010440</GUID>
+      <Text>Con calma y deliberación, las pequeñas bolas se empujan sobre la mesa claramente sobredimensionada con movimientos planificados. ¡Silencio en el público, por favor!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010441</GUID>
+      <Text>Teatro Municipal: Muestra de Ciencias</Text>
+    </Text>
+    <Text>
+      <GUID>1999010442</GUID>
+      <Text>¡Hay mucho traqueteo y golpes cuando los ingenieros más inteligentes de nuestro tiempo presentan sus nuevos inventos e incluso los demuestran en vivo! Cuidado: ¡cúbrete!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010443</GUID>
+      <Text>Teatro Municipal: Proyección de películas</Text>
+    </Text>
+    <Text>
+      <GUID>1999010444</GUID>
+      <Text>¡La pantalla aquí es unas treinta veces más grande que en el proyector de casa! ¡Qué diferencia en la calidad de la imagen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010445</GUID>
+      <Text>Teatro Municipal: Desfile de Moda</Text>
+    </Text>
+    <Text>
+      <GUID>1999010446</GUID>
+      <Text>¡Modelos de todo el mundo presentan las últimas colecciones de tus modistas más talentosas!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010447</GUID>
+      <Text>Teatro Municipal: Exposición de Arte</Text>
+    </Text>
+    <Text>
+      <GUID>1999010448</GUID>
+      <Text>Preciosas piezas de joyería brillan bajo gruesos rieles de vidrio y en las paredes se pueden admirar pinturas de artistas famosos. ¡Incluso mejor que en tu propia casa!</Text>
+    </Text>
+    <Text>
+      <GUID>1999010449</GUID>
+      <Text>Teatro Municipal: Obra de Teatro Dramático</Text>
+    </Text>
+    <Text>
+      <GUID>1999010450</GUID>
+      <Text>Teatro Municipal: Concierto de Música Clásica</Text>
+    </Text>
+    <Text>
+      <GUID>1999010451</GUID>
+      <Text>Teatro Municipal: Campeonato de Snooker</Text>
+    </Text>
+    <Text>
+      <GUID>1999010452</GUID>
+      <Text>Teatro Municipal: Muestra de Ciencias</Text>
+    </Text>
+    <Text>
+      <GUID>1999010453</GUID>
+      <Text>Teatro Municipal: Proyección de películas</Text>
+    </Text>
+    <Text>
+      <GUID>1999010454</GUID>
+      <Text>Teatro Municipal: Desfile de Moda</Text>
+    </Text>
+    <Text>
+      <GUID>1999010455</GUID>
+      <Text>Teatro Municipal: Exposición de Arte</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005060</GUID>
+      <Text>과자</Text>
+    </Text>
+    <Text>
+      <GUID>1999005061</GUID>
+      <Text>설탕을 가득 채운 양동이로 만든 다채로운 과자</Text>
+    </Text>
+    <Text>
+      <GUID>1999005062</GUID>
+      <Text>과용하지 마세요, 그렇지 않으면 치과 의사가 너무 행복하지 않을 것입니다!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,136 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>10026</GUID>
+      <Text>Beryl sta organizzando un pranzo e vorrebbe massaggiare i suoi ospiti con del buon vino per assicurarsi che mantengano la guardia bassa.</Text>
+    </Text>
+    <Text>
+      <GUID>10059</GUID>
+      <Text>Beryl vorrebbe insegnarti le basi del business. Affonda i fornitori di vino del signor Perky per costringerlo a commerciare di nuovo con Beryl.</Text>
+    </Text>
+    <Text>
+      <GUID>17650</GUID>
+      <Text>Ho alcuni ospiti dalla lingua dura in arrivo che potrebbero aver bisogno di un po' di relax, e devo ancora incontrare una sola anima che possa dire di no a un bicchiere di vino.</Text>
+    </Text>
+    <Text>
+      <GUID>17655</GUID>
+      <Text>Gli affari sono una guerra, e come tale richiedono tattica. Ti va di imparare un trucco o due da un vecchio guerrafondaio? Togliete la scorta di vino al signor Perky e lui non avrà altra scelta che venire a chiedere l'elemosina ai piedi della vecchia Beryl.</Text>
+    </Text>
+    <Text>
+      <GUID>14144</GUID>
+      <Text>Gasparov aspetta un ospite distinto abituato alle cose pregiate, in questo caso al vino. Porta a Gasparov ciò che chiede prima che i suoi ospiti se ne vadano delusi.</Text>
+    </Text>
+    <Text>
+      <GUID>18198</GUID>
+      <Text>Gasparov vuole che tu dimostri di saper mantenere le tue cantine di vino pregiato, perché avere solo poche bottiglie qua e là ti fa solo sembrare un truffatore della società.</Text>
+    </Text>
+    <Text>
+      <GUID>16940</GUID>
+      <Text>Siete voi gli addetti al catering? Avremo bisogno di vino, in abbondanza. La signora Vichyssoise potrebbe arrivare da un momento all'altro, e io ho bisogno di quell'investimento!</Text>
+    </Text>
+    <Text>
+      <GUID>18222</GUID>
+      <Text>Mi sto ancora rabbrividendo per aver sentito le notizie sulle vostre scorte di vino. Avete idea di quanto sia imbarazzante, nella società educata, non avere una cantina piena e completa di annata? La prima impressione è tutto, tutto!</Text>
+    </Text>
+    <Text>
+      <GUID>18466</GUID>
+      <Text>Alonso vuole il vino. Sembra ben consapevole della contraddizione della sua filosofia nel bisogno di un prodotto così intensamente coltivato, ma è disposto a perdonare se stesso per sperimentare un tale piacere sensoriale divino.</Text>
+    </Text>
+    <Text>
+      <GUID>18467</GUID>
+      <Text>Il vino è un piacere colpevole. Un peccato per un uomo come me, che è sempre così pronto a rifiutare tutto ciò che puzza di "civiltà". Ma mi dispiace, ha un sapore meraviglioso. Non riesco a resistere, tutti quei sapori incredibili che mi solleticano le tonsille!</Text>
+    </Text>
+    <Text>
+      <GUID>17058</GUID>
+      <Text>Eli vorrebbe tenere una scorta di vino di qualità per quando gli ispettori visiteranno, e mantenere i suoi guardiani attenti, credendo che un giorno potrebbero essere ricompensati con un bicchiere.</Text>
+    </Text>
+    <Text>
+      <GUID>18648</GUID>
+      <Text>Oh, purtroppo le mie articolazioni mi stanno dando di nuovo problemi e non potrò partecipare alla festa. Tuttavia, assicurati che Sir Archibald riceva il mio vino speciale, ci ho riversato tutto il mio amore.</Text>
+    </Text>
+    <Text>
+      <GUID>13532</GUID>
+      <Text>L'Operaio vorrebbe degustare il Vino.</Text>
+    </Text>
+    <Text>
+      <GUID>15482</GUID>
+      <Text>Sono appena diventata il papà di una bambina preziosa, Guv! Abbiamo bisogno di qualcosa di più elaborato per brindare solo questa volta, per il mio bambino. Potresti portarci una bottiglia di vino, giusto?</Text>
+    </Text>
+    <Text>
+      <GUID>15485</GUID>
+      <Text>Ehm, è questo il sapore del vino? Allora mi limiterò alla birra, grazie mille.</Text>
+    </Text>
+    <Text>
+      <GUID>16246</GUID>
+      <Text>Questo lavoratore ha appena avuto una bambina! Vogliono brindare a lei con qualcosa di più elegante di una pinta di birra, ma non possono permettersi un bicchiere di vino con il loro stipendio...</Text>
+    </Text>
+    <Text>
+      <GUID>16314</GUID>
+      <Text>Un investitore vuole una valanga di vino e sigari per una festa in casa monumentale.</Text>
+    </Text>
+    <Text>
+      <GUID>20003</GUID>
+      <Text>Il dono di un investitore. "La tua saggia leadership è vantaggiosa per tutti noi. Festeggiamo con una bottiglietta di vino!"</Text>
+    </Text>
+    <Text>
+      <GUID>12858</GUID>
+      <Text>Vino</Text>
+    </Text>
+    <Text>
+      <GUID>14973</GUID>
+      <Text>IL VINO SI PROSCIUGA!</Text>
+    </Text>
+    <Text>
+      <GUID>14974</GUID>
+      <Text>Carenza di vino in [Newspaper FindArticle([RefGuid]) Contesto TownName] toglie l'effervescenza dalla vita. La fiducia nelle autorità si è congelata, mentre l'offerta continua a vacillare.</Text>
+    </Text>
+    <Text>
+      <GUID>11373</GUID>
+      <Text>MOMENTO DEL VINO PREGIATO</Text>
+    </Text>
+    <Text>
+      <GUID>11374</GUID>
+      <Text>New Wine Cellar si trasforma in [Newspaper FindArticle([RefGuid]) Context TownName] per l'improvvisa sorpresa di tutti! Ma non allarmatevi, perché questo "vino del diavolo" è di fatto divino, un'eleganza che celebra la raffinatezza di questa città.</Text>
+    </Text>
+    <Text>
+      <GUID>11756</GUID>
+      <Text>Perfetto per una serata rilassata accanto al camino.</Text>
+    </Text>
+    <Text>
+      <GUID>100659</GUID>
+      <Text>Cantina</Text>
+    </Text>
+    <Text>
+      <GUID>120016</GUID>
+      <Text>Vino</Text>
+    </Text>
+    <Text>
+      <GUID>190647</GUID>
+      <Text>Degustatore di vini</Text>
+    </Text>
+    <Text>
+      <GUID>192213</GUID>
+      <Text>Una bottiglia di vino</Text>
+    </Text>
+    <Text>
+      <GUID>192269</GUID>
+      <Text>Vino Speziato</Text>
+    </Text>
+    <Text>
+      <GUID>500434</GUID>
+      <Text>Vino</Text>
+    </Text>
+    <Text>
+      <GUID>115037</GUID>
+      <Text>Il Tecnico ha chiesto del vino. A parte un po' di comfort domestico, i sapori della nuova annata potrebbero rivelarsi influenti nei circoli scientifici.</Text>
+    </Text>
+    <Text>
+      <GUID>115038</GUID>
+      <Text>Ora c'è il vino, Fritz non esiterà a nominarmi co-autore del suo articolo sul magnetismo. Potrei anche essere menzionato a qualche cerimonia di premiazione.</Text>
+    </Text>
+    <Text>
+      <GUID>133282</GUID>
+      <Text>Montmartre '75' (Zucchero, Vino, Agrumi)</Text>
+    </Text>
+  </ModOp>
+</ModOps>

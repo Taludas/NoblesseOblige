@@ -1,0 +1,42 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- Clay Production -->
+      <Text>
+        <GUID>1500301060</GUID>
+        <Text>Здесь производят товары&#xD;&#xA;Эти неглубокие глинокопни впоследствии могут превратиться в глубокие глиняные карьеры.</Text>
+      </Text>
+      <Text>
+        <GUID>1500301061</GUID>
+        <Text>Глинокопня</Text>
+      </Text>
+      <Text>
+        <GUID>1500301062</GUID>
+        <Text>Глиняный карьер</Text>
+      </Text>
+      <Text>
+        <GUID>1500301067</GUID>
+        <Text>Глиняный карьер</Text>
+      </Text>
+      <Text>
+        <GUID>1500301069</GUID>
+        <Text>Средний глиняный карьер</Text>
+      </Text>
+      <Text>
+        <GUID>1500301070</GUID>
+        <Text>Правый глиняный карьер</Text>
+      </Text>
+      <Text>
+        <GUID>1500301072</GUID>
+        <Text>Левый глиняный карьер</Text>
+      </Text>
+    <!-- Extended InfoDescription -->
+      <Text>
+        <GUID>1500301075</GUID>
+        <Text>&lt;font overrideTextColor="true" color='#edc891'&gt;Buildable on &lt;img height='24' width='24' src="[AssetData(1010505) Icon]"/&gt; [AssetData(1010505) Text].&lt;/font&gt;&#xD;&#xA;[AssetData(11143) Text]</Text>
+      </Text>
+      <Text>
+        <GUID>1500301076</GUID>
+        <Text>&lt;font overrideTextColor="true" color='#edc891'&gt;Buildable on &lt;img height='24' width='24' src="[AssetData(1010507) Icon]"/&gt; [AssetData(1010507) Text].&lt;/font&gt;&#xD;&#xA;[AssetData(11143) Text]</Text>
+      </Text>
+  </ModOp>
+</ModOps>

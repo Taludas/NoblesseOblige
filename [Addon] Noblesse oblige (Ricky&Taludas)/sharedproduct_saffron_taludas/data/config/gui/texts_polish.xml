@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005090</GUID>
+      <Text>Szafran</Text>
+    </Text>
+    <Text>
+      <GUID>1999005091</GUID>
+      <Text>Najdroższa przyprawa na świecie, a jednak tak rozczarowująca w smaku.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005092</GUID>
+      <Text>Gotujemy teraz ze złotem, prawda?</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005075</GUID>
+      <Text>ロブスターディナー</Text>
+    </Text>
+    <Text>
+      <GUID>1999005076</GUID>
+      <Text>豪華なごちそうですが、それを食べるには道具が必要になります。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005077</GUID>
+      <Text>クラーケンのための上質なスナック...</Text>
+    </Text>
+  </ModOp>
+</ModOps>

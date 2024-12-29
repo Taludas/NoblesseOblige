@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005054</GUID>
+      <Text>Fischsuppe</Text>
+    </Text>
+    <Text>
+      <GUID>1999005055</GUID>
+      <Text>Ausgefallen genug, um zu beeindrucken, aber man fragt sich trotzdem, ob jemand gerade das ganze Aquarium in einen Topf geworfen hat.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005056</GUID>
+      <Text>Fine Diners würden dies Bouillabaisse nennen. Aber es ist sicher nicht dasselbe aus der Dose.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

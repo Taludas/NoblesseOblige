@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005072</GUID>
+      <Text>豪华家具</Text>
+    </Text>
+    <Text>
+      <GUID>1999005073</GUID>
+      <Text>这应该是现代的吗？</Text>
+    </Text>
+    <Text>
+      <GUID>1999005074</GUID>
+      <Text>比吊床还好！</Text>
+    </Text>
+  </ModOp>
+</ModOps>

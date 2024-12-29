@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005057</GUID>
+      <Text>Marzapane</Text>
+    </Text>
+    <Text>
+      <GUID>1999005058</GUID>
+      <Text>Un'opera d'arte commestibile realizzata da uno scultore ossessionato dallo zucchero.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005059</GUID>
+      <Text>Odori di cianuri... Spero che questa volta abbiano scelto le mandorle corrette.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,30 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010124</GUID>
+      <Text>Конопляная ферма</Text>
+    </Text>
+    <Text>
+      <GUID>1500010125</GUID>
+      <Text>Конопляное поле</Text>
+    </Text>
+    <Text>
+      <GUID>1500011340</GUID>
+      <Text>Плодородие конопли</Text>
+    </Text>
+    <Text>
+      <GUID>1500011345</GUID>
+      <Text>Совместимость сохранений</Text>
+    </Text>
+    <Text>
+      <GUID>1500011347</GUID>
+      <Text>Бафф для поддержки существующих сохранений без необходимых плодородий.</Text>
+    </Text>
+    <Text>
+      <GUID>1500011516</GUID>
+      <!-- Mod origin/name -->
+      <Text>Production (Jakob)</Text>
+      <IndustrialCities />
+    </Text>
+  </ModOp>
+</ModOps>

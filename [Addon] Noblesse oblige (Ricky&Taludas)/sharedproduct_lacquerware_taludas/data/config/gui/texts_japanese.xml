@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005078</GUID>
+      <Text>漆器</Text>
+    </Text>
+    <Text>
+      <GUID>1999005079</GUID>
+      <Text>キラキラと輝く瞳は、あなたの魂をまっすぐに見つめているかのようです。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005080</GUID>
+      <Text>船に持ち込まないでください!悪霊を引き寄せる!</Text>
+    </Text>
+  </ModOp>
+</ModOps>

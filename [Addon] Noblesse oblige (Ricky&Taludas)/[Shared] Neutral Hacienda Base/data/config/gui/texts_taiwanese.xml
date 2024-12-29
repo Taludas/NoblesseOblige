@@ -1,0 +1,36 @@
+<ModOps>
+	<ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>25238</GUID>
+			<Text>點擊即可進入組以及道路的建設選單。</Text>
+		</Text>
+		<Text>
+			<GUID>25235</GUID>
+			<Text>組</Text>
+		</Text>
+		<Text>
+			<GUID>25237</GUID>
+			<Text>組</Text>
+		</Text>
+		<Text>
+			<GUID>25750</GUID>
+			<Text>組</Text>
+		</Text>
+		<Text>
+			<GUID>25819</GUID>
+			<Text>圍</Text>
+		</Text>
+		<Text>
+			<GUID>25866</GUID>
+			<Text>為定一個新法令。每座島只能啟用一個法令。</Text>
+		</Text>
+		<Text>
+			<GUID>24783</GUID>
+			<Text>在圍外</Text>
+		</Text>
+		<Text>
+			<GUID>269560</GUID>
+			<Text>選擇一個政策。同時只能啟用一個政策。</Text>
+		</Text>
+	</ModOp>
+</ModOps>

@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+      <Text>
+        <GUID>1500302202</GUID>
+        <Text>草药种子</Text>
+      </Text>
+      <Text>
+        <GUID>1500302203</GUID>
+        <Text>优质草药种子</Text>
+      </Text>
+      <Text>
+        <GUID>1500302204</GUID>
+        <Text>混种草药种子</Text>
+      </Text>
+  </ModOp>
+</ModOps>

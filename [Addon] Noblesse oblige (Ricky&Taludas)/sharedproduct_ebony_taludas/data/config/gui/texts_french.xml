@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005093</GUID>
+      <Text>Ébène</Text>
+    </Text>
+    <Text>
+      <GUID>1999005094</GUID>
+      <Text>Noir comme la nuit</Text>
+    </Text>
+    <Text>
+      <GUID>1999005095</GUID>
+      <Text>Ne ferait pas très bien comme matériau de construction navale</Text>
+    </Text>
+  </ModOp>
+</ModOps>

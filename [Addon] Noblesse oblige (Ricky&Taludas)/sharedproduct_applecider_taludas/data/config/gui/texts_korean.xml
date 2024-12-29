@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005051</GUID>
+      <Text>애플 사이다</Text>
+    </Text>
+    <Text>
+      <GUID>1999005052</GUID>
+      <Text>건강한 과일 주스를 마시고 술에 취한 척하는 사회적으로 용인되는 방법</Text>
+    </Text>
+    <Text>
+      <GUID>1999005053</GUID>
+      <Text>어떤 바 테이블에서도 분위기를 밝게합니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

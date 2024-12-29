@@ -1,0 +1,58 @@
+{
+  "Version": "2.0.4",
+  "ModID": "ow-tea-jakob",
+  "ModDependencies": [
+    "shared-pools-and-definitions",
+    "decals-industry-jakob",
+    "tea-jakob",
+    "ow-herbs-jakob"
+  ],
+  "LoadAfterIds": [
+    "shared-pools-and-definitions",
+    "tea-jakob"
+  ],
+  "DeprecateIds": [
+    "production-import-tea-jakob"
+  ],
+  "Category": {
+    "English": "Production",
+    "Chinese": "Production",
+    "French": "Production",
+    "German": "Production",
+    "Italian": "Production",
+    "Japanese": "Production",
+    "Korean": "Production",
+    "Polish": "Production",
+    "Russian": "Production",
+    "Spanish": "Production",
+    "Taiwanese": "Production"
+  },
+  "ModName": {
+    "English": "OW Tea (Jakob)",
+    "Chinese": "OW Tea (Jakob)",
+    "French": "OW Tea (Jakob)",
+    "German": "OW Tea (Jakob)",
+    "Italian": "OW Tea (Jakob)",
+    "Japanese": "OW Tea (Jakob)",
+    "Korean": "OW Tea (Jakob)",
+    "Polish": "OW Tea (Jakob)",
+    "Russian": "OW Tea (Jakob)",
+    "Spanish": "OW Tea (Jakob)",
+    "Taiwanese": "OW Tea (Jakob)"
+  },
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno1800-jakobs-mods",
+  "Description": {
+    "English": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  }
+}

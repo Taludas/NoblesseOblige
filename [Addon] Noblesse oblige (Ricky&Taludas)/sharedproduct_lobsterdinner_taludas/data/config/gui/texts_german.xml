@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005075</GUID>
+      <Text>Hummer-Menü</Text>
+    </Text>
+    <Text>
+      <GUID>1999005076</GUID>
+      <Text>Ein schickes Festmahl, aber man braucht echt Werkzeug, um es zu essen?!</Text>
+    </Text>
+    <Text>
+      <GUID>1999005077</GUID>
+      <Text>Ein feiner Snack für einen Kraken...</Text>
+    </Text>
+  </ModOp>
+</ModOps>
