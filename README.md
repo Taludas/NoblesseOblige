@@ -31,6 +31,9 @@ If you like this mod and want to support me, feel free to share it with your fri
 
 5. Unlock Conditions of the mod: The content in this mod can be explored from the start of the game. In fact, you can choose to play exclusively with the new content until you reach Artisans. Note that the 4x4 Artisans in this mod can't be upgraded to Engineers.
 
+## Incompatibilities
+- This mod is incompatible with all other mods that alter the initial loadout of your starting ships.
+
 ## Changelog
 
 <details>
@@ -76,6 +79,7 @@ Vanison Butchering: In the earlygame you can generate Beef by building a module
 - **Administration**: The radius increase interface has some features that are not required to work correctly. You only need the slider at the bottom to allocate landowner workforce to increase the radius. The modules (regular tier 1 landowner mansions), power requirement, cycle time, and the "broken" recipe book button are completely irrelevant. When you click on the Recipe Book button, a blank and transparent recipe book interface opens. You cannot adjust anything in it.
 - **Traditional Patronage**: The quests that activate/deactivate the relevant buffs for the Traditional Patronage feature are sometimes a little slow to react to the preconditions. You may find that you have two buffs active at the same time, or none at all for a short period of time. It is best to keep a steady supply of goods for your landowners, especially for the level 3 mansions, as they move in and out more quickly and therefore a lot of buff (de-)activation can happen around the step up/down borders.
 - **Influence from Happiness Needs**: The activation of the buffs that generate influence from the Happiness Needs through hidden quests will reset certain Needs fulfilment bars the first time they are activated. The needs will fill up again, but it is possible that some landowners will temporarily move out. The timer for removing buffs is deliberately set to 3 minutes to allow the need bars to refill. However, given my limited testing, at some point there may be some random "buff ping pong" where the buffs keep going on and off. In addition, for "shared" needs such as School, the buffs only become active if ALL residents are supplied with at least 95% of the need, so it is not limited to the satisfaction of the landowners in the case of non-exclusive goods!
+- **Pontifical Mass Event in the Imperial Cathedral**: Upon completion of the event, the UI only shows the buff that will be granted after its completion as a reward. In fact you still get the promissed 3 Items from the respective loottables. The are just not shown in the UI and will be available in your Kontor as usual.
 
 -----
 

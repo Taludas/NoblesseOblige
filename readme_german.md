@@ -29,6 +29,8 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 
 5. **Freischaltbedingungen der Mod**: Die Inhalte dieser Mod können von Beginn des Spiels an erkundet werden. Ihr könnt euch sogar dafür entscheiden, ausschließlich mit den neuen Inhalten zu spielen, bis Handwerker erreicht sind. Beachtet, dass die 4x4 Handwerker in dieser Mod nicht zu Ingenieuren aufgewertet werden können.
 
+## Inkompatibilitäten
+- Diese Mod ist inkompatibel mit allen anderen Mods, die die anfängliche Ladung der Startschiffe verändern.
 
 ## Changelog
 
@@ -74,6 +76,7 @@ Zusätzliche Baugenehmigungen für Herrenhäuser: Für jede Insel, die ihr besie
 - **Gutsverwaltung**: Das UI zur Vergrößerung des Radius hat einige Funktionen, die nicht erforderlich sind, um korrekt zu funktionieren. Man braucht nur den Schieberegler am unteren Rand, um die Arbeitskraft der Großgrundbesitzer zur Erhöhung des Radius zuzuweisen. Die Module (reguläre Tier 1 Herrenhäuser), der Strombedarf, die Zykluszeit und der "kaputte" Rezeptbuch-Button sind völlig irrelevant. Wenn ihr auf die Schaltfläche "Rezeptbuch" klickt, öffnet sich eine leere und transparente Rezeptbuchoberfläche. Ihr könnt darin nichts einstellen.
 - **Traditionelle Schirmherrschaft**: Die Quests, die die relevanten Buffs für die Funktion "Traditionelle Schirmherrschaft" aktivieren/deaktivieren, reagieren manchmal etwas langsam auf die Vorbedingungen. Es kann vorkommen, dass zwei Buffs gleichzeitig aktiv sind oder für eine kurze Zeit gar keiner. Es ist am besten, wenn ihr eure Grundbesitzer ständig mit Waren versorgt, insbesondere die Herrenhäuser der Stufe 3, da sie schneller ein- und ausziehen und tendenziell viele Buff (De-)Aktivierungen an den Grenzen zwischen den Stufen erfolgen können.
 - **Einfluss von Zufriedenheitswaren**: Die Aktivierung der Buffs, die durch versteckte Quests Einfluss aus den Zufriedenheitswaren generieren, setzt bestimmte Bedürfniserfüllungsleisten zurück, wenn sie zum ersten Mal aktiviert werden. Die Bedürfnisse werden sich wieder auffüllen, aber es ist möglich, dass einige Großgrundbesitzer vorübergehend ausziehen werden. Der Timer für das Entfernen von Buffs ist daher absichtlich auf 3 Minuten eingestellt, damit sich die Bedürfnisleisten wieder auffüllen können. Aufgrund meiner begrenzten Tests kann es jedoch irgendwann zu einem zufälligen "Buff-Ping-Pong" kommen, bei dem die Buffs immer wieder aktiviert und deaktiviert werden. Außerdem werden bei "geteilten" Bedürfnissen wie Schule nur dann die Buffs aktiv, wenn ALLE Bewohner zu mindestens 95% mit dem Bedürfniss versorgt sind, es beschränkt sich bei den nicht-exklusiven Waren also nicht auf die Befriedigung bei den Grundbesitzer!
+- **Ponticifal-Messe in der Kaiserlichen Kathedrale**: Nach Abschluss des Ereignisses zeigt die Benutzeroberfläche nur noch den Buff an, der nach Abschluss des Ereignisses als Belohnung gewährt wird. Tatsächlich erhält man aber immer noch die versprochenen 3 Gegenstände aus den jeweiligen Loottables. Sie werden nur nicht in der UI angezeigt und sind wie gewohnt in eurem Kontor verfügbar.
 
 -----
 
