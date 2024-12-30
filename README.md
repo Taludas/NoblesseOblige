@@ -8,6 +8,8 @@ Anno 1800 Noblesse Oblige is a mod that transfers and expands the concept of the
 
 Für die deutsche Version des readmes, bitte [hier](readme_german.md) klicken.
 
+Pour la version française du lisez-moi, veuillez cliquer [ici](readme_french.md).
+
 If you like this mod and want to support me, feel free to share it with your friends. I have spent countless workhours into this Mod and its development lasted for well over a year! Please, if you download this mod and enjoy the additional content, consider supporting me by making a donation on my Ko-Fi page! Your support is highly appreachiated and will ensure further development of unique and engaging mods.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
