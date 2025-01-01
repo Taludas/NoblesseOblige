@@ -193,9 +193,7 @@
               </Item>
             </Maintenances>
           </Maintenance>
-          <StorageBase>
-            <ProductStorageList>1999005354</ProductStorageList>
-          </StorageBase>
+          <StorageBase />
           <LoadingPier>
             <NumOfPiers>1</NumOfPiers>
             <LoadingSpeed>2</LoadingSpeed>
@@ -1102,7 +1100,6 @@
                 <StorageAmount>8</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>30</CycleTime>
             <IsMainFactory>0</IsMainFactory>
           </FactoryBase>
@@ -1318,7 +1315,6 @@
                 <StorageAmount>4</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>240</CycleTime>
             <IsMainFactory>0</IsMainFactory>
             <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
@@ -1536,7 +1532,6 @@
                 <StorageAmount>4</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>150</CycleTime>
             <IsMainFactory>0</IsMainFactory>
             <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
@@ -1754,7 +1749,6 @@
                 <StorageAmount>4</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>90</CycleTime>
             <IsMainFactory>0</IsMainFactory>
             <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
@@ -1972,7 +1966,6 @@
                 <StorageAmount>4</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>90</CycleTime>
             <IsMainFactory>0</IsMainFactory>
             <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
@@ -2190,7 +2183,6 @@
                 <StorageAmount>4</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>90</CycleTime>
             <IsMainFactory>0</IsMainFactory>
             <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
@@ -2408,7 +2400,6 @@
                 <StorageAmount>4</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>60</CycleTime>
             <IsMainFactory>0</IsMainFactory>
             <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
@@ -2626,7 +2617,6 @@
                 <StorageAmount>4</StorageAmount>
               </Item>
             </FactoryOutputs>
-            <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
             <CycleTime>60</CycleTime>
             <IsMainFactory>0</IsMainFactory>
             <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>

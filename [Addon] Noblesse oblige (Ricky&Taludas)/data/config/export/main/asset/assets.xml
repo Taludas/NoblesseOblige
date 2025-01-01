@@ -1322,6 +1322,836 @@
         </ModOp>
     </Group>
 
+    <!-- #Adjustments Palace buffs -->
+    <Group>
+      <ModOp Type="addNextSibling" GUID="269232">
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010479</GUID>
+              <Name>Public - Decree 5 Buff Applecider</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_common_spirits_act.png</IconFilename>
+              <InfoDescription>269435</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005300</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999005301</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999005302</GUID>
+                </Item>
+              </EffectTargets>
+              <AllowStacking>0</AllowStacking>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Late Licence Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36529</LineID>
+              <TextOverride>269232</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade />
+            <ResidenceUpgrade>
+              <GoodConsumptionUpgrade>
+                <Item>
+                  <ProvidedNeed>1999005051</ProvidedNeed>
+                  <AmountInPercent>-20</AmountInPercent>
+                </Item>
+              </GoodConsumptionUpgrade>
+            </ResidenceUpgrade>
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010480</GUID>
+              <Name>Public - Decree 4 Buff Chapel</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005102</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999005300</GUID>
+                </Item>
+              </EffectTargets>
+              <AllowStacking>0</AllowStacking>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade>
+              <InputBenefitModifier>
+                <Item>
+                  <Product>1999005123</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+              </InputBenefitModifier>
+            </PopulationUpgrade>
+            <ResidenceUpgrade />
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ForwardBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010481</GUID>
+              <Name>Public - Decree 4 Buff Forward Chapel</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <Buff />
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005306</GUID>
+                </Item>
+              </EffectTargets>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <EffectForward>
+              <ForwardEffect>1999010480</ForwardEffect>
+              <ForwardEffectScope>StreetDistance</ForwardEffectScope>
+              <ForwardEffectRange>40</ForwardEffectRange>
+              <ForwardEffectDistanceSource>PublicServiceDistance</ForwardEffectDistanceSource>
+            </EffectForward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010482</GUID>
+              <Name>Public - Decree 4 Buff Orangery</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005102</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999005117</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999005118</GUID>
+                </Item>
+              </EffectTargets>
+              <AllowStacking>0</AllowStacking>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade>
+              <InputBenefitModifier>
+                <Item>
+                  <Product>1999005122</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+              </InputBenefitModifier>
+            </PopulationUpgrade>
+            <ResidenceUpgrade />
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ForwardBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010483</GUID>
+              <Name>Public - Decree 4 Buff Forward Orangery</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <Buff />
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005200</GUID>
+                </Item>
+              </EffectTargets>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <EffectForward>
+              <ForwardEffect>1999010482</ForwardEffect>
+              <ForwardEffectScope>StreetDistance</ForwardEffectScope>
+              <ForwardEffectRange>40</ForwardEffectRange>
+              <ForwardEffectDistanceSource>PublicServiceDistance</ForwardEffectDistanceSource>
+            </EffectForward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010484</GUID>
+              <Name>Public - Decree 4 Buff Administration</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005300</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999005301</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999005302</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010302</GUID>
+                </Item>
+              </EffectTargets>
+              <AllowStacking>0</AllowStacking>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade>
+              <InputBenefitModifier>
+                <Item>
+                  <Product>1999005120</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+              </InputBenefitModifier>
+            </PopulationUpgrade>
+            <ResidenceUpgrade />
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ForwardBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010485</GUID>
+              <Name>Public - Decree 4 Buff Forward Administration</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <Buff />
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005131</GUID>
+                </Item>
+              </EffectTargets>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <EffectForward>
+              <ForwardEffect>1999010484</ForwardEffect>
+              <ForwardEffectScope>StreetDistance</ForwardEffectScope>
+              <ForwardEffectRange>40</ForwardEffectRange>
+              <ForwardEffectDistanceSource>PublicServiceDistance</ForwardEffectDistanceSource>
+            </EffectForward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010486</GUID>
+              <Name>Public - Decree 4 Buff Cathedral</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>193957</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010302</GUID>
+                </Item>
+              </EffectTargets>
+              <AllowStacking>0</AllowStacking>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade>
+              <InputBenefitModifier>
+                <Item>
+                  <Product>1999005123</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+                <Item>
+                  <Product>1010350</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+                <Item>
+                  <Product>1999005125</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+              </InputBenefitModifier>
+            </PopulationUpgrade>
+            <ResidenceUpgrade />
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ForwardBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010487</GUID>
+              <Name>Public - Decree 4 Buff Forward Cathedral</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <Buff />
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005421</GUID>
+                </Item>
+              </EffectTargets>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <EffectForward>
+              <ForwardEffect>1999010486</ForwardEffect>
+              <ForwardEffectScope>StreetDistance</ForwardEffectScope>
+              <ForwardEffectRange>40</ForwardEffectRange>
+              <ForwardEffectDistanceSource>PublicServiceDistance</ForwardEffectDistanceSource>
+            </EffectForward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010488</GUID>
+              <Name>Public - Decree 4 Buff Municipal Theatre</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999005118</GUID>
+                </Item>
+              </EffectTargets>
+              <AllowStacking>0</AllowStacking>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade>
+              <InputBenefitModifier>
+                <Item>
+                  <Product>1999005126</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+              </InputBenefitModifier>
+            </PopulationUpgrade>
+            <ResidenceUpgrade />
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ForwardBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010489</GUID>
+              <Name>Public - Decree 4 Buff Forward Municipal Theatre</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <Buff />
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>102037222</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010435</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010437</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010439</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010441</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010443</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010445</GUID>
+                </Item>
+                <Item>
+                  <GUID>1999010447</GUID>
+                </Item>
+              </EffectTargets>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <EffectForward>
+              <ForwardEffect>1999010488</ForwardEffect>
+              <ForwardEffectScope>StreetDistance</ForwardEffectScope>
+              <ForwardEffectRange>40</ForwardEffectRange>
+              <ForwardEffectDistanceSource>Static</ForwardEffectDistanceSource>
+            </EffectForward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010490</GUID>
+              <Name>Public - Decree 4 Buff cultural buildings</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999010302</GUID>
+                </Item>
+              </EffectTargets>
+              <AllowStacking>0</AllowStacking>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade>
+              <InputBenefitModifier>
+                <Item>
+                  <Product>1999005669</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+                <Item>
+                  <Product>1999005670</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+                <Item>
+                  <Product>1999005671</Product>
+                  <AdditionalHappiness>5</AdditionalHappiness>
+                </Item>
+              </InputBenefitModifier>
+            </PopulationUpgrade>
+            <ResidenceUpgrade />
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ForwardBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010491</GUID>
+              <Name>Public - Decree 4 Buff Forward cultural buildings</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+              <InfoDescription>269434</InfoDescription>
+            </Standard>
+            <Buff />
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1010470</GUID>
+                </Item>
+                <Item>
+                  <GUID>1010471</GUID>
+                </Item>
+                <Item>
+                  <GUID>110935</GUID>
+                </Item>
+              </EffectTargets>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Social Welfare Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36528</LineID>
+              <TextOverride>269111</TextOverride>
+            </Text>
+            <EffectForward>
+              <ForwardEffect>1999010490</ForwardEffect>
+              <ForwardEffectScope>StreetDistance</ForwardEffectScope>
+              <ForwardEffectRange>40</ForwardEffectRange>
+              <ForwardEffectDistanceSource>PublicServiceDistance</ForwardEffectDistanceSource>
+            </EffectForward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>TownhallBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>1999010492</GUID>
+              <Name>City Affairs - Decree 2 Buff_03 Landowner</Name>
+              <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_sustainable_eating.png</IconFilename>
+              <InfoDescription>269417</InfoDescription>
+            </Standard>
+            <ItemEffect>
+              <EffectTargets>
+                <Item>
+                  <GUID>1999010302</GUID>
+                </Item>
+              </EffectTargets>
+            </ItemEffect>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Creative Cuisine Act</Text>
+                  <Status>Exported</Status>
+                </English>
+              </LocaText>
+              <LineID>36488</LineID>
+              <TextOverride>269410</TextOverride>
+            </Text>
+            <BuildingUpgrade />
+            <Buff />
+            <PopulationUpgrade />
+            <ResidenceUpgrade>
+              <GoodConsumptionUpgrade>
+                <Item>
+                  <ProvidedNeed>1010193</ProvidedNeed>
+                  <AmountInPercent>-30</AmountInPercent>
+                </Item>
+                <Item>
+                  <ProvidedNeed>1440218</ProvidedNeed>
+                  <AmountInPercent>-30</AmountInPercent>
+                </Item>
+                <Item>
+                  <ProvidedNeed>133097</ProvidedNeed>
+                  <AmountInPercent>-30</AmountInPercent>
+                </Item>
+                <Item>
+                  <ProvidedNeed>1010215</ProvidedNeed>
+                  <AmountInPercent>-30</AmountInPercent>
+                </Item>
+                <Item>
+                  <ProvidedNeed>1999005057</ProvidedNeed>
+                  <AmountInPercent>-30</AmountInPercent>
+                </Item>
+                <Item>
+                  <ProvidedNeed>1999005075</ProvidedNeed>
+                  <AmountInPercent>-30</AmountInPercent>
+                </Item>
+              </GoodConsumptionUpgrade>
+            </ResidenceUpgrade>
+            <IncidentInfectableUpgrade />
+            <CultureUpgrade />
+            <InfluenceSourceUpgrade />
+            <WarehouseUpgrade />
+            <DistributionUpgrade />
+            <ItemContainerUpgrade />
+            <FactoryUpgrade />
+          </Values>
+        </Asset>
+      </ModOp>
+
+      <ModOp Type="add" GUID="269445" Path="/Values/EffectContainer/Effects">
+        <Item>
+          <Effect>1999010479</Effect>
+        </Item>
+      </ModOp>
+      <ModOp Type="add" GUID="269451" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade">
+        <Item>
+          <ProvidedNeed>1999005051</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+      </ModOp>
+      <ModOp Type="add" GUID="269453" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade">
+        <Item>
+          <ProvidedNeed>1999005051</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1500010847</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+      </ModOp>
+
+      <ModOp Type="add" GUID="280082" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade">
+        <Item>
+          <ProvidedNeed>1500010847</ProvidedNeed>
+          <AmountInPercent>-20</AmountInPercent>
+        </Item>
+      </ModOp>
+
+      <ModOp Type="add" GUID="273680" Path="/Values/EffectContainer/Effects">
+        <Item>
+          <Effect>1999010481</Effect>
+        </Item>
+        <Item>
+          <Effect>1999010483</Effect>
+        </Item>
+        <Item>
+          <Effect>1999010485</Effect>
+        </Item>
+        <Item>
+          <Effect>1999010487</Effect>
+        </Item>
+        <Item>
+          <Effect>1999010489</Effect>
+        </Item>
+        <Item>
+          <Effect>1999010491</Effect>
+        </Item>
+      </ModOp>
+
+      <ModOp Type="add" GUID="269410" Path="/Values/EffectContainer/Effects">
+        <Item>
+          <Effect>1999010492</Effect>
+        </Item>
+      </ModOp>
+
+      <ModOp Type="replace" GUID="269457" Path="/Values/EffectForward/ForwardEffectDistanceSource">
+        <ForwardEffectDistanceSource>Static</ForwardEffectDistanceSource>
+      </ModOp>
+
+      <ModOp Type="add" GUID="269405" Path="/Values/PopulationUpgrade/InputBenefitModifier">
+        <Item>
+					<Product>1999005120</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+        <Item>
+					<Product>1999005122</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+        <Item>
+					<Product>1999005123</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+        <Item>
+					<Product>1999005125</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+        <Item>
+					<Product>1999005126</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+        <Item>
+					<Product>1999005669</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+        <Item>
+					<Product>1999005670</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+        <Item>
+					<Product>1999005671</Product>
+					<AdditionalHappiness>5</AdditionalHappiness>
+				</Item>
+      </ModOp>
+
+      <ModOp Type="add" GUID="269177" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade">
+        <Item>
+          <ProvidedNeed>1010215</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1999005054</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1999005060</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1999005057</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+      </ModOp>
+
+      <ModOp Type="add" GUID="269407" Path="/Values/ResidenceUpgrade/GoodConsumptionUpgrade">
+        <Item>
+          <ProvidedNeed>1010193</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1440218</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>133097</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1010215</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1999005057</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1999005054</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1999005060</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+        <Item>
+          <ProvidedNeed>1999005075</ProvidedNeed>
+          <AmountInPercent>-30</AmountInPercent>
+        </Item>
+      </ModOp>
+    </Group>
+
     <!-- #Build Menu Landowners -->
     <Group>
         <ModOp Type="addNextSibling" GUID="25000189">
@@ -5031,6 +5861,12 @@
                             <AdditionalOutputCycle>1</AdditionalOutputCycle>
                         </Item>
                     </AdditionalOutput>
+                    <InputAmountUpgrade>
+                      <Item>
+                        <Product>1010223</Product>
+                        <Amount>1</Amount>
+                      </Item>
+                    </InputAmountUpgrade>
                     <ReplaceInputs>
                       <Item>
                         <OldInput>1955</OldInput>
@@ -5316,6 +6152,13 @@
               </Values>
              </Asset>
             </ModOp>
+        </Group>
+
+        <!-- remove Bus activation from Hacienda Template if NW Tourism is enabled, instead add it at the assets level -->
+        <Group>
+          <ModOp Type="add" GUID="24768" Path="/Values" Condition="#FamTaubeLexy_NewWorldHotels">
+            <BusActivation />
+          </ModOp>
         </Group>
     </Group>
 
@@ -7556,6 +8399,9 @@
                     <ItemEffectTargetPool>
                         <EffectTargetGUIDs>
                             <Item>
+                                <GUID>1999005203</GUID>
+                            </Item>
+                            <Item>
                                 <GUID>1999005222</GUID>
                             </Item>
                             <Item>
@@ -9058,7 +9904,7 @@
                     <Object>
                         <Variations>
                             <Item>
-                                <Filename>data/ricky/oldworldhacienda/universal_breweries/oldworld_hacienda_universal_brewery_blank.cfg</Filename>
+                                <Filename>data/ricky/haciendaoldworld/universal_breweries/oldworld_hacienda_universal_brewery_blank.cfg</Filename>
                             </Item>
                         </Variations>
                         <Skins>
@@ -10244,6 +11090,9 @@
                     <ItemEffectTargetPool>
                         <EffectTargetGUIDs>
                             <Item>
+                                <GUID>1999005273</GUID>
+                            </Item>
+                            <Item>
                                 <GUID>1999005283</GUID>
                             </Item>
                             <Item>
@@ -10388,7 +11237,7 @@
                     <Object>
                         <Variations>
                             <Item>
-                                <Filename>data/ricky/oldworldhacienda/universal_carpenter/hacienda_oldworld_carpentry_blank.cfg</Filename>
+                                <Filename>data/ricky/haciendaoldworld/universal_carpenter/hacienda_oldworld_carpentry_blank.cfg</Filename>
                             </Item>
                         </Variations>
                         <Skins>
@@ -10502,7 +11351,9 @@
                         <MaximumHitPoints>4500</MaximumHitPoints>
                         <SelfHealPerHealTick>4</SelfHealPerHealTick>
                     </Attackable>
-                    <UpgradeList />
+                    <UpgradeList>
+                      <DefaultBuff>1999005676</DefaultBuff>
+                    </UpgradeList>
                     <Pausable />
                     <FeedbackController />
                     <Infolayer />
@@ -11650,6 +12501,9 @@
                   <ItemEffectTargetPool>
                       <EffectTargetGUIDs>
                           <Item>
+                              <GUID>1999005320</GUID>
+                          </Item>
+                          <Item>
                               <GUID>1999005331</GUID>
                           </Item>
                           <Item>
@@ -12593,191 +13447,8 @@
             </ModOp>
         </Group>
         <Group Condition="#jakob_biogas">
-            <ModOp Type="addNextSibling" GUID="24805">
-                <Asset>
-                    <Template>BuffFactoryCulture</Template>
-                    <Values>
-                      <Standard>
-                        <GUID>1999005246</GUID>
-                        <Name>OW Hacienda Dung Collector</Name>
-                        <IconFilename>data/ui/2kimages/main/3dicons/icon_dung.png</IconFilename>
-                        <InfoDescription>1999005247</InfoDescription>
-                      </Standard>
-                      <Text>
-                        <LocaText>
-                          <English>
-                            <Text>OW Hacienda Dung Collector</Text>
-                          </English>
-                        </LocaText>
-                        <LineID>55227</LineID>
-                      </Text>
-                      <Building>
-                        <BuildingCategoryName>11151</BuildingCategoryName>
-                        <BuildModeRandomRotation>180</BuildModeRandomRotation>
-                        <AssociatedRegions>Moderate</AssociatedRegions>
-                        <SecondPartyRelevant>0</SecondPartyRelevant>
-                      </Building>
-                      <Blocking>
-                        <HasBuildingBaseTiles>1</HasBuildingBaseTiles>
-                      </Blocking>
-                      <Mesh />
-                      <UpgradeList>
-                        <DefaultBuff>1999005252</DefaultBuff>
-                      </UpgradeList>
-                      <FactoryBase />
-                      <FeedbackController />
-                      <Pausable>
-                      </Pausable>
-                      <Selection>
-                        <GUIType>Generic</GUIType>
-                        <OnSelection>
-                          <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-                          <Values>
-                            <ActionList />
-                          </Values>
-                        </OnSelection>
-                        <ParticipantMessageArcheType>Resident_tier01_atWork</ParticipantMessageArcheType>
-                        <Colors>
-                          <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                        </Colors>
-                      </Selection>
-                      <Attackable>
-                        <AttackableType>IslandBuilding</AttackableType>
-                        <MaximumHitPoints>3000</MaximumHitPoints>
-                        <HasRuinState>1</HasRuinState>
-                      </Attackable>
-                      <Maintenance>
-                        <Maintenances>
-                          <Item>
-                            <Product>1010017</Product>
-                            <Amount>50</Amount>
-                            <InactiveAmount>25</InactiveAmount>
-                          </Item>
-                          <Item>
-                            <Product>1010052</Product>
-                            <Amount>30</Amount>
-                          </Item>
-                        </Maintenances>
-                      </Maintenance>
-                      <AmbientMoodProvider />
-                      <LogisticNode />
-                      <Constructable />
-                      <Locked />
-                      <IncidentInfectable>
-                        <Infectable>
-                          <Fire>
-                            <Base>1</Base>
-                          </Fire>
-                          <Riot>
-                            <Base>1</Base>
-                          </Riot>
-                          <Illness>
-                            <Base>1</Base>
-                            <Communication>FireDefault</Communication>
-                          </Illness>
-                          <Explosion>
-                            <Base>1</Base>
-                          </Explosion>
-                        </Infectable>
-                        <IncidentInfectionChanceFactors>
-                          <Fire>
-                            <DensityFactor>0.0025</DensityFactor>
-                            <DensityDistance>20</DensityDistance>
-                            <FactoryProductivityFactor>0.1</FactoryProductivityFactor>
-                            <FactoryUndertimeFactor>0.05</FactoryUndertimeFactor>
-                          </Fire>
-                        </IncidentInfectionChanceFactors>
-                      </IncidentInfectable>
-                      <Object>
-                        <Variations>
-                          <Item>
-                            <Filename>data/hier0nimus/processing_dung/processing_dung.cfg</Filename>
-                          </Item>
-                        </Variations>
-                        <Skins>
-                          <DefaultSkinName>1999005246</DefaultSkinName>
-                          <DefaultSkinDescription>23853</DefaultSkinDescription>
-                          <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
-                        </Skins>
-                      </Object>
-                      <SoundEmitter>
-                        <ActiveSounds>
-                          <Item>
-                            <Sound>282231</Sound>
-                          </Item>
-                        </ActiveSounds>
-                        <DestroySounds>
-                          <Item>
-                            <Sound>9818756</Sound>
-                          </Item>
-                        </DestroySounds>
-                        <ProductionSounds>
-                          <UI />
-                        </ProductionSounds>
-                      </SoundEmitter>
-                      <Cost>
-                        <Costs>
-                          <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>500</Amount>
-                          </Item>
-                          <Item>
-                            <Ingredient>1010196</Ingredient>
-                            <Amount>5</Amount>
-                          </Item>
-                          <Item>
-                            <Ingredient>1010205</Ingredient>
-                          </Item>
-                          <Item>
-                            <Ingredient>1010218</Ingredient>
-                          </Item>
-                          <Item>
-                            <Ingredient>1010207</Ingredient>
-                          </Item>
-                          <Item>
-                            <Ingredient>1010202</Ingredient>
-                          </Item>
-                        </Costs>
-                      </Cost>
-                      <Infolayer />
-                      <Culture>
-                        <Attractiveness>-5</Attractiveness>
-                        <CultureType>Military</CultureType>
-                      </Culture>
-                    </Values>
-                </Asset>
-                <Asset>
-                    <Template>EffectContainer</Template>
-                    <Values>
-                        <Standard>
-                            <GUID>1999005253</GUID>
-                            <Name>dung_effectcontainer_forward</Name>
-                            <IconFilename>data/ui/2kimages/main/3dicons/icon_dung.png</IconFilename>
-                        </Standard>
-                        <Text>
-                            <LocaText>
-                                <English>
-                                    <Text>dung_effectcontainer_forward</Text>
-                                    <Status>Exported</Status>
-                                </English>
-                            </LocaText>
-                            <LineID>36497</LineID>
-                        </Text>
-                        <EffectContainer>
-                            <Effects>
-                                <Item>
-                                    <Effect>1500010012</Effect>
-                                </Item>
-                                <Item>
-                                    <Effect>1500010018</Effect>
-                                </Item>
-                                <Item>
-                                    <Effect>1500010038</Effect>
-                                </Item>
-                            </Effects>
-                        </EffectContainer>
-                    </Values>
-                </Asset>
+            <ModOp Type="replace" GUID="1999005201" Path="/Values/ProductionChain/Tier1/Item[Building = '1999005246']/Building">
+              <Building>1500010015</Building>
             </ModOp>
             <ModOp Type="add" GUID="1500010018" Path="/Values/ItemEffect/EffectTargets">
                 <Item>
@@ -16234,17 +16905,6 @@
             </Item>
           </ModOp>
 
-          <!-- adapt vanilla OW Suits Factory -->
-          <ModOp Type="merge" GUID="118734" Path="/Values/FactoryBase/FactoryInputs/Item[Product = '1010240']/Product">
-              <Product>1440209</Product>
-          </ModOp>
-          <ModOp Type="merge" GUID="118738" Path="/Values/ProductionChain/Tier1/Item[Building = '1010318']/Tier2/Item/Building">
-              <Building>1999005384</Building>
-          </ModOp>
-          <ModOp Type="merge" GUID="118738" Path="/Values/ProductionChain/Tier1/Item[Building = '1010318']/Building">
-              <Building>1999005407</Building>
-          </ModOp>
-
           <!-- change icon to red silken tie -->
           <ModOp Type="replace" Path="//Standard[IconFilename ='data/ui/2kimages/main/3dicons/goods_africa/icon_suits.png']/IconFilename">
             <IconFilename>data/ui/icon_silken_suits.png</IconFilename>
@@ -18878,6 +19538,8 @@
                         </FactoryOutputs>
                         <CycleTime>120</CycleTime>
                         <IsMainFactory>0</IsMainFactory>
+                        <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+                        <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
                     </FactoryBase>
                     <LogisticNode>
                         <HideTransportersBeforeTheyMove>1</HideTransportersBeforeTheyMove>
@@ -19088,6 +19750,8 @@
                         </FactoryOutputs>
                         <CycleTime>90</CycleTime>
                         <IsMainFactory>0</IsMainFactory>
+                        <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+                        <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
                     </FactoryBase>
                     <LogisticNode>
                         <HideTransportersBeforeTheyMove>1</HideTransportersBeforeTheyMove>
@@ -19298,6 +19962,8 @@
                         </FactoryOutputs>
                         <CycleTime>120</CycleTime>
                         <IsMainFactory>0</IsMainFactory>
+                        <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+                        <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
                     </FactoryBase>
                     <LogisticNode>
                         <HideTransportersBeforeTheyMove>1</HideTransportersBeforeTheyMove>
@@ -19508,6 +20174,8 @@
                         </FactoryOutputs>
                         <CycleTime>60</CycleTime>
                         <IsMainFactory>0</IsMainFactory>
+                        <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+                        <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
                     </FactoryBase>
                     <LogisticNode>
                         <HideTransportersBeforeTheyMove>1</HideTransportersBeforeTheyMove>
@@ -19718,6 +20386,8 @@
                         </FactoryOutputs>
                         <CycleTime>120</CycleTime>
                         <IsMainFactory>0</IsMainFactory>
+                        <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+                        <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
                     </FactoryBase>
                     <LogisticNode>
                         <HideTransportersBeforeTheyMove>1</HideTransportersBeforeTheyMove>
@@ -19928,6 +20598,8 @@
                         </FactoryOutputs>
                         <CycleTime>90</CycleTime>
                         <IsMainFactory>0</IsMainFactory>
+                        <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+                        <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
                     </FactoryBase>
                     <LogisticNode>
                         <HideTransportersBeforeTheyMove>1</HideTransportersBeforeTheyMove>
@@ -20323,6 +20995,8 @@
                       </Item>
                     </FactoryInputs>
                     <CycleTime>240</CycleTime>
+                    <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
                 </FactoryBase>
                 <BuffFactory>
                   <ProductionBuffs>
@@ -21644,7 +22318,7 @@
                     <GUID>1999005306</GUID>
                 </Item>
             </ModOp>
-            <ModOp Type="add" GUID="269456,191705,191706,191707,191741,191742,191743" Path="/Values/ItemEffect/EffectTargets">
+            <ModOp Type="add" GUID="191705,191706,191707,191741,191742,191743" Path="/Values/ItemEffect/EffectTargets">
                 <Item>
                     <GUID>1999005306</GUID>
                 </Item>
@@ -21716,7 +22390,9 @@
               <BusActivation>
                 <ShutDownCompletelyWhenMissingBus>0</ShutDownCompletelyWhenMissingBus>
               </BusActivation>
-              <Nameable />
+              <Nameable>
+                <OverwriteNameWithTextAsset>1999010468</OverwriteNameWithTextAsset>
+              </Nameable>
               <Maintenance>
                 <CanRequestAdditionalWorkforce>1</CanRequestAdditionalWorkforce>
                 <AdditionalWorkforceData>
@@ -21727,6 +22403,69 @@
               </Maintenance>
             </ModOp>
 
+            <!-- Buffs and Pools -->
+            <ModOp Type="remove" GUID="269457,269462" Path="/Values/ItemEffect/EffectTargets/Item[GUID = '102037222']" />
+            <ModOp Type="remove" GUID="190136" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs/Item[GUID = '102037222'][1]" />
+            <ModOp Type="addNextSibling" GUID="133930">
+              <Asset>
+                <Template>ItemEffectTargetPool</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010474</GUID>
+                    <Name>all municipal theatres</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>All municipal theatres</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>15234</LineID>
+                  </Text>
+                  <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                      <Item>
+                        <GUID>102037222</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>1999010435</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>1999010437</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>1999010439</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>1999010441</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>1999010443</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>1999010445</GUID>
+                      </Item>
+                      <Item>
+                        <GUID>1999010447</GUID>
+                      </Item>
+                    </EffectTargetGUIDs>
+                  </ItemEffectTargetPool>
+                </Values>
+              </Asset>
+            </ModOp>
+            <ModOp Type="replace" GUID="190136,368,191501,193863" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs/Item[GUID = '102037222']">
+              <Item>
+                <GUID>1999010474</GUID>
+              </Item>
+            </ModOp>
+            <ModOp Type="replace" GUID="193404,191142,190727,190732,191696,191697,191698,191714,191715,191716,192357,191717,191718,191719,116181,269462,269457,269413" Path="/Values/ItemEffect/EffectTargets/Item[GUID = '102037222']">
+              <Item>
+                <GUID>1999010474</GUID>
+              </Item>
+            </ModOp>
+
+            <!-- Recipes for Municipal Theatre -->
             <ModOp Type="addNextSibling" GUID="133930">
               <Asset>
                   <Template>RecipeList</Template>
@@ -22185,7 +22924,9 @@
                     <Attractiveness>200</Attractiveness>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
                   </Culture>
-                  <Nameable />
+                  <Nameable>
+                    <OverwriteNameWithTextAsset>1999010461</OverwriteNameWithTextAsset>
+                  </Nameable>
                 </Values>
               </Asset>
               <Asset>
@@ -22407,7 +23148,9 @@
                     <Attractiveness>200</Attractiveness>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
                   </Culture>
-                  <Nameable />
+                  <Nameable>
+                    <OverwriteNameWithTextAsset>1999010466</OverwriteNameWithTextAsset>
+                  </Nameable>
                 </Values>
               </Asset>
               <Asset>
@@ -22629,7 +23372,9 @@
                     <Attractiveness>200</Attractiveness>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
                   </Culture>
-                  <Nameable />
+                  <Nameable>
+                    <OverwriteNameWithTextAsset>1999010462</OverwriteNameWithTextAsset>
+                  </Nameable>
                 </Values>
               </Asset>
               <Asset>
@@ -22851,7 +23596,9 @@
                     <Attractiveness>200</Attractiveness>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
                   </Culture>
-                  <Nameable />
+                  <Nameable>
+                    <OverwriteNameWithTextAsset>1999010463</OverwriteNameWithTextAsset>
+                  </Nameable>
                 </Values>
               </Asset>
               <Asset>
@@ -23073,7 +23820,9 @@
                     <Attractiveness>200</Attractiveness>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
                   </Culture>
-                  <Nameable />
+                  <Nameable>
+                    <OverwriteNameWithTextAsset>1999010464</OverwriteNameWithTextAsset>
+                  </Nameable>
                 </Values>
               </Asset>
               <Asset>
@@ -23295,7 +24044,9 @@
                     <Attractiveness>200</Attractiveness>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
                   </Culture>
-                  <Nameable />
+                  <Nameable>
+                    <OverwriteNameWithTextAsset>1999010465</OverwriteNameWithTextAsset>
+                  </Nameable>
                 </Values>
               </Asset>
               <Asset>
@@ -23517,7 +24268,9 @@
                     <Attractiveness>200</Attractiveness>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
                   </Culture>
-                  <Nameable />
+                  <Nameable>
+                    <OverwriteNameWithTextAsset>1999010467</OverwriteNameWithTextAsset>
+                  </Nameable>
                 </Values>
               </Asset>
               <Asset>
@@ -23585,6 +24338,151 @@
                   <FactoryUpgrade />
                 </Values>
               </Asset>
+
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010461</GUID>
+                    <Name>Name Theatre Drama</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>Sherlock Holmes and the Hound of the Baskervilles</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010462</GUID>
+                    <Name>Name Theatre Snooker</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>Champion of the Champions Masters</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010463</GUID>
+                    <Name>Name Theatre Science</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>Century of Progress</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010464</GUID>
+                    <Name>Name Theatre Film</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>A Trip to the Moon</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010465</GUID>
+                    <Name>Name Theatre Fashion Show</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>Next Top Model</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010466</GUID>
+                    <Name>Name Theatre Concert</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>From the New World</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010467</GUID>
+                    <Name>Name Theatre Art</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>This Year Venuses Again!</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
+              <Asset>
+                <Template>Text</Template>
+                <Values>
+                  <Standard>
+                    <GUID>1999010468</GUID>
+                    <Name>Name Theatre Empty</Name>
+                  </Standard>
+                  <Text>
+                    <LocaText>
+                      <English>
+                        <Text>No active event!</Text>
+                        <Status>Exported</Status>
+                      </English>
+                    </LocaText>
+                    <LineID>48803</LineID>
+                  </Text>
+                </Values>
+              </Asset>
             </ModOp>
 
         </Group>
@@ -23594,7 +24492,7 @@
             <ModOp Type="addNextSibling" GUID="141896">
                 <!-- Stage 1 -->
                 <Asset>
-                    <Template>Monument</Template>
+                    <Template>ResearchCenter</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005415</GUID>
@@ -23723,14 +24621,13 @@
                         <UpgradeList />
                         <Industrializable />
                         <Electrifiable />
-                        <BusActivation />
                         <PublicService />
                     </Values>
                 </Asset>
 
                 <!-- stage 2 -->
                 <Asset>
-                    <Template>Monument</Template>
+                    <Template>ResearchCenter</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005417</GUID>
@@ -23868,14 +24765,13 @@
                         <UpgradeList />
                         <Industrializable />
                         <Electrifiable />
-                        <BusActivation />
                         <PublicService />
                     </Values>
                 </Asset>
 
                 <!-- stage 3 -->
                 <Asset>
-                    <Template>Monument</Template>
+                    <Template>ResearchCenter</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005419</GUID>
@@ -24021,14 +24917,13 @@
                         <UpgradeList />
                         <Industrializable />
                         <Electrifiable />
-                        <BusActivation />
                         <PublicService />
                     </Values>
                 </Asset>
 
                 <!-- stage 4 -->
                 <Asset>
-                    <Template>Monument</Template>
+                    <Template>ResearchCenter</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005421</GUID>
@@ -24163,7 +25058,7 @@
                         <Infolayer />
                         <FactoryBase />
                         <LogisticNode>
-                            <TransporterCountMax>0</TransporterCountMax>
+                            <TransporterCountMax>4</TransporterCountMax>
                         </LogisticNode>
                         <Monument>
                           <UnfinishedIcon>500417</UnfinishedIcon>
@@ -24216,7 +25111,6 @@
                         <UpgradeList />
                         <Industrializable />
                         <Electrifiable />
-                        <BusActivation />
                         <PublicService>
                             <FullSatisfactionDistance>110</FullSatisfactionDistance>
                             <NoSatisfactionDistance>150</NoSatisfactionDistance>
@@ -24741,6 +25635,102 @@
                     </Values>
                 </Asset>
 
+                <!-- Custom Reward Pools for Mass Products -->
+                <Asset>
+                  <Template>RewardPool</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>1999010469</GUID>
+                      <Name>Hosts</Name>
+                      <IconFilename>data/ui/2kimages/main/3dicons/icon_bread.png</IconFilename>
+                    </Standard>
+                    <RewardPool>
+                      <ItemsPool>
+                        <Item>
+                          <ItemLink>1010213</ItemLink>
+                        </Item>
+                      </ItemsPool>
+                    </RewardPool>
+                    <Locked />
+                    <Text />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>RewardPool</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>1999010470</GUID>
+                      <Name>Wine</Name>
+                      <IconFilename>data/ui/2kimages/main/3dicons/icon_champagne.png</IconFilename>
+                    </Standard>
+                    <RewardPool>
+                      <ItemsPool>
+                        <Item>
+                          <ItemLink>120016</ItemLink>
+                        </Item>
+                      </ItemsPool>
+                    </RewardPool>
+                    <Locked />
+                    <Text />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>RewardPool</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>1999010471</GUID>
+                      <Name>candles</Name>
+                      <IconFilename>data/ui/2kimages/main/3dicons/goods_africa/icon_candles.png</IconFilename>
+                    </Standard>
+                    <RewardPool>
+                      <ItemsPool>
+                        <Item>
+                          <ItemLink>117701</ItemLink>
+                        </Item>
+                      </ItemsPool>
+                    </RewardPool>
+                    <Locked />
+                    <Text />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>RewardPool</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>1999010472</GUID>
+                      <Name>scripts</Name>
+                      <IconFilename>data/ui/2kimages/main/3dicons/goods_africa/icon_scriptures.png</IconFilename>
+                    </Standard>
+                    <RewardPool>
+                      <ItemsPool>
+                        <Item>
+                          <ItemLink>117698</ItemLink>
+                        </Item>
+                      </ItemsPool>
+                    </RewardPool>
+                    <Locked />
+                    <Text />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>RewardPool</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>1999010473</GUID>
+                      <Name>paintings</Name>
+                      <IconFilename>data/ui/icon_paintings.png</IconFilename>
+                    </Standard>
+                    <RewardPool>
+                      <ItemsPool>
+                        <Item>
+                          <ItemLink>1999005069</ItemLink>
+                        </Item>
+                      </ItemsPool>
+                    </RewardPool>
+                    <Locked />
+                    <Text />
+                  </Values>
+                </Asset>
                 <!-- 1 Monument Event Pontifical Mass-->
                 <Asset>
                     <Template>MonumentEvent</Template>
@@ -24761,7 +25751,7 @@
                         </Text>
                         <Locked/>
                         <MonumentEvent>
-                            <PreparationTime>600000</PreparationTime>
+                            <PreparationTime>900000</PreparationTime>
                             <EventDuration>300000</EventDuration>
                             <NeededWorkforce>1999005111</NeededWorkforce>
                             <NeededWorkforceAmount>500</NeededWorkforceAmount>
@@ -24779,27 +25769,27 @@
                                 <Item>
                                     <MinAmount>100</MinAmount>
                                     <MaxAmount>200</MaxAmount>
-                                    <GoodsOrPool>1010213</GoodsOrPool>
+                                    <GoodsOrPool>1999010469</GoodsOrPool>
                                 </Item>
                                 <Item>
                                     <MinAmount>100</MinAmount>
                                     <MaxAmount>200</MaxAmount>
-                                    <GoodsOrPool>120016</GoodsOrPool>
+                                    <GoodsOrPool>1999010470</GoodsOrPool>
                                 </Item>
                                 <Item>
                                     <MinAmount>50</MinAmount>
                                     <MaxAmount>100</MaxAmount>
-                                    <GoodsOrPool>117701</GoodsOrPool>
+                                    <GoodsOrPool>1999010471</GoodsOrPool>
                                 </Item>
                                 <Item>
                                     <MinAmount>50</MinAmount>
                                     <MaxAmount>100</MaxAmount>
-                                    <GoodsOrPool>117698</GoodsOrPool>
+                                    <GoodsOrPool>1999010472</GoodsOrPool>
                                 </Item>
                                 <Item>
                                     <MinAmount>25</MinAmount>
                                     <MaxAmount>50</MaxAmount>
-                                    <GoodsOrPool>1999005069</GoodsOrPool>
+                                    <GoodsOrPool>1999010473</GoodsOrPool>
                                 </Item>
                             </PreparationGoods>
                             <ShortSizeName>1999010384</ShortSizeName>
@@ -28133,6 +29123,12 @@
                             <Item>
                               <FileName>data/xan/buildings/public/hospital_01/hospital_01.cfg</FileName>
                             </Item>
+                            <Item>
+                              <FileName>data/xan/buildings/public/hospital_01/hospital_01_lvl2.cfg</FileName>
+                            </Item>
+                            <Item>
+                              <FileName>data/xan/buildings/public/hospital_01/hospital_01_lvl3.cfg</FileName>
+                            </Item>
                           </SkinVariations>
                         </Skin>
                         <Locked>
@@ -28364,21 +29360,6 @@
                                         <DensityFactor>0.025</DensityFactor>
                                         <DensityDistance>15</DensityDistance>
                                     </Fire>
-                                    <Riot>
-                                        <ResidenceHappinessFactor>0.4</ResidenceHappinessFactor>
-                                        <HappinessThreshold>10</HappinessThreshold>
-                                    </Riot>
-                                    <Illness>
-                                        <BaseChance>3</BaseChance>
-                                        <HitpointFactor>0.1</HitpointFactor>
-                                        <DensityFactor>0.025</DensityFactor>
-                                        <DensityDistance>15</DensityDistance>
-                                        <DilapidatedFactor>10</DilapidatedFactor>
-                                        <FactoryOvertimeFactor>0.3</FactoryOvertimeFactor>
-                                        <FactoryUndertimeFactor>0.15</FactoryUndertimeFactor>
-                                        <ResidenceFullOvertimeChance>20</ResidenceFullOvertimeChance>
-                                        <ResidenceFullUndertimeChance>-15</ResidenceFullUndertimeChance>
-                                    </Illness>
                                     <Explosion>
                                         <ResidenceFullOvertimeChance>20</ResidenceFullOvertimeChance>
                                         <ResidenceFullUndertimeChance>-15</ResidenceFullUndertimeChance>
@@ -28459,7 +29440,7 @@
                             <Object>
                                 <Variations>
                                     <Item>
-                                        <Filename>data/ricky/haciendaoldworld/main_building/oldworld_hacienda_main.cfg</Filename>
+                                        <Filename>data/ricky/haciendaoldworld/main_building/oldworld_hacienda_main_lvl2.cfg</Filename>
                                     </Item>
                                 </Variations>
                                 <Skins>
@@ -28726,7 +29707,7 @@
                             <Object>
                                 <Variations>
                                     <Item>
-                                        <Filename>data/ricky/haciendaoldworld/main_building/oldworld_hacienda_main.cfg</Filename>
+                                        <Filename>data/ricky/haciendaoldworld/main_building/oldworld_hacienda_main_lvl3.cfg</Filename>
                                     </Item>
                                 </Variations>
                                 <Skins>
@@ -28982,6 +29963,44 @@
                     <GUID>1999010302</GUID>
                 </Item>
               </ModOp>
+
+              <ModOp Type="replace" GUID="269233" Path="/Values/ItemEffect/EffectTargets/Item[GUID = '1999010302']">
+                <Item>
+                    <GUID>1999005102</GUID>
+                </Item>
+                <Item>
+                    <GUID>1999005117</GUID>
+                </Item>
+              </ModOp>
+              <ModOp Type="remove" GUID="280082" Path="/Values/ItemEffect/EffectTargets/Item[GUID = '1999010302']"/>
+              <ModOp Type="add" GUID="280082" Path="/Values/ItemEffect/EffectTargets">
+                <Item>
+                    <GUID>1999005118</GUID>
+                </Item>
+              </ModOp>
+
+              <ModOp Type="add" GUID="269156" Path="/Values/ItemEffect/EffectTargets">
+                <Item>
+                    <GUID>1999005102</GUID>
+                </Item>
+              </ModOp>
+              <ModOp Type="add" GUID="269158" Path="/Values/ItemEffect/EffectTargets">
+                <Item>
+                    <GUID>1999005117</GUID>
+                </Item>
+              </ModOp>
+              <ModOp Type="add" GUID="269159" Path="/Values/ItemEffect/EffectTargets">
+                <Item>
+                    <GUID>1999005117</GUID>
+                </Item>
+              </ModOp>
+              <ModOp Type="add" GUID="269161" Path="/Values/ItemEffect/EffectTargets">
+                <Item>
+                    <GUID>1999005118</GUID>
+                </Item>
+              </ModOp>
+
+              <ModOp Type="remove" GUID="269412" Path="/Values/ItemEffect/EffectTargets/Item[GUID = '1999010302']"/>
 
               <ModOp GUID="2001092" Type="add" Path="/Values/FeedbackBuildingGroup/Buildings">
                 <Item>
@@ -36288,7 +37307,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -36387,7 +37406,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -36678,7 +37699,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -36777,7 +37798,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -37068,7 +38091,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -37167,7 +38190,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -37458,7 +38483,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -37557,7 +38582,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -37848,7 +38875,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -37947,7 +38974,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -38238,7 +39267,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -38337,7 +39366,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -38628,7 +39659,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -38727,7 +39758,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -39018,7 +40051,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -39117,7 +40150,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -39408,7 +40443,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -39507,7 +40542,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -39798,7 +40835,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -39897,7 +40934,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -40188,7 +41227,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -40287,7 +41326,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -40578,7 +41619,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -40677,7 +41718,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -40968,7 +42011,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -41067,7 +42110,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -41358,7 +42403,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -41457,7 +42502,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -41748,7 +42795,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -41847,7 +42894,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -42138,7 +43187,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -42237,7 +43286,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -42528,7 +43579,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -42627,7 +43678,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -42918,7 +43971,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -43017,7 +44070,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -43308,7 +44363,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -43407,7 +44462,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -43687,7 +44744,7 @@
                   <MaxCallOut>1</MaxCallOut>
                   <MaxSolveCount>1</MaxSolveCount>
                   <QuestTimeLimit>0</QuestTimeLimit>
-                  <QuestCategory>RandomQuest</QuestCategory>
+                  <QuestCategory>MetaQuest</QuestCategory>
                   <QuestActivation>QuestStart</QuestActivation>
                   <IsAbortable>0</IsAbortable>
                   <DelayTimer>3000</DelayTimer>
@@ -43786,7 +44843,9 @@
                           <ConditionQuestObjective>
                             <TextCombinedContextValue>14033</TextCombinedContextValue>
                           </ConditionQuestObjective>
-                          <ObjectiveScaling />
+                          <ObjectiveScaling>
+                            <ScaleObjectives>0</ScaleObjectives>
+                          </ObjectiveScaling>
                           <ConditionPropsSessionSettings />
                         </Values>
                       </Objective>
@@ -43807,6 +44866,294 @@
             </Asset>
           </ModOp>
         </Group>
+
+        <!-- On exisiting savegames: get one paper for free if Conqueror Buff is active, two if Unifier Buff is active and three if World Leader Buff is active -->
+        <ModOp Type="addNextSibling" GUID="152264">
+          <Asset>
+            <Template>Trigger</Template>
+            <Values>
+              <Standard>
+                <GUID>1999010475</GUID>
+                <Name>Register Triggers for Papers on existing saves only if a savegame was loaded (not a new game)</Name>
+              </Standard>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionAlwaysTrue</Template>
+                  <Values>
+                    <Condition />
+                    <ConditionAlwaysTrue />
+                  </Values>
+                </TriggerCondition>
+                <SubTriggers>
+                  <Item>
+                    <SubTrigger>
+                      <Template>AutoCreateTrigger</Template>
+                      <Values>
+                        <Trigger>
+                          <TriggerCondition>
+                            <Template>ConditionUnlocked</Template>
+                            <Values>
+                              <Condition>
+                                <IsOptional>1</IsOptional>
+                              </Condition>
+                              <ConditionUnlocked>
+                                <UnlockNeeded>1010278</UnlockNeeded>
+                              </ConditionUnlocked>
+                              <ConditionPropsNegatable />
+                            </Values>
+                          </TriggerCondition>
+                          <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999010476</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999010477</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999010478</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                          </TriggerActions>
+                        </Trigger>
+                      </Values>
+                    </SubTrigger>
+                  </Item>
+                </SubTriggers>
+              </Trigger>
+              <TriggerSetup>
+                <AutoRegisterTrigger>1</AutoRegisterTrigger>
+                <UsedBySecondParties>0</UsedBySecondParties>
+              </TriggerSetup>
+            </Values>
+          </Asset>
+          <Asset>
+            <Template>Trigger</Template>
+            <Values>
+              <Standard>
+                  <GUID>1999010476</GUID>
+                  <Name>Trigger +1 Aristocratic Paper on existing savegame if conqueror buff is active</Name>
+              </Standard>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsBuffed</Template>
+                  <Values>
+                    <Condition />
+                    <ObjectFilter>
+                      <ObjectGUID>700044</ObjectGUID>
+                      <CheckParticipantID>1</CheckParticipantID>
+                      <CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+                    </ObjectFilter>
+                    <ConditionIsBuffed>
+                      <Buff>191296</Buff>
+                    </ConditionIsBuffed>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+                <TriggerActions>
+                    <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005102</Resource>
+                                <ResourceAmount>1</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                      <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005117</Resource>
+                                <ResourceAmount>1</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                      <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005118</Resource>
+                                <ResourceAmount>1</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                </TriggerActions>
+              </Trigger>
+              <TriggerSetup>
+                <AutoRegisterTrigger>0</AutoRegisterTrigger>
+                <UsedBySecondParties>0</UsedBySecondParties>
+              </TriggerSetup>
+            </Values>
+          </Asset>
+          <Asset>
+            <Template>Trigger</Template>
+            <Values>
+              <Standard>
+                  <GUID>1999010477</GUID>
+                  <Name>Trigger +2 Aristocratic Paper on existing savegame if unifier buff is active</Name>
+              </Standard>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsBuffed</Template>
+                  <Values>
+                    <Condition />
+                    <ObjectFilter>
+                      <ObjectGUID>700044</ObjectGUID>
+                      <CheckParticipantID>1</CheckParticipantID>
+                      <CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+                    </ObjectFilter>
+                    <ConditionIsBuffed>
+                      <Buff>191301</Buff>
+                    </ConditionIsBuffed>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+                <TriggerActions>
+                    <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005102</Resource>
+                                <ResourceAmount>2</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                      <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005117</Resource>
+                                <ResourceAmount>2</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                      <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005118</Resource>
+                                <ResourceAmount>2</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                </TriggerActions>
+              </Trigger>
+              <TriggerSetup>
+                <AutoRegisterTrigger>0</AutoRegisterTrigger>
+                <UsedBySecondParties>0</UsedBySecondParties>
+              </TriggerSetup>
+            </Values>
+          </Asset>
+          <Asset>
+            <Template>Trigger</Template>
+            <Values>
+              <Standard>
+                  <GUID>1999010478</GUID>
+                  <Name>Trigger +3 Aristocratic Paper on existing savegame if unifier buff is active</Name>
+              </Standard>
+              <Trigger>
+                <TriggerCondition>
+                  <Template>ConditionIsBuffed</Template>
+                  <Values>
+                    <Condition />
+                    <ObjectFilter>
+                      <ObjectGUID>700044</ObjectGUID>
+                      <CheckParticipantID>1</CheckParticipantID>
+                      <CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+                    </ObjectFilter>
+                    <ConditionIsBuffed>
+                      <Buff>191302</Buff>
+                    </ConditionIsBuffed>
+                    <ConditionPropsNegatable />
+                  </Values>
+                </TriggerCondition>
+                <TriggerActions>
+                    <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005102</Resource>
+                                <ResourceAmount>3</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                      <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005117</Resource>
+                                <ResourceAmount>3</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                      <Item>
+                        <TriggerAction>
+                            <Template>ActionAddResource</Template>
+                            <Values>
+                              <Action />
+                              <ActionAddResource>
+                                <Resource>1999005118</Resource>
+                                <ResourceAmount>3</ResourceAmount>
+                              </ActionAddResource>
+                            </Values>
+                        </TriggerAction>
+                      </Item>
+                </TriggerActions>
+              </Trigger>
+              <TriggerSetup>
+                <AutoRegisterTrigger>0</AutoRegisterTrigger>
+                <UsedBySecondParties>0</UsedBySecondParties>
+              </TriggerSetup>
+            </Values>
+          </Asset>
+        </ModOp>
     </Group>
 
     <!-- #Fertilities -->
@@ -45097,6 +46444,50 @@
       </ModOp>
       <ModOp Type="replace" GUID="103108" Path="/Values/ItemContainer/InitSlotItems/Item[Item = '1010218']/Item">
         <Item>1500010153</Item>
+      </ModOp>
+      <ModOp Type="replace" GUID="111844" Path="/Values/Reward/RewardAssets/Item[Reward = '1010218']/Reward">
+        <Reward>1500010153</Reward>
+      </ModOp>
+      <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/EarlyGame/GoodsProduction/Item[Good = '1010196']">
+        <Item>
+          <Good>1500010153</Good>
+          <ProductionPerMinute>1</ProductionPerMinute>
+        </Item>
+      </ModOp>
+      <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/EarlyMidGame/GoodsProduction/Item[Good = '1010196']">
+        <Item>
+          <Good>1500010153</Good>
+          <ProductionPerMinute>2</ProductionPerMinute>
+        </Item>
+      </ModOp>
+      <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/MidGame/GoodsProduction/Item[Good = '1010196']">
+        <Item>
+          <Good>1500010153</Good>
+          <ProductionPerMinute>3</ProductionPerMinute>
+        </Item>
+      </ModOp>
+      <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/LateMidGame/GoodsProduction/Item[Good = '1010196']">
+        <Item>
+          <Good>1500010153</Good>
+          <ProductionPerMinute>5</ProductionPerMinute>
+        </Item>
+      </ModOp>
+      <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/LateGame/GoodsProduction/Item[Good = '1010196']">
+        <Item>
+          <Good>1500010153</Good>
+          <ProductionPerMinute>6</ProductionPerMinute>
+        </Item>
+      </ModOp>
+      <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/EndGame/GoodsProduction/Item[Good = '1010196']">
+        <Item>
+          <Good>1500010153</Good>
+          <ProductionPerMinute>7</ProductionPerMinute>
+        </Item>
+      </ModOp>
+      <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/*/OfferingGoods/Item/GoodSets/Item[Good = '1010196']">
+        <Item>
+          <Good>1500010153</Good>
+        </Item>
       </ModOp>
     </Group>
 

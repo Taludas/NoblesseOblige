@@ -2,7 +2,7 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005009</GUID>
-      <Text>Rose Madder Fertility</Text>
+      <Text>Madder Fertility</Text>
     </Text>
     <Text>
       <GUID>1999005050</GUID>
@@ -274,11 +274,11 @@
     </Text>
     <Text>
       <GUID>1999005230</GUID>
-      <Text>Subsistence Rose Madder Farm</Text>
+      <Text>Subsistence Madder Farm</Text>
     </Text>
     <Text>
       <GUID>1999005231</GUID>
-      <Text>Rose Madder</Text>
+      <Text>Madder</Text>
     </Text>
     <Text>
       <GUID>1999005232</GUID>
@@ -969,7 +969,7 @@
       <Text>Influence from providing Paintings</Text>
     </Text>
     <Text>
-      <GUID>1999005462</GUID>
+      <GUID>1999005459</GUID>
       <Text>Influence from providing access to a Church</Text>
     </Text>
     <Text>
@@ -994,7 +994,7 @@
     </Text>
     <Text>
       <GUID>1999005465</GUID>
-      <Text>Influence from providing access to an Opera</Text>
+      <Text>Influence from providing access to an Municipal Theatre</Text>
     </Text>
     <Text>
       <GUID>1999005466</GUID>
@@ -5457,6 +5457,63 @@
     <Text>
       <GUID>1999010455</GUID>
       <Text>Municipal Theatre: Art Exhibition</Text>
+    </Text>
+    <Text>
+      <GUID>1999010461</GUID>
+      <Text>A Study in Scarlet</Text>
+    </Text>
+    <Text>
+      <GUID>1999010462</GUID>
+      <Text>Island Masters</Text>
+    </Text>
+    <Text>
+      <GUID>1999010463</GUID>
+      <Text>Century of Progress</Text>
+    </Text>
+    <Text>
+      <GUID>1999010464</GUID>
+      <Text>A Trip to the Moon</Text>
+    </Text>
+    <Text>
+      <GUID>1999010465</GUID>
+      <Text>Next Top Model</Text>
+    </Text>
+    <Text>
+      <GUID>1999010466</GUID>
+      <Text>From the New World</Text>
+    </Text>
+    <Text>
+      <GUID>1999010467</GUID>
+      <Text>The Salon</Text>
+    </Text>
+    <Text>
+      <GUID>1999010468</GUID>
+      <Text>Royal Theatre</Text>
+    </Text>
+    <Text>
+      <GUID>1999010469</GUID>
+      <Text>Hosts</Text>
+    </Text>
+    <Text>
+      <GUID>1999010470</GUID>
+      <Text>Mass Wine</Text>
+    </Text>
+    <Text>
+      <GUID>1999010471</GUID>
+      <Text>Sacrificial Candles
+    </Text>
+    </Text>
+    <Text>
+      <GUID>1999010472</GUID>
+      <Text>Liturgical Literature</Text>
+    </Text>
+    <Text>
+      <GUID>1999010473</GUID>
+      <Text>Religious Paintings</Text>
+    </Text>
+    <Text>
+      <GUID>1999010474</GUID>
+      <Text>All Municipal Theatres</Text>
     </Text>
   </ModOp>
 

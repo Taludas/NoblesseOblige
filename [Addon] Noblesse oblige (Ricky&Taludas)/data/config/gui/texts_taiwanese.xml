@@ -2,7 +2,7 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005009</GUID>
-      <Text>玫瑰茜草生育能力</Text>
+      <Text>茜草生育</Text>
     </Text>
     <Text>
       <GUID>1999005050</GUID>
@@ -274,11 +274,11 @@
     </Text>
     <Text>
       <GUID>1999005230</GUID>
-      <Text>自給自足的Rose Madder Farm</Text>
+      <Text>自給自足的茜草農場</Text>
     </Text>
     <Text>
       <GUID>1999005231</GUID>
-      <Text>羅絲·馬德</Text>
+      <Text>茜草</Text>
     </Text>
     <Text>
       <GUID>1999005232</GUID>
@@ -330,15 +330,15 @@
     </Text>
     <Text>
       <GUID>1999005248</GUID>
-      <Text>[AssetData（24806） 文本]</Text>
+      <Text>[AssetData（24806） Text]</Text>
     </Text>
     <Text>
       <GUID>1999005249</GUID>
-      <Text>[AssetData（24806） 文本]</Text>
+      <Text>[AssetData（24806） Text]</Text>
     </Text>
     <Text>
       <GUID>1999005250</GUID>
-      <Text>[AssetData（24806） 文本]</Text>
+      <Text>[AssetData（24806） Text]</Text>
     </Text>
     <Text>
       <GUID>1999005254</GUID>
@@ -969,7 +969,7 @@
       <Text>提供繪畫的影響</Text>
     </Text>
     <Text>
-      <GUID>1999005462</GUID>
+      <GUID>1999005459</GUID>
       <Text>提供進入教堂的影響</Text>
     </Text>
     <Text>
@@ -994,7 +994,7 @@
     </Text>
     <Text>
       <GUID>1999005465</GUID>
-      <Text>提供 Opera 訪問許可權的影響</Text>
+      <Text>提供市政劇院訪問許可權的影響</Text>
     </Text>
     <Text>
       <GUID>1999005466</GUID>
@@ -1666,283 +1666,283 @@
     </Text>
     <Text>
       <GUID>1999005901</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999005902</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999005903</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999005904</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999005905</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999005906</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999005907</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999005908</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999005909</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（lvl 9）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（lvl 9）</Text>
     </Text>
     <Text>
       <GUID>1999005910</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999005911</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999005912</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999005913</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999005914</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999005915</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999005916</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999005917</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999005918</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999005919</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999005920</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191132） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999006001</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006002</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006003</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999006004</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006005</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006006</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006007</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999006008</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999006009</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006010</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006011</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006012</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006013</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006014</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006015</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006016</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006017</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006018</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006019</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006020</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） 文本]（lvl 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191133） Text]（lvl 20）</Text>
     </Text>
     <Text>
       <GUID>1999006101</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006102</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006103</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999006104</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006105</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006106</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999006107</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999006108</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999006109</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006110</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006111</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006112</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006113</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006114</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006115</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006116</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006117</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006118</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006119</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006120</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191134） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999006201</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006202</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006203</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999006204</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006205</GUID>
-      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） 文本]（5 級）</Text>
+      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006206</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006207</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999006208</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999006209</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006210</GUID>
-      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） 文本]（10 級）</Text>
+      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006211</GUID>
@@ -1954,1035 +1954,1035 @@
     </Text>
     <Text>
       <GUID>1999006213</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006214</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006215</GUID>
-      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） 文本]（15 級）</Text>
+      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006216</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006217</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006218</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006219</GUID>
-      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） 文本]（19 級）</Text>
+      <Text>傳統贊助： &lt;br /&gt;[AssetData（191140） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006220</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191140） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999006301</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006302</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006303</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999006304</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006305</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006306</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006307</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999006308</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999006309</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006310</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006311</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006312</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006313</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006314</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006315</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006316</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006317</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006318</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006319</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006320</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191136） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999006401</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006402</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006403</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999006404</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006405</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006406</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006407</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999006408</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999006409</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006410</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006411</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006412</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006413</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006414</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006415</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006416</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006417</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006418</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006419</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006420</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191138） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999006501</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006502</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006503</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999006504</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（lvl 4）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（lvl 4）</Text>
     </Text>
     <Text>
       <GUID>1999006505</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006506</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999006507</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999006508</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999006509</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006510</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006511</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006512</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006513</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006514</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006515</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006516</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006517</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006518</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006519</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006520</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191139） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999006601</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006602</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006603</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999006604</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006605</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999006606</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006607</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999006608</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999006609</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006610</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006611</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006612</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006613</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006614</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006615</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006616</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006617</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006618</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006619</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006620</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） 文本]（lvl 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191135） Text]（lvl 20）</Text>
     </Text>
     <Text>
       <GUID>1999006701</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006702</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006703</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999006704</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006705</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006706</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006707</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999006708</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999006709</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006710</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006711</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006712</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006713</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006714</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006715</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006716</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006717</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006718</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006719</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006720</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） 文本]（lvl 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193194） Text]（lvl 20）</Text>
     </Text>
     <Text>
       <GUID>1999006801</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006802</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006803</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999006804</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006805</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006806</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006807</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999006808</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999006809</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006810</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006811</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006812</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006813</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006814</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006815</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006816</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006817</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006818</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006819</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006820</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193402） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999006901</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999006902</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999006903</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999006904</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999006905</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999006906</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999006907</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999006908</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999006909</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999006910</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999006911</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999006912</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999006913</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999006914</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999006915</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999006916</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999006917</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999006918</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999006919</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999006920</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193404） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007001</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007002</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（lvl 2）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（lvl 2）</Text>
     </Text>
     <Text>
       <GUID>1999007003</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999007004</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007005</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007006</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999007007</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999007008</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007009</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007010</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007011</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007012</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007013</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007014</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007015</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007016</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007017</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007018</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007019</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007020</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191137） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007101</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007102</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（lvl 2）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（lvl 2）</Text>
     </Text>
     <Text>
       <GUID>1999007103</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999007104</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007105</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007106</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999007107</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999007108</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007109</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007110</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007111</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007112</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007113</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007114</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007115</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007116</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007117</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007118</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007119</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007120</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） 文本]（等級 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193772） Text]（等級 20）</Text>
     </Text>
     <Text>
       <GUID>1999007201</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007202</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999007203</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999007204</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007205</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007206</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999007207</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999007208</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007209</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007210</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007211</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007212</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007213</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007214</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007215</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007216</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007217</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007218</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007219</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007220</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124206） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007301</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007302</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（lvl 2）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（lvl 2）</Text>
     </Text>
     <Text>
       <GUID>1999007303</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999007304</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007305</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007306</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999007307</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999007308</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007309</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007310</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007311</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007312</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007313</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007314</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007315</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007316</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007317</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007318</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007319</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007320</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124207） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007401</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007402</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999007403</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999007404</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007405</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007406</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999007407</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999007408</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007409</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007410</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007411</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007412</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007413</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007414</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007415</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007416</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007417</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007418</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007419</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007420</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124208） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007501</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007502</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999007503</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999007504</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007505</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007506</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999007507</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999007508</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999007509</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007510</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007511</GUID>
@@ -2990,79 +2990,79 @@
     </Text>
     <Text>
       <GUID>1999007512</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007513</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007514</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007515</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007516</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007517</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007518</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007519</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007520</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） 文本]（lvl 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124209） Text]（lvl 20）</Text>
     </Text>
     <Text>
       <GUID>1999007601</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007602</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999007603</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999007604</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007605</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007606</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999007607</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999007608</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007609</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007610</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007611</GUID>
@@ -3070,2119 +3070,2119 @@
     </Text>
     <Text>
       <GUID>1999007612</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007613</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007614</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007615</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007616</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007617</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007618</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007619</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007620</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124210） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007701</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007702</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999007703</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999007704</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007705</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007706</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999007707</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999007708</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007709</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007710</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007711</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007712</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007713</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007714</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007715</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007716</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007717</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007718</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007719</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007720</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191148） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007801</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007802</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999007803</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999007804</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007805</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007806</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999007807</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999007808</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007809</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（lvl 9）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（lvl 9）</Text>
     </Text>
     <Text>
       <GUID>1999007810</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007811</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007812</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007813</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007814</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007815</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007816</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007817</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007818</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007819</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007820</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191145） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999007901</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999007902</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（lvl 2）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（lvl 2）</Text>
     </Text>
     <Text>
       <GUID>1999007903</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999007904</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999007905</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999007906</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999007907</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999007908</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999007909</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999007910</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999007911</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999007912</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999007913</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999007914</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999007915</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999007916</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999007917</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999007918</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999007919</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999007920</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191147） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008001</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008002</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008003</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999008004</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008005</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999008006</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008007</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999008008</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999008009</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008010</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008011</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008012</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008013</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008014</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008015</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008016</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008017</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008018</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008019</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008020</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191146） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008101</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008102</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008103</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999008104</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008105</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999008106</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008107</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999008108</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999008109</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008110</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008111</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008112</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008113</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008114</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008115</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008116</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008117</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008118</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008119</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008120</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191142） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008201</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008202</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008203</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999008204</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008205</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999008206</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008207</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999008208</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999008209</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008210</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008211</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008212</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008213</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008214</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008215</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008216</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008217</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008218</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008219</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008220</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191144） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008301</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008302</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（lvl 2）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（lvl 2）</Text>
     </Text>
     <Text>
       <GUID>1999008303</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999008304</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008305</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999008306</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008307</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999008308</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999008309</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008310</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008311</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008312</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008313</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008314</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008315</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008316</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008317</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008318</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008319</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008320</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191149） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008401</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008402</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008403</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999008404</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008405</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999008406</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008407</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999008408</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（lvl 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（lvl 8）</Text>
     </Text>
     <Text>
       <GUID>1999008409</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008410</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008411</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008412</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008413</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008414</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008415</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008416</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008417</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008418</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008419</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008420</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191143） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008501</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008502</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008503</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999008504</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008505</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999008506</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008507</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999008508</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999008509</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（lvl 9）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（lvl 9）</Text>
     </Text>
     <Text>
       <GUID>1999008510</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008511</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008512</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008513</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008514</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008515</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008516</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008517</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008518</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008519</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008520</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（191141） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008601</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008602</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008603</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999008604</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008605</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999008606</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999008607</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999008608</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999008609</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008610</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008611</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008612</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008613</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008614</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008615</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008616</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008617</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008618</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008619</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008620</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193406） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008701</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008702</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008703</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999008704</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008705</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999008706</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008707</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999008708</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999008709</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008710</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008711</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008712</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008713</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008714</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008715</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008716</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008717</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008718</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008719</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008720</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） 文本]（lvl 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193407） Text]（lvl 20）</Text>
     </Text>
     <Text>
       <GUID>1999008801</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008802</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008803</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999008804</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008805</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999008806</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008807</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999008808</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999008809</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（等級 9）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（等級 9）</Text>
     </Text>
     <Text>
       <GUID>1999008810</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008811</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008812</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008813</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008814</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008815</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008816</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008817</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008818</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008819</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008820</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193775） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999008901</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999008902</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999008903</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999008904</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999008905</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999008906</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999008907</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999008908</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999008909</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999008910</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999008911</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999008912</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999008913</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999008914</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999008915</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999008916</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999008917</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999008918</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999008919</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999008920</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193777） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009001</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009002</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009003</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999009004</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009005</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009006</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999009007</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999009008</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（lvl 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（lvl 8）</Text>
     </Text>
     <Text>
       <GUID>1999009009</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009010</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009011</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009012</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009013</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009014</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009015</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009016</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009017</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009018</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009019</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009020</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124913） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009101</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009102</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009103</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999009104</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009105</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009106</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999009107</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999009108</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（lvl 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（lvl 8）</Text>
     </Text>
     <Text>
       <GUID>1999009109</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009110</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009111</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009112</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009113</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009114</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009115</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009116</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009117</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009118</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009119</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009120</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124914） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009201</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009202</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009203</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999009204</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009205</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009206</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999009207</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999009208</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999009209</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009210</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009211</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009212</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009213</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009214</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009215</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009216</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009217</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009218</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009219</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009220</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124915） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009301</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009302</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009303</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999009304</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009305</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009306</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999009307</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999009308</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999009309</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009310</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009311</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009312</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009313</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009314</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009315</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009316</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009317</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009318</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009319</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009320</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（124916） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009401</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009402</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（lvl 2）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（lvl 2）</Text>
     </Text>
     <Text>
       <GUID>1999009403</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999009404</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009405</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009406</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999009407</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999009408</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（lvl 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（lvl 8）</Text>
     </Text>
     <Text>
       <GUID>1999009409</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009410</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009411</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009412</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009413</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009414</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009415</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009416</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009417</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009418</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009419</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009420</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） 文本]（lvl 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193764） Text]（lvl 20）</Text>
     </Text>
     <Text>
       <GUID>1999009501</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009502</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009503</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999009504</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009505</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009506</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999009507</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999009508</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999009509</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009510</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009511</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009512</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009513</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009514</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009515</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009516</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009517</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009518</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009519</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009520</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） 文本]（等級 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193654） Text]（等級 20）</Text>
     </Text>
     <Text>
       <GUID>1999009601</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009602</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009603</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999009604</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009605</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999009606</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999009607</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999009608</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999009609</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009610</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009611</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009612</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009613</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009614</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009615</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009616</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009617</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009618</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009619</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009620</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193656） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009701</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009702</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009703</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999009704</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009705</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009706</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999009707</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999009708</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（lvl 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（lvl 8）</Text>
     </Text>
     <Text>
       <GUID>1999009709</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009710</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009711</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009712</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009713</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009714</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009715</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009716</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009717</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009718</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009719</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009720</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193765） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009801</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009802</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009803</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999009804</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009805</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999009806</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999009807</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（等級 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（等級 7）</Text>
     </Text>
     <Text>
       <GUID>1999009808</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999009809</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009810</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009811</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009812</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009813</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009814</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009815</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009816</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009817</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009818</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009819</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009820</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193661） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999009901</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999009902</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999009903</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999009904</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999009905</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999009906</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（lvl 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（lvl 6）</Text>
     </Text>
     <Text>
       <GUID>1999009907</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999009908</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999009909</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999009910</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999009911</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999009912</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999009913</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999009914</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999009915</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999009916</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999009917</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999009918</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999009919</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999009920</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） 文本]（lvl 20）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193766） Text]（lvl 20）</Text>
     </Text>
     <Text>
       <GUID>1999010001</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999010002</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999010003</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999010004</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999010005</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999010006</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999010007</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（7 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（7 級）</Text>
     </Text>
     <Text>
       <GUID>1999010008</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999010009</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999010010</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999010011</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999010012</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999010013</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999010014</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999010015</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999010016</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999010017</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999010018</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999010019</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999010020</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193767） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999010101</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999010102</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999010103</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（3 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（3 級）</Text>
     </Text>
     <Text>
       <GUID>1999010104</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999010105</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（5 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（5 級）</Text>
     </Text>
     <Text>
       <GUID>1999010106</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（等級 6）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（等級 6）</Text>
     </Text>
     <Text>
       <GUID>1999010107</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999010108</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（8 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（8 級）</Text>
     </Text>
     <Text>
       <GUID>1999010109</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999010110</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999010111</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999010112</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999010113</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999010114</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999010115</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999010116</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999010117</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999010118</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999010119</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999010120</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193669） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999010201</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（1 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（1 級）</Text>
     </Text>
     <Text>
       <GUID>1999010202</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（2 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（2 級）</Text>
     </Text>
     <Text>
       <GUID>1999010203</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（等級 3）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（等級 3）</Text>
     </Text>
     <Text>
       <GUID>1999010204</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（4 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（4 級）</Text>
     </Text>
     <Text>
       <GUID>1999010205</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（等級 5）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（等級 5）</Text>
     </Text>
     <Text>
       <GUID>1999010206</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（6 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（6 級）</Text>
     </Text>
     <Text>
       <GUID>1999010207</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（lvl 7）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（lvl 7）</Text>
     </Text>
     <Text>
       <GUID>1999010208</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（等級 8）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（等級 8）</Text>
     </Text>
     <Text>
       <GUID>1999010209</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（9 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（9 級）</Text>
     </Text>
     <Text>
       <GUID>1999010210</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（10 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（10 級）</Text>
     </Text>
     <Text>
       <GUID>1999010211</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（11 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（11 級）</Text>
     </Text>
     <Text>
       <GUID>1999010212</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（12 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（12 級）</Text>
     </Text>
     <Text>
       <GUID>1999010213</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（13 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（13 級）</Text>
     </Text>
     <Text>
       <GUID>1999010214</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（14 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（14 級）</Text>
     </Text>
     <Text>
       <GUID>1999010215</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（15 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（15 級）</Text>
     </Text>
     <Text>
       <GUID>1999010216</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（16 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（16 級）</Text>
     </Text>
     <Text>
       <GUID>1999010217</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（17 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（17 級）</Text>
     </Text>
     <Text>
       <GUID>1999010218</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（18 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（18 級）</Text>
     </Text>
     <Text>
       <GUID>1999010219</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（19 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（19 級）</Text>
     </Text>
     <Text>
       <GUID>1999010220</GUID>
-      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） 文本]（20 級）</Text>
+      <Text>傳統贊助：&lt;br /&gt;[AssetData（193768） Text]（20 級）</Text>
     </Text>
     <Text>
       <GUID>1999010302</GUID>
@@ -5455,6 +5455,62 @@
     <Text>
       <GUID>1999010455</GUID>
       <Text>市政劇院：藝術展</Text>
+    </Text>
+    <Text>
+      <GUID>1999010461</GUID>
+      <Text>猩紅的研究</Text>
+    </Text>
+    <Text>
+      <GUID>1999010462</GUID>
+      <Text>島嶼大師</Text>
+    </Text>
+    <Text>
+      <GUID>1999010463</GUID>
+      <Text>百年進步</Text>
+    </Text>
+    <Text>
+      <GUID>1999010464</GUID>
+      <Text>月球之旅</Text>
+    </Text>
+    <Text>
+      <GUID>1999010465</GUID>
+      <Text>Next Top Model</Text>
+    </Text>
+    <Text>
+      <GUID>1999010466</GUID>
+      <Text>來自新世界</Text>
+    </Text>
+    <Text>
+      <GUID>1999010467</GUID>
+      <Text>沙龍</Text>
+    </Text>
+    <Text>
+      <GUID>1999010468</GUID>
+      <Text>皇家劇院</Text>
+    </Text>
+    <Text>
+      <GUID>1999010469</GUID>
+      <Text>主機</Text>
+    </Text>
+    <Text>
+      <GUID>1999010470</GUID>
+      <Text>大眾葡萄酒</Text>
+    </Text>
+    <Text>
+      <GUID>1999010471</GUID>
+      <Text>祭祀蠟燭</Text>
+    </Text>
+    <Text>
+      <GUID>1999010472</GUID>
+      <Text>禮儀文學</Text>
+    </Text>
+    <Text>
+      <GUID>1999010473</GUID>
+      <Text>宗教繪畫</Text>
+    </Text>
+    <Text>
+      <GUID>1999010474</GUID>
+      <Text>所有市政劇院</Text>
     </Text>
   </ModOp>
 </ModOps>

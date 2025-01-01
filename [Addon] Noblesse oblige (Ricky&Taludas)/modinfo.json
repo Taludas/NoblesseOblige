@@ -1,5 +1,5 @@
 {
-	"Version": "1.0.0",
+	"Version": "1.1.0",
 	"ModID": "RickyTaludas_OWHacienda",
 	"IncompatibleIds": null,
 	"ModDependencies": [
@@ -107,7 +107,8 @@
 		"import_storagelist_saffron_taludas",
 		"import_storagelist_silkfabric_taludas",
 		"import_storagelist_tea_taludas",
-		"Taludas_VanillaRiverSlotBuildingsOW"
+		"FamTaubeLexy_NewWorldHotels",
+		"jakob_biogas"
 	],
 	"Category": {
 		"Chinese": "插件",

@@ -2,6 +2,11 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <!-- Vanilla Changes -->
     <Text>
+      <!-- TODO translation -->
+      <GUID>1500010836</GUID>
+      <Text>Warzywa</Text>
+    </Text>
+    <Text>
       <GUID>133285</GUID>
       <Text>Gulasz Stroggow (mięso, warzywa, kukurydza)</Text>
     </Text>

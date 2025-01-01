@@ -2,6 +2,10 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <!-- Vanilla Changes -->
     <Text>
+      <GUID>1500010836</GUID>
+      <Text>Vegetables</Text>
+    </Text>
+    <Text>
       <GUID>133285</GUID>
       <Text>Stroggof Goulash (Meat, Vegetables, Corn)</Text>
     </Text>

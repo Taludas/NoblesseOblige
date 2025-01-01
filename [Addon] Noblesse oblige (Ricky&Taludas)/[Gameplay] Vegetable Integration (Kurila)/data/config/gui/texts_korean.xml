@@ -2,6 +2,11 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <!-- Vanilla Changes -->
     <Text>
+      <!-- TODO translation -->
+      <GUID>1500010836</GUID>
+      <Text>야채</Text>
+    </Text>
+    <Text>
       <GUID>133285</GUID>
       <Text>스트로고프 굴라쉬 (고기, 채소, 옥수수)</Text>
     </Text>

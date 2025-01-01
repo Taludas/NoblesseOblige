@@ -2,6 +2,11 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <!-- Vanilla Changes -->
     <Text>
+      <!-- TODO translation -->
+      <GUID>1500010836</GUID>
+      <Text>Légumes</Text>
+    </Text>
+    <Text>
       <GUID>133285</GUID>
       <Text>Goulasch Strogalof (viande, légumes, maïs)</Text>
     </Text>

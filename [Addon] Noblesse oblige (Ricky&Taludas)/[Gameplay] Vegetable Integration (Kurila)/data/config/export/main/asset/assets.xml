@@ -158,8 +158,9 @@
               <Building>100654</Building>
             </ModOp>
             <ModOp Type="replace" GUID="25000189,500945" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1500010830']/Building"
-            Condition="/Values/ConstructionCategory/BuildingList/Item[Building='1500010830']" />
+              Condition="/Values/ConstructionCategory/BuildingList/Item[Building='1500010830']">
               <Building>100654</Building>
+            </ModOp>
           </Group>
         </Group>
     <!-- # Trigger -->

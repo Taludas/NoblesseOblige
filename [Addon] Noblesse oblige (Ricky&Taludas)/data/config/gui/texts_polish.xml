@@ -2,7 +2,7 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005009</GUID>
-      <Text>Płodność marzanny różanej</Text>
+      <Text>Płodność marzanny</Text>
     </Text>
     <Text>
       <GUID>1999005050</GUID>
@@ -274,11 +274,11 @@
     </Text>
     <Text>
       <GUID>1999005230</GUID>
-      <Text>Gospodarstwo Róży Na Własne Potrzeby</Text>
+      <Text>Gospodarstwo marzanny na własne potrzeby</Text>
     </Text>
     <Text>
       <GUID>1999005231</GUID>
-      <Text>Różana marzanna</Text>
+      <Text>Marzanna</Text>
     </Text>
     <Text>
       <GUID>1999005232</GUID>
@@ -969,7 +969,7 @@
       <Text>Wpływ na dostarczanie obrazów</Text>
     </Text>
     <Text>
-      <GUID>1999005462</GUID>
+      <GUID>1999005459</GUID>
       <Text>Wpływ wynikający z zapewnienia dostępu do Kościoła</Text>
     </Text>
     <Text>
@@ -994,7 +994,7 @@
     </Text>
     <Text>
       <GUID>1999005465</GUID>
-      <Text>Wpływ zapewnienia dostępu do Opery</Text>
+      <Text>Wpływ z udostępnienia Teatru Miejskiego</Text>
     </Text>
     <Text>
       <GUID>1999005466</GUID>
@@ -5455,6 +5455,62 @@
     <Text>
       <GUID>1999010455</GUID>
       <Text>Teatr Miejski: Wystawa Sztuki</Text>
+    </Text>
+    <Text>
+      <GUID>1999010461</GUID>
+      <Text>Studium w szkarłacie</Text>
+    </Text>
+    <Text>
+      <GUID>1999010462</GUID>
+      <Text>Mistrzowie wyspy</Text>
+    </Text>
+    <Text>
+      <GUID>1999010463</GUID>
+      <Text>Stulecie postępu</Text>
+    </Text>
+    <Text>
+      <GUID>1999010464</GUID>
+      <Text>Podróż na Księżyc</Text>
+    </Text>
+    <Text>
+      <GUID>1999010465</GUID>
+      <Text>Następny Top Model</Text>
+    </Text>
+    <Text>
+      <GUID>1999010466</GUID>
+      <Text>Z Nowego Świata</Text>
+    </Text>
+    <Text>
+      <GUID>1999010467</GUID>
+      <Text>The Salon</Text>
+    </Text>
+    <Text>
+      <GUID>1999010468</GUID>
+      <Text>Teatr Królewski</Text>
+    </Text>
+    <Text>
+      <GUID>1999010469</GUID>
+      <Text>Hostów</Text>
+    </Text>
+    <Text>
+      <GUID>1999010470</GUID>
+      <Text>Wino masowe</Text>
+    </Text>
+    <Text>
+      <GUID>1999010471</GUID>
+      <Text>Świece ofiarne</Text>
+    </Text>
+    <Text>
+      <GUID>1999010472</GUID>
+      <Text>Literatura liturgiczna</Text>
+    </Text>
+    <Text>
+      <GUID>1999010473</GUID>
+      <Text>Malowidła religijne</Text>
+    </Text>
+    <Text>
+      <GUID>1999010474</GUID>
+      <Text>Wszystkie teatry miejskie</Text>
     </Text>
   </ModOp>
 </ModOps>

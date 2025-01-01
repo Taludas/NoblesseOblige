@@ -326,7 +326,7 @@
     </Text>
     <Text>
       <GUID>1999005247</GUID>
-      <Text>Tierfarmen leifern nun ihren Mist für die Weiterverarbeitung beim Misthaufen ab.</Text>
+      <Text>Tierfarmen liefern nun ihren Mist für die Weiterverarbeitung beim Misthaufen ab.</Text>
     </Text>
     <Text>
       <GUID>1999005248</GUID>
@@ -837,20 +837,28 @@
       <Text>Eine Übersicht über alle verfügbaren Import-Docks</Text>
     </Text>
     <Text>
+      <GUID>1827</GUID>
+      <Text>Rezept auswählen</Text>
+    </Text>
+    <Text>
       <GUID>1829</GUID>
       <Text>Inventarliste</Text>
     </Text>
     <Text>
       <GUID>1830</GUID>
-      <Text>Beginnen Sie mit dem Handel</Text>
+      <Text>Aktivieren</Text>
     </Text>
     <Text>
       <GUID>1831</GUID>
-      <Text>Aktueller Handelskontrakt</Text>
+      <Text>Aktuelles Rezept</Text>
     </Text>
     <Text>
       <GUID>1832</GUID>
-      <Text>Klicken Sie auf die Schaltfläche, um auszuwählen, welche Ware gehandelt werden soll.</Text>
+      <Text>Klicken Sie auf die Schaltfläche, um ein Rezept auszuwählen.</Text>
+    </Text>
+    <Text>
+      <GUID>25756</GUID>
+      <Text>Rezepte</Text>
     </Text>
     <Text>
       <GUID>1999005415</GUID>
@@ -961,7 +969,7 @@
       <Text>Einfluss durch die Bereitstellung von Gemälden</Text>
     </Text>
     <Text>
-      <GUID>1999005462</GUID>
+      <GUID>1999005459</GUID>
       <Text>Einfluss durch die Bereitstellung einer Kirche</Text>
     </Text>
     <Text>
@@ -5298,7 +5306,7 @@
     </Text>
     <Text>
       <GUID>1999010413</GUID>
-      <Text>Beitrag der Großgrundbesitzer zur Sammlung</Text>
+      <Text>Beitrag der Grundbesitzer zur Kollekte</Text>
     </Text>
     <Text>
       <GUID>1999010414</GUID>
@@ -5447,6 +5455,62 @@
     <Text>
       <GUID>1999010455</GUID>
       <Text>Stadttheater: Kunstausstellung</Text>
+    </Text>
+    <Text>
+      <GUID>1999010461</GUID>
+      <Text>Ein Fall von Pink</Text>
+    </Text>
+    <Text>
+      <GUID>1999010462</GUID>
+      <Text>Island Masters</Text>
+    </Text>
+    <Text>
+      <GUID>1999010463</GUID>
+      <Text>Century of Progress</Text>
+    </Text>
+    <Text>
+      <GUID>1999010464</GUID>
+      <Text>Eine Reise zum Mond</Text>
+    </Text>
+    <Text>
+      <GUID>1999010465</GUID>
+      <Text>Next Top Model</Text>
+    </Text>
+    <Text>
+      <GUID>1999010466</GUID>
+      <Text>Aus der Neuen Welt</Text>
+    </Text>
+    <Text>
+      <GUID>1999010467</GUID>
+      <Text>Der Salon</Text>
+    </Text>
+    <Text>
+      <GUID>1999010468</GUID>
+      <Text>Königliches Theater</Text>
+    </Text>
+    <Text>
+      <GUID>1999010469</GUID>
+      <Text>Hostien</Text>
+    </Text>
+    <Text>
+      <GUID>1999010470</GUID>
+      <Text>Messwein</Text>
+    </Text>
+    <Text>
+      <GUID>1999010471</GUID>
+      <Text>Opferkerzen</Text>
+    </Text>
+    <Text>
+      <GUID>1999010472</GUID>
+      <Text>Liturgische Literatur</Text>
+    </Text>
+    <Text>
+      <GUID>1999010473</GUID>
+      <Text>Religiöse Gemälde</Text>
+    </Text>
+    <Text>
+      <GUID>1999010474</GUID>
+      <Text>Alle Stadttheater</Text>
     </Text>
   </ModOp>
 </ModOps>

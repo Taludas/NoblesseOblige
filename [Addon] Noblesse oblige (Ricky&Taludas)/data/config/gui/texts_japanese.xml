@@ -2,7 +2,7 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005009</GUID>
-      <Text>ローズマダー不妊治療</Text>
+      <Text>茜色の生殖能力</Text>
     </Text>
     <Text>
       <GUID>1999005050</GUID>
@@ -274,11 +274,11 @@
     </Text>
     <Text>
       <GUID>1999005230</GUID>
-      <Text>自給自足ローズマッダーファーム</Text>
+      <Text>自給自足の茜農園</Text>
     </Text>
     <Text>
       <GUID>1999005231</GUID>
-      <Text>ローズマッダー</Text>
+      <Text>茜</Text>
     </Text>
     <Text>
       <GUID>1999005232</GUID>
@@ -969,7 +969,7 @@
       <Text>絵画の提供からの影響</Text>
     </Text>
     <Text>
-      <GUID>1999005462</GUID>
+      <GUID>1999005459</GUID>
       <Text>教会へのアクセスを提供することによる影響</Text>
     </Text>
     <Text>
@@ -994,7 +994,7 @@
     </Text>
     <Text>
       <GUID>1999005465</GUID>
-      <Text>オペラへのアクセスを提供することによる影響</Text>
+      <Text>市立劇場へのアクセスを提供することによる影響</Text>
     </Text>
     <Text>
       <GUID>1999005466</GUID>
@@ -5455,6 +5455,62 @@
     <Text>
       <GUID>1999010455</GUID>
       <Text>市立劇場:美術展</Text>
+    </Text>
+    <Text>
+      <GUID>1999010461</GUID>
+      <Text>スカーレットの研究</Text>
+    </Text>
+    <Text>
+      <GUID>1999010462</GUID>
+      <Text>アイランドマスターズ</Text>
+    </Text>
+    <Text>
+      <GUID>1999010463</GUID>
+      <Text>進歩の世紀</Text>
+    </Text>
+    <Text>
+      <GUID>1999010464</GUID>
+      <Text>月への旅</Text>
+    </Text>
+    <Text>
+      <GUID>1999010465</GUID>
+      <Text>次のトップモデル</Text>
+    </Text>
+    <Text>
+      <GUID>1999010466</GUID>
+      <Text>新世界から</Text>
+    </Text>
+    <Text>
+      <GUID>1999010467</GUID>
+      <Text>サロン</Text>
+    </Text>
+    <Text>
+      <GUID>1999010468</GUID>
+      <Text>ロイヤルシアター</Text>
+    </Text>
+    <Text>
+      <GUID>1999010469</GUID>
+      <Text>ホスト</Text>
+    </Text>
+    <Text>
+      <GUID>1999010470</GUID>
+      <Text>マスワイン</Text>
+    </Text>
+    <Text>
+      <GUID>1999010471</GUID>
+      <Text>犠牲のキャンドル</Text>
+    </Text>
+    <Text>
+      <GUID>1999010472</GUID>
+      <Text>典礼文学</Text>
+    </Text>
+    <Text>
+      <GUID>1999010473</GUID>
+      <Text>宗教画</Text>
+    </Text>
+    <Text>
+      <GUID>1999010474</GUID>
+      <Text>すべての市立劇場</Text>
     </Text>
   </ModOp>
 </ModOps>

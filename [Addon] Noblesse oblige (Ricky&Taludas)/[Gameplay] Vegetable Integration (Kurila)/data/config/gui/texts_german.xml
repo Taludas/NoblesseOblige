@@ -2,6 +2,10 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <!-- Vanilla Changes -->
     <Text>
+      <GUID>1500010836</GUID>
+      <Text>Gemüse</Text>
+    </Text>
+    <Text>
       <GUID>133285</GUID>
       <Text>Gulasch à la Stroggof (Fleisch, Gemüse, Mais)</Text>
     </Text>
@@ -56,10 +60,6 @@
     <Text>
       <GUID>190930</GUID>
       <Text>Gekreuztes Gemüsesaatgut</Text>
-    </Text>
-    <Text>
-      <GUID>1500301275</GUID>
-      <Text>&lt;font overrideTextColor="true" color='#edc891'&gt;&lt;b&gt;0,5t&lt;/b&gt; &lt;img height='24' width='24' src="[AssetData(1500010836) Icon]"/&gt; [AssetData(1500010836) Text]&lt;/font&gt;&#xD;&#xA;</Text>
     </Text>
 	</ModOp>
 </ModOps>
