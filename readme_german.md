@@ -35,6 +35,30 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.0</summary>
+
+- Entfernen des Sounds „Quest abgeschlossen“ nach dem Erfüllen einer der versteckten Quests, die Buffs verteilen (z.B. Einfluss von Zufriedenheitsbedürfnissen, traditionelle Schirmherrschaft)
+- Entfernen der Bushaltestellen-Symbole aus Verwaltung, Fernhandelscompagnie und Kathedrale
+- Behebung des Fehlers, dass die leere Schreinerei und die Brauerei nicht aus den Gutsverwaltungsmodulen gebaut werden konnten; Korrektur der Buffs für diese Gebäude
+- behebt die Inkompatibilität des Mistkollektors mit dem aus Jakobs Biogasproduktion
+- Entfernung der Seiden-Input-Anforderung aus der Standard-Vanilla-Produktionskette für Massanzüge aus dem Land der Löwen
+- Behebung des Problems, dass die Transporterreichweite der Importdocks und der Fernhandelscompagnie die falsche Lagerliste verwenden und daher keine Transporter annehmen
+- Problem mit den namenlosen Stadttheateren behoben (der Standardname ist Königliches Theater, wenn man das Rezept wechselt und auf den „Randomize“-Button klickt, wird ein neuer und passender Name für das Rezeptgebäude verwendet)
+- Behebung des Problems, dass die Rezeptgebäude für das Stadttheater in den Item Pools fehlen
+- Behebung des Problems, dass das Monument der kaiserlichen Kathedrale während der Eventphase aufgrund fehlender Transporter keine Produkte erhält; Erhöhung der Vorbereitungszeit für das Event auf 15 Minuten
+- Hinzufügen neuer Texturen zu den Landbesitzer-Residenzen zur Unterscheidung zwischen Level 1 und 3 durch Einführung neuer Dachfarben (blau, orange, grün)
+- Entfernung der Chance auf Aufstände und Krankheiten aus den Residenzen von Großgrundbesitzern der Stufe 1
+- Behebung eines Fehlers, bei dem der Geldbetrag, der für den Kauf zusätzlicher Adelstitel benötigt wurde, mit dem Spielfortschritt immer teurer wurde, was zu dem Problem führte, dass man sich die letzte Stufe nicht leisten konnte, weil der Betrag das Kreditlimit des Spielers überstieg!
+- Einführung einer Mechanik, die dem Spieler beim Laden eines bestehenden Spielstandes Startgenehmigungen für Landbesitzer-Residenzen gewährt (1, 2 oder 3 Genehmigungen, abhängig von der Menge des verbrauchten Einflusses für Inseln)
+- Korrekturen in den Locas: Vereinheitlichung der Verwendung von „Stadttheater“ anstelle von „Oper“, Behebung von Problemen mit dem Autoübersetzer bei der Übersetzung von Teilen des Codes, die in Englisch bleiben müssen, Behebung von Tippfehlern in der deutschen Textdatei
+- zu den bekannten Problemen hinzugefügt: Anweisungen zum Entfernen von Herrenhäusern und Eventsperrung der Pontifikalmesse
+- Problem mit der Abhängigkeit der zyklischen Lastreihenfolge bei der Riverslots-Mod behoben.
+- füge eine aktualisierte Version von Kurilas Gemüse-Integrations-Submod hinzu, um das Problem mit dem leeren Icon im Bauern-Baumenü zu beheben
+- Hinzufügen der neuer Wohnhäuser zu allen relevanten Palasteffekten
+- Behebung des Problems, dass Jagdhütten, die von der Richtlinie Nr. 4 der Gutsverwaltung betroffen sind, keine schweren Waffen verbrauchen
+
+</details>
+<details>
     <summary>Patch Notes Version 1.0.0</summary>
 
 * Erste Version hinzugefügt

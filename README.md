@@ -37,6 +37,29 @@ If you like this mod and want to support me, feel free to share it with your fri
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.0</summary>
+
+- remove the "Quest complete" sound after fulfilling any of the hidden quests that distribute buffs (i.e. influence from happiness needs, traditional patronage)
+- remove bus stop icons from Administration, Foreign Trading Company, Cathedral
+- fix bug, that blank carpentry and brewery could not be build from the Administration modules; fix buffs on those buildings
+- fix incompatibility of the dung collector with the one from Jakob's Biogas Production
+- remove Silk input requirement from the standard vanilla production chain for suits from Land of Lions
+- fix issue with Import Docks transporter range and Foreign Trading company using the wrong storagelist and therefore not taking any transporters
+- fix issue with no-name Municipal Theatre (standard name will be Royal Theatre, if you switch the recipe and click the "Randomize" Button, a new and fitting name for the recipe building will be applied)
+- fix issue with municipal Theatre recipe buildings missing in Item Pools
+- fix issue with Imperial Cathedral Monument not accquiring products during the event phase due to missing transporters; increase preparation time for event to 15 min
+- add new textures to the Landowner residences to distinct between Level 1 to 3 through introduction of new roof colours (blue, orange, green)
+- remove riot and illness chance from Level 1 Landowner residence
+- fix a bug where the amount of money needed to buy additional aristocratic licenses got increasingly more expensive with game progression, which led to the problem of being not able to afford the last stage due to the amount exceeding the credit limit of the player
+- introduce a mechanic to award the player with starting permits for Landowner residences when loading an exsisting savegame (1,2 or 3 permits depending on the amount of influence spent on islands)
+- corrections in locas: Unify use of Municipal Theatre instead of opera, rename rose madder to madder, fix issues with auto translator translation parts of code that needs to stay in english, fix typo in german textfile
+- add to known issues: instructions for deletion of manors and event locking of pontifical mass
+- fix issue with cyclic load order dependency with Riverslots mod.
+- include a updated version of Kurilas Vegetable Integration Submod to fix the issue with the blank icon in the farmer build menu
+- add new residences to all relevant palace effects
+- fix issue where hunting cabins affected by Administration's policy no.4 didn't consume Heavy Weapons
+</details>
+<details>
     <summary>Patch Notes Version 1.0.0</summary>
 
 * Added initial release
