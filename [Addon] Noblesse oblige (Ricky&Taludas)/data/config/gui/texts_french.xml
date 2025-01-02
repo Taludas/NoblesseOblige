@@ -150,7 +150,7 @@
     </Text>
     <Text>
       <GUID>1999005303</GUID>
-      <Text>Agriculteurs de subsistance</Text>
+      <Text>Agriculteurs</Text>
     </Text>
     <Text>
       <GUID>1999005304</GUID>
@@ -158,7 +158,7 @@
     </Text>
     <Text>
       <GUID>1999005305</GUID>
-      <Text>Artisans traditionnels</Text>
+      <Text>Bourgeoisie urbaine</Text>
     </Text>
     <Text>
       <GUID>1999005066</GUID>
@@ -194,7 +194,7 @@
     </Text>
     <Text>
       <GUID>1999005210</GUID>
-      <Text>Grain</Text>
+      <Text>Blé</Text>
     </Text>
     <Text>
       <GUID>1999005211</GUID>
@@ -202,15 +202,15 @@
     </Text>
     <Text>
       <GUID>1999005212</GUID>
-      <Text>Herbe</Text>
+      <Text>Plantes</Text>
     </Text>
     <Text>
       <GUID>1999005213</GUID>
-      <Text>Raisins</Text>
+      <Text>Raisin</Text>
     </Text>
     <Text>
       <GUID>1999005214</GUID>
-      <Text>La pomme de terre est une chose remarquable : elle contient une variété extraordinaire de nutriments, plus de potassium qu’une banane et des quantités copieuses de vitamine C. Il peut être frit, cuit au four, écrasé, rôti ou cuit. Mais comme nous le savons tous, avec ce mod, son utilisation principale n’est plus seulement le Schnaps.</Text>
+      <Text>La pomme de terre est une chose remarquable : elle contient une variété extraordinaire de nutriments, plus de potassium qu’une banane et des quantités copieuses de vitamine C. Il peut être frit, cuit au four, écrasé, rôti ou cuit. Mais comme nous le savons tous, avec ce mod, son utilisation principale n’est plus seulement l'eau-de-vie.</Text>
     </Text>
     <Text>
       <GUID>1999005215</GUID>
@@ -278,7 +278,7 @@
     </Text>
     <Text>
       <GUID>1999005231</GUID>
-      <Text>Garance rose</Text>
+      <Text>Garance</Text>
     </Text>
     <Text>
       <GUID>1999005232</GUID>
@@ -406,7 +406,7 @@
     </Text>
     <Text>
       <GUID>1999005272</GUID>
-      <Text>Une pomme par jour éloigne le Docteur ! Choisissez l’une des plus de 20000 variétés ! Les pommes peuvent être utilisées pour faire à peu près tout ce qui a bon goût : du strudel aux pommes au cidre fin. Un vrai polyvalent !</Text>
+      <Text>Une pomme par jour éloigne le Docteur ! Choisissez l’une des plus de 20000 variétés ! Les pommes peuvent être utilisées pour faire à peu près tout ce qui a bon goût : des bonnes pâtisserie ou encore du cidre fin. Le fruit polyvalent !</Text>
     </Text>
     <Text>
       <GUID>1999005273</GUID>
@@ -422,7 +422,7 @@
     </Text>
     <Text>
       <GUID>1999005276</GUID>
-      <Text>Schnaps</Text>
+      <Text>Eau-de-vie</Text>
     </Text>
     <Text>
       <GUID>1999005277</GUID>
@@ -446,15 +446,15 @@
     </Text>
     <Text>
       <GUID>1999005282</GUID>
-      <Text>La saveur intense de ces raisins mûris au soleil produit un bouquet unique. L’élevage du jeune vin en fûts de chêne massif affine encore sa saveur acidulée.</Text>
+      <Text>La saveur intense de ces raisins mûris au soleil produit un bouquet unique. L’élevage du jeune vin en tonneau de chêne massif affine encore sa saveur acidulée.</Text>
     </Text>
     <Text>
       <GUID>1999005283</GUID>
-      <Text>Brasserie traditionnelle : Schnaps</Text>
+      <Text>Brasserie traditionnelle : Eau-de-vie</Text>
     </Text>
     <Text>
       <GUID>1999005284</GUID>
-      <Text>Brasserie traditionnelle : Cidre de pomme</Text>
+      <Text>Brasserie traditionnelle : Cidre</Text>
     </Text>
     <Text>
       <GUID>1999005285</GUID>
@@ -522,7 +522,7 @@
     </Text>
     <Text>
       <GUID>1999005324</GUID>
-      <Text>Tonaux</Text>
+      <Text>Tonneaux</Text>
     </Text>
     <Text>
       <GUID>1999005325</GUID>
@@ -538,7 +538,7 @@
     </Text>
     <Text>
       <GUID>1999005328</GUID>
-      <Text>L’une des premières solutions de stockage de l’histoire moderne de l’humanité. Plus durables et plus spacieux que la poterie, les barils peuvent stocker presque tous les types de produits pour une utilisation ultérieure. Les fûts sont également essentiels pour affiner certaines boissons en de délicieuses concoctions.</Text>
+      <Text>L’une des premières solutions de stockage de l’histoire moderne de l’humanité. Plus durables et plus spacieux que la poterie, les tonneaux peuvent stocker presque tous les types de produits pour une utilisation ultérieure. Les tonneaux sont également essentiels pour affiner certaines boissons en de délicieuses concoctions.</Text>
     </Text>
     <Text>
       <GUID>1999005329</GUID>
@@ -622,7 +622,7 @@
     </Text>
     <Text>
       <GUID>1999005344</GUID>
-      <Text>Meubles de luxe</Text>
+      <Text>Mobilier luxueux</Text>
     </Text>
     <Text>
       <GUID>1999005345</GUID>
@@ -642,7 +642,7 @@
     </Text>
     <Text>
       <GUID>1999005349</GUID>
-      <Text>Dîner de homard</Text>
+      <Text>Repas raffiné</Text>
     </Text>
     <Text>
       <GUID>1999005350</GUID>
@@ -650,11 +650,11 @@
     </Text>
     <Text>
       <GUID>1999005355</GUID>
-      <Text>Manufacture de laque</Text>
+      <Text>Manufacture d'objets laqué</Text>
     </Text>
     <Text>
       <GUID>1999005356</GUID>
-      <Text>Laque</Text>
+      <Text>Objets laqué</Text>
     </Text>
     <Text>
       <GUID>1999005357</GUID>
@@ -862,7 +862,7 @@
     </Text>
     <Text>
       <GUID>1999005415</GUID>
-      <Text>Cathédrale impériale : Fondation</Text>
+      <Text>Cathédrale impériale : Fondations</Text>
     </Text>
     <Text>
       <GUID>1999005416</GUID>
@@ -870,7 +870,7 @@
     </Text>
     <Text>
       <GUID>1999005417</GUID>
-      <Text>Cathédrale impériale : superstructure</Text>
+      <Text>Cathédrale impériale : Superstructure</Text>
     </Text>
     <Text>
       <GUID>1999005418</GUID>
@@ -878,7 +878,7 @@
     </Text>
     <Text>
       <GUID>1999005419</GUID>
-      <Text>Cathédrale impériale : design d’intérieur</Text>
+      <Text>Cathédrale impériale : Design d’intérieur</Text>
     </Text>
     <Text>
       <GUID>1999005420</GUID>
@@ -918,15 +918,15 @@
     </Text>
     <Text>
       <GUID>1999005446</GUID>
-      <Text>Influence de la fourniture de chevaux</Text>
+      <Text>Influence de l'approvisionnement en chevaux</Text>
     </Text>
     <Text>
       <GUID>1999005447</GUID>
-      <Text>Influence de la fourniture de chevaux</Text>
+      <Text>Influence de l'approvisionnement en chevaux</Text>
     </Text>
     <Text>
       <GUID>1999005448</GUID>
-      <Text>Influence de la fourniture de chevaux</Text>
+      <Text>Influence de l'approvisionnement en chevaux</Text>
     </Text>
     <Text>
       <GUID>1999005449</GUID>
@@ -938,35 +938,35 @@
     </Text>
     <Text>
       <GUID>1999005451</GUID>
-      <Text>Influence de la fourniture de manteaux de fourrure</Text>
+      <Text>Influence de l'approvisionnement en manteaux de fourrure</Text>
     </Text>
     <Text>
       <GUID>1999005452</GUID>
-      <Text>Influence de la fourniture de manteaux de fourrure</Text>
+      <Text>Influence de l'approvisionnement en manteaux de fourrure</Text>
     </Text>
     <Text>
       <GUID>1999005453</GUID>
-      <Text>Influence de la fourniture de cigares</Text>
+      <Text>Influence de l'approvisionnement en cigares</Text>
     </Text>
     <Text>
       <GUID>1999005454</GUID>
-      <Text>Influence de la fourniture de cigares</Text>
+      <Text>Influence de l'approvisionnement en cigares</Text>
     </Text>
     <Text>
       <GUID>1999005455</GUID>
-      <Text>Influence de la fourniture de meubles de luxe</Text>
+      <Text>Influence de la fourniture en mobilier luxueux</Text>
     </Text>
     <Text>
       <GUID>1999005456</GUID>
-      <Text>Influence de la fourniture de meubles de luxe</Text>
+      <Text>Influence de la fourniture en mobilier luxueux</Text>
     </Text>
     <Text>
       <GUID>1999005457</GUID>
-      <Text>Influence de la fourniture de peintures</Text>
+      <Text>Influence de l'approvisionnement en peintures</Text>
     </Text>
     <Text>
       <GUID>1999005458</GUID>
-      <Text>Influence de la fourniture de peintures</Text>
+      <Text>Influence de l'approvisionnement en peintures</Text>
     </Text>
     <Text>
       <GUID>1999005462</GUID>
@@ -978,15 +978,15 @@
     </Text>
     <Text>
       <GUID>1999005461</GUID>
-      <Text>Influence de la fourniture de montres de poche</Text>
+      <Text>Influence de l'approvisionnement en montres à gousset</Text>
     </Text>
     <Text>
       <GUID>1999005462</GUID>
-      <Text>Influence de la fourniture de laque</Text>
+      <Text>Influence de la fourniture d'objets laqué</Text>
     </Text>
     <Text>
       <GUID>1999005463</GUID>
-      <Text>Influence de la fourniture de gramophones</Text>
+      <Text>Influence de l'approvisionnement en gramophones</Text>
     </Text>
     <Text>
       <GUID>1999005464</GUID>
@@ -998,7 +998,7 @@
     </Text>
     <Text>
       <GUID>1999005466</GUID>
-      <Text>Influence de la fourniture de l’accès à un club de membres</Text>
+      <Text>Influence de l’accès à un club de membres</Text>
     </Text>
     <Text>
       <GUID>1999005467</GUID>
@@ -1022,7 +1022,7 @@
     </Text>
     <Text>
       <GUID>1999005516</GUID>
-      <Text>Les propriétaires imposent aux agriculteurs qui travaillent sur leurs terres l’obligation de payer une dîme en échange de la fourniture de terres arables.</Text>
+      <Text>Les propriétaires imposent aux agriculteurs qui travaillent sur leurs terres l’obligation de payer une dîme en échange de terres arables.</Text>
     </Text>
     <Text>
       <GUID>1999005517</GUID>
@@ -1318,7 +1318,7 @@
     </Text>
     <Text>
       <GUID>1999005597</GUID>
-      <Text>Manoir moderne du propriétaire terrien</Text>
+      <Text>Manoir moderne du propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005598</GUID>
@@ -5234,7 +5234,7 @@
     </Text>
     <Text>
       <GUID>1999010322</GUID>
-      <Text>Flyers, édits et spécialistes religieux</Text>
+      <Text>Affiches, édits et spécialistes religieux</Text>
     </Text>
     <Text>
       <GUID>1999010323</GUID>
@@ -5334,7 +5334,7 @@
     </Text>
     <Text>
       <GUID>1999010425</GUID>
-      <Text>Monument Event Aftermath</Text>
+      <Text>Suite de l'événement</Text>
     </Text>
     <Text>
       <GUID>1999010426</GUID>
@@ -5346,7 +5346,7 @@
     </Text>
     <Text>
       <GUID>1999010428</GUID>
-      <Text>Drame Théâtre Pièce de théâtre</Text>
+      <Text>Pièce de théâtre dramatique</Text>
     </Text>
     <Text>
       <GUID>1999010429</GUID>
