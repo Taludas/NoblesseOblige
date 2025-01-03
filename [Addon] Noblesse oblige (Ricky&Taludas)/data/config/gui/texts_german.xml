@@ -66,7 +66,7 @@
     </Text>
     <Text>
       <GUID>1999005116</GUID>
-      <Text>Euphorische Gutsbesitzer</Text>
+      <Text>Euphorische Großgrundbesitzer</Text>
     </Text>
     <Text>
       <GUID>1999005117</GUID>
@@ -230,7 +230,7 @@
     </Text>
     <Text>
       <GUID>1999005219</GUID>
-      <Text>Einst in den Gärten wohlhabender Klöster heimisch, wird diese Pflanze heute in großen Mengen als Geschmacksstoff benötigt, um das Lieblingsgetränk Eurer Arbeiter aufzupeppen.</Text>
+      <Text>Einst in den Gärten wohlhabender Klöster heimisch, wird diese Pflanze heute in großen Mengen als Geschmacksstoff benötigt, um das Lieblingsgetränk Eurer Arbeiter zu aromatisieren.</Text>
     </Text>
     <Text>
       <GUID>1999005220</GUID>
@@ -486,7 +486,7 @@
     </Text>
     <Text>
       <GUID>25265</GUID>
-      <Text>Rezeptbuch der Brauerein</Text>
+      <Text>Rezeptbuch der Brauereien</Text>
     </Text>
     <Text>
       <GUID>1999005292</GUID>
@@ -534,7 +534,7 @@
     </Text>
     <Text>
       <GUID>1999005327</GUID>
-      <Text>In diesen Werkstätten werden die einfachsten Versionen moderner technischer Wunderwerke aus geeigneten Laubholzarten hergestellt. Der Einsatz von Werkzeugen ermöglicht es Euren Arbeitern, ihre Produktivität zu steigern und die Produktionszahlen auf ein neues Niveau zu befördern!</Text>
+      <Text>In diesen Werkstätten werden die einfachsten Versionen moderner technischer Wunderwerke aus geeigneten Laubholzarten hergestellt. Der Einsatz von Werkzeugen ermöglicht es Euren Arbeitern, ihre Produktivität zu steigern und die Produktionszahlen auf ein neues Niveau zu heben!</Text>
     </Text>
     <Text>
       <GUID>1999005328</GUID>
@@ -542,7 +542,7 @@
     </Text>
     <Text>
       <GUID>1999005329</GUID>
-      <Text>Diese aus Edelhölzern geschnitzten Furniere werden von erfahrenen Handwerkern handgefertigt. Holzfurniere werden in den luxuriösesten Anwendungen verwendet, um die leidenschaftlichsten Kunstliebhaber immer wieder aufs Neue zu verblüffen.</Text>
+      <Text>Diese aus Edelhölzern geschnitzten Furniere werden von erfahrenen Handwerkern handgefertigt. Holzfurniere werden in den luxuriösesten Anwendungen verwendet, um leidenschaftliche Kunstliebhaber immer wieder aufs Neue zu verblüffen.</Text>
     </Text>
     <Text>
       <GUID>1999005330</GUID>
@@ -674,7 +674,7 @@
     </Text>
     <Text>
       <GUID>1999005361</GUID>
-      <Text>Exportauftrag: Nähmaschinen</Text>
+      <Text>Exportvertrag: Nähmaschinen</Text>
     </Text>
     <Text>
       <GUID>1999005362</GUID>
@@ -682,11 +682,11 @@
     </Text>
     <Text>
       <GUID>1999005363</GUID>
-      <Text>Exportauftrag: Fortschrittliche Waffen</Text>
+      <Text>Exportvertrag: Fortschrittliche Waffen</Text>
     </Text>
     <Text>
       <GUID>1999005364</GUID>
-      <Text>Exportauftrag: Dampfmaschinen</Text>
+      <Text>Exportvertrag: Dampfmaschinen</Text>
     </Text>
     <Text>
       <GUID>1999005365</GUID>
@@ -698,7 +698,7 @@
     </Text>
     <Text>
       <GUID>1999005367</GUID>
-      <Text>Beschreibung der Werkzeuge</Text>
+      <Text>Werkzeuge Beschreibung</Text>
     </Text>
     <Text>
       <GUID>1999005368</GUID>
@@ -706,7 +706,7 @@
     </Text>
     <Text>
       <GUID>1999005369</GUID>
-      <Text>Beschreibung der Waffen</Text>
+      <Text>Waffen Beschreibung</Text>
     </Text>
     <Text>
       <GUID>1999005370</GUID>
@@ -718,11 +718,11 @@
     </Text>
     <Text>
       <GUID>1999005372</GUID>
-      <Text>Beschreibung der erweiterten Waffen</Text>
+      <Text>Schwere Geschütze Beschreibung</Text>
     </Text>
     <Text>
       <GUID>1999005373</GUID>
-      <Text>Beschreibung der Dampfmaschinen</Text>
+      <Text>Dampfmaschinen Beschreibung</Text>
     </Text>
     <Text>
       <GUID>1999005374</GUID>
@@ -778,11 +778,11 @@
     </Text>
     <Text>
       <GUID>1999005399</GUID>
-      <Text>Ebony Beschreibung</Text>
+      <Text>Ebenholz Beschreibung</Text>
     </Text>
     <Text>
       <GUID>1999005400</GUID>
-      <Text>Beschreibung der Seide</Text>
+      <Text>Seide Beschreibung</Text>
     </Text>
     <Text>
       <GUID>1999005401</GUID>
@@ -994,7 +994,7 @@
     </Text>
     <Text>
       <GUID>1999005465</GUID>
-      <Text>Einfluss durch die Bereitstellung einer Oper</Text>
+      <Text>Einfluss durch die Bereitstellung einer Stadthalle</Text>
     </Text>
     <Text>
       <GUID>1999005466</GUID>
@@ -1178,7 +1178,7 @@
     </Text>
     <Text>
       <GUID>1999005555</GUID>
-      <Text>&lt;b&gt;Dieses Tor ist nur der Anfang eines herrlichen Schlossparks! Erweitert ihn, indem Ihr Ornamente aus dieser Kategorie oder bestimmte Vanilla-Ornamenten in der Nähe der Herrenhäuser baust.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;Jedes Ornament reduziert den Bedarf der Großgrundbesitzer an "Schlosspark" um einen kleinen Betrag. Baut genügend Ornamente in der Nähe der Herrenhäuser, um den Bedarf um 100% zu reduzieren, wodurch das Bedürfnis der Großgrundbesitzer erfüllt werden.</Text>
+      <Text>&lt;b&gt;Dieses Tor ist nur der Anfang eines herrlichen Schlossparks! Erweitert ihn, indem Ihr Ornamente aus dieser Kategorie oder bestimmte Vanilla-Ornamenten in der Nähe der Herrenhäuser baut.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;Jedes Ornament reduziert den Bedarf der Großgrundbesitzer an "Schlosspark" um einen kleinen Betrag. Baut genügend Ornamente in der Nähe der Herrenhäuser, um den Bedarf um 100% zu reduzieren, wodurch das Bedürfnis der Großgrundbesitzer schlussendlich erfüllt wird.</Text>
     </Text>
     <Text>
       <GUID>1999005559</GUID>
@@ -1370,7 +1370,7 @@
     </Text>
     <Text>
       <GUID>1999005645</GUID>
-      <Text>Die richtige Handhabung der Ware und Fortschritte bei der Verpackung erhöhen die Effizienz von Importpiers.</Text>
+      <Text>Die richtige Handhabung der Ware und Fortschritte bei der Verpackung erhöhen die Effizienz von Import-Docks.</Text>
     </Text>
     <Text>
       <GUID>1999005646</GUID>
@@ -1378,7 +1378,7 @@
     </Text>
     <Text>
       <GUID>1999005647</GUID>
-      <Text>Die richtige Handhabung der Ware und Fortschritte bei der Verpackung erhöhen die Effizienz von Importpiers und sorgen dafür, dass Ihre gelagerten Importgüter länger halten.</Text>
+      <Text>Die richtige Handhabung der Ware und Fortschritte bei der Verpackung erhöhen die Effizienz von Import-Docks und sorgen dafür, dass Eure gelagerten Importgüter länger halten.</Text>
     </Text>
     <Text>
       <GUID>1999005664</GUID>
@@ -1422,7 +1422,7 @@
     </Text>
     <Text>
       <GUID>1999005674</GUID>
-      <Text>Alle traditionellen Gebäude kommen mit einem Standard-Debuff. Gebäude außerhalb des Verwaltungsbereichs funktionieren nicht ordnungsgemäß. Versetzt sie in den Radius der Gutsverwaltung oder erhöht deren Einflussbereich, indem Ihr mehr Großgrundbesitzer zuweist (drücket Umschalt+C für die zweite Benutzeroberfläche). Dadurch wird ein Gegenbuff gewährt, der den anfänglichen Debuff ausgleicht.</Text>
+      <Text>Alle traditionellen Gebäude kommen mit einem Standard-Debuff. Gebäude außerhalb des Verwaltungsbereichs funktionieren nicht ordnungsgemäß. Versetzt sie in den Radius der Gutsverwaltung oder erhöht deren Einflussbereich, indem Ihr mehr Großgrundbesitzer zuweist (drückt Umschalt+C für die zweite Benutzeroberfläche). Dadurch wird ein Gegenbuff gewährt, der den anfänglichen Debuff ausgleicht.</Text>
     </Text>
     <Text>
       <GUID>1999005675</GUID>
@@ -1494,7 +1494,7 @@
     </Text>
     <Text>
       <GUID>1999005800</GUID>
-      <Text>Mit steigender Zahl werden die Großgrundbesitzer beginnen, in den Bau und die Erweiterung von Kultureinrichtungen zu investieren, was die Wirksamkeit Ihrer Ausstellungen erhöht und die Attraktivität Ihrer Inseln Stufe für Stufe erhöht.</Text>
+      <Text>Mit steigender Zahl werden die Großgrundbesitzer beginnen, in den Bau und die Erweiterung von Kultureinrichtungen zu investieren, was die Wirksamkeit Eurer Ausstellungen erhöht und die Attraktivität Eurer Inseln Stufe für Stufe erhöht.</Text>
     </Text>
     <Text>
       <GUID>1999005801</GUID>
@@ -2058,7 +2058,7 @@
     </Text>
     <Text>
       <GUID>1999006319</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(191136) Text] (Stufe 19)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(191136) Text] (Stufe 19)</Text>
     </Text>
     <Text>
       <GUID>1999006320</GUID>
@@ -2150,7 +2150,7 @@
     </Text>
     <Text>
       <GUID>1999006502</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(191139) Text] (Stufe 2)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(191139) Text] (Stufe 2)</Text>
     </Text>
     <Text>
       <GUID>1999006503</GUID>
@@ -2182,7 +2182,7 @@
     </Text>
     <Text>
       <GUID>1999006510</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(191139) Text] (Stufe 10)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(191139) Text] (Stufe 10)</Text>
     </Text>
     <Text>
       <GUID>1999006511</GUID>
@@ -2582,7 +2582,7 @@
     </Text>
     <Text>
       <GUID>1999007010</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(191137) Text] (Stufe 10)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(191137) Text] (Stufe 10)</Text>
     </Text>
     <Text>
       <GUID>1999007011</GUID>
@@ -3066,7 +3066,7 @@
     </Text>
     <Text>
       <GUID>1999007611</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(124210) Text] (Stufe 11)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(124210) Text] (Stufe 11)</Text>
     </Text>
     <Text>
       <GUID>1999007612</GUID>
@@ -3326,7 +3326,7 @@
     </Text>
     <Text>
       <GUID>1999007916</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(191147) Text] (Stufe 16)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(191147) Text] (Stufe 16)</Text>
     </Text>
     <Text>
       <GUID>1999007917</GUID>
@@ -3546,7 +3546,7 @@
     </Text>
     <Text>
       <GUID>1999008211</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(191144) Text] (Stufe 11)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(191144) Text] (Stufe 11)</Text>
     </Text>
     <Text>
       <GUID>1999008212</GUID>
@@ -4842,7 +4842,7 @@
     </Text>
     <Text>
       <GUID>1999009815</GUID>
-      <Text>Traditionelles Patronage: &lt;br /&gt;[AssetData(193661) Text] (Stufe 15)</Text>
+      <Text>Traditionelle Schirmherrschaft: &lt;br /&gt;[AssetData(193661) Text] (Stufe 15)</Text>
     </Text>
     <Text>
       <GUID>1999009816</GUID>
@@ -5198,7 +5198,7 @@
     </Text>
     <Text>
       <GUID>1999010309</GUID>
-      <Text>MODERNEN KONSERVATIEN</Text>
+      <Text>MODERNEN KONSERVATIVEN</Text>
     </Text>
     <Text>
       <GUID>1999010311</GUID>
@@ -5238,7 +5238,7 @@
     </Text>
     <Text>
       <GUID>1999010323</GUID>
-      <Text>Jeden Sonntag in die Kirche zu gehen, könnte sich ja irgendwann doch lohnen...</Text>
+      <Text>Jeden Sonntag in die Kirche zu gehen, könnte sich ja doch irgendwann lohnen...</Text>
     </Text>
     <Text>
       <GUID>1999010380</GUID>
@@ -5342,7 +5342,7 @@
     </Text>
     <Text>
       <GUID>1999010427</GUID>
-      <Text>Plant eines der größten Events, das diese Stadt je gesehen hat! Im Stadttheater können eine Vielzahl von Veranstaltungen ausgewählt werden, um die gehobene Klasse zu unterhalten!</Text>
+      <Text>Plant eines der größten Events, das diese Stadt je gesehen hat! In der Stadthalle können eine Vielzahl von Veranstaltungen ausgewählt werden, um die gehobene Klasse zu unterhalten!</Text>
     </Text>
     <Text>
       <GUID>1999010428</GUID>
@@ -5374,7 +5374,7 @@
     </Text>
     <Text>
       <GUID>1999010435</GUID>
-      <Text>Stadttheater: Schauspiel</Text>
+      <Text>Stadthalle: Dramatisches Schauspiel</Text>
     </Text>
     <Text>
       <GUID>1999010436</GUID>
@@ -5382,23 +5382,23 @@
     </Text>
     <Text>
       <GUID>1999010437</GUID>
-      <Text>Stadttheater: Klassisches Konzert</Text>
+      <Text>Stadthalle: Klassisches Konzert</Text>
     </Text>
     <Text>
       <GUID>1999010438</GUID>
-      <Text>Mozart, Beethoven und Hayden! Die schönsten Stücke der Welt live auf der Bühne! Kein talentloses Gefiedel mehr zu Hause, wenn Sie Geld für Profis ausgeben können!</Text>
+      <Text>Mozart, Beethoven und Haydn! Die schönsten Stücke der Welt live auf der Bühne! Kein talentloses Gefiedel mehr zu Hause, wenn Sie Geld für Profis ausgeben können!</Text>
     </Text>
     <Text>
       <GUID>1999010439</GUID>
-      <Text>Stadttheater: Snooker-Meisterschaft</Text>
+      <Text>Stadthalle: Snooker-Meisterschaft</Text>
     </Text>
     <Text>
       <GUID>1999010440</GUID>
-      <Text>Mit Ruhe und Überlegung werden die kleinen Kugeln in geplanten Stößen über den deutlich überdimensionalen Tisch geschoben. Ruhe im Publikum bitte!</Text>
+      <Text>Mit Ruhe und Überlegung werden die kleinen Kugeln in geplanten Stößen über den deutlich überdimensionierten Tisch gestoßen. Ruhe im Publikum bitte!</Text>
     </Text>
     <Text>
       <GUID>1999010441</GUID>
-      <Text>Stadttheater: Wissenschaftsausstellung</Text>
+      <Text>Stadthalle: Wissenschaftsausstellung</Text>
     </Text>
     <Text>
       <GUID>1999010442</GUID>
@@ -5406,7 +5406,7 @@
     </Text>
     <Text>
       <GUID>1999010443</GUID>
-      <Text>Stadttheater: Filmvorführung</Text>
+      <Text>Stadthalle: Filmvorführung</Text>
     </Text>
     <Text>
       <GUID>1999010444</GUID>
@@ -5414,7 +5414,7 @@
     </Text>
     <Text>
       <GUID>1999010445</GUID>
-      <Text>Stadttheater: Modenschau</Text>
+      <Text>Stadthalle: Modenschau</Text>
     </Text>
     <Text>
       <GUID>1999010446</GUID>
@@ -5422,7 +5422,7 @@
     </Text>
     <Text>
       <GUID>1999010447</GUID>
-      <Text>Stadttheater: Kunstausstellung</Text>
+      <Text>Stadthalle: Kunstausstellung</Text>
     </Text>
     <Text>
       <GUID>1999010448</GUID>
@@ -5430,31 +5430,31 @@
     </Text>
     <Text>
       <GUID>1999010449</GUID>
-      <Text>Stadttheater: Dramatisches Schauspiel</Text>
+      <Text>Stadthalle: Dramatisches Schauspiel</Text>
     </Text>
     <Text>
       <GUID>1999010450</GUID>
-      <Text>Stadttheater: Klassisches Konzert</Text>
+      <Text>Stadthalle: Klassisches Konzert</Text>
     </Text>
     <Text>
       <GUID>1999010451</GUID>
-      <Text>Stadttheater: Snooker-Meisterschaft</Text>
+      <Text>Stadthalle: Snooker-Meisterschaft</Text>
     </Text>
     <Text>
       <GUID>1999010452</GUID>
-      <Text>Stadttheater: Wissenschaftsausstellung</Text>
+      <Text>Stadthalle: Wissenschaftsausstellung</Text>
     </Text>
     <Text>
       <GUID>1999010453</GUID>
-      <Text>Stadttheater: Filmvorführung</Text>
+      <Text>Stadthalle: Filmvorführung</Text>
     </Text>
     <Text>
       <GUID>1999010454</GUID>
-      <Text>Stadttheater: Modenschau</Text>
+      <Text>Stadthalle: Modenschau</Text>
     </Text>
     <Text>
       <GUID>1999010455</GUID>
-      <Text>Stadttheater: Kunstausstellung</Text>
+      <Text>Stadthalle: Kunstausstellung</Text>
     </Text>
     <Text>
       <GUID>1999010461</GUID>
@@ -5510,7 +5510,7 @@
     </Text>
     <Text>
       <GUID>1999010474</GUID>
-      <Text>Alle Stadttheater</Text>
+      <Text>Alle Stadthallen</Text>
     </Text>
   </ModOp>
 </ModOps>
