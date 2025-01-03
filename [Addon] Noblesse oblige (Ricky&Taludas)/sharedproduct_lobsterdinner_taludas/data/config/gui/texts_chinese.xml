@@ -2,15 +2,15 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005075</GUID>
-      <Text>龙虾晚餐</Text>
+      <Text>龙虾大餐</Text>
     </Text>
     <Text>
       <GUID>1999005076</GUID>
-      <Text>这是一场华丽的盛宴，但您需要工具才能食用。</Text>
+      <Text>这是一道华丽的大菜，但您需要合适的餐具才能食用。</Text>
     </Text>
     <Text>
       <GUID>1999005077</GUID>
-      <Text>海妖的精美小吃......</Text>
+      <Text>美人鱼们的精美小吃......</Text>
     </Text>
   </ModOp>
 </ModOps>

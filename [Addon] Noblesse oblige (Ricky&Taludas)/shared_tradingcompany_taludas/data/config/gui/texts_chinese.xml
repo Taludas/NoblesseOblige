@@ -10,7 +10,7 @@
     </Text>
     <Text>
       <GUID>1999005353</GUID>
-      <Text>这些文件加盖了各个遥远国家的公章</Text>
+      <Text>这些文件上加盖了远方收货港的收货章</Text>
     </Text>
     <Text>
       <GUID>1999005354</GUID>
@@ -18,7 +18,7 @@
     </Text>
     <Text>
       <GUID>1999005375</GUID>
-      <Text>导出 Dock：工具</Text>
+      <Text>出口码头：工具</Text>
     </Text>
     <Text>
       <GUID>1999005376</GUID>
@@ -26,7 +26,7 @@
     </Text>
     <Text>
       <GUID>1999005377</GUID>
-      <Text>Export Dock： 武器</Text>
+      <Text>出口码头： 武器</Text>
     </Text>
     <Text>
       <GUID>1999005378</GUID>
@@ -34,11 +34,11 @@
     </Text>
     <Text>
       <GUID>1999005379</GUID>
-      <Text>导出停靠栏：Dynamite</Text>
+      <Text>出口码头：炸药</Text>
     </Text>
     <Text>
       <GUID>1999005380</GUID>
-      <Text>Export Dock： 高级武器</Text>
+      <Text>出口码头： 高级武器</Text>
     </Text>
     <Text>
       <GUID>1999005381</GUID>
@@ -46,11 +46,11 @@
     </Text>
     <Text>
       <GUID>1999005382</GUID>
-      <Text>导出停靠栏：打字机</Text>
+      <Text>出口码头：打字机</Text>
     </Text>
     <Text>
       <GUID>1999005383</GUID>
-      <Text>导出停靠</Text>
+      <Text>出口码头</Text>
     </Text>
     <Text>
       <GUID>1999005384</GUID>
@@ -58,7 +58,7 @@
     </Text>
     <Text>
       <GUID>1999005428</GUID>
-      <Text>增加最大存储量的 Import Products 的容量。</Text>
+      <Text>增加本岛进口产品的储存量。</Text>
     </Text>
     <Text>
       <GUID>1999005385</GUID>
@@ -66,11 +66,11 @@
     </Text>
     <Text>
       <GUID>1999005386</GUID>
-      <Text>连接来自世界各地的交易者的贸易中心。可通过模块进行扩展。</Text>
+      <Text>世界各地交易者的贸易交流中心。可通过模块进行扩展。</Text>
     </Text>
     <Text>
       <GUID>1999005414</GUID>
-      <Text>贸易基础设施</Text>
+      <Text>外贸设施</Text>
     </Text>
     <Text>
       <GUID>1999005648</GUID>

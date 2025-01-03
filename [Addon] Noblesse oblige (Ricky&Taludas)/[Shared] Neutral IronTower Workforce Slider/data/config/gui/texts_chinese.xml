@@ -10,7 +10,7 @@
     </Text>
     <Text>
       <GUID>134902</GUID>
-      <Text>为建筑分配额外的 Workforce 以增加其增益效果范围。从池中接收劳动力时，所有其他建筑物都优先于此建筑物。</Text>
+      <Text>为建筑分配额外的劳动力，以增加其增益效果范围。劳动力不足时，所有其他建筑物都优先于此建筑物。</Text>
     </Text>
     <Text>
       <GUID>134950</GUID>
@@ -18,23 +18,23 @@
     </Text>
     <Text>
       <GUID>134951</GUID>
-      <Text>分配这么多额外的工作线程将保持您的工作平衡。</Text>
+      <Text>分配额外的劳动力将保持您的劳动力市场平衡。</Text>
     </Text>
     <Text>
       <GUID>134958</GUID>
-      <Text>没有足够的免费劳动力</Text>
+      <Text>没有足够的劳动力</Text>
     </Text>
     <Text>
       <GUID>134952</GUID>
-      <Text>吸引更多人口以平衡劳动力平衡。</Text>
+      <Text>吸引更多人口以提供足够劳动力。</Text>
     </Text>
     <Text>
       <GUID>134959</GUID>
-      <Text>员工总数不足</Text>
+      <Text>劳动力数量不足</Text>
     </Text>
     <Text>
       <GUID>134953</GUID>
-      <Text>总工人太少，无法向建筑物中添加选定数量的额外工人。其他建筑物中的工人人数为零。</Text>
+      <Text>劳动力数量太少，无法向建筑物中添加选定数量劳动力。</Text>
     </Text>
   </ModOp>
 </ModOps>

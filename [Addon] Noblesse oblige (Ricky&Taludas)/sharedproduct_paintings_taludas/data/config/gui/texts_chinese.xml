@@ -2,7 +2,7 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005069</GUID>
-      <Text>画</Text>
+      <Text>油画</Text>
     </Text>
     <Text>
       <GUID>1999005070</GUID>
@@ -10,7 +10,7 @@
     </Text>
     <Text>
       <GUID>1999005071</GUID>
-      <Text>这是艺术还是垃圾？！</Text>
+      <Text>这算艺术还是废品？！</Text>
     </Text>
   </ModOp>
 </ModOps>

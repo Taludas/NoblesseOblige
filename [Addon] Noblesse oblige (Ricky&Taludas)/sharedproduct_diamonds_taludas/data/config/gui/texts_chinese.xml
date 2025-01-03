@@ -2,15 +2,15 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005087</GUID>
-      <Text>方块</Text>
+      <Text>钻石</Text>
     </Text>
     <Text>
       <GUID>1999005088</GUID>
-      <Text>像钻石一样闪耀！</Text>
+      <Text>闪亮的就像……钻石一样！</Text>
     </Text>
     <Text>
       <GUID>1999005089</GUID>
-      <Text>当然是女孩最好的朋友</Text>
+      <Text>女孩真正的最爱</Text>
     </Text>
   </ModOp>
 </ModOps>
