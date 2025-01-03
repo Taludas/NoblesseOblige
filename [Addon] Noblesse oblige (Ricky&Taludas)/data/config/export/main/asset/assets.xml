@@ -22454,7 +22454,6 @@
             </ModOp>
 
             <!-- Buffs and Pools -->
-            <ModOp Type="remove" GUID="269457,269462" Path="/Values/ItemEffect/EffectTargets/Item[GUID = '102037222']" />
             <ModOp Type="remove" GUID="190136" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs/Item[GUID = '102037222'][1]" />
             <ModOp Type="addNextSibling" GUID="133930">
               <Asset>
@@ -29990,7 +29989,6 @@
                     <GUID>1999005117</GUID>
                 </Item>
               </ModOp>
-              <ModOp Type="remove" GUID="280082" Path="/Values/ItemEffect/EffectTargets/Item[GUID = '1999010302']"/>
               <ModOp Type="add" GUID="280082" Path="/Values/ItemEffect/EffectTargets">
                 <Item>
                     <GUID>1999005118</GUID>
