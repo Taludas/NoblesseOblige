@@ -1,0 +1,38 @@
+<ModOps>
+
+    <!-- #Stadium Festival cleanup -->
+    <ModOp Type="replace" GUID="6499,6500,6501,6502" Path="/Values/Reward/RewardAssets/Item[2]/Reward">
+        <Reward>6931</Reward>
+    </ModOp>
+    <ModOp Type="replace" GUID="6948,6949,6950,6951" Path="/Values/Reward/RewardAssets/Item[2]/Reward">
+        <Reward>6936</Reward>
+    </ModOp>
+    <ModOp Type="replace" GUID="6503,6504,6505,6506" Path="/Values/Reward/RewardAssets/Item[2]/Reward">
+        <Reward>6941</Reward>
+    </ModOp>
+
+    <!-- #Neutral Post Stadium Festival Reward Infotip -->
+    <ModOp Type="addNextSibling" GUID="141896">
+        <Asset>
+            <Template>MonumentEventCategory</Template>
+            <Values>
+                <Standard>
+                    <GUID>1999010425</GUID>
+                    <Name>Monument Event Aftermath</Name>
+                    <IconFilename>data/ui/2kimages/main/icons/icon_speed_3d.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Monument Event Aftermath</Text>
+                            <Status>Edit</Status>
+                        </English>
+                    </LocaText>
+                    <LineID>48848</LineID>
+                </Text>
+                <Locked />
+                <MonumentEventCategory />
+            </Values>
+        </Asset>
+    </ModOp>
+</ModOps>

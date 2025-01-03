@@ -1,0 +1,55 @@
+{
+  "Version": "1.0.0",
+  "ModID": "Taludas_neutral_aftermonumentevent_festivalreward_infotip",
+  "IncompatibleIds": [],
+  "ModDependencies": [],
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "English": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Chinese": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "French": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "German": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Italian": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Japanese": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Korean": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Polish": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Russian": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Spanish": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)",
+    "Taiwanese": "Neutral After-Monumentevent Festivalreward Infotip (Taludas)"
+  },
+  "Description": {
+    "English": "Provides a neutral Infotip for the Stadium after-event festival reward buff",
+    "Chinese": "",
+    "French": "",
+    "German": "Bietet einen neutralen Infotipp für den Belohnungs-Buff des Stadionfestivals nach der Veranstaltung",
+    "Italian": "",
+    "Japanese": "",
+    "Korean": "",
+    "Polish": "",
+    "Russian": "",
+    "Spanish": "",
+    "Taiwanese": ""
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC":"NewWorldRising",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": null,
+  "Image": null
+}

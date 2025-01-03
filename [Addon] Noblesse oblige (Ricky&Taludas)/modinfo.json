@@ -53,7 +53,8 @@
 		"import_storagelist_ebony_taludas",
 		"import_storagelist_saffron_taludas",
 		"import_storagelist_silkfabric_taludas",
-		"import_storagelist_tea_taludas"
+		"import_storagelist_tea_taludas",
+		"Taludas_neutral_aftermonumentevent_festivalreward_infotip"
 	],
 	"LoadAfterIds": [
 		"Taludas_sharedproduct_wine",
@@ -108,7 +109,8 @@
 		"import_storagelist_silkfabric_taludas",
 		"import_storagelist_tea_taludas",
 		"FamTaubeLexy_NewWorldHotels",
-		"jakob_biogas"
+		"jakob_biogas",
+		"Taludas_neutral_aftermonumentevent_festivalreward_infotip"
 	],
 	"Category": {
 		"Chinese": "插件",

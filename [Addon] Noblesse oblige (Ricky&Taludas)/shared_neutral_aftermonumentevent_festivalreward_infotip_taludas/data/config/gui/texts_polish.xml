@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999010425</GUID>
+      <Text>Następstwa wydarzenia związanego z pomnikiem</Text>
+    </Text>
+  </ModOp>
+</ModOps>

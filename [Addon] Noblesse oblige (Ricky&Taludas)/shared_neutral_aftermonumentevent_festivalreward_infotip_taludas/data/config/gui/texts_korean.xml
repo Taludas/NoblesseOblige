@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999010425</GUID>
+      <Text>기념비 사건 여파</Text>
+    </Text>
+  </ModOp>
+</ModOps>
