@@ -13455,6 +13455,56 @@
                     <GUID>1742100209</GUID>
                 </Item>
             </ModOp>
+            <ModOp Type="addNextSibling" GUID="130248">
+              <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999010481</GUID>
+                        <Name>Sandbox Mode Unlock Jakobs Dung Collector with 1 Landowner</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                          <Template>ConditionPlayerCounter</Template>
+                          <Values>
+                            <Condition />
+                            <ConditionPlayerCounter>
+                              <PlayerCounter>PopulationByLevel</PlayerCounter>
+                              <Context>1999005104</Context>
+                              <CounterAmount>1</CounterAmount>
+                            </ConditionPlayerCounter>
+                          </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionUnlockAsset</Template>
+                                    <Values>
+                                        <Action/>
+                                        <ActionUnlockAsset>
+                                            <UnlockAssets>
+                                              <Item>
+                                                  <Asset>1500010015</Asset>
+                                              </Item>
+                                            </UnlockAssets>
+                                        </ActionUnlockAsset>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <ResetTrigger>
+                            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                            <Values>
+                                <EmptyAutoCreateValue/>
+                            </Values>
+                        </ResetTrigger>
+                    </Trigger>
+                    <TriggerSetup>
+                        <UsedBySecondParties>0</UsedBySecondParties>
+                    </TriggerSetup>
+                </Values>
+              </Asset>
+            </ModOp>
         </Group>
 
         <!-- Adapt Stable from Hier0nmius to 2min production cycle -->
