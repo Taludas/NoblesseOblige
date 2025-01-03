@@ -35,6 +35,16 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.1</summary>
+
+- Chinesische Übersetzung hinzugefügt von hanthe2th
+- deutsche Übersetzungen korrekturgelesen
+- Beheben eines Problems in bestimmten Loca-Dateien mit der falschen Anzeige des Firmennamens in einem Text-Asset
+- Hinzufügen eines Triggers, um den Misthaufen korrekt mit 1 Landbesitzer freizuschalten, wenn die Mod zusammen mit Jakobs Biogas-Produktion verwendet wird
+- Auslagerung der Anpassung des Reard-Infotipps für das Monument nach dem Festival in eine shared mod
+- Hinzufügen drei fehlender Ornamente (Hohe Zypresse, Brunnenplatz, Gazebo-Platz) zum Schlossparksystem
+</details>
+<details>
     <summary>Patch Notes Version 1.1.0</summary>
 
 - Entfernen des Sounds „Quest abgeschlossen“ nach dem Erfüllen einer der versteckten Quests, die Buffs verteilen (z.B. Einfluss von Zufriedenheitsbedürfnissen, traditionelle Schirmherrschaft)

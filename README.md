@@ -37,6 +37,16 @@ If you like this mod and want to support me, feel free to share it with your fri
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.1</summary>
+
+- add chinese translation by hanthe2th
+- proofread german translations
+- fix issue in certain loca files with incorrect display of the company name in one text asset
+- add a trigger to unlock teh Dung Collector correctly with 1 Landowner when using the mod together with Jakobs Biogas Production
+- outsource monument after-event festival reward infotip adjustment into a shared mod
+- add three missing Ornaments (Tall Cypress, Fountain Plaza, Gazebo Plaza) to the Manor Park system
+</details>
+<details>
     <summary>Patch Notes Version 1.1.0</summary>
 
 - remove the "Quest complete" sound after fulfilling any of the hidden quests that distribute buffs (i.e. influence from happiness needs, traditional patronage)
