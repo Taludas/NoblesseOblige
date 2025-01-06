@@ -5512,5 +5512,9 @@
       <GUID>1999010474</GUID>
       <Text>모든 시립 극장</Text>
     </Text>
+    <Text>
+      <GUID>1999010493</GUID>
+      <Text>관리</Text>
+    </Text>
   </ModOp>
 </ModOps>

@@ -577,6 +577,11 @@
                   <Product>1500010153</Product>
               </Item>
           </ModOp>
+          <ModOp Type="addNextSibling" GUID="501957" Path="/Values/ProductList/List/Item[Product='1010205']">
+              <Item>
+                  <Product>1500010153</Product>
+              </Item>
+          </ModOp>
 
           <ModOp Type="remove" GUID="25000191" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1500010155']"></ModOp>
           <ModOp Type="addPrevSibling" GUID="25000190" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010360'][last()]">
@@ -2796,7 +2801,26 @@
                             </Tier5Decree>
                         </Policies>
                     </Hacienda>
-                    <IncidentInfectable />
+                    <IncidentInfectable>
+                      <Infectable>
+                        <Fire>
+                          <Base>0</Base>
+                          <Escalated>0</Escalated>
+                        </Fire>
+                        <Illness>
+                          <Base>0</Base>
+                          <Escalated>0</Escalated>
+                        </Illness>
+                        <Riot>
+                          <Base>0</Base>
+                          <Escalated>0</Escalated>
+                        </Riot>
+                        <Explosion>
+                          <Base>0</Base>
+                          <Escalated>0</Escalated>
+                        </Explosion>
+                      </Infectable>
+                    </IncidentInfectable>
                     <PublicService>
                         <FullSatisfactionDistance>80</FullSatisfactionDistance>
                         <NoSatisfactionDistance>80</NoSatisfactionDistance>
@@ -2836,7 +2860,28 @@
                     <RecipeBuilding>
                       <RecipeList>1999005678</RecipeList>
                     </RecipeBuilding>
+                    <Nameable>
+                      <OverwriteNameWithTextAsset>1999010493</OverwriteNameWithTextAsset>
+                    </Nameable>
                 </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>1999010493</GUID>
+                  <Name>Name Administration</Name>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Administration</Text>
+                      <Status>Exported</Status>
+                    </English>
+                  </LocaText>
+                  <LineID>48803</LineID>
+                </Text>
+              </Values>
             </Asset>
             <Asset>
               <Template>TownhallBuff</Template>
@@ -13512,6 +13557,9 @@
             <ModOp Type="merge" GUID="1742100209" Path="/Values/FactoryBase/CycleTime">
                 <CycleTime>120</CycleTime>
             </ModOp>
+            <ModOp Type="merge" GUID="1742100209" Path="/Values/FactoryBase/FactoryOutputs/Item/StorageAmount">
+                <StorageAmount>1</StorageAmount>
+            </ModOp>
             <ModOp Type="merge" GUID="1742100209" Path="/Values/ModuleOwner/ModuleLimits">
                 <Main>
                     <Limit>4</Limit>
@@ -13670,7 +13718,7 @@
                           <Item>
                             <Product>1440218</Product>
                             <Amount>1</Amount>
-                            <StorageAmount>4</StorageAmount>
+                            <StorageAmount>2</StorageAmount>
                           </Item>
                         </FactoryOutputs>
                         <CycleTime>60</CycleTime>
@@ -22415,9 +22463,16 @@
               <Selection>
                 <GUIType>Production</GUIType>
               </Selection>
+              <BuffFactory>
+                <ProductionBuffScope>Radius</ProductionBuffScope>
+                <ProductionBuffDistance>30</ProductionBuffDistance>
+                <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                <BaseBuffScope>Radius</BaseBuffScope>
+              </BuffFactory>
               <FactoryBase>
                 <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                <ClampedMaxTransporterLogisticCost>60</ClampedMaxTransporterLogisticCost>
+                <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
               </FactoryBase>
               <LogisticNode>
                 <HideTransportersBeforeTheyMove>1</HideTransportersBeforeTheyMove>
@@ -22426,13 +22481,6 @@
                 <MandatoryIndustrialization>1</MandatoryIndustrialization>
               </Industrializable>
               <Electrifiable />
-              <BuffFactory>
-                <ProductionBuffScope>Radius</ProductionBuffScope>
-                <ProductionBuffDistance>30</ProductionBuffDistance>
-                <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                <BaseBuffScope>Radius</BaseBuffScope>
-              </BuffFactory>
               <RecipeBuilding>
                 <RecipeList>1999010426</RecipeList>
                 <IsBlank>1</IsBlank>
@@ -22887,6 +22935,31 @@
                       </Item>
                     </ActiveSounds>
                   </SoundEmitter>
+                  <BuffFactory>
+                    <ProductionBuffs>
+                      <Item>
+                        <ProductivityBuff>1999010449</ProductivityBuff>
+                      </Item>
+                    </ProductionBuffs>
+                    <ProductionBuffScope>Radius</ProductionBuffScope>
+                    <ProductionBuffDistance>30</ProductionBuffDistance>
+                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                    <BaseBuffScope>Radius</BaseBuffScope>
+			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
+                    <PublicServiceData>
+                      <PublicServices>
+                        <Item>
+                          <PublicService>1999005126</PublicService>
+                        </Item>
+                        <Item>
+                          <PublicService>1010352</PublicService>
+                        </Item>
+                      </PublicServices>
+                      <FullSatisfactionDistance>51</FullSatisfactionDistance>
+                      <NoSatisfactionDistance>100</NoSatisfactionDistance>
+                    </PublicServiceData>
+                  </BuffFactory>
                   <FactoryBase>
                     <FactoryInputs>
                       <Item>
@@ -22902,7 +22975,7 @@
                     </FactoryInputs>
                     <CycleTime>600</CycleTime>
                     <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
                   </FactoryBase>
                   <LogisticNode />
                   <Maintenance>
@@ -22936,31 +23009,6 @@
                     <NightBehavior>HideAll</NightBehavior>
                   </FeedbackController>
                   <Infolayer />
-                  <BuffFactory>
-                    <ProductionBuffs>
-                      <Item>
-                        <ProductivityBuff>1999010449</ProductivityBuff>
-                      </Item>
-                    </ProductionBuffs>
-                    <ProductionBuffScope>Radius</ProductionBuffScope>
-                    <ProductionBuffDistance>30</ProductionBuffDistance>
-                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                    <BaseBuffScope>Radius</BaseBuffScope>
-			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
-                    <PublicServiceData>
-                      <PublicServices>
-                        <Item>
-                          <PublicService>1999005126</PublicService>
-                        </Item>
-                        <Item>
-                          <PublicService>1010352</PublicService>
-                        </Item>
-                      </PublicServices>
-                      <FullSatisfactionDistance>100</FullSatisfactionDistance>
-                      <NoSatisfactionDistance>150</NoSatisfactionDistance>
-                    </PublicServiceData>
-                  </BuffFactory>
                   <RecipeBuilding>
                     <RecipeList>1999010426</RecipeList>
                   </RecipeBuilding>
@@ -23111,6 +23159,31 @@
                       </Item>
                     </ActiveSounds>
                   </SoundEmitter>
+                  <BuffFactory>
+                    <ProductionBuffs>
+                      <Item>
+                        <ProductivityBuff>1999010450</ProductivityBuff>
+                      </Item>
+                    </ProductionBuffs>
+                    <ProductionBuffScope>Radius</ProductionBuffScope>
+                    <ProductionBuffDistance>30</ProductionBuffDistance>
+                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                    <BaseBuffScope>Radius</BaseBuffScope>
+			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
+                    <PublicServiceData>
+                      <PublicServices>
+                        <Item>
+                          <PublicService>1999005126</PublicService>
+                        </Item>
+                        <Item>
+                          <PublicService>1010352</PublicService>
+                        </Item>
+                      </PublicServices>
+                      <FullSatisfactionDistance>51</FullSatisfactionDistance>
+                      <NoSatisfactionDistance>100</NoSatisfactionDistance>
+                    </PublicServiceData>
+                  </BuffFactory>
                   <FactoryBase>
                     <FactoryInputs>
                       <Item>
@@ -23126,7 +23199,7 @@
                     </FactoryInputs>
                     <CycleTime>600</CycleTime>
                     <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
                   </FactoryBase>
                   <LogisticNode />
                   <Maintenance>
@@ -23160,31 +23233,6 @@
                     <NightBehavior>HideAll</NightBehavior>
                   </FeedbackController>
                   <Infolayer />
-                  <BuffFactory>
-                    <ProductionBuffs>
-                      <Item>
-                        <ProductivityBuff>1999010450</ProductivityBuff>
-                      </Item>
-                    </ProductionBuffs>
-                    <ProductionBuffScope>Radius</ProductionBuffScope>
-                    <ProductionBuffDistance>30</ProductionBuffDistance>
-                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                    <BaseBuffScope>Radius</BaseBuffScope>
-			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
-                    <PublicServiceData>
-                      <PublicServices>
-                        <Item>
-                          <PublicService>1999005126</PublicService>
-                        </Item>
-                        <Item>
-                          <PublicService>1010352</PublicService>
-                        </Item>
-                      </PublicServices>
-                      <FullSatisfactionDistance>100</FullSatisfactionDistance>
-                      <NoSatisfactionDistance>150</NoSatisfactionDistance>
-                    </PublicServiceData>
-                  </BuffFactory>
                   <RecipeBuilding>
                     <RecipeList>1999010426</RecipeList>
                   </RecipeBuilding>
@@ -23335,6 +23383,31 @@
                       </Item>
                     </ActiveSounds>
                   </SoundEmitter>
+                  <BuffFactory>
+                    <ProductionBuffs>
+                      <Item>
+                        <ProductivityBuff>1999010451</ProductivityBuff>
+                      </Item>
+                    </ProductionBuffs>
+                    <ProductionBuffScope>Radius</ProductionBuffScope>
+                    <ProductionBuffDistance>30</ProductionBuffDistance>
+                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                    <BaseBuffScope>Radius</BaseBuffScope>
+			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
+                    <PublicServiceData>
+                      <PublicServices>
+                        <Item>
+                          <PublicService>1999005126</PublicService>
+                        </Item>
+                        <Item>
+                          <PublicService>1010352</PublicService>
+                        </Item>
+                      </PublicServices>
+                      <FullSatisfactionDistance>51</FullSatisfactionDistance>
+                      <NoSatisfactionDistance>100</NoSatisfactionDistance>
+                    </PublicServiceData>
+                  </BuffFactory>
                   <FactoryBase>
                     <FactoryInputs>
                       <Item>
@@ -23350,7 +23423,7 @@
                     </FactoryInputs>
                     <CycleTime>600</CycleTime>
                     <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
                   </FactoryBase>
                   <LogisticNode />
                   <Maintenance>
@@ -23384,31 +23457,6 @@
                     <NightBehavior>HideAll</NightBehavior>
                   </FeedbackController>
                   <Infolayer />
-                  <BuffFactory>
-                    <ProductionBuffs>
-                      <Item>
-                        <ProductivityBuff>1999010451</ProductivityBuff>
-                      </Item>
-                    </ProductionBuffs>
-                    <ProductionBuffScope>Radius</ProductionBuffScope>
-                    <ProductionBuffDistance>30</ProductionBuffDistance>
-                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                    <BaseBuffScope>Radius</BaseBuffScope>
-			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
-                    <PublicServiceData>
-                      <PublicServices>
-                        <Item>
-                          <PublicService>1999005126</PublicService>
-                        </Item>
-                        <Item>
-                          <PublicService>1010352</PublicService>
-                        </Item>
-                      </PublicServices>
-                      <FullSatisfactionDistance>100</FullSatisfactionDistance>
-                      <NoSatisfactionDistance>150</NoSatisfactionDistance>
-                    </PublicServiceData>
-                  </BuffFactory>
                   <RecipeBuilding>
                     <RecipeList>1999010426</RecipeList>
                   </RecipeBuilding>
@@ -23559,6 +23607,31 @@
                       </Item>
                     </ActiveSounds>
                   </SoundEmitter>
+                  <BuffFactory>
+                    <ProductionBuffs>
+                      <Item>
+                        <ProductivityBuff>1999010452</ProductivityBuff>
+                      </Item>
+                    </ProductionBuffs>
+                    <ProductionBuffScope>Radius</ProductionBuffScope>
+                    <ProductionBuffDistance>30</ProductionBuffDistance>
+                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                    <BaseBuffScope>Radius</BaseBuffScope>
+			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
+                    <PublicServiceData>
+                      <PublicServices>
+                        <Item>
+                          <PublicService>1999005126</PublicService>
+                        </Item>
+                        <Item>
+                          <PublicService>1010352</PublicService>
+                        </Item>
+                      </PublicServices>
+                      <FullSatisfactionDistance>51</FullSatisfactionDistance>
+                      <NoSatisfactionDistance>100</NoSatisfactionDistance>
+                    </PublicServiceData>
+                  </BuffFactory>
                   <FactoryBase>
                     <FactoryInputs>
                       <Item>
@@ -23574,7 +23647,7 @@
                     </FactoryInputs>
                     <CycleTime>600</CycleTime>
                     <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
                   </FactoryBase>
                   <LogisticNode />
                   <Maintenance>
@@ -23608,31 +23681,6 @@
                     <NightBehavior>HideAll</NightBehavior>
                   </FeedbackController>
                   <Infolayer />
-                  <BuffFactory>
-                    <ProductionBuffs>
-                      <Item>
-                        <ProductivityBuff>1999010452</ProductivityBuff>
-                      </Item>
-                    </ProductionBuffs>
-                    <ProductionBuffScope>Radius</ProductionBuffScope>
-                    <ProductionBuffDistance>30</ProductionBuffDistance>
-                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                    <BaseBuffScope>Radius</BaseBuffScope>
-			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
-                    <PublicServiceData>
-                      <PublicServices>
-                        <Item>
-                          <PublicService>1999005126</PublicService>
-                        </Item>
-                        <Item>
-                          <PublicService>1010352</PublicService>
-                        </Item>
-                      </PublicServices>
-                      <FullSatisfactionDistance>100</FullSatisfactionDistance>
-                      <NoSatisfactionDistance>150</NoSatisfactionDistance>
-                    </PublicServiceData>
-                  </BuffFactory>
                   <RecipeBuilding>
                     <RecipeList>1999010426</RecipeList>
                   </RecipeBuilding>
@@ -23783,6 +23831,31 @@
                       </Item>
                     </ActiveSounds>
                   </SoundEmitter>
+                  <BuffFactory>
+                    <ProductionBuffs>
+                      <Item>
+                        <ProductivityBuff>1999010453</ProductivityBuff>
+                      </Item>
+                    </ProductionBuffs>
+                    <ProductionBuffScope>Radius</ProductionBuffScope>
+                    <ProductionBuffDistance>30</ProductionBuffDistance>
+                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                    <BaseBuffScope>Radius</BaseBuffScope>
+			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
+                    <PublicServiceData>
+                      <PublicServices>
+                        <Item>
+                          <PublicService>1999005126</PublicService>
+                        </Item>
+                        <Item>
+                          <PublicService>1010352</PublicService>
+                        </Item>
+                      </PublicServices>
+                      <FullSatisfactionDistance>51</FullSatisfactionDistance>
+                      <NoSatisfactionDistance>100</NoSatisfactionDistance>
+                    </PublicServiceData>
+                  </BuffFactory>
                   <FactoryBase>
                     <FactoryInputs>
                       <Item>
@@ -23798,7 +23871,7 @@
                     </FactoryInputs>
                     <CycleTime>600</CycleTime>
                     <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
                   </FactoryBase>
                   <LogisticNode />
                   <Maintenance>
@@ -23832,31 +23905,6 @@
                     <NightBehavior>HideAll</NightBehavior>
                   </FeedbackController>
                   <Infolayer />
-                  <BuffFactory>
-                    <ProductionBuffs>
-                      <Item>
-                        <ProductivityBuff>1999010453</ProductivityBuff>
-                      </Item>
-                    </ProductionBuffs>
-                    <ProductionBuffScope>Radius</ProductionBuffScope>
-                    <ProductionBuffDistance>30</ProductionBuffDistance>
-                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                    <BaseBuffScope>Radius</BaseBuffScope>
-			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
-                    <PublicServiceData>
-                      <PublicServices>
-                        <Item>
-                          <PublicService>1999005126</PublicService>
-                        </Item>
-                        <Item>
-                          <PublicService>1010352</PublicService>
-                        </Item>
-                      </PublicServices>
-                      <FullSatisfactionDistance>100</FullSatisfactionDistance>
-                      <NoSatisfactionDistance>150</NoSatisfactionDistance>
-                    </PublicServiceData>
-                  </BuffFactory>
                   <RecipeBuilding>
                     <RecipeList>1999010426</RecipeList>
                   </RecipeBuilding>
@@ -24007,6 +24055,31 @@
                       </Item>
                     </ActiveSounds>
                   </SoundEmitter>
+                  <BuffFactory>
+                    <ProductionBuffs>
+                      <Item>
+                        <ProductivityBuff>1999010454</ProductivityBuff>
+                      </Item>
+                    </ProductionBuffs>
+                    <ProductionBuffScope>Radius</ProductionBuffScope>
+                    <ProductionBuffDistance>30</ProductionBuffDistance>
+                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                    <BaseBuffScope>Radius</BaseBuffScope>
+			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
+                    <PublicServiceData>
+                      <PublicServices>
+                        <Item>
+                          <PublicService>1999005126</PublicService>
+                        </Item>
+                        <Item>
+                          <PublicService>1010352</PublicService>
+                        </Item>
+                      </PublicServices>
+                      <FullSatisfactionDistance>51</FullSatisfactionDistance>
+                      <NoSatisfactionDistance>100</NoSatisfactionDistance>
+                    </PublicServiceData>
+                  </BuffFactory>
                   <FactoryBase>
                     <FactoryInputs>
                       <Item>
@@ -24022,7 +24095,7 @@
                     </FactoryInputs>
                     <CycleTime>600</CycleTime>
                     <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
                   </FactoryBase>
                   <LogisticNode />
                   <Maintenance>
@@ -24056,31 +24129,6 @@
                     <NightBehavior>HideAll</NightBehavior>
                   </FeedbackController>
                   <Infolayer />
-                  <BuffFactory>
-                    <ProductionBuffs>
-                      <Item>
-                        <ProductivityBuff>1999010454</ProductivityBuff>
-                      </Item>
-                    </ProductionBuffs>
-                    <ProductionBuffScope>Radius</ProductionBuffScope>
-                    <ProductionBuffDistance>30</ProductionBuffDistance>
-                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                    <BaseBuffScope>Radius</BaseBuffScope>
-			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
-                    <PublicServiceData>
-                      <PublicServices>
-                        <Item>
-                          <PublicService>1999005126</PublicService>
-                        </Item>
-                        <Item>
-                          <PublicService>1010352</PublicService>
-                        </Item>
-                      </PublicServices>
-                      <FullSatisfactionDistance>100</FullSatisfactionDistance>
-                      <NoSatisfactionDistance>150</NoSatisfactionDistance>
-                    </PublicServiceData>
-                  </BuffFactory>
                   <RecipeBuilding>
                     <RecipeList>1999010426</RecipeList>
                   </RecipeBuilding>
@@ -24231,6 +24279,31 @@
                       </Item>
                     </ActiveSounds>
                   </SoundEmitter>
+                  <BuffFactory>
+                    <ProductionBuffs>
+                      <Item>
+                        <ProductivityBuff>1999010455</ProductivityBuff>
+                      </Item>
+                    </ProductionBuffs>
+                    <ProductionBuffScope>Radius</ProductionBuffScope>
+                    <ProductionBuffDistance>30</ProductionBuffDistance>
+                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
+                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
+                    <BaseBuffScope>Radius</BaseBuffScope>
+			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
+                    <PublicServiceData>
+                      <PublicServices>
+                        <Item>
+                          <PublicService>1999005126</PublicService>
+                        </Item>
+                        <Item>
+                          <PublicService>1010352</PublicService>
+                        </Item>
+                      </PublicServices>
+                      <FullSatisfactionDistance>51</FullSatisfactionDistance>
+                      <NoSatisfactionDistance>100</NoSatisfactionDistance>
+                    </PublicServiceData>
+                  </BuffFactory>
                   <FactoryBase>
                     <FactoryInputs>
                       <Item>
@@ -24246,7 +24319,7 @@
                     </FactoryInputs>
                     <CycleTime>600</CycleTime>
                     <ClampMaxTransporterLogisticCost>1</ClampMaxTransporterLogisticCost>
-                    <ClampedMaxTransporterLogisticCost>67</ClampedMaxTransporterLogisticCost>
+                    <ClampedMaxTransporterLogisticCost>100</ClampedMaxTransporterLogisticCost>
                   </FactoryBase>
                   <LogisticNode />
                   <Maintenance>
@@ -24280,31 +24353,6 @@
                     <NightBehavior>HideAll</NightBehavior>
                   </FeedbackController>
                   <Infolayer />
-                  <BuffFactory>
-                    <ProductionBuffs>
-                      <Item>
-                        <ProductivityBuff>1999010455</ProductivityBuff>
-                      </Item>
-                    </ProductionBuffs>
-                    <ProductionBuffScope>Radius</ProductionBuffScope>
-                    <ProductionBuffDistance>30</ProductionBuffDistance>
-                    <CanBeAffectedByAdditionalWorkforce>1</CanBeAffectedByAdditionalWorkforce>
-                    <RangeIncreasePerHundredAdditionalWorkforce>5</RangeIncreasePerHundredAdditionalWorkforce>
-                    <BaseBuffScope>Radius</BaseBuffScope>
-			              <ProvidesPublicServiceNeed>1</ProvidesPublicServiceNeed>
-                    <PublicServiceData>
-                      <PublicServices>
-                        <Item>
-                          <PublicService>1999005126</PublicService>
-                        </Item>
-                        <Item>
-                          <PublicService>1010352</PublicService>
-                        </Item>
-                      </PublicServices>
-                      <FullSatisfactionDistance>100</FullSatisfactionDistance>
-                      <NoSatisfactionDistance>150</NoSatisfactionDistance>
-                    </PublicServiceData>
-                  </BuffFactory>
                   <RecipeBuilding>
                     <RecipeList>1999010426</RecipeList>
                   </RecipeBuilding>

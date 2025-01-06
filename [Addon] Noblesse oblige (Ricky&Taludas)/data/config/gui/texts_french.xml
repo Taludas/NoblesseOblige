@@ -5512,5 +5512,9 @@
       <GUID>1999010474</GUID>
       <Text>Tous les théâtres municipaux</Text>
     </Text>
+    <Text>
+      <GUID>1999010493</GUID>
+      <Text>Administration</Text>
+    </Text>
   </ModOp>
 </ModOps>

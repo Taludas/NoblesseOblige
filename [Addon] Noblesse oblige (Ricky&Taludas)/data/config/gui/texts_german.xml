@@ -5512,5 +5512,9 @@
       <GUID>1999010474</GUID>
       <Text>Alle Stadthallen</Text>
     </Text>
+    <Text>
+      <GUID>1999010493</GUID>
+      <Text>Gutsverwaltung</Text>
+    </Text>
   </ModOp>
 </ModOps>
