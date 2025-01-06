@@ -10,7 +10,7 @@
     </Text>
     <Text>
       <GUID>1999005102</GUID>
-      <Text>庄园</Text>
+      <Text>贵族庄园</Text>
     </Text>
     <Text>
       <GUID>1999005103</GUID>
@@ -238,7 +238,7 @@
     </Text>
     <Text>
       <GUID>1999005221</GUID>
-      <Text>颜色较深的绿色和紫色葡萄。这些来自旧世界的作物，将使您的贵族由衷感到愉悦！</Text>
+      <Text>熟透的绿色和紫色葡萄。这些来自旧世界的作物，将使您的贵族由衷感到愉悦！</Text>
     </Text>
     <Text>
       <GUID>1999005222</GUID>
@@ -330,15 +330,15 @@
     </Text>
     <Text>
       <GUID>1999005248</GUID>
-      <Text>[AssetData（24806） Text]</Text>
+      <Text>[AssetData(24806) Text]</Text>
     </Text>
     <Text>
       <GUID>1999005249</GUID>
-      <Text>[AssetData（24806） Text]</Text>
+      <Text>[AssetData(24806) Text]</Text>
     </Text>
     <Text>
       <GUID>1999005250</GUID>
-      <Text>[AssetData（24806） Text]</Text>
+      <Text>[AssetData(24806) Text]</Text>
     </Text>
     <Text>
       <GUID>1999005254</GUID>
@@ -394,7 +394,7 @@
     </Text>
     <Text>
       <GUID>1999005269</GUID>
-      <Text>果园： 苹果</Text>
+      <Text>果园：苹果</Text>
     </Text>
     <Text>
       <GUID>1999005270</GUID>
@@ -546,7 +546,7 @@
     </Text>
     <Text>
       <GUID>1999005330</GUID>
-      <Text>这个木架子只是一些巨大事物的一部分！底盘对于个人交通工具的发展至关重要。毕竟，精致的地盘能让崎岖的路面不会把你的屁股颠坏。</Text>
+      <Text>这个木架子只是复杂机械的一部分！底盘对于个人交通工具的发展至关重要。毕竟，精致的地盘能让崎岖的路面不会把你的屁股颠坏。</Text>
     </Text>
     <Text>
       <GUID>1999005331</GUID>
@@ -994,7 +994,7 @@
     </Text>
     <Text>
       <GUID>1999005465</GUID>
-      <Text>大剧院提供的影响力</Text>
+      <Text>城市大剧院提供的影响力</Text>
     </Text>
     <Text>
       <GUID>1999005466</GUID>
@@ -1010,7 +1010,7 @@
     </Text>
     <Text>
       <GUID>19990055512</GUID>
-      <Text>贵族需要的纸</Text>
+      <Text>贵族用纸</Text>
     </Text>
     <Text>
       <GUID>1999005514</GUID>
@@ -1130,11 +1130,11 @@
     </Text>
     <Text>
       <GUID>1999005543</GUID>
-      <Text>所有 传统工匠工作坊</Text>
+      <Text>所有传统工匠工作坊</Text>
     </Text>
     <Text>
       <GUID>1999005544</GUID>
-      <Text>车间创新政策</Text>
+      <Text>工坊改良政策</Text>
     </Text>
     <Text>
       <GUID>1999005545</GUID>
@@ -1302,7 +1302,7 @@
     </Text>
     <Text>
       <GUID>1999005591</GUID>
-      <Text>庄园公园和传统装饰品</Text>
+      <Text>庄园花园和传统装饰品</Text>
     </Text>
     <Text>
       <GUID>1999005592</GUID>
@@ -1314,7 +1314,7 @@
     </Text>
     <Text>
       <GUID>1999005596</GUID>
-      <Text>处理水供应</Text>
+      <Text>清洁水供应</Text>
     </Text>
     <Text>
       <GUID>1999005597</GUID>
@@ -1366,7 +1366,7 @@
     </Text>
     <Text>
       <GUID>1999005644</GUID>
-      <Text>贵族正在与贸易商达成有利可图的“额外”交易，这与官方谈判的贸易协议背道而驰，但在此过程中也能获得了额外的贸易凭证。</Text>
+      <Text>贵族正在与贸易商达成有利可图的“额外”交易，这与官方谈判的贸易协议背道而驰。但在此过程中也能获得了额外的贸易凭证。</Text>
     </Text>
     <Text>
       <GUID>1999005645</GUID>
@@ -1426,7 +1426,7 @@
     </Text>
     <Text>
       <GUID>1999005675</GUID>
-      <Text>所有庄园模块</Text>
+      <Text>所有贵族庄园模块</Text>
     </Text>
     <Text>
       <GUID>1999005676</GUID>
@@ -1566,7 +1566,7 @@
     </Text>
     <Text>
       <GUID>1999005818</GUID>
-      <Text>贵族赞助（lvl 18）</Text>
+      <Text>贵族赞助（18 级）</Text>
     </Text>
     <Text>
       <GUID>1999005819</GUID>
@@ -1574,7 +1574,7 @@
     </Text>
     <Text>
       <GUID>1999005820</GUID>
-      <Text>贵族赞助（lvl 20）</Text>
+      <Text>贵族赞助（20 级）</Text>
     </Text>
     <Text>
       <GUID>1999005864</GUID>
@@ -1626,43 +1626,43 @@
     </Text>
     <Text>
       <GUID>1999005875</GUID>
-      <Text>11 楼</Text>
+      <Text>11 级</Text>
     </Text>
     <Text>
       <GUID>1999005876</GUID>
-      <Text>12 楼</Text>
+      <Text>12 级</Text>
     </Text>
     <Text>
       <GUID>1999005877</GUID>
-      <Text>13 楼</Text>
+      <Text>13 级</Text>
     </Text>
     <Text>
       <GUID>1999005878</GUID>
-      <Text>14 楼</Text>
+      <Text>14 级</Text>
     </Text>
     <Text>
       <GUID>1999005879</GUID>
-      <Text>15 楼</Text>
+      <Text>15 级</Text>
     </Text>
     <Text>
       <GUID>1999005880</GUID>
-      <Text>16 楼</Text>
+      <Text>16 级</Text>
     </Text>
     <Text>
       <GUID>1999005881</GUID>
-      <Text>17 楼</Text>
+      <Text>17 级</Text>
     </Text>
     <Text>
       <GUID>1999005882</GUID>
-      <Text>18 楼</Text>
+      <Text>18 级</Text>
     </Text>
     <Text>
       <GUID>1999005883</GUID>
-      <Text>19 楼</Text>
+      <Text>19 级</Text>
     </Text>
     <Text>
       <GUID>1999005884</GUID>
-      <Text>20 楼</Text>
+      <Text>20 级</Text>
     </Text>
     <Text>
       <GUID>1999005901</GUID>
@@ -1978,7 +1978,7 @@
     </Text>
     <Text>
       <GUID>1999006219</GUID>
-      <Text>贵族赞助： &lt;br /&gt;[AssetData(191140) Text]（19 级）</Text>
+      <Text>贵族赞助：&lt;br /&gt;[AssetData(191140) Text]（19 级）</Text>
     </Text>
     <Text>
       <GUID>1999006220</GUID>
@@ -5186,7 +5186,7 @@
     </Text>
     <Text>
       <GUID>1999010302</GUID>
-      <Text>所有庄园</Text>
+      <Text>所有贵族庄园</Text>
     </Text>
     <Text>
       <GUID>1999010305</GUID>
@@ -5402,7 +5402,7 @@
     </Text>
     <Text>
       <GUID>1999010442</GUID>
-      <Text>当我们这个时代最聪明的工程师展示他们的新发明，甚至现场操作它们时，些许噪声是正常的！当心：小心从高处掉下的零件！</Text>
+      <Text>我们这个时代最聪明的工程师来到这里展示他们的新发明，甚至会现场操作它们！有些许噪声是正常的。但要当心！小心空中落下的零件！</Text>
     </Text>
     <Text>
       <GUID>1999010443</GUID>
@@ -5430,7 +5430,7 @@
     </Text>
     <Text>
       <GUID>1999010449</GUID>
-      <Text>城市大剧院： 盛装戏剧演出</Text>
+      <Text>城市大剧院：盛装戏剧演出</Text>
     </Text>
     <Text>
       <GUID>1999010450</GUID>
@@ -5458,11 +5458,11 @@
     </Text>
     <Text>
       <GUID>1999010461</GUID>
-      <Text>猩红的研究</Text>
+      <Text>血字的研究</Text>
     </Text>
     <Text>
       <GUID>1999010462</GUID>
-      <Text>岛屿大师</Text>
+      <Text>锦标大师赛</Text>
     </Text>
     <Text>
       <GUID>1999010463</GUID>
@@ -5470,11 +5470,11 @@
     </Text>
     <Text>
       <GUID>1999010464</GUID>
-      <Text>月球之旅</Text>
+      <Text>登月之旅</Text>
     </Text>
     <Text>
       <GUID>1999010465</GUID>
-      <Text>下一个超模</Text>
+      <Text>下一站超模</Text>
     </Text>
     <Text>
       <GUID>1999010466</GUID>
@@ -5482,19 +5482,19 @@
     </Text>
     <Text>
       <GUID>1999010467</GUID>
-      <Text>沙龙</Text>
+      <Text>高级沙龙</Text>
     </Text>
     <Text>
       <GUID>1999010468</GUID>
-      <Text>皇家剧院</Text>
+      <Text>皇室剧场</Text>
     </Text>
     <Text>
       <GUID>1999010469</GUID>
-      <Text>主机</Text>
+      <Text>圣餐</Text>
     </Text>
     <Text>
       <GUID>1999010470</GUID>
-      <Text>大众葡萄酒</Text>
+      <Text>圣酒</Text>
     </Text>
     <Text>
       <GUID>1999010471</GUID>
@@ -5502,7 +5502,7 @@
     </Text>
     <Text>
       <GUID>1999010472</GUID>
-      <Text>礼仪文学</Text>
+      <Text>礼仪记录</Text>
     </Text>
     <Text>
       <GUID>1999010473</GUID>
@@ -5510,7 +5510,7 @@
     </Text>
     <Text>
       <GUID>1999010474</GUID>
-      <Text>所有市政剧院</Text>
+      <Text>所有城市大剧院</Text>
     </Text>
   </ModOp>
 </ModOps>
