@@ -74,7 +74,7 @@
     <ModOp Type="addNextSibling" GUID="24800">
       <!-- Main Building Trade Licenses -->
       <Asset>
-        <Template>Hacienda</Template>
+        <Template>Hacienda_TradeCompany</Template>
         <Values>
           <Standard>
             <GUID>1999005385</GUID>
