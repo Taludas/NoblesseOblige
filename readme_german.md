@@ -35,6 +35,18 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.2</summary>
+
+- Entfernen der irrelevanten Reichweitenanzeige bei der Fernhandelscompagnie
+- Problem mit falscher Anzeige von Buff-Texten in traditioneller chinesischer Loca behoben
+- verbesserte chinesische Übersetzungen von hanthe2th hinzugefügt
+- Problem mit dem Namen der neuen Imkerei in der deutschen Loca behoben, der mit dem bereits existierenden in Enbesa identisch war
+- Probleme mit der Trasporterreichweite bestimmter Farmen (insbesondere Pferde) und der Reichweitenanzeige für das Stadttheater behoben
+- Hinzufügen von Werkzeugen zur Produktliste für Baumaterialien
+- Korrektur eines Teils der Gutsverwaltungsbenutzeroberfläche (Einführung der Eigenschaft "Nameable", um den Schieberegler für Arbeitskräfte wieder in die ursprüngliche Position zu bringen)
+- Hinzufügen von Informationen über das binäre Verhalten der Schlosspark Bedürfnisanzeige in den Readmes
+</details>
+<details>
     <summary>Patch Notes Version 1.1.1</summary>
 
 - Chinesische Übersetzung hinzugefügt von hanthe2th

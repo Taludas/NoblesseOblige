@@ -37,6 +37,18 @@ If you like this mod and want to support me, feel free to share it with your fri
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.2</summary>
+
+- remove irrelevant range display on trade company
+- fix issue with incorrect display of buff texts in traditional chinese loca
+- add improved chinese translations by hanthe2th
+- fix issue with the name of the new apiary in german loca which was identical to the already existing one in Enbesa
+- fix issues with range on certain farms (especially horses) and range display for the Municipal Theatre
+- add tools to construction material product list
+- fix part of the Administration UI (introduction of Nameable property to bring the workforce slider back into the original position)
+- add info about the binary behaviour of the Manor Park need fulfillment bar to the readmes
+</details>
+<details>
     <summary>Patch Notes Version 1.1.1</summary>
 
 - add chinese translation by hanthe2th
