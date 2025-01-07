@@ -37,6 +37,16 @@ If you like this mod and want to support me, feel free to share it with your fri
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.3</summary>
+
+- update "sharedproduct_wine_taludas" localisation files
+- include russian translation by Grusin99
+- fix issue with Marshland Traditional Patronage Buff giving too much illness chance reduction (missing <Percental>)
+- fix compatibility issue with Military Attention (Stable with very small range)
+- fix issue where the construction of an Imperial Cathedral would block item development in the Research Center
+- fix issue with text GUID for "Noble titles required" in the construction cost warning if you have 0
+</details>
+<details>
     <summary>Patch Notes Version 1.1.2</summary>
 
 - remove irrelevant range display on trade company

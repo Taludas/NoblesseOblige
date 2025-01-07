@@ -35,6 +35,16 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.1.3</summary>
+
+- Lokalisierungsdateien für "sharedproduct_wine_taludas" aktualisiert
+- Hinzufügen einer russische Übersetzung von Grusin99
+- Problem mit dem Marshland Traditional Patronage Buff behoben, das die Krankheitschance zu stark reduziert (fehlendes <Percental>)
+- Kompatibilitätsproblem mit Military Attention behoben (Stall mit sehr geringer Transporterreichweite)
+- Problem behoben, bei dem der Bau einer kaiserlichen Kathedrale die Entwicklung von Items im Forschungsinstitut blockieren konnte
+- Problem mit der Text-GUID für "Adelstitel erforderlich" in der Baukostenwarnung behoben, wenn man 0 hatte
+</details>
+<details>
     <summary>Patch Notes Version 1.1.2</summary>
 
 - Entfernen der irrelevanten Reichweitenanzeige bei der Fernhandelscompagnie
