@@ -51,7 +51,7 @@
     </Text>
     <Text>
       <GUID>13532</GUID>
-      <Text>The Worker would like to taste Wine.</Text>
+      <Text>Der Arbeiter möchte gerne Wein probieren.</Text>
     </Text>
     <Text>
       <GUID>15482</GUID>
@@ -81,9 +81,17 @@
       <GUID>14973</GUID>
       <Text>WEINFLAUTE!</Text>
     </Text>
+        <Text>
+      <GUID>14974</GUID>
+      <Text>Weinmangel in [Newspaper FindArticle([RefGuid]) Context TownName] nimmt dem Leben den Schwung. Das Vertrauen in die Behörden liegt auf Eis, da die Versorgung weiter ins Stocken gerät.</Text>
+    </Text>
     <Text>
       <GUID>11373</GUID>
       <Text>WEIN-FEST</Text>
+    </Text>
+        <Text>
+      <GUID>11374</GUID>
+      <Text>Ein neuer Weinkeller taucht zur plötzlichen Überraschung aller in [Newspaper FindArticle([RefGuid]) Context TownName] auf! Aber keine Angst, denn dieser "Teufelswein" ist de facto göttlich - eine Eleganz, die zeigt, wie kultiviert diese Stadt geworden ist.</Text>
     </Text>
     <Text>
       <GUID>11756</GUID>
@@ -112,6 +120,18 @@
     <Text>
       <GUID>500434</GUID>
       <Text>Wein</Text>
+    </Text>
+        <Text>
+      <GUID>115037</GUID>
+      <Text>Der Techniker hat nach Wein gefragt. Abgesehen von ein wenig häuslichem Komfort könnten sich die Aromen des neuen Jahrgangs in wissenschaftlichen Kreisen als einflussreich erweisen.</Text>
+    </Text>
+    <Text>
+      <GUID>115038</GUID>
+      <Text>Jetzt gibt es Wein, und Fritz wird nicht zögern, mich als Mitautor seiner Magnetismus-Arbeit zu nennen. Vielleicht werde ich sogar bei einer Preisverleihung erwähnt.</Text>
+    </Text>
+    <Text>
+      <GUID>133282</GUID>
+      <Text>Montmartre '75' (Zucker, Wein, Zitrusfrüchte)</Text>
     </Text>
   </ModOp>
 

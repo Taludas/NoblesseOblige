@@ -82,7 +82,7 @@
     </Text>
     <Text>
       <GUID>14974</GUID>
-      <Text>Carenza di vino in [Newspaper FindArticle([RefGuid]) Contesto TownName] toglie l'effervescenza dalla vita. La fiducia nelle autorità si è congelata, mentre l'offerta continua a vacillare.</Text>
+      <Text>Carenza di vino in [Newspaper FindArticle([RefGuid]) Context TownName] toglie l'effervescenza dalla vita. La fiducia nelle autorità si è congelata, mentre l'offerta continua a vacillare.</Text>
     </Text>
     <Text>
       <GUID>11373</GUID>
@@ -90,7 +90,7 @@
     </Text>
     <Text>
       <GUID>11374</GUID>
-      <Text>New Wine Cellar si trasforma in [Newspaper FindArticle([RefGuid]) Context TownName] per l'improvvisa sorpresa di tutti! Ma non allarmatevi, perché questo "vino del diavolo" è di fatto divino, un'eleganza che celebra la raffinatezza di questa città.</Text>
+      <Text>Nuova cantina si trasforma in [Newspaper FindArticle([RefGuid]) Context TownName] per l'improvvisa sorpresa di tutti! Ma non allarmatevi, perché questo "vino del diavolo" è di fatto divino, un'eleganza che celebra la raffinatezza di questa città.</Text>
     </Text>
     <Text>
       <GUID>11756</GUID>

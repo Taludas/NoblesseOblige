@@ -82,7 +82,7 @@
     </Text>
     <Text>
       <GUID>14974</GUID>
-      <Text>ワイン不足 in [Newspaper FindArticle([RefGuid]) Context TownName] は、生活から泡を奪います。供給が減少し続ける中、当局への信頼は冷え込んでいます。</Text>
+      <Text>ワイン不足 で [Newspaper FindArticle([RefGuid]) Context TownName] は、生活から泡を奪います。供給が減少し続ける中、当局への信頼は冷え込んでいます。</Text>
     </Text>
     <Text>
       <GUID>11373</GUID>
@@ -90,7 +90,7 @@
     </Text>
     <Text>
       <GUID>11374</GUID>
-      <Text>新しいワインセラーは、みんなの突然の驚きに[Newspaper FindArticle([RefGuid]) Context TownNameに消え]ます!しかし、この「悪魔のワイン」は事実上神聖であり、この都市がどれほど洗練されたかを祝う優雅さであるため、心配しないでください。</Text>
+      <Text>新しいワインセラーは、みんなの突然の驚きに [Newspaper FindArticle([RefGuid]) Context TownName] ます!しかし、この「悪魔のワイン」は事実上神聖であり、この都市がどれほど洗練されたかを祝う優雅さであるため、心配しないでください。</Text>
     </Text>
     <Text>
       <GUID>11756</GUID>

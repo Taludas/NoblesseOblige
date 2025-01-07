@@ -82,7 +82,7 @@
     </Text>
     <Text>
       <GUID>14974</GUID>
-      <Text>Pénurie de vin dans [Newspaper FindArticle([RefGuid]) Contexte TownName] enlève l’effervescence de la vie. La confiance dans les autorités est mise sur la glace, alors que l’approvisionnement continue de faiblir.</Text>
+      <Text>Pénurie de vin dans [Newspaper FindArticle([RefGuid]) Context TownName] enlève l’effervescence de la vie. La confiance dans les autorités est mise sur la glace, alors que l’approvisionnement continue de faiblir.</Text>
     </Text>
     <Text>
       <GUID>11373</GUID>
@@ -90,7 +90,7 @@
     </Text>
     <Text>
       <GUID>11374</GUID>
-      <Text>New Wine Cellar pétille dans [Newspaper FindArticle([RefGuid]) Contexte TownName] à la surprise soudaine de tout le monde ! Mais ne vous inquiétez pas, car ce « vin du diable » est de facto divin – une élégance qui célèbre à quel point cette ville est devenue raffinée.</Text>
+      <Text>Nouvelle cave à vin pétille dans [Newspaper FindArticle([RefGuid]) Context TownName] à la surprise soudaine de tout le monde ! Mais ne vous inquiétez pas, car ce « vin du diable » est de facto divin – une élégance qui célèbre à quel point cette ville est devenue raffinée.</Text>
     </Text>
     <Text>
       <GUID>11756</GUID>

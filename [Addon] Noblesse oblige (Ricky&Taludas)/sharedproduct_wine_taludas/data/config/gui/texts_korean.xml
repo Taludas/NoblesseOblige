@@ -82,7 +82,7 @@
     </Text>
     <Text>
       <GUID>14974</GUID>
-      <Text>와인 부족 in [Newspaper FindArticle([RefGuid]) 컨텍스트 TownName]은 활기를 불어넣습니다. 당국에 대한 신뢰는 얼음을 끼얹었고, 공급은 계속 흔들리고 있다.</Text>
+      <Text>와인 부족 in [Newspaper FindArticle([RefGuid]) Context TownName]은 활기를 불어넣습니다. 당국에 대한 신뢰는 얼음을 끼얹었고, 공급은 계속 흔들리고 있다.</Text>
     </Text>
     <Text>
       <GUID>11373</GUID>
@@ -90,7 +90,7 @@
     </Text>
     <Text>
       <GUID>11374</GUID>
-      <Text>새로운 와인 저장고는 [Newspaper FindArticle([RefGuid]) 컨텍스트 TownName]에 갑자기 놀라움을 금치 못합니다! 그러나 이 "악마의 와인"은 사실상 신성하며, 이 도시가 얼마나 세련되었는지를 기념하는 우아함이기 때문에 놀라지 마십시오.</Text>
+      <Text>새로운 와인 저장고는 [Newspaper FindArticle([RefGuid]) Context TownName]에 갑자기 놀라움을 금치 못합니다! 그러나 이 "악마의 와인"은 사실상 신성하며, 이 도시가 얼마나 세련되었는지를 기념하는 우아함이기 때문에 놀라지 마십시오.</Text>
     </Text>
     <Text>
       <GUID>11756</GUID>
