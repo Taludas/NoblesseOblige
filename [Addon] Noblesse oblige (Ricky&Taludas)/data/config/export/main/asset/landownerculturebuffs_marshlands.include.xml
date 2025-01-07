@@ -37,6 +37,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-1</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -81,6 +82,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-2</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -125,6 +127,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-3</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -169,6 +172,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-4</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -213,6 +217,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-5</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -257,6 +262,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-6</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -301,6 +307,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-7</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -345,6 +352,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-8</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -389,6 +397,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-9</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -433,6 +442,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-10</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -477,6 +487,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-11</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -521,6 +532,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-12</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -565,6 +577,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-13</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -609,6 +622,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-14</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -653,6 +667,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-15</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -697,6 +712,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-16</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -741,6 +757,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-17</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -785,6 +802,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-18</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -829,6 +847,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-19</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>
@@ -873,6 +892,7 @@
                     <IncidentInfectableUpgrade>
                         <IncidentIllnessIncreaseUpgrade>
                             <Value>-20</Value>
+                            <Percental>1</Percental>
                         </IncidentIllnessIncreaseUpgrade>
                     </IncidentInfectableUpgrade>
                     <CultureUpgrade/>

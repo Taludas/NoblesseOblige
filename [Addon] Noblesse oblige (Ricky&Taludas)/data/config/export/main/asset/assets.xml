@@ -13591,6 +13591,14 @@
             <ModOp Type="merge" GUID="1742100209" Path="/Values/FactoryBase/CycleTime">
                 <CycleTime>30</CycleTime>
             </ModOp>
+            <ModOp Type="merge" GUID="1742100209" Path="/Values/FactoryBase/FactoryOutputs/Item/StorageAmount">
+                <StorageAmount>4</StorageAmount>
+            </ModOp>
+            <ModOp Type="merge" GUID="1742100209" Path="/Values/ModuleOwner/ModuleLimits">
+                <Main>
+                    <Limit>2</Limit>
+                </Main>
+            </ModOp>
         </Group>
 
         <!-- Apiary -->
@@ -24589,7 +24597,7 @@
             <ModOp Type="addNextSibling" GUID="141896">
                 <!-- Stage 1 -->
                 <Asset>
-                    <Template>ResearchCenter</Template>
+                    <Template>Monument_withoutBus</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005415</GUID>
@@ -24724,7 +24732,7 @@
 
                 <!-- stage 2 -->
                 <Asset>
-                    <Template>ResearchCenter</Template>
+                    <Template>Monument_withoutBus</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005417</GUID>
@@ -24868,7 +24876,7 @@
 
                 <!-- stage 3 -->
                 <Asset>
-                    <Template>ResearchCenter</Template>
+                    <Template>Monument_withoutBus</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005419</GUID>
@@ -25020,7 +25028,7 @@
 
                 <!-- stage 4 -->
                 <Asset>
-                    <Template>ResearchCenter</Template>
+                    <Template>Monument_withoutBus</Template>
                     <Values>
                         <Standard>
                             <GUID>1999005421</GUID>

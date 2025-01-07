@@ -6,4 +6,109 @@
     <ModOp Type="replace" Template = "A7_QuestDummyQuest" Path="/Properties/Quest/QuestCategory">
         <QuestCategory>MetaQuest</QuestCategory>
     </ModOp>
+
+    <ModOp Type="addNextSibling" Template="Monument">
+        <Template>
+        <Name>Monument_withoutBus</Name>
+        <Properties>
+            <Standard>
+            <InfoDescription>100027</InfoDescription>
+            </Standard>
+            <Building>
+            <BuildingType>Factory</BuildingType>
+            <BuildingCategoryName>100002</BuildingCategoryName>
+            <DestructionConfirmation>1</DestructionConfirmation>
+            </Building>
+            <Blocking />
+            <Cost />
+            <Object>
+            <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+            </Object>
+            <Mesh />
+            <Selection>
+            <GUIType>Production</GUIType>
+            <OnSelection>
+                <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                <Values>
+                <ActionList />
+                </Values>
+            </OnSelection>
+            </Selection>
+            <Text />
+            <Constructable>
+            <DestructionCategory>Production</DestructionCategory>
+            </Constructable>
+            <Locked />
+            <SoundEmitter>
+            <DestroySounds>
+                <Item>
+                <Sound>9818756</Sound>
+                </Item>
+            </DestroySounds>
+            <ConstructionSounds>
+                <BuildFailed>
+                <Item>
+                    <Sound>9818387</Sound>
+                </Item>
+                </BuildFailed>
+                <BuildMoveStart>
+                <Item>
+                    <Sound>9818755</Sound>
+                </Item>
+                </BuildMoveStart>
+                <BuildMoveSuccess>
+                <Item>
+                    <Sound>203995</Sound>
+                </Item>
+                </BuildMoveSuccess>
+                <BuildMoveEnd>
+                <Item>
+                    <Sound>200141</Sound>
+                </Item>
+                </BuildMoveEnd>
+            </ConstructionSounds>
+            </SoundEmitter>
+            <FeedbackController>
+            <NightBehavior>HideNone</NightBehavior>
+            <StopOldSequenceWhenStartingNewOne>1</StopOldSequenceWhenStartingNewOne>
+            </FeedbackController>
+            <Infolayer />
+            <FactoryBase />
+            <LogisticNode />
+            <Monument>
+            <ConstructionStateText>
+                <Interrupted>
+                <Text>163011</Text>
+                </Interrupted>
+                <OutOfWorkforce>
+                <Text>163026</Text>
+                </OutOfWorkforce>
+                <WaitingForResources>
+                <Text>163012</Text>
+                </WaitingForResources>
+                <Processing>
+                <Text>163010</Text>
+                </Processing>
+            </ConstructionStateText>
+            <PhaseCompletedNotification>501327</PhaseCompletedNotification>
+            </Monument>
+            <Culture>
+            <CultureType>Monument</CultureType>
+            </Culture>
+            <AmbientMoodProvider />
+            <Maintenance>
+            <IncomeCategory>CultureBuildings</IncomeCategory>
+            </Maintenance>
+            <Attackable />
+            <Pausable />
+            <BuildingUnique />
+            <UpgradeList />
+            <Industrializable>
+            <BoostedByIndustrialization>0</BoostedByIndustrialization>
+            </Industrializable>
+            <QuestObject />
+            <Electrifiable />
+        </Properties>
+        </Template>
+    </ModOp>
 </ModOps>
