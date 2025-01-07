@@ -2,11 +2,11 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005072</GUID>
-      <Text>Элитная мебель</Text>
+      <Text>Роскошная мебель</Text>
     </Text>
     <Text>
       <GUID>1999005073</GUID>
-      <Text>И это должно быть современно?</Text>
+      <Text>И это, по-вашему, современно?</Text>
     </Text>
     <Text>
       <GUID>1999005074</GUID>
