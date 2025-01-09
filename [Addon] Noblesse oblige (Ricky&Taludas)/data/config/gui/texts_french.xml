@@ -618,7 +618,7 @@
     </Text>
     <Text>
       <GUID>1999005343</GUID>
-      <Text>Menuisier fin</Text>
+      <Text>Menuisierie</Text>
     </Text>
     <Text>
       <GUID>1999005344</GUID>
@@ -838,7 +838,7 @@
     </Text>
     <Text>
       <GUID>1827</GUID>
-      <Text>Sélectionnez la recette</Text>
+      <Text>Catalogue d'évènements</Text>
     </Text>
     <Text>
       <GUID>1829</GUID>
@@ -850,15 +850,15 @@
     </Text>
     <Text>
       <GUID>1831</GUID>
-      <Text>Recette actuelle</Text>
+      <Text>Évènement actuel</Text>
     </Text>
     <Text>
       <GUID>1832</GUID>
-      <Text>Cliquez sur le bouton pour choisir une recette.</Text>
+      <Text>Cliquez sur le bouton pour choisir un évènement.</Text>
     </Text>
     <Text>
       <GUID>25756</GUID>
-      <Text>Recettes</Text>
+      <Text>Évènements</Text>
     </Text>
     <Text>
       <GUID>1999005415</GUID>
@@ -1174,7 +1174,7 @@
     </Text>
     <Text>
       <GUID>1999005554</GUID>
-      <Text>Entrée du parc Manor</Text>
+      <Text>Portail du Manoir</Text>
     </Text>
     <Text>
       <GUID>1999005555</GUID>
