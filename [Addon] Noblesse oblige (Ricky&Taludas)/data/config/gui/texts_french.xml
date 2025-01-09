@@ -2,11 +2,11 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999005009</GUID>
-      <Text>Garance rose fertilité</Text>
+      <Text>Fertilité (garance)</Text>
     </Text>
     <Text>
       <GUID>1999005050</GUID>
-      <Text>Propriétaires fonciers</Text>
+      <Text>Propriétaires</Text>
     </Text>
     <Text>
       <GUID>1999005102</GUID>
@@ -18,55 +18,55 @@
     </Text>
     <Text>
       <GUID>1999005104</GUID>
-      <Text>Propriétaires fonciers</Text>
+      <Text>Propriétaires</Text>
     </Text>
     <Text>
       <GUID>1999005105</GUID>
-      <Text>Le propriétaire foncier</Text>
+      <Text>Le propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005106</GUID>
-      <Text>Le propriétaire foncier</Text>
+      <Text>Le propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005107</GUID>
-      <Text>Le propriétaire foncier</Text>
+      <Text>Le propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005108</GUID>
-      <Text>Le propriétaire foncier</Text>
+      <Text>Le propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005109</GUID>
-      <Text>Le propriétaire foncier</Text>
+      <Text>Le propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005110</GUID>
-      <Text>Le propriétaire foncier</Text>
+      <Text>Le propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005111</GUID>
-      <Text>Propriétaires fonciers</Text>
+      <Text>Propriétaires</Text>
     </Text>
     <Text>
       <GUID>1999005112</GUID>
-      <Text>Propriétaires terriens en colère</Text>
+      <Text>Propriétaires en colère</Text>
     </Text>
     <Text>
       <GUID>1999005113</GUID>
-      <Text>Propriétaires terriens mécontents</Text>
+      <Text>Propriétaires mécontents</Text>
     </Text>
     <Text>
       <GUID>1999005114</GUID>
-      <Text>Contenu Propriétaires fonciers</Text>
+      <Text>Propriétaires satisfaits</Text>
     </Text>
     <Text>
       <GUID>1999005115</GUID>
-      <Text>Propriétaires terriens heureux</Text>
+      <Text>Propriétaires heureux</Text>
     </Text>
     <Text>
       <GUID>1999005116</GUID>
-      <Text>Propriétaires terriens euphoriques</Text>
+      <Text>Propriétaires euphoriques</Text>
     </Text>
     <Text>
       <GUID>1999005117</GUID>
@@ -138,7 +138,7 @@
     </Text>
     <Text>
       <GUID>1999005300</GUID>
-      <Text>Résidence d’agriculteur de subsistance</Text>
+      <Text>Résidence d’agriculteurs (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005301</GUID>
@@ -150,7 +150,7 @@
     </Text>
     <Text>
       <GUID>1999005303</GUID>
-      <Text>Agriculteurs de subsistance</Text>
+      <Text>Agriculteurs</Text>
     </Text>
     <Text>
       <GUID>1999005304</GUID>
@@ -158,7 +158,7 @@
     </Text>
     <Text>
       <GUID>1999005305</GUID>
-      <Text>Artisans traditionnels</Text>
+      <Text>Bourgeoisie urbaine</Text>
     </Text>
     <Text>
       <GUID>1999005066</GUID>
@@ -166,7 +166,7 @@
     </Text>
     <Text>
       <GUID>1999005203</GUID>
-      <Text>Ferme de subsistance vide</Text>
+      <Text>Ferme en jachère (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005204</GUID>
@@ -194,7 +194,7 @@
     </Text>
     <Text>
       <GUID>1999005210</GUID>
-      <Text>Grain</Text>
+      <Text>Blé</Text>
     </Text>
     <Text>
       <GUID>1999005211</GUID>
@@ -202,15 +202,15 @@
     </Text>
     <Text>
       <GUID>1999005212</GUID>
-      <Text>Herbe</Text>
+      <Text>Plantes</Text>
     </Text>
     <Text>
       <GUID>1999005213</GUID>
-      <Text>Raisins</Text>
+      <Text>Raisin</Text>
     </Text>
     <Text>
       <GUID>1999005214</GUID>
-      <Text>La pomme de terre est une chose remarquable : elle contient une variété extraordinaire de nutriments, plus de potassium qu’une banane et des quantités copieuses de vitamine C. Il peut être frit, cuit au four, écrasé, rôti ou cuit. Mais comme nous le savons tous, avec ce mod, son utilisation principale n’est plus seulement le Schnaps.</Text>
+      <Text>La pomme de terre est une chose remarquable : elle contient une variété extraordinaire de nutriments, plus de potassium qu’une banane et des quantités copieuses de vitamine C. Il peut être frit, cuit au four, écrasé, rôti ou cuit. Mais comme nous le savons tous, avec ce mod, son utilisation principale n’est plus seulement l'eau-de-vie.</Text>
     </Text>
     <Text>
       <GUID>1999005215</GUID>
@@ -242,43 +242,43 @@
     </Text>
     <Text>
       <GUID>1999005222</GUID>
-      <Text>Ferme de subsistance de pommes de terre</Text>
+      <Text>Ferme de pommes de terre (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005223</GUID>
-      <Text>Ferme maraîchère de subsistance</Text>
+      <Text>Ferme maraîchère (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005224</GUID>
-      <Text>Ferme de subsistance en chanvre</Text>
+      <Text>Ferme de chanvre (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005225</GUID>
-      <Text>Rucher de subsistance</Text>
+      <Text>Rucher (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005226</GUID>
-      <Text>Ferme céréalière de subsistance</Text>
+      <Text>Ferme céréalière (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005227</GUID>
-      <Text>Ferme de houblon de subsistance</Text>
+      <Text>Ferme de houblon (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005228</GUID>
-      <Text>Ferme d’herbes aromatiques de subsistance</Text>
+      <Text>Ferme d’herbes aromatiques (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005229</GUID>
-      <Text>Vignoble de subsistance</Text>
+      <Text>Vignoble (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005230</GUID>
-      <Text>Ferme de subsistance Rose Garance</Text>
+      <Text>Ferme de garance (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005231</GUID>
-      <Text>Garance rose</Text>
+      <Text>Garance</Text>
     </Text>
     <Text>
       <GUID>1999005232</GUID>
@@ -342,7 +342,7 @@
     </Text>
     <Text>
       <GUID>1999005254</GUID>
-      <Text>Rucher de subsistance</Text>
+      <Text>Rucher (subsistance)</Text>
     </Text>
     <Text>
       <GUID>1999005255</GUID>
@@ -362,7 +362,7 @@
     </Text>
     <Text>
       <GUID>1999005258</GUID>
-      <Text>Chandler traditionnel</Text>
+      <Text>Chandelier traditionnel</Text>
     </Text>
     <Text>
       <GUID>1999005259</GUID>
@@ -406,7 +406,7 @@
     </Text>
     <Text>
       <GUID>1999005272</GUID>
-      <Text>Une pomme par jour éloigne le Docteur ! Choisissez l’une des plus de 20000 variétés ! Les pommes peuvent être utilisées pour faire à peu près tout ce qui a bon goût : du strudel aux pommes au cidre fin. Un vrai polyvalent !</Text>
+      <Text>Une pomme par jour éloigne le Docteur ! Choisissez l’une des plus de 20000 variétés ! Les pommes peuvent être utilisées pour faire à peu près tout ce qui a bon goût : des bonnes pâtisserie ou encore du cidre fin. Le fruit polyvalent !</Text>
     </Text>
     <Text>
       <GUID>1999005273</GUID>
@@ -422,7 +422,7 @@
     </Text>
     <Text>
       <GUID>1999005276</GUID>
-      <Text>Schnaps</Text>
+      <Text>Eau-de-vie</Text>
     </Text>
     <Text>
       <GUID>1999005277</GUID>
@@ -446,15 +446,15 @@
     </Text>
     <Text>
       <GUID>1999005282</GUID>
-      <Text>La saveur intense de ces raisins mûris au soleil produit un bouquet unique. L’élevage du jeune vin en fûts de chêne massif affine encore sa saveur acidulée.</Text>
+      <Text>La saveur intense de ces raisins mûris au soleil produit un bouquet unique. L’élevage du jeune vin en tonneau de chêne massif affine encore sa saveur acidulée.</Text>
     </Text>
     <Text>
       <GUID>1999005283</GUID>
-      <Text>Brasserie traditionnelle : Schnaps</Text>
+      <Text>Brasserie traditionnelle : Eau-de-vie</Text>
     </Text>
     <Text>
       <GUID>1999005284</GUID>
-      <Text>Brasserie traditionnelle : Cidre de pomme</Text>
+      <Text>Brasserie traditionnelle : Cidre</Text>
     </Text>
     <Text>
       <GUID>1999005285</GUID>
@@ -474,7 +474,7 @@
     </Text>
     <Text>
       <GUID>1999005289</GUID>
-      <Text>Toutes les brasseries traditionnelles</Text>
+      <Text>Brasseries traditionnelles</Text>
     </Text>
     <Text>
       <GUID>1999005290</GUID>
@@ -522,7 +522,7 @@
     </Text>
     <Text>
       <GUID>1999005324</GUID>
-      <Text>Barils</Text>
+      <Text>Tonneaux</Text>
     </Text>
     <Text>
       <GUID>1999005325</GUID>
@@ -538,7 +538,7 @@
     </Text>
     <Text>
       <GUID>1999005328</GUID>
-      <Text>L’une des premières solutions de stockage de l’histoire moderne de l’humanité. Plus durables et plus spacieux que la poterie, les barils peuvent stocker presque tous les types de produits pour une utilisation ultérieure. Les fûts sont également essentiels pour affiner certaines boissons en de délicieuses concoctions.</Text>
+      <Text>L’une des premières solutions de stockage de l’histoire moderne de l’humanité. Plus durables et plus spacieux que la poterie, les tonneaux peuvent stocker presque tous les types de produits pour une utilisation ultérieure. Les tonneaux sont également essentiels pour affiner certaines boissons en de délicieuses concoctions.</Text>
     </Text>
     <Text>
       <GUID>1999005329</GUID>
@@ -570,7 +570,7 @@
     </Text>
     <Text>
       <GUID>1999005336</GUID>
-      <Text>Toutes les menuiseries traditionnelles</Text>
+      <Text>Menuiseries traditionnelles</Text>
     </Text>
     <Text>
       <GUID>1999005337</GUID>
@@ -578,7 +578,7 @@
     </Text>
     <Text>
       <GUID>1999005295</GUID>
-      <Text>Ragoût de poisson Cuisine</Text>
+      <Text>Cuisine traditionnelle de ragoût de poisson</Text>
     </Text>
     <Text>
       <GUID>1999005296</GUID>
@@ -602,11 +602,11 @@
     </Text>
     <Text>
       <GUID>1999005339</GUID>
-      <Text>Cuisine traditionnelle en goulasch</Text>
+      <Text>Cuisine traditionnelle</Text>
     </Text>
     <Text>
       <GUID>1999005340</GUID>
-      <Text>Goulache</Text>
+      <Text>Goulasch</Text>
     </Text>
     <Text>
       <GUID>1999005341</GUID>
@@ -618,11 +618,11 @@
     </Text>
     <Text>
       <GUID>1999005343</GUID>
-      <Text>Menuisier fin</Text>
+      <Text>Menuisierie</Text>
     </Text>
     <Text>
       <GUID>1999005344</GUID>
-      <Text>Meubles de luxe</Text>
+      <Text>Mobilier luxueux</Text>
     </Text>
     <Text>
       <GUID>1999005345</GUID>
@@ -642,7 +642,7 @@
     </Text>
     <Text>
       <GUID>1999005349</GUID>
-      <Text>Dîner de homard</Text>
+      <Text>Repas raffiné</Text>
     </Text>
     <Text>
       <GUID>1999005350</GUID>
@@ -650,11 +650,11 @@
     </Text>
     <Text>
       <GUID>1999005355</GUID>
-      <Text>Manufacture de laque</Text>
+      <Text>Manufacture d'objets laqué</Text>
     </Text>
     <Text>
       <GUID>1999005356</GUID>
-      <Text>Laque</Text>
+      <Text>Objets laqué</Text>
     </Text>
     <Text>
       <GUID>1999005357</GUID>
@@ -838,7 +838,7 @@
     </Text>
     <Text>
       <GUID>1827</GUID>
-      <Text>Sélectionnez la recette</Text>
+      <Text>Catalogue d'évènements</Text>
     </Text>
     <Text>
       <GUID>1829</GUID>
@@ -850,19 +850,19 @@
     </Text>
     <Text>
       <GUID>1831</GUID>
-      <Text>Recette actuelle</Text>
+      <Text>Évènement actuel</Text>
     </Text>
     <Text>
       <GUID>1832</GUID>
-      <Text>Cliquez sur le bouton pour choisir une recette.</Text>
+      <Text>Cliquez sur le bouton pour choisir un évènement.</Text>
     </Text>
     <Text>
       <GUID>25756</GUID>
-      <Text>Recettes</Text>
+      <Text>Évènements</Text>
     </Text>
     <Text>
       <GUID>1999005415</GUID>
-      <Text>Cathédrale impériale : Fondation</Text>
+      <Text>Cathédrale impériale : Fondations</Text>
     </Text>
     <Text>
       <GUID>1999005416</GUID>
@@ -870,7 +870,7 @@
     </Text>
     <Text>
       <GUID>1999005417</GUID>
-      <Text>Cathédrale impériale : superstructure</Text>
+      <Text>Cathédrale impériale : Superstructure</Text>
     </Text>
     <Text>
       <GUID>1999005418</GUID>
@@ -878,7 +878,7 @@
     </Text>
     <Text>
       <GUID>1999005419</GUID>
-      <Text>Cathédrale impériale : design d’intérieur</Text>
+      <Text>Cathédrale impériale : Design d’intérieur</Text>
     </Text>
     <Text>
       <GUID>1999005420</GUID>
@@ -918,15 +918,15 @@
     </Text>
     <Text>
       <GUID>1999005446</GUID>
-      <Text>Influence de la fourniture de chevaux</Text>
+      <Text>Influence de l'approvisionnement en chevaux</Text>
     </Text>
     <Text>
       <GUID>1999005447</GUID>
-      <Text>Influence de la fourniture de chevaux</Text>
+      <Text>Influence de l'approvisionnement en chevaux</Text>
     </Text>
     <Text>
       <GUID>1999005448</GUID>
-      <Text>Influence de la fourniture de chevaux</Text>
+      <Text>Influence de l'approvisionnement en chevaux</Text>
     </Text>
     <Text>
       <GUID>1999005449</GUID>
@@ -938,35 +938,35 @@
     </Text>
     <Text>
       <GUID>1999005451</GUID>
-      <Text>Influence de la fourniture de manteaux de fourrure</Text>
+      <Text>Influence de l'approvisionnement en manteaux de fourrure</Text>
     </Text>
     <Text>
       <GUID>1999005452</GUID>
-      <Text>Influence de la fourniture de manteaux de fourrure</Text>
+      <Text>Influence de l'approvisionnement en manteaux de fourrure</Text>
     </Text>
     <Text>
       <GUID>1999005453</GUID>
-      <Text>Influence de la fourniture de cigares</Text>
+      <Text>Influence de l'approvisionnement en cigares</Text>
     </Text>
     <Text>
       <GUID>1999005454</GUID>
-      <Text>Influence de la fourniture de cigares</Text>
+      <Text>Influence de l'approvisionnement en cigares</Text>
     </Text>
     <Text>
       <GUID>1999005455</GUID>
-      <Text>Influence de la fourniture de meubles de luxe</Text>
+      <Text>Influence de la fourniture en mobilier luxueux</Text>
     </Text>
     <Text>
       <GUID>1999005456</GUID>
-      <Text>Influence de la fourniture de meubles de luxe</Text>
+      <Text>Influence de la fourniture en mobilier luxueux</Text>
     </Text>
     <Text>
       <GUID>1999005457</GUID>
-      <Text>Influence de la fourniture de peintures</Text>
+      <Text>Influence de l'approvisionnement en peintures</Text>
     </Text>
     <Text>
       <GUID>1999005458</GUID>
-      <Text>Influence de la fourniture de peintures</Text>
+      <Text>Influence de l'approvisionnement en peintures</Text>
     </Text>
     <Text>
       <GUID>1999005462</GUID>
@@ -978,15 +978,15 @@
     </Text>
     <Text>
       <GUID>1999005461</GUID>
-      <Text>Influence de la fourniture de montres de poche</Text>
+      <Text>Influence de l'approvisionnement en montres à gousset</Text>
     </Text>
     <Text>
       <GUID>1999005462</GUID>
-      <Text>Influence de la fourniture de laque</Text>
+      <Text>Influence de la fourniture d'objets laqué</Text>
     </Text>
     <Text>
       <GUID>1999005463</GUID>
-      <Text>Influence de la fourniture de gramophones</Text>
+      <Text>Influence de l'approvisionnement en gramophones</Text>
     </Text>
     <Text>
       <GUID>1999005464</GUID>
@@ -998,11 +998,11 @@
     </Text>
     <Text>
       <GUID>1999005466</GUID>
-      <Text>Influence de la fourniture de l’accès à un club de membres</Text>
+      <Text>Influence de l’accès à un club de membres</Text>
     </Text>
     <Text>
       <GUID>1999005467</GUID>
-      <Text>Fournir à vos propriétaires fonciers certains besoins de bonheur vous donne une influence supplémentaire</Text>
+      <Text>Fournir à vos propriétaires certains besoins de bonheur vous donne une influence supplémentaire</Text>
     </Text>
     <Text>
       <GUID>1999005468</GUID>
@@ -1018,11 +1018,11 @@
     </Text>
     <Text>
       <GUID>1999005515</GUID>
-      <Text>Les propriétaires fonciers exigent des agriculteurs qu’ils paient une dîme pour l’utilisation de leurs terres.</Text>
+      <Text>Les propriétaires exigent des agriculteurs qu’ils paient une dîme pour l’utilisation de leurs terres.</Text>
     </Text>
     <Text>
       <GUID>1999005516</GUID>
-      <Text>Les propriétaires terriens imposent aux agriculteurs qui travaillent sur leurs terres l’obligation de payer une dîme en échange de la fourniture de terres arables.</Text>
+      <Text>Les propriétaires imposent aux agriculteurs qui travaillent sur leurs terres l’obligation de payer une dîme en échange de terres arables.</Text>
     </Text>
     <Text>
       <GUID>1999005517</GUID>
@@ -1066,11 +1066,11 @@
     </Text>
     <Text>
       <GUID>1999005527</GUID>
-      <Text>Impressionnés par l’industrialisation, les propriétaires terriens cherchent à moderniser leurs ateliers mais, faute de machines et de puissance, augmentent la production en intensifiant le travail humain.</Text>
+      <Text>Impressionnés par l’industrialisation, les propriétaires cherchent à moderniser leurs ateliers mais, faute de machines et de puissance, augmentent la production en intensifiant le travail humain.</Text>
     </Text>
     <Text>
       <GUID>1999005528</GUID>
-      <Text>Impressionnés par le développement de processus plus industriels dans les usines des villes, les propriétaires fonciers souhaitent également moderniser leurs ateliers d’artisanat. Comme ils ne peuvent pas fournir suffisamment de machines et d’énergie aux ateliers, ils forcent plus de production brute avec une utilisation accrue des ressources humaines.</Text>
+      <Text>Impressionnés par le développement de processus plus industriels dans les usines des villes, les propriétaires souhaitent également moderniser leurs ateliers d’artisanat. Comme ils ne peuvent pas fournir suffisamment de machines et d’énergie aux ateliers, ils forcent plus de production brute avec une utilisation accrue des ressources humaines.</Text>
     </Text>
     <Text>
       <GUID>1999005529</GUID>
@@ -1174,11 +1174,11 @@
     </Text>
     <Text>
       <GUID>1999005554</GUID>
-      <Text>Entrée du parc Manor</Text>
+      <Text>Portail du Manoir</Text>
     </Text>
     <Text>
       <GUID>1999005555</GUID>
-      <Text>&lt;b&gt;Ce portail n’est que le début d’un magnifique parc de manoir ! Développez-le en construisant des ornements de cette catégorie ou certains ornements vanille à proximité de vos manoirs.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;Chaque ornement réduit de peu le besoin des propriétaires terriens pour le « Parc du Manoir ». Construisez suffisamment d’ornements à proximité des manoirs pour réduire les besoins de 100 %, ce qui permet de répondre aux besoins de vos propriétaires terriens.</Text>
+      <Text>&lt;b&gt;Ce portail n’est que le début d’un magnifique parc de manoir ! Développez-le en construisant des ornements de cette catégorie ou certains ornements vanille à proximité de vos manoirs.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;Chaque ornement réduit de peu le besoin des propriétaires pour le « Parc du Manoir ». Construisez suffisamment d’ornements à proximité des manoirs pour réduire les besoins de 100 %, ce qui permet de répondre aux besoins de vos propriétaires.</Text>
     </Text>
     <Text>
       <GUID>1999005559</GUID>
@@ -1318,7 +1318,7 @@
     </Text>
     <Text>
       <GUID>1999005597</GUID>
-      <Text>Manoir moderne du propriétaire terrien</Text>
+      <Text>Manoir moderne du propriétaire</Text>
     </Text>
     <Text>
       <GUID>1999005598</GUID>
@@ -1354,7 +1354,7 @@
     </Text>
     <Text>
       <GUID>1999005641</GUID>
-      <Text>Les propriétaires terriens concluent des accords « supplémentaires » rentables avec les commerçants, en dérogation à l’accord commercial officiellement négocié.</Text>
+      <Text>Les propriétaires concluent des accords « supplémentaires » rentables avec les commerçants, en dérogation à l’accord commercial officiellement négocié.</Text>
     </Text>
     <Text>
       <GUID>1999005642</GUID>
@@ -1366,7 +1366,7 @@
     </Text>
     <Text>
       <GUID>1999005644</GUID>
-      <Text>Les propriétaires fonciers concluent des accords « supplémentaires » rentables avec les commerçants en s’écartant de l’accord commercial officiellement négocié, obtenant ainsi des licences commerciales supplémentaires.</Text>
+      <Text>Les propriétaires concluent des accords « supplémentaires » rentables avec les commerçants en s’écartant de l’accord commercial officiellement négocié, obtenant ainsi des licences commerciales supplémentaires.</Text>
     </Text>
     <Text>
       <GUID>1999005645</GUID>
@@ -1390,11 +1390,11 @@
     </Text>
     <Text>
       <GUID>1999005666</GUID>
-      <Text>Prêcher la frugalité - Propriétaires terriens</Text>
+      <Text>Prêcher la frugalité - Propriétaires</Text>
     </Text>
     <Text>
       <GUID>1999005667</GUID>
-      <Text>Les investisseurs et les propriétaires fonciers consomment 5 % moins de chaque bien.</Text>
+      <Text>Les investisseurs et les propriétaires consomment 5 % de chaque marchandise en moins.</Text>
     </Text>
     <Text>
       <GUID>1999005668</GUID>
@@ -1418,11 +1418,11 @@
     </Text>
     <Text>
       <GUID>1999005673</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005674</GUID>
-      <Text>Tous les bâtiments administratifs sont livrés avec un debuff standard. Les bâtiments en dehors de la portée de l’administration ne fonctionneront pas correctement. Déplacez-les à l’intérieur du rayon de l’administration ou augmentez sa portée en affectant plus de main-d’œuvre de propriétaire foncier (appuyez sur Maj+C pour la deuxième interface) pour obtenir un contre-buff qui compense le debuff initial.</Text>
+      <Text>Tous les bâtiments administratifs sont livrés avec un malus standard. Les bâtiments en dehors de la portée de l’administration ne fonctionneront pas correctement. Déplacez-les à l’intérieur du rayon de l’administration ou augmentez sa portée en affectant plus de main-d’œuvre de propriétaire (appuyez sur Maj+C pour la deuxième interface) pour obtenir un contre-effet qui compense le malus initial.</Text>
     </Text>
     <Text>
       <GUID>1999005675</GUID>
@@ -1430,7 +1430,7 @@
     </Text>
     <Text>
       <GUID>1999005676</GUID>
-      <Text>Malus d’administration par défaut</Text>
+      <Text>Territoire non administré (défaut)</Text>
     </Text>
     <Text>
       <GUID>1999005677</GUID>
@@ -1438,63 +1438,63 @@
     </Text>
     <Text>
       <GUID>1999005678</GUID>
-      <Text>Propriétaires fonciers</Text>
+      <Text>Propriétaires</Text>
     </Text>
     <Text>
       <GUID>1999005679</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005680</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005681</GUID>
-      <Text>Malus d’administration par défaut</Text>
+      <Text>Territoire non administré (défaut)</Text>
     </Text>
     <Text>
       <GUID>1999005682</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005683</GUID>
-      <Text>Malus d’administration par défaut</Text>
+      <Text>Territoire non administré (défaut)</Text>
     </Text>
     <Text>
       <GUID>1999005684</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005685</GUID>
-      <Text>Malus d’administration par défaut</Text>
+      <Text>Territoire non administré (défaut)</Text>
     </Text>
     <Text>
       <GUID>1999005686</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005687</GUID>
-      <Text>Malus d’administration par défaut</Text>
+      <Text>Territoire non administré (défaut)</Text>
     </Text>
     <Text>
       <GUID>1999005688</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005689</GUID>
-      <Text>Malus d’administration par défaut</Text>
+      <Text>Territoire non administré (défaut)</Text>
     </Text>
     <Text>
       <GUID>1999005690</GUID>
-      <Text>Intérieur de la gamme d’administration</Text>
+      <Text>Territoire administré</Text>
     </Text>
     <Text>
       <GUID>1999005691</GUID>
-      <Text>Malus d’administration par défaut</Text>
+      <Text>Territoire non administré (défaut)</Text>
     </Text>
     <Text>
       <GUID>1999005800</GUID>
-      <Text>Avec l’augmentation du nombre, les propriétaires fonciers commenceront à investir dans la construction et l’expansion d’institutions culturelles, ce qui augmentera l’efficacité de vos expositions et augmentera l’attractivité de vos îles niveau par niveau.</Text>
+      <Text>Avec l’augmentation du nombre, les propriétaires commenceront à investir dans la construction et l’expansion d’institutions culturelles, ce qui augmentera l’efficacité de vos expositions et augmentera l’attractivité de vos îles niveau par niveau.</Text>
     </Text>
     <Text>
       <GUID>1999005801</GUID>
@@ -5234,7 +5234,7 @@
     </Text>
     <Text>
       <GUID>1999010322</GUID>
-      <Text>Flyers, édits et spécialistes religieux</Text>
+      <Text>Affiches, édits et spécialistes religieux</Text>
     </Text>
     <Text>
       <GUID>1999010323</GUID>
@@ -5306,7 +5306,7 @@
     </Text>
     <Text>
       <GUID>1999010413</GUID>
-      <Text>Contribution des propriétaires fonciers à la collecte</Text>
+      <Text>Contribution des propriétaires à la collecte</Text>
     </Text>
     <Text>
       <GUID>1999010414</GUID>
@@ -5334,7 +5334,7 @@
     </Text>
     <Text>
       <GUID>1999010425</GUID>
-      <Text>Monument Event Aftermath</Text>
+      <Text>Suite de l'événement</Text>
     </Text>
     <Text>
       <GUID>1999010426</GUID>
@@ -5346,7 +5346,7 @@
     </Text>
     <Text>
       <GUID>1999010428</GUID>
-      <Text>Drame Théâtre Pièce de théâtre</Text>
+      <Text>Pièce de théâtre dramatique</Text>
     </Text>
     <Text>
       <GUID>1999010429</GUID>
