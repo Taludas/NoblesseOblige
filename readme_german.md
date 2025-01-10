@@ -35,6 +35,18 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.2.0</summary>
+
+- Aufteilung der Landbesitzer-Bevölkerungsstufe, um das Problem mit dem Zurücksetzen von Bedürfnissen bei der Aktivierung von einflussverleihenden Buffs zu beheben, wenn Zufriedenheitsbedürfnisse geliefert werden
+- Behebung des Problems mit den wiederkehrenden Benachrichtigungen über den Stufenaufstieg in der Traditionellen Schirmherrschaft -> man erhält jetzt nur noch eine Benachrichtigung, wenn man eine neue Stufe erreicht. Dies behebt die endlosen Benachrichtigungen nach dem Laden eines Spielstands. Beachtet, dass diese Änderung erst dann wirksam wird, wenn das Spiel mit dem neuen Update gestartet wird UND eine neue Stufe im Traditionellen Schirmherrschaftssytem erreicht wird UND dann erst nach dem NÄCHSTEN Neuladen des Spielstands in Kraft tritt.
+- Stadttheater in den Buffs für traditionelle Schirmherrschaft in Leuchtkreaturen und Aegeis aufgenommen
+- Hinzufügen eines Eintrags für die Arbeitskraft von Landbesitzern in der Arbeitskräfteleiste
+- Behebung des Problems, dass unsichtbare Waren in das Schiff geladen werden, nachdem man die Quest der Königin abgeschlossen hat, um mehr Adelstitel zu kaufen
+- Werkzeug zum Kontor hinzugefügt, wenn man bei der Spielerstellung mit einem Kontor startet
+- Französische Übersetzungen von Khobos und 8wayz hinzugefügt
+- Copyright-geclaimte Grafiken für den Kaiserdom entfernt
+</details>
+<details>
     <summary>Patch Notes Version 1.1.3</summary>
 
 - Lokalisierungsdateien für "sharedproduct_wine_taludas" aktualisiert
@@ -131,7 +143,7 @@ Zusätzliche Baugenehmigungen für Herrenhäuser: Für jede Insel, die ihr besie
 - **Baumenü**: Aufgrund der Einführung einer zusätzlichen Registerkarte im Baumenü für die Großgrundbesitzer wird ein Submod verwendet, der die sichtbaren Buttons verkleinert, um Platz für weitere zu schaffen, ohne dass diese das restliche UI links und rechts überlappen. Leider gibt es dabei ein Problem: Die Hitbox für die klickbaren Buttons ist zu groß für die visuell verkleinerten Buttons. Dies kann zu einigen Fehlklicks führen, bis man sich daran gewöhnt hat.
 - **Gutsverwaltung**: Das UI zur Vergrößerung des Radius hat einige Funktionen, die nicht erforderlich sind, um korrekt zu funktionieren. Man braucht nur den Schieberegler am unteren Rand, um die Arbeitskraft der Großgrundbesitzer zur Erhöhung des Radius zuzuweisen. Die Module (reguläre Tier 1 Herrenhäuser), der Strombedarf, die Zykluszeit und der "kaputte" Rezeptbuch-Button sind völlig irrelevant. Wenn ihr auf die Schaltfläche "Rezeptbuch" klickt, öffnet sich eine leere und transparente Rezeptbuchoberfläche. Ihr könnt darin nichts einstellen.
 - **Traditionelle Schirmherrschaft**: Die Quests, die die relevanten Buffs für die Funktion "Traditionelle Schirmherrschaft" aktivieren/deaktivieren, reagieren manchmal etwas langsam auf die Vorbedingungen. Es kann vorkommen, dass zwei Buffs gleichzeitig aktiv sind oder für eine kurze Zeit gar keiner. Es ist am besten, wenn ihr eure Grundbesitzer ständig mit Waren versorgt, insbesondere die Herrenhäuser der Stufe 3, da sie schneller ein- und ausziehen und tendenziell viele Buff (De-)Aktivierungen an den Grenzen zwischen den Stufen erfolgen können.
-- **Einfluss von Zufriedenheitswaren**: Die Aktivierung der Buffs, die durch versteckte Quests Einfluss aus den Zufriedenheitswaren generieren, setzt bestimmte Bedürfniserfüllungsleisten zurück, wenn sie zum ersten Mal aktiviert werden. Die Bedürfnisse werden sich wieder auffüllen, aber es ist möglich, dass einige Großgrundbesitzer vorübergehend ausziehen werden. Der Timer für das Entfernen von Buffs ist daher absichtlich auf 3 Minuten eingestellt, damit sich die Bedürfnisleisten wieder auffüllen können. Aufgrund meiner begrenzten Tests kann es jedoch irgendwann zu einem zufälligen "Buff-Ping-Pong" kommen, bei dem die Buffs immer wieder aktiviert und deaktiviert werden. Außerdem werden bei "geteilten" Bedürfnissen wie Schule nur dann die Buffs aktiv, wenn ALLE Bewohner zu mindestens 95% mit dem Bedürfniss versorgt sind, es beschränkt sich bei den nicht-exklusiven Waren also nicht auf die Befriedigung bei den Grundbesitzer!
+- **Einfluss von Zufriedenheitswaren**: Bei "geteilten" Bedürfnissen wie Schule werden nur dann die Buffs aktiv, wenn ALLE Bewohner zu mindestens 95% mit dem Bedürfniss versorgt sind, es beschränkt sich bei den nicht-exklusiven Waren also nicht auf die Befriedigung bei den Grundbesitzer!
 - **Pontifikalamt in der Kaiserlichen Kathedrale**: Nach Abschluss des Ereignisses zeigt die Benutzeroberfläche nur noch den Buff an, der nach Abschluss des Ereignisses als Belohnung gewährt wird. Tatsächlich erhält man aber immer noch die versprochenen 3 Gegenstände aus den jeweiligen Loottables. Sie werden nur nicht in der UI angezeigt und sind wie gewohnt in eurem Kontor verfügbar. Ein weiteres Problem des Pontifikalamtes besteht darin, dass das Festival nach der Veranstaltung alle anderen Events (z. B. die Events der Weltausstellung) blockiert, nicht nur das im Dom.
 - **Baugenehmigungen für Herrenhäuser**: Stellt sicher, dass ihr die Wohnhäuser der Stufen 2 und 3 zurückstuft auf Level 1, bevor ihr sie abreißt. Andernfalls geht die Baugenehmigung für den Bau eines neuen Herrenhauses der Stufe 1 verloren und kann nicht erneut beantragt werden!
 
@@ -158,7 +170,7 @@ Zusätzliche Baugenehmigungen für Herrenhäuser: Für jede Insel, die ihr besie
 
 **Mit deren Erlaubnis - andere Modder Assets:**
 
-- Imperial Cathedral ursprünglich portiert von Fishboss aus Anno 1404 mit verbesserten Texturen von shane868
+- Imperial Cathedral ursprünglich portiert von Fishboss aus Anno 1404
 - Reskinned Da Silva Portrait für das Landbesitzer-Portrait von eadwearddemylae
 - Kapelle ursprünglich portiert von Fishboss aus Anno 1404 mit verbesserten Texturen von shane868 und Lion
 - Eine modifizierte Version von xan (sealring) Metropolitan Hospital als Skin für die Herrenhäuser

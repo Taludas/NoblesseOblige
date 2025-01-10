@@ -39,6 +39,18 @@ If you like this mod and want to support me, feel free to share it with your fri
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.2.0</summary>
+
+- split up Landowner population level in order to fix the issue with resetting needs on activation of influence-providing buffs when supplying happiness needs
+- fix issue with reoccuring Traditional Patronage level upgrade notifications -> you will now only get a notification upon reaching a new level. This resolves the endless notifications after loading a save. Notice that this change will only take effect after you started the game with the new update AND reached a new level in the Traditional Patronage system AND then it will work only after the NEXT reload of the save.
+- include Municipal Theatre in Luminaries and Aegeis traditional patronage buffs
+- add Landowner Workforce entry to the Workforce bar
+- fix issue with inivisible product being loaded into the ship after completing the Queen's quest to buy more Noble Titles
+- add Tools into the Kontor, if you choose to start with a Kontor on game creation
+- add french translations by Khobos and 8wayz
+- remove copyright-claimed graphics for the Imperial cathedral
+</details>
+<details>
     <summary>Patch Notes Version 1.1.3</summary>
 
 - update "sharedproduct_wine_taludas" localisation files
@@ -135,7 +147,7 @@ Vanison Butchering: In the earlygame you can generate Beef by building a module
 - **Build Menu**: Due to the introduction of an additional tab in the build menu for Landowners, a submod is used that reduces the size of the visible buttons to make room for more without overlapping on the left and right. Unfortunately, there is a problem with this: The hitbox for the clickable buttons is too big for the reduced buttons. This can lead to some mis-clicks until you get used to it.
 - **Administration**: The radius increase interface has some features that are not required to work correctly. You only need the slider at the bottom to allocate landowner workforce to increase the radius. The modules (regular tier 1 landowner mansions), power requirement, cycle time, and the "broken" recipe book button are completely irrelevant. When you click on the Recipe Book button, a blank and transparent recipe book interface opens. You cannot adjust anything in it.
 - **Traditional Patronage**: The quests that activate/deactivate the relevant buffs for the Traditional Patronage feature are sometimes a little slow to react to the preconditions. You may find that you have two buffs active at the same time, or none at all for a short period of time. It is best to keep a steady supply of goods for your landowners, especially for the level 3 mansions, as they move in and out more quickly and therefore a lot of buff (de-)activation can happen around the step up/down borders.
-- **Influence from Happiness Needs**: The activation of the buffs that generate influence from the Happiness Needs through hidden quests will reset certain Needs fulfilment bars the first time they are activated. The needs will fill up again, but it is possible that some landowners will temporarily move out. The timer for removing buffs is deliberately set to 3 minutes to allow the need bars to refill. However, given my limited testing, at some point there may be some random "buff ping pong" where the buffs keep going on and off. In addition, for "shared" needs such as School, the buffs only become active if ALL residents are supplied with at least 95% of the need, so it is not limited to the satisfaction of the landowners in the case of non-exclusive goods!
+- **Influence from Happiness Needs**: For "shared" needs such as School, the buffs only become active if ALL residents are supplied with at least 95% of the need, so it is not limited to the satisfaction of the landowners in the case of non-exclusive goods!
 - **Pontifical Mass Event in the Imperial Cathedral**: Upon completion of the event, the UI only shows the buff that will be granted after its completion as a reward. In fact you still get the promissed 3 Items from the respective loottables. The are just not shown in the UI and will be available in your Kontor as usual. Another issue with the Pontifical Mass is that the after-event festival blocks all other monument events (i.e. World's Fair exhibitions) from being started, not only the one in the cathedral.
 - **Build permits for Manors**: Make sure you downgrade your level 2 and 3 landowner manors before you destroy them. Otherwise the build permit to build a new level 1 manor will be lost and cannot be claimed again!
 
@@ -162,7 +174,7 @@ Vanison Butchering: In the earlygame you can generate Beef by building a module
 
 **With their permission - other modders assets:**
 
-- Imperial Cathedral originally ported by Fishboss from Anno 1404 with improved textures from shane868
+- Imperial Cathedral originally ported by Fishboss from Anno 1404
 - Reskinned Da Silva Portrait for the Landowner portrait by eadwearddemylae
 - Chapel originally ported by Fishboss from Anno 1404 with improved textures from shane868 and Lion
 - A modified version of xan (sealring) Metropolitan Hospital as a skin for the Landowner residence

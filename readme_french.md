@@ -32,14 +32,6 @@ Si vous aimez ce mod et que vous souhaitez me soutenir, libre à vous de le part
 ## Incompatibilities
 - Ce mod est incompatible avec tous les autres mods qui modifient le chargement initial de vos vaisseaux de départ.
 
-## Changelog
-
-<details>
-    <summary>Patch Notes Version 1.0.0</summary>
-
-* Added initial release
-</details>
-
 -----
 
 ## Features
@@ -102,7 +94,7 @@ Boucherie de venaison: Au début de la partie, vous pouvez générer du bœuf e
 
 **Avec leurs permissions - autres éléments des moddeurs:**
 
-- Imperial Cathedral originally ported by Fishboss from Anno 1404 with improved textures from shane868
+- Imperial Cathedral originally ported by Fishboss from Anno 1404
 - Reskinned Da Silva Portrait for the Landowner portrait by eadwearddemylae
 - Chapel originally ported by Fishboss from Anno 1404 with improved textures from shane868 and Lion
 - A modified version of xan (sealring) Metropolitan Hospital as a skin for the Landowner residence
