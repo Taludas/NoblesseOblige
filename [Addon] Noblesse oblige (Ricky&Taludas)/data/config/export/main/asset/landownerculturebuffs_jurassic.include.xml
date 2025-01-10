@@ -1136,127 +1136,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008443</Quest>
+                                <Quest>1999908443</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008444</Quest>
+                                <Quest>1999908444</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008445</Quest>
+                                <Quest>1999908445</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008446</Quest>
+                                <Quest>1999908446</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008447</Quest>
+                                <Quest>1999908447</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008448</Quest>
+                                <Quest>1999908448</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008449</Quest>
+                                <Quest>1999908449</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008450</Quest>
+                                <Quest>1999908450</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008451</Quest>
+                                <Quest>1999908451</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008452</Quest>
+                                <Quest>1999908452</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008453</Quest>
+                                <Quest>1999908453</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008454</Quest>
+                                <Quest>1999908454</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008455</Quest>
+                                <Quest>1999908455</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008456</Quest>
+                                <Quest>1999908456</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008457</Quest>
+                                <Quest>1999908457</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008458</Quest>
+                                <Quest>1999908458</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008459</Quest>
+                                <Quest>1999908459</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008460</Quest>
+                                <Quest>1999908460</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008461</Quest>
+                                <Quest>1999908461</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008462</Quest>
+                                <Quest>1999908462</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008463</Quest>
+                                <Quest>1999908463</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008464</Quest>
+                                <Quest>1999908464</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008465</Quest>
+                                <Quest>1999908465</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008466</Quest>
+                                <Quest>1999908466</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008467</Quest>
+                                <Quest>1999908467</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008468</Quest>
+                                <Quest>1999908468</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008469</Quest>
+                                <Quest>1999908469</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008470</Quest>
+                                <Quest>1999908470</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008471</Quest>
+                                <Quest>1999908471</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008472</Quest>
+                                <Quest>1999908472</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008473</Quest>
+                                <Quest>1999908473</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008474</Quest>
+                                <Quest>1999908474</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008475</Quest>
+                                <Quest>1999908475</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008476</Quest>
+                                <Quest>1999908476</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008477</Quest>
+                                <Quest>1999908477</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008478</Quest>
+                                <Quest>1999908478</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008479</Quest>
+                                <Quest>1999908479</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008480</Quest>
+                                <Quest>1999908480</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008481</Quest>
+                                <Quest>1999908481</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008482</Quest>
+                                <Quest>1999908482</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008483</Quest>
+                                <Quest>1999908483</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1278,7 +1278,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008443</GUID>
+                        <GUID>1999908443</GUID>
                         <Name>Delete bufffactory jurassic+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1633,8 +1633,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1676,7 +1676,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008444</GUID>
+                        <GUID>1999908444</GUID>
                         <Name>spawn bufffactory jurassic+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2042,8 +2042,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2063,8 +2063,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2106,7 +2106,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008445</GUID>
+                        <GUID>1999908445</GUID>
                         <Name>spawn bufffactory jurassic+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2473,8 +2473,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2494,8 +2494,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2537,7 +2537,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008446</GUID>
+                        <GUID>1999908446</GUID>
                         <Name>spawn bufffactory jurassic+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -2904,8 +2904,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2925,8 +2925,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2968,7 +2968,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008447</GUID>
+                        <GUID>1999908447</GUID>
                         <Name>spawn bufffactory jurassic+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3335,8 +3335,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3356,8 +3356,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3399,7 +3399,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008448</GUID>
+                        <GUID>1999908448</GUID>
                         <Name>spawn bufffactory jurassic+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3766,8 +3766,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3787,8 +3787,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3830,7 +3830,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008449</GUID>
+                        <GUID>1999908449</GUID>
                         <Name>spawn bufffactory jurassic+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4197,8 +4197,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4218,8 +4218,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4261,7 +4261,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008450</GUID>
+                        <GUID>1999908450</GUID>
                         <Name>spawn bufffactory jurassic+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4628,8 +4628,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4649,8 +4649,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4692,7 +4692,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008451</GUID>
+                        <GUID>1999908451</GUID>
                         <Name>spawn bufffactory jurassic+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5059,8 +5059,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5080,8 +5080,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5123,7 +5123,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008452</GUID>
+                        <GUID>1999908452</GUID>
                         <Name>spawn bufffactory jurassic+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5490,8 +5490,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5511,8 +5511,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5554,7 +5554,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008453</GUID>
+                        <GUID>1999908453</GUID>
                         <Name>spawn bufffactory jurassic+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -5921,8 +5921,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5942,8 +5942,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5985,7 +5985,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008454</GUID>
+                        <GUID>1999908454</GUID>
                         <Name>spawn bufffactory jurassic+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6352,8 +6352,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6373,8 +6373,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6416,7 +6416,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008455</GUID>
+                        <GUID>1999908455</GUID>
                         <Name>spawn bufffactory jurassic+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6783,8 +6783,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6804,8 +6804,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6847,7 +6847,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008456</GUID>
+                        <GUID>1999908456</GUID>
                         <Name>spawn bufffactory jurassic+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7214,8 +7214,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7235,8 +7235,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7278,7 +7278,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008457</GUID>
+                        <GUID>1999908457</GUID>
                         <Name>spawn bufffactory jurassic+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7645,8 +7645,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7666,8 +7666,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7709,7 +7709,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008458</GUID>
+                        <GUID>1999908458</GUID>
                         <Name>spawn bufffactory jurassic+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8076,8 +8076,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8097,8 +8097,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8140,7 +8140,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008459</GUID>
+                        <GUID>1999908459</GUID>
                         <Name>spawn bufffactory jurassic+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8507,8 +8507,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8528,8 +8528,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8571,7 +8571,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008460</GUID>
+                        <GUID>1999908460</GUID>
                         <Name>spawn bufffactory jurassic+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -8923,8 +8923,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8944,8 +8944,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8987,7 +8987,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008461</GUID>
+                        <GUID>1999908461</GUID>
                         <Name>spawn bufffactory jurassic+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9339,8 +9339,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9360,8 +9360,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9403,7 +9403,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008462</GUID>
+                        <GUID>1999908462</GUID>
                         <Name>spawn bufffactory jurassic+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9755,8 +9755,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9776,8 +9776,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9819,7 +9819,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008463</GUID>
+                        <GUID>1999908463</GUID>
                         <Name>spawn bufffactory jurassic+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10170,8 +10170,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10212,7 +10212,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008464</GUID>
+                        <GUID>1999908464</GUID>
                         <Name>remove jurassic+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10304,7 +10304,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008465</GUID>
+                        <GUID>1999908465</GUID>
                         <Name>remove jurassic+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10396,7 +10396,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008466</GUID>
+                        <GUID>1999908466</GUID>
                         <Name>remove jurassic+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10488,7 +10488,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008467</GUID>
+                        <GUID>1999908467</GUID>
                         <Name>remove jurassic+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10580,7 +10580,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008468</GUID>
+                        <GUID>1999908468</GUID>
                         <Name>remove jurassic+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10672,7 +10672,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008469</GUID>
+                        <GUID>1999908469</GUID>
                         <Name>remove jurassic+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10764,7 +10764,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008470</GUID>
+                        <GUID>1999908470</GUID>
                         <Name>remove jurassic+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10856,7 +10856,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008471</GUID>
+                        <GUID>1999908471</GUID>
                         <Name>remove jurassic+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10948,7 +10948,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008472</GUID>
+                        <GUID>1999908472</GUID>
                         <Name>remove jurassic+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11040,7 +11040,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008473</GUID>
+                        <GUID>1999908473</GUID>
                         <Name>remove jurassic+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11132,7 +11132,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008474</GUID>
+                        <GUID>1999908474</GUID>
                         <Name>remove jurassic+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11224,7 +11224,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008475</GUID>
+                        <GUID>1999908475</GUID>
                         <Name>remove jurassic+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11316,7 +11316,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008476</GUID>
+                        <GUID>1999908476</GUID>
                         <Name>remove jurassic+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11408,7 +11408,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008477</GUID>
+                        <GUID>1999908477</GUID>
                         <Name>remove jurassic+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11500,7 +11500,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008478</GUID>
+                        <GUID>1999908478</GUID>
                         <Name>remove jurassic+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11592,7 +11592,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008479</GUID>
+                        <GUID>1999908479</GUID>
                         <Name>remove jurassic+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11684,7 +11684,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008480</GUID>
+                        <GUID>1999908480</GUID>
                         <Name>remove jurassic+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11776,7 +11776,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008481</GUID>
+                        <GUID>1999908481</GUID>
                         <Name>remove jurassic+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11868,7 +11868,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008482</GUID>
+                        <GUID>1999908482</GUID>
                         <Name>remove jurassic+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11960,7 +11960,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008483</GUID>
+                        <GUID>1999908483</GUID>
                         <Name>remove jurassic+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

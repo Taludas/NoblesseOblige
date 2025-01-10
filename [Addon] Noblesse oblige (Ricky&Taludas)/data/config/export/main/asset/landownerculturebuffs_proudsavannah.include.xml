@@ -1396,127 +1396,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007543</Quest>
+                                <Quest>1999907543</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007544</Quest>
+                                <Quest>1999907544</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007545</Quest>
+                                <Quest>1999907545</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007546</Quest>
+                                <Quest>1999907546</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007547</Quest>
+                                <Quest>1999907547</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007548</Quest>
+                                <Quest>1999907548</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007549</Quest>
+                                <Quest>1999907549</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007550</Quest>
+                                <Quest>1999907550</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007551</Quest>
+                                <Quest>1999907551</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007552</Quest>
+                                <Quest>1999907552</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007553</Quest>
+                                <Quest>1999907553</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007554</Quest>
+                                <Quest>1999907554</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007555</Quest>
+                                <Quest>1999907555</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007556</Quest>
+                                <Quest>1999907556</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007557</Quest>
+                                <Quest>1999907557</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007558</Quest>
+                                <Quest>1999907558</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007559</Quest>
+                                <Quest>1999907559</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007560</Quest>
+                                <Quest>1999907560</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007561</Quest>
+                                <Quest>1999907561</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007562</Quest>
+                                <Quest>1999907562</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007563</Quest>
+                                <Quest>1999907563</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007564</Quest>
+                                <Quest>1999907564</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007565</Quest>
+                                <Quest>1999907565</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007566</Quest>
+                                <Quest>1999907566</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007567</Quest>
+                                <Quest>1999907567</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007568</Quest>
+                                <Quest>1999907568</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007569</Quest>
+                                <Quest>1999907569</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007570</Quest>
+                                <Quest>1999907570</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007571</Quest>
+                                <Quest>1999907571</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007572</Quest>
+                                <Quest>1999907572</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007573</Quest>
+                                <Quest>1999907573</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007574</Quest>
+                                <Quest>1999907574</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007575</Quest>
+                                <Quest>1999907575</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007576</Quest>
+                                <Quest>1999907576</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007577</Quest>
+                                <Quest>1999907577</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007578</Quest>
+                                <Quest>1999907578</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007579</Quest>
+                                <Quest>1999907579</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007580</Quest>
+                                <Quest>1999907580</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007581</Quest>
+                                <Quest>1999907581</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007582</Quest>
+                                <Quest>1999907582</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007583</Quest>
+                                <Quest>1999907583</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1538,7 +1538,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007543</GUID>
+                        <GUID>1999907543</GUID>
                         <Name>Delete bufffactory proud_savannah+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1893,8 +1893,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1936,7 +1936,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007544</GUID>
+                        <GUID>1999907544</GUID>
                         <Name>spawn bufffactory proud_savannah+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2302,8 +2302,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2323,8 +2323,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2366,7 +2366,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007545</GUID>
+                        <GUID>1999907545</GUID>
                         <Name>spawn bufffactory proud_savannah+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2733,8 +2733,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2754,8 +2754,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2797,7 +2797,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007546</GUID>
+                        <GUID>1999907546</GUID>
                         <Name>spawn bufffactory proud_savannah+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3164,8 +3164,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3185,8 +3185,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3228,7 +3228,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007547</GUID>
+                        <GUID>1999907547</GUID>
                         <Name>spawn bufffactory proud_savannah+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3595,8 +3595,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3616,8 +3616,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3659,7 +3659,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007548</GUID>
+                        <GUID>1999907548</GUID>
                         <Name>spawn bufffactory proud_savannah+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4026,8 +4026,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4047,8 +4047,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4090,7 +4090,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007549</GUID>
+                        <GUID>1999907549</GUID>
                         <Name>spawn bufffactory proud_savannah+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4457,8 +4457,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4478,8 +4478,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4521,7 +4521,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007550</GUID>
+                        <GUID>1999907550</GUID>
                         <Name>spawn bufffactory proud_savannah+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4888,8 +4888,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4909,8 +4909,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4952,7 +4952,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007551</GUID>
+                        <GUID>1999907551</GUID>
                         <Name>spawn bufffactory proud_savannah+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5319,8 +5319,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5340,8 +5340,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5383,7 +5383,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007552</GUID>
+                        <GUID>1999907552</GUID>
                         <Name>spawn bufffactory proud_savannah+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5750,8 +5750,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5771,8 +5771,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5814,7 +5814,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007553</GUID>
+                        <GUID>1999907553</GUID>
                         <Name>spawn bufffactory proud_savannah+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6181,8 +6181,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6202,8 +6202,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6245,7 +6245,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007554</GUID>
+                        <GUID>1999907554</GUID>
                         <Name>spawn bufffactory proud_savannah+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6612,8 +6612,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6633,8 +6633,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6676,7 +6676,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007555</GUID>
+                        <GUID>1999907555</GUID>
                         <Name>spawn bufffactory proud_savannah+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7043,8 +7043,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7064,8 +7064,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7107,7 +7107,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007556</GUID>
+                        <GUID>1999907556</GUID>
                         <Name>spawn bufffactory proud_savannah+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7474,8 +7474,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7495,8 +7495,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7538,7 +7538,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007557</GUID>
+                        <GUID>1999907557</GUID>
                         <Name>spawn bufffactory proud_savannah+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7905,8 +7905,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7926,8 +7926,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7969,7 +7969,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007558</GUID>
+                        <GUID>1999907558</GUID>
                         <Name>spawn bufffactory proud_savannah+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8336,8 +8336,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8357,8 +8357,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8400,7 +8400,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007559</GUID>
+                        <GUID>1999907559</GUID>
                         <Name>spawn bufffactory proud_savannah+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8767,8 +8767,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8788,8 +8788,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8831,7 +8831,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007560</GUID>
+                        <GUID>1999907560</GUID>
                         <Name>spawn bufffactory proud_savannah+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9183,8 +9183,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9204,8 +9204,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9247,7 +9247,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007561</GUID>
+                        <GUID>1999907561</GUID>
                         <Name>spawn bufffactory proud_savannah+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9599,8 +9599,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9620,8 +9620,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9663,7 +9663,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007562</GUID>
+                        <GUID>1999907562</GUID>
                         <Name>spawn bufffactory proud_savannah+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10015,8 +10015,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10036,8 +10036,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10079,7 +10079,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007563</GUID>
+                        <GUID>1999907563</GUID>
                         <Name>spawn bufffactory proud_savannah+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10430,8 +10430,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10472,7 +10472,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007564</GUID>
+                        <GUID>1999907564</GUID>
                         <Name>remove proud_savannah+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10564,7 +10564,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007565</GUID>
+                        <GUID>1999907565</GUID>
                         <Name>remove proud_savannah+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10656,7 +10656,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007566</GUID>
+                        <GUID>1999907566</GUID>
                         <Name>remove proud_savannah+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10748,7 +10748,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007567</GUID>
+                        <GUID>1999907567</GUID>
                         <Name>remove proud_savannah+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10840,7 +10840,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007568</GUID>
+                        <GUID>1999907568</GUID>
                         <Name>remove proud_savannah+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10932,7 +10932,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007569</GUID>
+                        <GUID>1999907569</GUID>
                         <Name>remove proud_savannah+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11024,7 +11024,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007570</GUID>
+                        <GUID>1999907570</GUID>
                         <Name>remove proud_savannah+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11116,7 +11116,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007571</GUID>
+                        <GUID>1999907571</GUID>
                         <Name>remove proud_savannah+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11208,7 +11208,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007572</GUID>
+                        <GUID>1999907572</GUID>
                         <Name>remove proud_savannah+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11300,7 +11300,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007573</GUID>
+                        <GUID>1999907573</GUID>
                         <Name>remove proud_savannah+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11392,7 +11392,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007574</GUID>
+                        <GUID>1999907574</GUID>
                         <Name>remove proud_savannah+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11484,7 +11484,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007575</GUID>
+                        <GUID>1999907575</GUID>
                         <Name>remove proud_savannah+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11576,7 +11576,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007576</GUID>
+                        <GUID>1999907576</GUID>
                         <Name>remove proud_savannah+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11668,7 +11668,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007577</GUID>
+                        <GUID>1999907577</GUID>
                         <Name>remove proud_savannah+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11760,7 +11760,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007578</GUID>
+                        <GUID>1999907578</GUID>
                         <Name>remove proud_savannah+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11852,7 +11852,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007579</GUID>
+                        <GUID>1999907579</GUID>
                         <Name>remove proud_savannah+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11944,7 +11944,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007580</GUID>
+                        <GUID>1999907580</GUID>
                         <Name>remove proud_savannah+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12036,7 +12036,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007581</GUID>
+                        <GUID>1999907581</GUID>
                         <Name>remove proud_savannah+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12128,7 +12128,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007582</GUID>
+                        <GUID>1999907582</GUID>
                         <Name>remove proud_savannah+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12220,7 +12220,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007583</GUID>
+                        <GUID>1999907583</GUID>
                         <Name>remove proud_savannah+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

@@ -1216,127 +1216,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009643</Quest>
+                                <Quest>1999909643</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009644</Quest>
+                                <Quest>1999909644</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009645</Quest>
+                                <Quest>1999909645</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009646</Quest>
+                                <Quest>1999909646</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009647</Quest>
+                                <Quest>1999909647</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009648</Quest>
+                                <Quest>1999909648</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009649</Quest>
+                                <Quest>1999909649</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009650</Quest>
+                                <Quest>1999909650</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009651</Quest>
+                                <Quest>1999909651</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009652</Quest>
+                                <Quest>1999909652</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009653</Quest>
+                                <Quest>1999909653</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009654</Quest>
+                                <Quest>1999909654</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009655</Quest>
+                                <Quest>1999909655</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009656</Quest>
+                                <Quest>1999909656</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009657</Quest>
+                                <Quest>1999909657</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009658</Quest>
+                                <Quest>1999909658</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009659</Quest>
+                                <Quest>1999909659</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009660</Quest>
+                                <Quest>1999909660</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009661</Quest>
+                                <Quest>1999909661</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009662</Quest>
+                                <Quest>1999909662</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009663</Quest>
+                                <Quest>1999909663</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009664</Quest>
+                                <Quest>1999909664</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009665</Quest>
+                                <Quest>1999909665</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009666</Quest>
+                                <Quest>1999909666</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009667</Quest>
+                                <Quest>1999909667</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009668</Quest>
+                                <Quest>1999909668</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009669</Quest>
+                                <Quest>1999909669</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009670</Quest>
+                                <Quest>1999909670</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009671</Quest>
+                                <Quest>1999909671</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009672</Quest>
+                                <Quest>1999909672</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009673</Quest>
+                                <Quest>1999909673</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009674</Quest>
+                                <Quest>1999909674</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009675</Quest>
+                                <Quest>1999909675</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009676</Quest>
+                                <Quest>1999909676</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009677</Quest>
+                                <Quest>1999909677</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009678</Quest>
+                                <Quest>1999909678</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009679</Quest>
+                                <Quest>1999909679</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009680</Quest>
+                                <Quest>1999909680</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009681</Quest>
+                                <Quest>1999909681</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009682</Quest>
+                                <Quest>1999909682</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009683</Quest>
+                                <Quest>1999909683</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1358,7 +1358,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009643</GUID>
+                        <GUID>1999909643</GUID>
                         <Name>Delete bufffactory marshlands+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1713,8 +1713,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1756,7 +1756,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009644</GUID>
+                        <GUID>1999909644</GUID>
                         <Name>spawn bufffactory marshlands+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2122,8 +2122,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2143,8 +2143,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2186,7 +2186,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009645</GUID>
+                        <GUID>1999909645</GUID>
                         <Name>spawn bufffactory marshlands+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2553,8 +2553,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2574,8 +2574,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2617,7 +2617,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009646</GUID>
+                        <GUID>1999909646</GUID>
                         <Name>spawn bufffactory marshlands+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -2984,8 +2984,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3005,8 +3005,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3048,7 +3048,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009647</GUID>
+                        <GUID>1999909647</GUID>
                         <Name>spawn bufffactory marshlands+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3415,8 +3415,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3436,8 +3436,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3479,7 +3479,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009648</GUID>
+                        <GUID>1999909648</GUID>
                         <Name>spawn bufffactory marshlands+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3846,8 +3846,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3867,8 +3867,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3910,7 +3910,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009649</GUID>
+                        <GUID>1999909649</GUID>
                         <Name>spawn bufffactory marshlands+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4277,8 +4277,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4298,8 +4298,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4341,7 +4341,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009650</GUID>
+                        <GUID>1999909650</GUID>
                         <Name>spawn bufffactory marshlands+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4708,8 +4708,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4729,8 +4729,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4772,7 +4772,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009651</GUID>
+                        <GUID>1999909651</GUID>
                         <Name>spawn bufffactory marshlands+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5139,8 +5139,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5160,8 +5160,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5203,7 +5203,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009652</GUID>
+                        <GUID>1999909652</GUID>
                         <Name>spawn bufffactory marshlands+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5570,8 +5570,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5591,8 +5591,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5634,7 +5634,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009653</GUID>
+                        <GUID>1999909653</GUID>
                         <Name>spawn bufffactory marshlands+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6001,8 +6001,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6022,8 +6022,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6065,7 +6065,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009654</GUID>
+                        <GUID>1999909654</GUID>
                         <Name>spawn bufffactory marshlands+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6432,8 +6432,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6453,8 +6453,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6496,7 +6496,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009655</GUID>
+                        <GUID>1999909655</GUID>
                         <Name>spawn bufffactory marshlands+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6863,8 +6863,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6884,8 +6884,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6927,7 +6927,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009656</GUID>
+                        <GUID>1999909656</GUID>
                         <Name>spawn bufffactory marshlands+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7294,8 +7294,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7315,8 +7315,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7358,7 +7358,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009657</GUID>
+                        <GUID>1999909657</GUID>
                         <Name>spawn bufffactory marshlands+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7725,8 +7725,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7746,8 +7746,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7789,7 +7789,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009658</GUID>
+                        <GUID>1999909658</GUID>
                         <Name>spawn bufffactory marshlands+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8156,8 +8156,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8177,8 +8177,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8220,7 +8220,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009659</GUID>
+                        <GUID>1999909659</GUID>
                         <Name>spawn bufffactory marshlands+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8587,8 +8587,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8608,8 +8608,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8651,7 +8651,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009660</GUID>
+                        <GUID>1999909660</GUID>
                         <Name>spawn bufffactory marshlands+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9003,8 +9003,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9024,8 +9024,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9067,7 +9067,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009661</GUID>
+                        <GUID>1999909661</GUID>
                         <Name>spawn bufffactory marshlands+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9419,8 +9419,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9440,8 +9440,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9483,7 +9483,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009662</GUID>
+                        <GUID>1999909662</GUID>
                         <Name>spawn bufffactory marshlands+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9835,8 +9835,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9856,8 +9856,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9899,7 +9899,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009663</GUID>
+                        <GUID>1999909663</GUID>
                         <Name>spawn bufffactory marshlands+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10250,8 +10250,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10292,7 +10292,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009664</GUID>
+                        <GUID>1999909664</GUID>
                         <Name>remove marshlands+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10384,7 +10384,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009665</GUID>
+                        <GUID>1999909665</GUID>
                         <Name>remove marshlands+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10476,7 +10476,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009666</GUID>
+                        <GUID>1999909666</GUID>
                         <Name>remove marshlands+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10568,7 +10568,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009667</GUID>
+                        <GUID>1999909667</GUID>
                         <Name>remove marshlands+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10660,7 +10660,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009668</GUID>
+                        <GUID>1999909668</GUID>
                         <Name>remove marshlands+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10752,7 +10752,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009669</GUID>
+                        <GUID>1999909669</GUID>
                         <Name>remove marshlands+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10844,7 +10844,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009670</GUID>
+                        <GUID>1999909670</GUID>
                         <Name>remove marshlands+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10936,7 +10936,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009671</GUID>
+                        <GUID>1999909671</GUID>
                         <Name>remove marshlands+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11028,7 +11028,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009672</GUID>
+                        <GUID>1999909672</GUID>
                         <Name>remove marshlands+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11120,7 +11120,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009673</GUID>
+                        <GUID>1999909673</GUID>
                         <Name>remove marshlands+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11212,7 +11212,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009674</GUID>
+                        <GUID>1999909674</GUID>
                         <Name>remove marshlands+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11304,7 +11304,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009675</GUID>
+                        <GUID>1999909675</GUID>
                         <Name>remove marshlands+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11396,7 +11396,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009676</GUID>
+                        <GUID>1999909676</GUID>
                         <Name>remove marshlands+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11488,7 +11488,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009677</GUID>
+                        <GUID>1999909677</GUID>
                         <Name>remove marshlands+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11580,7 +11580,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009678</GUID>
+                        <GUID>1999909678</GUID>
                         <Name>remove marshlands+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11672,7 +11672,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009679</GUID>
+                        <GUID>1999909679</GUID>
                         <Name>remove marshlands+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11764,7 +11764,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009680</GUID>
+                        <GUID>1999909680</GUID>
                         <Name>remove marshlands+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11856,7 +11856,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009681</GUID>
+                        <GUID>1999909681</GUID>
                         <Name>remove marshlands+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11948,7 +11948,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009682</GUID>
+                        <GUID>1999909682</GUID>
                         <Name>remove marshlands+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12040,7 +12040,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009683</GUID>
+                        <GUID>1999909683</GUID>
                         <Name>remove marshlands+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

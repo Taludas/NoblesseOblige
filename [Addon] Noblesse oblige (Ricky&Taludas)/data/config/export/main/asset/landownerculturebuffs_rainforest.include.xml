@@ -1176,127 +1176,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999006343</Quest>
+                                <Quest>1999906343</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006344</Quest>
+                                <Quest>1999906344</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006345</Quest>
+                                <Quest>1999906345</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006346</Quest>
+                                <Quest>1999906346</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006347</Quest>
+                                <Quest>1999906347</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006348</Quest>
+                                <Quest>1999906348</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006349</Quest>
+                                <Quest>1999906349</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006350</Quest>
+                                <Quest>1999906350</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006351</Quest>
+                                <Quest>1999906351</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006352</Quest>
+                                <Quest>1999906352</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006353</Quest>
+                                <Quest>1999906353</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006354</Quest>
+                                <Quest>1999906354</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006355</Quest>
+                                <Quest>1999906355</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006356</Quest>
+                                <Quest>1999906356</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006357</Quest>
+                                <Quest>1999906357</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006358</Quest>
+                                <Quest>1999906358</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006359</Quest>
+                                <Quest>1999906359</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006360</Quest>
+                                <Quest>1999906360</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006361</Quest>
+                                <Quest>1999906361</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006362</Quest>
+                                <Quest>1999906362</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006363</Quest>
+                                <Quest>1999906363</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006364</Quest>
+                                <Quest>1999906364</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006365</Quest>
+                                <Quest>1999906365</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006366</Quest>
+                                <Quest>1999906366</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006367</Quest>
+                                <Quest>1999906367</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006368</Quest>
+                                <Quest>1999906368</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006369</Quest>
+                                <Quest>1999906369</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006370</Quest>
+                                <Quest>1999906370</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006371</Quest>
+                                <Quest>1999906371</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006372</Quest>
+                                <Quest>1999906372</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006373</Quest>
+                                <Quest>1999906373</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006374</Quest>
+                                <Quest>1999906374</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006375</Quest>
+                                <Quest>1999906375</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006376</Quest>
+                                <Quest>1999906376</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006377</Quest>
+                                <Quest>1999906377</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006378</Quest>
+                                <Quest>1999906378</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006379</Quest>
+                                <Quest>1999906379</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006380</Quest>
+                                <Quest>1999906380</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006381</Quest>
+                                <Quest>1999906381</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006382</Quest>
+                                <Quest>1999906382</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006383</Quest>
+                                <Quest>1999906383</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1318,7 +1318,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006343</GUID>
+                        <GUID>1999906343</GUID>
                         <Name>Delete bufffactory rainforest+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1673,8 +1673,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1716,7 +1716,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006344</GUID>
+                        <GUID>1999906344</GUID>
                         <Name>spawn bufffactory rainforest+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2082,8 +2082,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2103,8 +2103,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2146,7 +2146,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006345</GUID>
+                        <GUID>1999906345</GUID>
                         <Name>spawn bufffactory rainforest+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2513,8 +2513,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2534,8 +2534,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2577,7 +2577,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006346</GUID>
+                        <GUID>1999906346</GUID>
                         <Name>spawn bufffactory rainforest+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -2944,8 +2944,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2965,8 +2965,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3008,7 +3008,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006347</GUID>
+                        <GUID>1999906347</GUID>
                         <Name>spawn bufffactory rainforest+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3375,8 +3375,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3396,8 +3396,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3439,7 +3439,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006348</GUID>
+                        <GUID>1999906348</GUID>
                         <Name>spawn bufffactory rainforest+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3806,8 +3806,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3827,8 +3827,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3870,7 +3870,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006349</GUID>
+                        <GUID>1999906349</GUID>
                         <Name>spawn bufffactory rainforest+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4237,8 +4237,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4258,8 +4258,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4301,7 +4301,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006350</GUID>
+                        <GUID>1999906350</GUID>
                         <Name>spawn bufffactory rainforest+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4668,8 +4668,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4689,8 +4689,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4732,7 +4732,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006351</GUID>
+                        <GUID>1999906351</GUID>
                         <Name>spawn bufffactory rainforest+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5099,8 +5099,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5120,8 +5120,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5163,7 +5163,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006352</GUID>
+                        <GUID>1999906352</GUID>
                         <Name>spawn bufffactory rainforest+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5530,8 +5530,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5551,8 +5551,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5594,7 +5594,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006353</GUID>
+                        <GUID>1999906353</GUID>
                         <Name>spawn bufffactory rainforest+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -5961,8 +5961,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5982,8 +5982,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6025,7 +6025,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006354</GUID>
+                        <GUID>1999906354</GUID>
                         <Name>spawn bufffactory rainforest+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6392,8 +6392,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6413,8 +6413,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6456,7 +6456,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006355</GUID>
+                        <GUID>1999906355</GUID>
                         <Name>spawn bufffactory rainforest+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6823,8 +6823,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6844,8 +6844,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6887,7 +6887,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006356</GUID>
+                        <GUID>1999906356</GUID>
                         <Name>spawn bufffactory rainforest+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7254,8 +7254,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7275,8 +7275,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7318,7 +7318,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006357</GUID>
+                        <GUID>1999906357</GUID>
                         <Name>spawn bufffactory rainforest+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7685,8 +7685,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7706,8 +7706,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7749,7 +7749,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006358</GUID>
+                        <GUID>1999906358</GUID>
                         <Name>spawn bufffactory rainforest+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8116,8 +8116,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8137,8 +8137,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8180,7 +8180,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006359</GUID>
+                        <GUID>1999906359</GUID>
                         <Name>spawn bufffactory rainforest+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8547,8 +8547,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8568,8 +8568,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8611,7 +8611,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006360</GUID>
+                        <GUID>1999906360</GUID>
                         <Name>spawn bufffactory rainforest+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -8963,8 +8963,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8984,8 +8984,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9027,7 +9027,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006361</GUID>
+                        <GUID>1999906361</GUID>
                         <Name>spawn bufffactory rainforest+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9379,8 +9379,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9400,8 +9400,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9443,7 +9443,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006362</GUID>
+                        <GUID>1999906362</GUID>
                         <Name>spawn bufffactory rainforest+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9795,8 +9795,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9816,8 +9816,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9859,7 +9859,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006363</GUID>
+                        <GUID>1999906363</GUID>
                         <Name>spawn bufffactory rainforest+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10210,8 +10210,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10252,7 +10252,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006364</GUID>
+                        <GUID>1999906364</GUID>
                         <Name>remove rainforest+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10344,7 +10344,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006365</GUID>
+                        <GUID>1999906365</GUID>
                         <Name>remove rainforest+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10436,7 +10436,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006366</GUID>
+                        <GUID>1999906366</GUID>
                         <Name>remove rainforest+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10528,7 +10528,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006367</GUID>
+                        <GUID>1999906367</GUID>
                         <Name>remove rainforest+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10620,7 +10620,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006368</GUID>
+                        <GUID>1999906368</GUID>
                         <Name>remove rainforest+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10712,7 +10712,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006369</GUID>
+                        <GUID>1999906369</GUID>
                         <Name>remove rainforest+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10804,7 +10804,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006370</GUID>
+                        <GUID>1999906370</GUID>
                         <Name>remove rainforest+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10896,7 +10896,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006371</GUID>
+                        <GUID>1999906371</GUID>
                         <Name>remove rainforest+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10988,7 +10988,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006372</GUID>
+                        <GUID>1999906372</GUID>
                         <Name>remove rainforest+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11080,7 +11080,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006373</GUID>
+                        <GUID>1999906373</GUID>
                         <Name>remove rainforest+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11172,7 +11172,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006374</GUID>
+                        <GUID>1999906374</GUID>
                         <Name>remove rainforest+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11264,7 +11264,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006375</GUID>
+                        <GUID>1999906375</GUID>
                         <Name>remove rainforest+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11356,7 +11356,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006376</GUID>
+                        <GUID>1999906376</GUID>
                         <Name>remove rainforest+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11448,7 +11448,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006377</GUID>
+                        <GUID>1999906377</GUID>
                         <Name>remove rainforest+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11540,7 +11540,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006378</GUID>
+                        <GUID>1999906378</GUID>
                         <Name>remove rainforest+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11632,7 +11632,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006379</GUID>
+                        <GUID>1999906379</GUID>
                         <Name>remove rainforest+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11724,7 +11724,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006380</GUID>
+                        <GUID>1999906380</GUID>
                         <Name>remove rainforest+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11816,7 +11816,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006381</GUID>
+                        <GUID>1999906381</GUID>
                         <Name>remove rainforest+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11908,7 +11908,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006382</GUID>
+                        <GUID>1999906382</GUID>
                         <Name>remove rainforest+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12000,7 +12000,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006383</GUID>
+                        <GUID>1999906383</GUID>
                         <Name>remove rainforest+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

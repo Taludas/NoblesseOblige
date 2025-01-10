@@ -1236,127 +1236,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007843</Quest>
+                                <Quest>1999907843</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007844</Quest>
+                                <Quest>1999907844</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007845</Quest>
+                                <Quest>1999907845</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007846</Quest>
+                                <Quest>1999907846</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007847</Quest>
+                                <Quest>1999907847</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007848</Quest>
+                                <Quest>1999907848</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007849</Quest>
+                                <Quest>1999907849</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007850</Quest>
+                                <Quest>1999907850</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007851</Quest>
+                                <Quest>1999907851</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007852</Quest>
+                                <Quest>1999907852</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007853</Quest>
+                                <Quest>1999907853</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007854</Quest>
+                                <Quest>1999907854</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007855</Quest>
+                                <Quest>1999907855</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007856</Quest>
+                                <Quest>1999907856</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007857</Quest>
+                                <Quest>1999907857</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007858</Quest>
+                                <Quest>1999907858</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007859</Quest>
+                                <Quest>1999907859</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007860</Quest>
+                                <Quest>1999907860</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007861</Quest>
+                                <Quest>1999907861</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007862</Quest>
+                                <Quest>1999907862</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007863</Quest>
+                                <Quest>1999907863</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007864</Quest>
+                                <Quest>1999907864</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007865</Quest>
+                                <Quest>1999907865</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007866</Quest>
+                                <Quest>1999907866</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007867</Quest>
+                                <Quest>1999907867</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007868</Quest>
+                                <Quest>1999907868</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007869</Quest>
+                                <Quest>1999907869</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007870</Quest>
+                                <Quest>1999907870</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007871</Quest>
+                                <Quest>1999907871</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007872</Quest>
+                                <Quest>1999907872</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007873</Quest>
+                                <Quest>1999907873</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007874</Quest>
+                                <Quest>1999907874</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007875</Quest>
+                                <Quest>1999907875</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007876</Quest>
+                                <Quest>1999907876</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007877</Quest>
+                                <Quest>1999907877</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007878</Quest>
+                                <Quest>1999907878</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007879</Quest>
+                                <Quest>1999907879</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007880</Quest>
+                                <Quest>1999907880</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007881</Quest>
+                                <Quest>1999907881</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007882</Quest>
+                                <Quest>1999907882</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007883</Quest>
+                                <Quest>1999907883</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1378,7 +1378,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007843</GUID>
+                        <GUID>1999907843</GUID>
                         <Name>Delete bufffactory new_world_huaca+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1733,8 +1733,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1776,7 +1776,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007844</GUID>
+                        <GUID>1999907844</GUID>
                         <Name>spawn bufffactory new_world_huaca+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2142,8 +2142,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2163,8 +2163,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2206,7 +2206,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007845</GUID>
+                        <GUID>1999907845</GUID>
                         <Name>spawn bufffactory new_world_huaca+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2573,8 +2573,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2594,8 +2594,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2637,7 +2637,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007846</GUID>
+                        <GUID>1999907846</GUID>
                         <Name>spawn bufffactory new_world_huaca+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3004,8 +3004,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3025,8 +3025,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3068,7 +3068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007847</GUID>
+                        <GUID>1999907847</GUID>
                         <Name>spawn bufffactory new_world_huaca+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3435,8 +3435,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3456,8 +3456,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3499,7 +3499,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007848</GUID>
+                        <GUID>1999907848</GUID>
                         <Name>spawn bufffactory new_world_huaca+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3866,8 +3866,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3887,8 +3887,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3930,7 +3930,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007849</GUID>
+                        <GUID>1999907849</GUID>
                         <Name>spawn bufffactory new_world_huaca+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4297,8 +4297,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4318,8 +4318,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4361,7 +4361,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007850</GUID>
+                        <GUID>1999907850</GUID>
                         <Name>spawn bufffactory new_world_huaca+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4728,8 +4728,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4749,8 +4749,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4792,7 +4792,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007851</GUID>
+                        <GUID>1999907851</GUID>
                         <Name>spawn bufffactory new_world_huaca+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5159,8 +5159,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5180,8 +5180,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5223,7 +5223,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007852</GUID>
+                        <GUID>1999907852</GUID>
                         <Name>spawn bufffactory new_world_huaca+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5590,8 +5590,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5611,8 +5611,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5654,7 +5654,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007853</GUID>
+                        <GUID>1999907853</GUID>
                         <Name>spawn bufffactory new_world_huaca+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6021,8 +6021,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6042,8 +6042,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6085,7 +6085,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007854</GUID>
+                        <GUID>1999907854</GUID>
                         <Name>spawn bufffactory new_world_huaca+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6452,8 +6452,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6473,8 +6473,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6516,7 +6516,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007855</GUID>
+                        <GUID>1999907855</GUID>
                         <Name>spawn bufffactory new_world_huaca+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6883,8 +6883,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6904,8 +6904,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6947,7 +6947,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007856</GUID>
+                        <GUID>1999907856</GUID>
                         <Name>spawn bufffactory new_world_huaca+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7314,8 +7314,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7335,8 +7335,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7378,7 +7378,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007857</GUID>
+                        <GUID>1999907857</GUID>
                         <Name>spawn bufffactory new_world_huaca+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7745,8 +7745,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7766,8 +7766,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7809,7 +7809,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007858</GUID>
+                        <GUID>1999907858</GUID>
                         <Name>spawn bufffactory new_world_huaca+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8176,8 +8176,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8197,8 +8197,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8240,7 +8240,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007859</GUID>
+                        <GUID>1999907859</GUID>
                         <Name>spawn bufffactory new_world_huaca+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8607,8 +8607,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8628,8 +8628,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8671,7 +8671,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007860</GUID>
+                        <GUID>1999907860</GUID>
                         <Name>spawn bufffactory new_world_huaca+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9023,8 +9023,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9044,8 +9044,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9087,7 +9087,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007861</GUID>
+                        <GUID>1999907861</GUID>
                         <Name>spawn bufffactory new_world_huaca+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9439,8 +9439,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9460,8 +9460,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9503,7 +9503,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007862</GUID>
+                        <GUID>1999907862</GUID>
                         <Name>spawn bufffactory new_world_huaca+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9855,8 +9855,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9876,8 +9876,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9919,7 +9919,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007863</GUID>
+                        <GUID>1999907863</GUID>
                         <Name>spawn bufffactory new_world_huaca+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10270,8 +10270,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10312,7 +10312,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007864</GUID>
+                        <GUID>1999907864</GUID>
                         <Name>remove new_world_huaca+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10404,7 +10404,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007865</GUID>
+                        <GUID>1999907865</GUID>
                         <Name>remove new_world_huaca+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10496,7 +10496,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007866</GUID>
+                        <GUID>1999907866</GUID>
                         <Name>remove new_world_huaca+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10588,7 +10588,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007867</GUID>
+                        <GUID>1999907867</GUID>
                         <Name>remove new_world_huaca+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10680,7 +10680,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007868</GUID>
+                        <GUID>1999907868</GUID>
                         <Name>remove new_world_huaca+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10772,7 +10772,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007869</GUID>
+                        <GUID>1999907869</GUID>
                         <Name>remove new_world_huaca+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10864,7 +10864,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007870</GUID>
+                        <GUID>1999907870</GUID>
                         <Name>remove new_world_huaca+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10956,7 +10956,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007871</GUID>
+                        <GUID>1999907871</GUID>
                         <Name>remove new_world_huaca+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11048,7 +11048,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007872</GUID>
+                        <GUID>1999907872</GUID>
                         <Name>remove new_world_huaca+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11140,7 +11140,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007873</GUID>
+                        <GUID>1999907873</GUID>
                         <Name>remove new_world_huaca+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11232,7 +11232,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007874</GUID>
+                        <GUID>1999907874</GUID>
                         <Name>remove new_world_huaca+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11324,7 +11324,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007875</GUID>
+                        <GUID>1999907875</GUID>
                         <Name>remove new_world_huaca+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11416,7 +11416,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007876</GUID>
+                        <GUID>1999907876</GUID>
                         <Name>remove new_world_huaca+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11508,7 +11508,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007877</GUID>
+                        <GUID>1999907877</GUID>
                         <Name>remove new_world_huaca+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11600,7 +11600,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007878</GUID>
+                        <GUID>1999907878</GUID>
                         <Name>remove new_world_huaca+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11692,7 +11692,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007879</GUID>
+                        <GUID>1999907879</GUID>
                         <Name>remove new_world_huaca+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11784,7 +11784,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007880</GUID>
+                        <GUID>1999907880</GUID>
                         <Name>remove new_world_huaca+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11876,7 +11876,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007881</GUID>
+                        <GUID>1999907881</GUID>
                         <Name>remove new_world_huaca+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11968,7 +11968,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007882</GUID>
+                        <GUID>1999907882</GUID>
                         <Name>remove new_world_huaca+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12060,7 +12060,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007883</GUID>
+                        <GUID>1999907883</GUID>
                         <Name>remove new_world_huaca+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

@@ -1716,127 +1716,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007943</Quest>
+                                <Quest>1999907943</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007944</Quest>
+                                <Quest>1999907944</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007945</Quest>
+                                <Quest>1999907945</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007946</Quest>
+                                <Quest>1999907946</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007947</Quest>
+                                <Quest>1999907947</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007948</Quest>
+                                <Quest>1999907948</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007949</Quest>
+                                <Quest>1999907949</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007950</Quest>
+                                <Quest>1999907950</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007951</Quest>
+                                <Quest>1999907951</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007952</Quest>
+                                <Quest>1999907952</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007953</Quest>
+                                <Quest>1999907953</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007954</Quest>
+                                <Quest>1999907954</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007955</Quest>
+                                <Quest>1999907955</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007956</Quest>
+                                <Quest>1999907956</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007957</Quest>
+                                <Quest>1999907957</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007958</Quest>
+                                <Quest>1999907958</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007959</Quest>
+                                <Quest>1999907959</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007960</Quest>
+                                <Quest>1999907960</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007961</Quest>
+                                <Quest>1999907961</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007962</Quest>
+                                <Quest>1999907962</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007963</Quest>
+                                <Quest>1999907963</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007964</Quest>
+                                <Quest>1999907964</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007965</Quest>
+                                <Quest>1999907965</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007966</Quest>
+                                <Quest>1999907966</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007967</Quest>
+                                <Quest>1999907967</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007968</Quest>
+                                <Quest>1999907968</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007969</Quest>
+                                <Quest>1999907969</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007970</Quest>
+                                <Quest>1999907970</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007971</Quest>
+                                <Quest>1999907971</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007972</Quest>
+                                <Quest>1999907972</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007973</Quest>
+                                <Quest>1999907973</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007974</Quest>
+                                <Quest>1999907974</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007975</Quest>
+                                <Quest>1999907975</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007976</Quest>
+                                <Quest>1999907976</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007977</Quest>
+                                <Quest>1999907977</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007978</Quest>
+                                <Quest>1999907978</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007979</Quest>
+                                <Quest>1999907979</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007980</Quest>
+                                <Quest>1999907980</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007981</Quest>
+                                <Quest>1999907981</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007982</Quest>
+                                <Quest>1999907982</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007983</Quest>
+                                <Quest>1999907983</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1858,7 +1858,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007943</GUID>
+                        <GUID>1999907943</GUID>
                         <Name>Delete bufffactory origin_of_mankind+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -2213,8 +2213,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2256,7 +2256,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007944</GUID>
+                        <GUID>1999907944</GUID>
                         <Name>spawn bufffactory origin_of_mankind+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2622,8 +2622,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2643,8 +2643,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2686,7 +2686,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007945</GUID>
+                        <GUID>1999907945</GUID>
                         <Name>spawn bufffactory origin_of_mankind+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -3053,8 +3053,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3074,8 +3074,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3117,7 +3117,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007946</GUID>
+                        <GUID>1999907946</GUID>
                         <Name>spawn bufffactory origin_of_mankind+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3484,8 +3484,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3505,8 +3505,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3548,7 +3548,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007947</GUID>
+                        <GUID>1999907947</GUID>
                         <Name>spawn bufffactory origin_of_mankind+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3915,8 +3915,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3936,8 +3936,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3979,7 +3979,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007948</GUID>
+                        <GUID>1999907948</GUID>
                         <Name>spawn bufffactory origin_of_mankind+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4346,8 +4346,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4367,8 +4367,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4410,7 +4410,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007949</GUID>
+                        <GUID>1999907949</GUID>
                         <Name>spawn bufffactory origin_of_mankind+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4777,8 +4777,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4798,8 +4798,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4841,7 +4841,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007950</GUID>
+                        <GUID>1999907950</GUID>
                         <Name>spawn bufffactory origin_of_mankind+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -5208,8 +5208,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5229,8 +5229,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5272,7 +5272,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007951</GUID>
+                        <GUID>1999907951</GUID>
                         <Name>spawn bufffactory origin_of_mankind+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5639,8 +5639,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5660,8 +5660,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5703,7 +5703,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007952</GUID>
+                        <GUID>1999907952</GUID>
                         <Name>spawn bufffactory origin_of_mankind+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -6070,8 +6070,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6091,8 +6091,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6134,7 +6134,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007953</GUID>
+                        <GUID>1999907953</GUID>
                         <Name>spawn bufffactory origin_of_mankind+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6501,8 +6501,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6522,8 +6522,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6565,7 +6565,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007954</GUID>
+                        <GUID>1999907954</GUID>
                         <Name>spawn bufffactory origin_of_mankind+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6932,8 +6932,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6953,8 +6953,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6996,7 +6996,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007955</GUID>
+                        <GUID>1999907955</GUID>
                         <Name>spawn bufffactory origin_of_mankind+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7363,8 +7363,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7384,8 +7384,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7427,7 +7427,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007956</GUID>
+                        <GUID>1999907956</GUID>
                         <Name>spawn bufffactory origin_of_mankind+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7794,8 +7794,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7815,8 +7815,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7858,7 +7858,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007957</GUID>
+                        <GUID>1999907957</GUID>
                         <Name>spawn bufffactory origin_of_mankind+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -8225,8 +8225,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8246,8 +8246,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8289,7 +8289,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007958</GUID>
+                        <GUID>1999907958</GUID>
                         <Name>spawn bufffactory origin_of_mankind+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8656,8 +8656,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8677,8 +8677,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8720,7 +8720,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007959</GUID>
+                        <GUID>1999907959</GUID>
                         <Name>spawn bufffactory origin_of_mankind+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -9087,8 +9087,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9108,8 +9108,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9151,7 +9151,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007960</GUID>
+                        <GUID>1999907960</GUID>
                         <Name>spawn bufffactory origin_of_mankind+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9503,8 +9503,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9524,8 +9524,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9567,7 +9567,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007961</GUID>
+                        <GUID>1999907961</GUID>
                         <Name>spawn bufffactory origin_of_mankind+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9919,8 +9919,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9940,8 +9940,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9983,7 +9983,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007962</GUID>
+                        <GUID>1999907962</GUID>
                         <Name>spawn bufffactory origin_of_mankind+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10335,8 +10335,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10356,8 +10356,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10399,7 +10399,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007963</GUID>
+                        <GUID>1999907963</GUID>
                         <Name>spawn bufffactory origin_of_mankind+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10750,8 +10750,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10792,7 +10792,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007964</GUID>
+                        <GUID>1999907964</GUID>
                         <Name>remove origin_of_mankind+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10884,7 +10884,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007965</GUID>
+                        <GUID>1999907965</GUID>
                         <Name>remove origin_of_mankind+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10976,7 +10976,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007966</GUID>
+                        <GUID>1999907966</GUID>
                         <Name>remove origin_of_mankind+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11068,7 +11068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007967</GUID>
+                        <GUID>1999907967</GUID>
                         <Name>remove origin_of_mankind+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11160,7 +11160,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007968</GUID>
+                        <GUID>1999907968</GUID>
                         <Name>remove origin_of_mankind+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11252,7 +11252,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007969</GUID>
+                        <GUID>1999907969</GUID>
                         <Name>remove origin_of_mankind+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11344,7 +11344,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007970</GUID>
+                        <GUID>1999907970</GUID>
                         <Name>remove origin_of_mankind+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11436,7 +11436,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007971</GUID>
+                        <GUID>1999907971</GUID>
                         <Name>remove origin_of_mankind+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11528,7 +11528,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007972</GUID>
+                        <GUID>1999907972</GUID>
                         <Name>remove origin_of_mankind+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11620,7 +11620,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007973</GUID>
+                        <GUID>1999907973</GUID>
                         <Name>remove origin_of_mankind+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11712,7 +11712,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007974</GUID>
+                        <GUID>1999907974</GUID>
                         <Name>remove origin_of_mankind+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11804,7 +11804,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007975</GUID>
+                        <GUID>1999907975</GUID>
                         <Name>remove origin_of_mankind+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11896,7 +11896,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007976</GUID>
+                        <GUID>1999907976</GUID>
                         <Name>remove origin_of_mankind+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11988,7 +11988,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007977</GUID>
+                        <GUID>1999907977</GUID>
                         <Name>remove origin_of_mankind+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12080,7 +12080,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007978</GUID>
+                        <GUID>1999907978</GUID>
                         <Name>remove origin_of_mankind+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12172,7 +12172,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007979</GUID>
+                        <GUID>1999907979</GUID>
                         <Name>remove origin_of_mankind+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12264,7 +12264,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007980</GUID>
+                        <GUID>1999907980</GUID>
                         <Name>remove origin_of_mankind+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12356,7 +12356,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007981</GUID>
+                        <GUID>1999907981</GUID>
                         <Name>remove origin_of_mankind+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12448,7 +12448,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007982</GUID>
+                        <GUID>1999907982</GUID>
                         <Name>remove origin_of_mankind+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12540,7 +12540,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007983</GUID>
+                        <GUID>1999907983</GUID>
                         <Name>remove origin_of_mankind+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

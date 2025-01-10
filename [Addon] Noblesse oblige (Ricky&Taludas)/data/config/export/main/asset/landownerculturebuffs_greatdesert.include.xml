@@ -1465,127 +1465,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007243</Quest>
+                                <Quest>1999907243</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007244</Quest>
+                                <Quest>1999907244</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007245</Quest>
+                                <Quest>1999907245</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007246</Quest>
+                                <Quest>1999907246</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007247</Quest>
+                                <Quest>1999907247</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007248</Quest>
+                                <Quest>1999907248</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007249</Quest>
+                                <Quest>1999907249</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007250</Quest>
+                                <Quest>1999907250</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007251</Quest>
+                                <Quest>1999907251</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007252</Quest>
+                                <Quest>1999907252</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007253</Quest>
+                                <Quest>1999907253</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007254</Quest>
+                                <Quest>1999907254</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007255</Quest>
+                                <Quest>1999907255</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007256</Quest>
+                                <Quest>1999907256</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007257</Quest>
+                                <Quest>1999907257</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007258</Quest>
+                                <Quest>1999907258</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007259</Quest>
+                                <Quest>1999907259</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007260</Quest>
+                                <Quest>1999907260</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007261</Quest>
+                                <Quest>1999907261</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007262</Quest>
+                                <Quest>1999907262</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007263</Quest>
+                                <Quest>1999907263</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007264</Quest>
+                                <Quest>1999907264</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007265</Quest>
+                                <Quest>1999907265</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007266</Quest>
+                                <Quest>1999907266</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007267</Quest>
+                                <Quest>1999907267</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007268</Quest>
+                                <Quest>1999907268</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007269</Quest>
+                                <Quest>1999907269</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007270</Quest>
+                                <Quest>1999907270</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007271</Quest>
+                                <Quest>1999907271</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007272</Quest>
+                                <Quest>1999907272</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007273</Quest>
+                                <Quest>1999907273</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007274</Quest>
+                                <Quest>1999907274</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007275</Quest>
+                                <Quest>1999907275</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007276</Quest>
+                                <Quest>1999907276</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007277</Quest>
+                                <Quest>1999907277</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007278</Quest>
+                                <Quest>1999907278</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007279</Quest>
+                                <Quest>1999907279</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007280</Quest>
+                                <Quest>1999907280</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007281</Quest>
+                                <Quest>1999907281</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007282</Quest>
+                                <Quest>1999907282</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007283</Quest>
+                                <Quest>1999907283</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1607,7 +1607,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007243</GUID>
+                        <GUID>1999907243</GUID>
                         <Name>Delete bufffactory great_desert+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1962,8 +1962,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2005,7 +2005,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007244</GUID>
+                        <GUID>1999907244</GUID>
                         <Name>spawn bufffactory great_desert+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2371,8 +2371,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2392,8 +2392,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2435,7 +2435,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007245</GUID>
+                        <GUID>1999907245</GUID>
                         <Name>spawn bufffactory great_desert+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2802,8 +2802,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2823,8 +2823,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2866,7 +2866,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007246</GUID>
+                        <GUID>1999907246</GUID>
                         <Name>spawn bufffactory great_desert+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3233,8 +3233,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3254,8 +3254,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3297,7 +3297,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007247</GUID>
+                        <GUID>1999907247</GUID>
                         <Name>spawn bufffactory great_desert+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3664,8 +3664,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3685,8 +3685,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3728,7 +3728,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007248</GUID>
+                        <GUID>1999907248</GUID>
                         <Name>spawn bufffactory great_desert+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4095,8 +4095,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4116,8 +4116,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4159,7 +4159,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007249</GUID>
+                        <GUID>1999907249</GUID>
                         <Name>spawn bufffactory great_desert+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4526,8 +4526,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4547,8 +4547,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4590,7 +4590,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007250</GUID>
+                        <GUID>1999907250</GUID>
                         <Name>spawn bufffactory great_desert+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4957,8 +4957,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4978,8 +4978,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5021,7 +5021,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007251</GUID>
+                        <GUID>1999907251</GUID>
                         <Name>spawn bufffactory great_desert+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5388,8 +5388,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5409,8 +5409,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5452,7 +5452,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007252</GUID>
+                        <GUID>1999907252</GUID>
                         <Name>spawn bufffactory great_desert+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5819,8 +5819,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5840,8 +5840,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5883,7 +5883,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007253</GUID>
+                        <GUID>1999907253</GUID>
                         <Name>spawn bufffactory great_desert+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6250,8 +6250,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6271,8 +6271,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6314,7 +6314,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007254</GUID>
+                        <GUID>1999907254</GUID>
                         <Name>spawn bufffactory great_desert+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6681,8 +6681,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6702,8 +6702,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6745,7 +6745,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007255</GUID>
+                        <GUID>1999907255</GUID>
                         <Name>spawn bufffactory great_desert+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7112,8 +7112,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7133,8 +7133,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7176,7 +7176,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007256</GUID>
+                        <GUID>1999907256</GUID>
                         <Name>spawn bufffactory great_desert+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7543,8 +7543,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7564,8 +7564,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7607,7 +7607,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007257</GUID>
+                        <GUID>1999907257</GUID>
                         <Name>spawn bufffactory great_desert+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7974,8 +7974,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7995,8 +7995,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8038,7 +8038,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007258</GUID>
+                        <GUID>1999907258</GUID>
                         <Name>spawn bufffactory great_desert+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8405,8 +8405,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8426,8 +8426,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8469,7 +8469,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007259</GUID>
+                        <GUID>1999907259</GUID>
                         <Name>spawn bufffactory great_desert+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8836,8 +8836,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8857,8 +8857,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8900,7 +8900,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007260</GUID>
+                        <GUID>1999907260</GUID>
                         <Name>spawn bufffactory great_desert+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9252,8 +9252,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9273,8 +9273,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9316,7 +9316,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007261</GUID>
+                        <GUID>1999907261</GUID>
                         <Name>spawn bufffactory great_desert+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9668,8 +9668,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9689,8 +9689,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9732,7 +9732,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007262</GUID>
+                        <GUID>1999907262</GUID>
                         <Name>spawn bufffactory great_desert+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10084,8 +10084,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10105,8 +10105,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10148,7 +10148,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007263</GUID>
+                        <GUID>1999907263</GUID>
                         <Name>spawn bufffactory great_desert+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10499,8 +10499,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10541,7 +10541,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007264</GUID>
+                        <GUID>1999907264</GUID>
                         <Name>remove great_desert+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10633,7 +10633,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007265</GUID>
+                        <GUID>1999907265</GUID>
                         <Name>remove great_desert+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10725,7 +10725,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007266</GUID>
+                        <GUID>1999907266</GUID>
                         <Name>remove great_desert+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10817,7 +10817,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007267</GUID>
+                        <GUID>1999907267</GUID>
                         <Name>remove great_desert+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10909,7 +10909,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007268</GUID>
+                        <GUID>1999907268</GUID>
                         <Name>remove great_desert+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11001,7 +11001,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007269</GUID>
+                        <GUID>1999907269</GUID>
                         <Name>remove great_desert+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11093,7 +11093,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007270</GUID>
+                        <GUID>1999907270</GUID>
                         <Name>remove great_desert+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11185,7 +11185,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007271</GUID>
+                        <GUID>1999907271</GUID>
                         <Name>remove great_desert+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11277,7 +11277,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007272</GUID>
+                        <GUID>1999907272</GUID>
                         <Name>remove great_desert+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11369,7 +11369,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007273</GUID>
+                        <GUID>1999907273</GUID>
                         <Name>remove great_desert+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11461,7 +11461,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007274</GUID>
+                        <GUID>1999907274</GUID>
                         <Name>remove great_desert+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11553,7 +11553,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007275</GUID>
+                        <GUID>1999907275</GUID>
                         <Name>remove great_desert+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11645,7 +11645,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007276</GUID>
+                        <GUID>1999907276</GUID>
                         <Name>remove great_desert+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11737,7 +11737,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007277</GUID>
+                        <GUID>1999907277</GUID>
                         <Name>remove great_desert+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11829,7 +11829,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007278</GUID>
+                        <GUID>1999907278</GUID>
                         <Name>remove great_desert+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11921,7 +11921,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007279</GUID>
+                        <GUID>1999907279</GUID>
                         <Name>remove great_desert+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12013,7 +12013,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007280</GUID>
+                        <GUID>1999907280</GUID>
                         <Name>remove great_desert+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12105,7 +12105,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007281</GUID>
+                        <GUID>1999907281</GUID>
                         <Name>remove great_desert+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12197,7 +12197,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007282</GUID>
+                        <GUID>1999907282</GUID>
                         <Name>remove great_desert+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12289,7 +12289,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007283</GUID>
+                        <GUID>1999907283</GUID>
                         <Name>remove great_desert+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

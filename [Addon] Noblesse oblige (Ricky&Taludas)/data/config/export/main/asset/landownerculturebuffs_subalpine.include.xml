@@ -1359,127 +1359,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009943</Quest>
+                                <Quest>1999909943</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009944</Quest>
+                                <Quest>1999909944</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009945</Quest>
+                                <Quest>1999909945</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009946</Quest>
+                                <Quest>1999909946</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009947</Quest>
+                                <Quest>1999909947</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009948</Quest>
+                                <Quest>1999909948</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009949</Quest>
+                                <Quest>1999909949</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009950</Quest>
+                                <Quest>1999909950</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009951</Quest>
+                                <Quest>1999909951</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009952</Quest>
+                                <Quest>1999909952</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009953</Quest>
+                                <Quest>1999909953</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009954</Quest>
+                                <Quest>1999909954</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009955</Quest>
+                                <Quest>1999909955</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009956</Quest>
+                                <Quest>1999909956</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009957</Quest>
+                                <Quest>1999909957</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009958</Quest>
+                                <Quest>1999909958</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009959</Quest>
+                                <Quest>1999909959</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009960</Quest>
+                                <Quest>1999909960</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009961</Quest>
+                                <Quest>1999909961</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009962</Quest>
+                                <Quest>1999909962</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009963</Quest>
+                                <Quest>1999909963</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009964</Quest>
+                                <Quest>1999909964</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009965</Quest>
+                                <Quest>1999909965</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009966</Quest>
+                                <Quest>1999909966</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009967</Quest>
+                                <Quest>1999909967</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009968</Quest>
+                                <Quest>1999909968</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009969</Quest>
+                                <Quest>1999909969</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009970</Quest>
+                                <Quest>1999909970</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009971</Quest>
+                                <Quest>1999909971</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009972</Quest>
+                                <Quest>1999909972</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009973</Quest>
+                                <Quest>1999909973</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009974</Quest>
+                                <Quest>1999909974</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009975</Quest>
+                                <Quest>1999909975</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009976</Quest>
+                                <Quest>1999909976</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009977</Quest>
+                                <Quest>1999909977</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009978</Quest>
+                                <Quest>1999909978</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009979</Quest>
+                                <Quest>1999909979</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009980</Quest>
+                                <Quest>1999909980</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009981</Quest>
+                                <Quest>1999909981</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009982</Quest>
+                                <Quest>1999909982</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009983</Quest>
+                                <Quest>1999909983</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1501,7 +1501,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009943</GUID>
+                        <GUID>1999909943</GUID>
                         <Name>Delete bufffactory subalpine+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1856,8 +1856,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1899,7 +1899,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009944</GUID>
+                        <GUID>1999909944</GUID>
                         <Name>spawn bufffactory subalpine+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2265,8 +2265,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2286,8 +2286,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2329,7 +2329,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009945</GUID>
+                        <GUID>1999909945</GUID>
                         <Name>spawn bufffactory subalpine+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2696,8 +2696,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2717,8 +2717,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2760,7 +2760,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009946</GUID>
+                        <GUID>1999909946</GUID>
                         <Name>spawn bufffactory subalpine+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3127,8 +3127,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3148,8 +3148,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3191,7 +3191,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009947</GUID>
+                        <GUID>1999909947</GUID>
                         <Name>spawn bufffactory subalpine+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3558,8 +3558,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3579,8 +3579,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3622,7 +3622,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009948</GUID>
+                        <GUID>1999909948</GUID>
                         <Name>spawn bufffactory subalpine+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3989,8 +3989,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4010,8 +4010,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4053,7 +4053,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009949</GUID>
+                        <GUID>1999909949</GUID>
                         <Name>spawn bufffactory subalpine+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4420,8 +4420,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4441,8 +4441,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4484,7 +4484,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009950</GUID>
+                        <GUID>1999909950</GUID>
                         <Name>spawn bufffactory subalpine+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4851,8 +4851,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4872,8 +4872,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4915,7 +4915,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009951</GUID>
+                        <GUID>1999909951</GUID>
                         <Name>spawn bufffactory subalpine+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5282,8 +5282,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5303,8 +5303,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5346,7 +5346,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009952</GUID>
+                        <GUID>1999909952</GUID>
                         <Name>spawn bufffactory subalpine+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5713,8 +5713,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5734,8 +5734,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5777,7 +5777,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009953</GUID>
+                        <GUID>1999909953</GUID>
                         <Name>spawn bufffactory subalpine+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6144,8 +6144,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6165,8 +6165,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6208,7 +6208,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009954</GUID>
+                        <GUID>1999909954</GUID>
                         <Name>spawn bufffactory subalpine+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6575,8 +6575,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6596,8 +6596,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6639,7 +6639,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009955</GUID>
+                        <GUID>1999909955</GUID>
                         <Name>spawn bufffactory subalpine+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7006,8 +7006,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7027,8 +7027,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7070,7 +7070,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009956</GUID>
+                        <GUID>1999909956</GUID>
                         <Name>spawn bufffactory subalpine+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7437,8 +7437,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7458,8 +7458,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7501,7 +7501,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009957</GUID>
+                        <GUID>1999909957</GUID>
                         <Name>spawn bufffactory subalpine+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7868,8 +7868,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7889,8 +7889,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7932,7 +7932,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009958</GUID>
+                        <GUID>1999909958</GUID>
                         <Name>spawn bufffactory subalpine+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8299,8 +8299,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8320,8 +8320,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8363,7 +8363,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009959</GUID>
+                        <GUID>1999909959</GUID>
                         <Name>spawn bufffactory subalpine+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8730,8 +8730,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8751,8 +8751,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8794,7 +8794,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009960</GUID>
+                        <GUID>1999909960</GUID>
                         <Name>spawn bufffactory subalpine+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9146,8 +9146,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9167,8 +9167,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9210,7 +9210,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009961</GUID>
+                        <GUID>1999909961</GUID>
                         <Name>spawn bufffactory subalpine+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9562,8 +9562,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9583,8 +9583,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9626,7 +9626,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009962</GUID>
+                        <GUID>1999909962</GUID>
                         <Name>spawn bufffactory subalpine+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9978,8 +9978,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9999,8 +9999,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10042,7 +10042,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009963</GUID>
+                        <GUID>1999909963</GUID>
                         <Name>spawn bufffactory subalpine+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10393,8 +10393,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10435,7 +10435,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009964</GUID>
+                        <GUID>1999909964</GUID>
                         <Name>remove subalpine+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10527,7 +10527,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009965</GUID>
+                        <GUID>1999909965</GUID>
                         <Name>remove subalpine+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10619,7 +10619,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009966</GUID>
+                        <GUID>1999909966</GUID>
                         <Name>remove subalpine+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10711,7 +10711,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009967</GUID>
+                        <GUID>1999909967</GUID>
                         <Name>remove subalpine+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10803,7 +10803,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009968</GUID>
+                        <GUID>1999909968</GUID>
                         <Name>remove subalpine+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10895,7 +10895,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009969</GUID>
+                        <GUID>1999909969</GUID>
                         <Name>remove subalpine+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10987,7 +10987,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009970</GUID>
+                        <GUID>1999909970</GUID>
                         <Name>remove subalpine+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11079,7 +11079,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009971</GUID>
+                        <GUID>1999909971</GUID>
                         <Name>remove subalpine+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11171,7 +11171,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009972</GUID>
+                        <GUID>1999909972</GUID>
                         <Name>remove subalpine+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11263,7 +11263,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009973</GUID>
+                        <GUID>1999909973</GUID>
                         <Name>remove subalpine+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11355,7 +11355,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009974</GUID>
+                        <GUID>1999909974</GUID>
                         <Name>remove subalpine+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11447,7 +11447,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009975</GUID>
+                        <GUID>1999909975</GUID>
                         <Name>remove subalpine+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11539,7 +11539,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009976</GUID>
+                        <GUID>1999909976</GUID>
                         <Name>remove subalpine+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11631,7 +11631,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009977</GUID>
+                        <GUID>1999909977</GUID>
                         <Name>remove subalpine+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11723,7 +11723,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009978</GUID>
+                        <GUID>1999909978</GUID>
                         <Name>remove subalpine+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11815,7 +11815,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009979</GUID>
+                        <GUID>1999909979</GUID>
                         <Name>remove subalpine+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11907,7 +11907,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009980</GUID>
+                        <GUID>1999909980</GUID>
                         <Name>remove subalpine+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11999,7 +11999,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009981</GUID>
+                        <GUID>1999909981</GUID>
                         <Name>remove subalpine+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12091,7 +12091,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009982</GUID>
+                        <GUID>1999909982</GUID>
                         <Name>remove subalpine+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12183,7 +12183,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009983</GUID>
+                        <GUID>1999909983</GUID>
                         <Name>remove subalpine+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

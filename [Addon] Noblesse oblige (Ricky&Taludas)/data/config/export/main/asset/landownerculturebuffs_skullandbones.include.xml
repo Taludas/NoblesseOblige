@@ -1316,127 +1316,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008043</Quest>
+                                <Quest>1999908043</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008044</Quest>
+                                <Quest>1999908044</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008045</Quest>
+                                <Quest>1999908045</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008046</Quest>
+                                <Quest>1999908046</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008047</Quest>
+                                <Quest>1999908047</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008048</Quest>
+                                <Quest>1999908048</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008049</Quest>
+                                <Quest>1999908049</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008050</Quest>
+                                <Quest>1999908050</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008051</Quest>
+                                <Quest>1999908051</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008052</Quest>
+                                <Quest>1999908052</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008053</Quest>
+                                <Quest>1999908053</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008054</Quest>
+                                <Quest>1999908054</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008055</Quest>
+                                <Quest>1999908055</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008056</Quest>
+                                <Quest>1999908056</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008057</Quest>
+                                <Quest>1999908057</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008058</Quest>
+                                <Quest>1999908058</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008059</Quest>
+                                <Quest>1999908059</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008060</Quest>
+                                <Quest>1999908060</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008061</Quest>
+                                <Quest>1999908061</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008062</Quest>
+                                <Quest>1999908062</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008063</Quest>
+                                <Quest>1999908063</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008064</Quest>
+                                <Quest>1999908064</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008065</Quest>
+                                <Quest>1999908065</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008066</Quest>
+                                <Quest>1999908066</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008067</Quest>
+                                <Quest>1999908067</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008068</Quest>
+                                <Quest>1999908068</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008069</Quest>
+                                <Quest>1999908069</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008070</Quest>
+                                <Quest>1999908070</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008071</Quest>
+                                <Quest>1999908071</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008072</Quest>
+                                <Quest>1999908072</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008073</Quest>
+                                <Quest>1999908073</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008074</Quest>
+                                <Quest>1999908074</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008075</Quest>
+                                <Quest>1999908075</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008076</Quest>
+                                <Quest>1999908076</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008077</Quest>
+                                <Quest>1999908077</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008078</Quest>
+                                <Quest>1999908078</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008079</Quest>
+                                <Quest>1999908079</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008080</Quest>
+                                <Quest>1999908080</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008081</Quest>
+                                <Quest>1999908081</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008082</Quest>
+                                <Quest>1999908082</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008083</Quest>
+                                <Quest>1999908083</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1458,7 +1458,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008043</GUID>
+                        <GUID>1999908043</GUID>
                         <Name>Delete bufffactory skull_and_bones+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1813,8 +1813,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1856,7 +1856,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008044</GUID>
+                        <GUID>1999908044</GUID>
                         <Name>spawn bufffactory skull_and_bones+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2222,8 +2222,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2243,8 +2243,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2286,7 +2286,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008045</GUID>
+                        <GUID>1999908045</GUID>
                         <Name>spawn bufffactory skull_and_bones+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2653,8 +2653,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2674,8 +2674,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2717,7 +2717,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008046</GUID>
+                        <GUID>1999908046</GUID>
                         <Name>spawn bufffactory skull_and_bones+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3084,8 +3084,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3105,8 +3105,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3148,7 +3148,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008047</GUID>
+                        <GUID>1999908047</GUID>
                         <Name>spawn bufffactory skull_and_bones+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3515,8 +3515,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3536,8 +3536,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3579,7 +3579,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008048</GUID>
+                        <GUID>1999908048</GUID>
                         <Name>spawn bufffactory skull_and_bones+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3946,8 +3946,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3967,8 +3967,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4010,7 +4010,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008049</GUID>
+                        <GUID>1999908049</GUID>
                         <Name>spawn bufffactory skull_and_bones+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4377,8 +4377,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4398,8 +4398,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4441,7 +4441,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008050</GUID>
+                        <GUID>1999908050</GUID>
                         <Name>spawn bufffactory skull_and_bones+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4808,8 +4808,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4829,8 +4829,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4872,7 +4872,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008051</GUID>
+                        <GUID>1999908051</GUID>
                         <Name>spawn bufffactory skull_and_bones+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5239,8 +5239,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5260,8 +5260,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5303,7 +5303,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008052</GUID>
+                        <GUID>1999908052</GUID>
                         <Name>spawn bufffactory skull_and_bones+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5670,8 +5670,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5691,8 +5691,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5734,7 +5734,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008053</GUID>
+                        <GUID>1999908053</GUID>
                         <Name>spawn bufffactory skull_and_bones+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6101,8 +6101,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6122,8 +6122,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6165,7 +6165,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008054</GUID>
+                        <GUID>1999908054</GUID>
                         <Name>spawn bufffactory skull_and_bones+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6532,8 +6532,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6553,8 +6553,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6596,7 +6596,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008055</GUID>
+                        <GUID>1999908055</GUID>
                         <Name>spawn bufffactory skull_and_bones+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6963,8 +6963,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6984,8 +6984,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7027,7 +7027,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008056</GUID>
+                        <GUID>1999908056</GUID>
                         <Name>spawn bufffactory skull_and_bones+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7394,8 +7394,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7415,8 +7415,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7458,7 +7458,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008057</GUID>
+                        <GUID>1999908057</GUID>
                         <Name>spawn bufffactory skull_and_bones+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7825,8 +7825,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7846,8 +7846,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7889,7 +7889,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008058</GUID>
+                        <GUID>1999908058</GUID>
                         <Name>spawn bufffactory skull_and_bones+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8256,8 +8256,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8277,8 +8277,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8320,7 +8320,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008059</GUID>
+                        <GUID>1999908059</GUID>
                         <Name>spawn bufffactory skull_and_bones+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8687,8 +8687,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8708,8 +8708,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8751,7 +8751,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008060</GUID>
+                        <GUID>1999908060</GUID>
                         <Name>spawn bufffactory skull_and_bones+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9103,8 +9103,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9124,8 +9124,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9167,7 +9167,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008061</GUID>
+                        <GUID>1999908061</GUID>
                         <Name>spawn bufffactory skull_and_bones+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9519,8 +9519,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9540,8 +9540,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9583,7 +9583,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008062</GUID>
+                        <GUID>1999908062</GUID>
                         <Name>spawn bufffactory skull_and_bones+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9935,8 +9935,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9956,8 +9956,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9999,7 +9999,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008063</GUID>
+                        <GUID>1999908063</GUID>
                         <Name>spawn bufffactory skull_and_bones+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10350,8 +10350,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10392,7 +10392,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008064</GUID>
+                        <GUID>1999908064</GUID>
                         <Name>remove skull_and_bones+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10484,7 +10484,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008065</GUID>
+                        <GUID>1999908065</GUID>
                         <Name>remove skull_and_bones+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10576,7 +10576,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008066</GUID>
+                        <GUID>1999908066</GUID>
                         <Name>remove skull_and_bones+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10668,7 +10668,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008067</GUID>
+                        <GUID>1999908067</GUID>
                         <Name>remove skull_and_bones+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10760,7 +10760,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008068</GUID>
+                        <GUID>1999908068</GUID>
                         <Name>remove skull_and_bones+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10852,7 +10852,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008069</GUID>
+                        <GUID>1999908069</GUID>
                         <Name>remove skull_and_bones+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10944,7 +10944,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008070</GUID>
+                        <GUID>1999908070</GUID>
                         <Name>remove skull_and_bones+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11036,7 +11036,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008071</GUID>
+                        <GUID>1999908071</GUID>
                         <Name>remove skull_and_bones+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11128,7 +11128,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008072</GUID>
+                        <GUID>1999908072</GUID>
                         <Name>remove skull_and_bones+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11220,7 +11220,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008073</GUID>
+                        <GUID>1999908073</GUID>
                         <Name>remove skull_and_bones+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11312,7 +11312,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008074</GUID>
+                        <GUID>1999908074</GUID>
                         <Name>remove skull_and_bones+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11404,7 +11404,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008075</GUID>
+                        <GUID>1999908075</GUID>
                         <Name>remove skull_and_bones+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11496,7 +11496,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008076</GUID>
+                        <GUID>1999908076</GUID>
                         <Name>remove skull_and_bones+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11588,7 +11588,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008077</GUID>
+                        <GUID>1999908077</GUID>
                         <Name>remove skull_and_bones+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11680,7 +11680,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008078</GUID>
+                        <GUID>1999908078</GUID>
                         <Name>remove skull_and_bones+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11772,7 +11772,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008079</GUID>
+                        <GUID>1999908079</GUID>
                         <Name>remove skull_and_bones+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11864,7 +11864,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008080</GUID>
+                        <GUID>1999908080</GUID>
                         <Name>remove skull_and_bones+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11956,7 +11956,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008081</GUID>
+                        <GUID>1999908081</GUID>
                         <Name>remove skull_and_bones+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12048,7 +12048,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008082</GUID>
+                        <GUID>1999908082</GUID>
                         <Name>remove skull_and_bones+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12140,7 +12140,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008083</GUID>
+                        <GUID>1999908083</GUID>
                         <Name>remove skull_and_bones+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

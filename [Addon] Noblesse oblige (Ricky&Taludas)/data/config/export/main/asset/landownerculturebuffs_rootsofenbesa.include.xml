@@ -1116,127 +1116,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009243</Quest>
+                                <Quest>1999909243</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009244</Quest>
+                                <Quest>1999909244</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009245</Quest>
+                                <Quest>1999909245</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009246</Quest>
+                                <Quest>1999909246</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009247</Quest>
+                                <Quest>1999909247</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009248</Quest>
+                                <Quest>1999909248</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009249</Quest>
+                                <Quest>1999909249</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009250</Quest>
+                                <Quest>1999909250</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009251</Quest>
+                                <Quest>1999909251</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009252</Quest>
+                                <Quest>1999909252</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009253</Quest>
+                                <Quest>1999909253</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009254</Quest>
+                                <Quest>1999909254</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009255</Quest>
+                                <Quest>1999909255</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009256</Quest>
+                                <Quest>1999909256</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009257</Quest>
+                                <Quest>1999909257</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009258</Quest>
+                                <Quest>1999909258</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009259</Quest>
+                                <Quest>1999909259</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009260</Quest>
+                                <Quest>1999909260</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009261</Quest>
+                                <Quest>1999909261</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009262</Quest>
+                                <Quest>1999909262</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009263</Quest>
+                                <Quest>1999909263</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009264</Quest>
+                                <Quest>1999909264</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009265</Quest>
+                                <Quest>1999909265</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009266</Quest>
+                                <Quest>1999909266</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009267</Quest>
+                                <Quest>1999909267</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009268</Quest>
+                                <Quest>1999909268</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009269</Quest>
+                                <Quest>1999909269</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009270</Quest>
+                                <Quest>1999909270</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009271</Quest>
+                                <Quest>1999909271</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009272</Quest>
+                                <Quest>1999909272</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009273</Quest>
+                                <Quest>1999909273</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009274</Quest>
+                                <Quest>1999909274</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009275</Quest>
+                                <Quest>1999909275</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009276</Quest>
+                                <Quest>1999909276</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009277</Quest>
+                                <Quest>1999909277</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009278</Quest>
+                                <Quest>1999909278</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009279</Quest>
+                                <Quest>1999909279</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009280</Quest>
+                                <Quest>1999909280</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009281</Quest>
+                                <Quest>1999909281</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009282</Quest>
+                                <Quest>1999909282</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009283</Quest>
+                                <Quest>1999909283</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1258,7 +1258,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009243</GUID>
+                        <GUID>1999909243</GUID>
                         <Name>Delete bufffactory roots_of_enbesa+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1613,8 +1613,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1656,7 +1656,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009244</GUID>
+                        <GUID>1999909244</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2022,8 +2022,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2043,8 +2043,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2086,7 +2086,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009245</GUID>
+                        <GUID>1999909245</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2453,8 +2453,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2474,8 +2474,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2517,7 +2517,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009246</GUID>
+                        <GUID>1999909246</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -2884,8 +2884,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2905,8 +2905,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2948,7 +2948,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009247</GUID>
+                        <GUID>1999909247</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3315,8 +3315,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3336,8 +3336,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3379,7 +3379,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009248</GUID>
+                        <GUID>1999909248</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3746,8 +3746,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3767,8 +3767,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3810,7 +3810,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009249</GUID>
+                        <GUID>1999909249</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4177,8 +4177,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4198,8 +4198,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4241,7 +4241,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009250</GUID>
+                        <GUID>1999909250</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4608,8 +4608,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4629,8 +4629,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4672,7 +4672,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009251</GUID>
+                        <GUID>1999909251</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5039,8 +5039,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5060,8 +5060,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5103,7 +5103,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009252</GUID>
+                        <GUID>1999909252</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5470,8 +5470,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5491,8 +5491,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5534,7 +5534,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009253</GUID>
+                        <GUID>1999909253</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -5901,8 +5901,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5922,8 +5922,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5965,7 +5965,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009254</GUID>
+                        <GUID>1999909254</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6332,8 +6332,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6353,8 +6353,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6396,7 +6396,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009255</GUID>
+                        <GUID>1999909255</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6763,8 +6763,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6784,8 +6784,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6827,7 +6827,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009256</GUID>
+                        <GUID>1999909256</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7194,8 +7194,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7215,8 +7215,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7258,7 +7258,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009257</GUID>
+                        <GUID>1999909257</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7625,8 +7625,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7646,8 +7646,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7689,7 +7689,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009258</GUID>
+                        <GUID>1999909258</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8056,8 +8056,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8077,8 +8077,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8120,7 +8120,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009259</GUID>
+                        <GUID>1999909259</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8487,8 +8487,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8508,8 +8508,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8551,7 +8551,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009260</GUID>
+                        <GUID>1999909260</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -8903,8 +8903,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8924,8 +8924,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8967,7 +8967,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009261</GUID>
+                        <GUID>1999909261</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9319,8 +9319,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9340,8 +9340,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9383,7 +9383,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009262</GUID>
+                        <GUID>1999909262</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9735,8 +9735,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9756,8 +9756,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9799,7 +9799,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009263</GUID>
+                        <GUID>1999909263</GUID>
                         <Name>spawn bufffactory roots_of_enbesa+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10150,8 +10150,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10192,7 +10192,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009264</GUID>
+                        <GUID>1999909264</GUID>
                         <Name>remove roots_of_enbesa+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10284,7 +10284,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009265</GUID>
+                        <GUID>1999909265</GUID>
                         <Name>remove roots_of_enbesa+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10376,7 +10376,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009266</GUID>
+                        <GUID>1999909266</GUID>
                         <Name>remove roots_of_enbesa+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10468,7 +10468,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009267</GUID>
+                        <GUID>1999909267</GUID>
                         <Name>remove roots_of_enbesa+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10560,7 +10560,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009268</GUID>
+                        <GUID>1999909268</GUID>
                         <Name>remove roots_of_enbesa+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10652,7 +10652,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009269</GUID>
+                        <GUID>1999909269</GUID>
                         <Name>remove roots_of_enbesa+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10744,7 +10744,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009270</GUID>
+                        <GUID>1999909270</GUID>
                         <Name>remove roots_of_enbesa+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10836,7 +10836,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009271</GUID>
+                        <GUID>1999909271</GUID>
                         <Name>remove roots_of_enbesa+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10928,7 +10928,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009272</GUID>
+                        <GUID>1999909272</GUID>
                         <Name>remove roots_of_enbesa+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11020,7 +11020,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009273</GUID>
+                        <GUID>1999909273</GUID>
                         <Name>remove roots_of_enbesa+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11112,7 +11112,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009274</GUID>
+                        <GUID>1999909274</GUID>
                         <Name>remove roots_of_enbesa+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11204,7 +11204,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009275</GUID>
+                        <GUID>1999909275</GUID>
                         <Name>remove roots_of_enbesa+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11296,7 +11296,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009276</GUID>
+                        <GUID>1999909276</GUID>
                         <Name>remove roots_of_enbesa+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11388,7 +11388,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009277</GUID>
+                        <GUID>1999909277</GUID>
                         <Name>remove roots_of_enbesa+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11480,7 +11480,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009278</GUID>
+                        <GUID>1999909278</GUID>
                         <Name>remove roots_of_enbesa+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11572,7 +11572,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009279</GUID>
+                        <GUID>1999909279</GUID>
                         <Name>remove roots_of_enbesa+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11664,7 +11664,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009280</GUID>
+                        <GUID>1999909280</GUID>
                         <Name>remove roots_of_enbesa+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11756,7 +11756,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009281</GUID>
+                        <GUID>1999909281</GUID>
                         <Name>remove roots_of_enbesa+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11848,7 +11848,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009282</GUID>
+                        <GUID>1999909282</GUID>
                         <Name>remove roots_of_enbesa+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11940,7 +11940,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009283</GUID>
+                        <GUID>1999909283</GUID>
                         <Name>remove roots_of_enbesa+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

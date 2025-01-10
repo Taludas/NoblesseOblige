@@ -1419,127 +1419,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999010043</Quest>
+                                <Quest>1999910043</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010044</Quest>
+                                <Quest>1999910044</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010045</Quest>
+                                <Quest>1999910045</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010046</Quest>
+                                <Quest>1999910046</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010047</Quest>
+                                <Quest>1999910047</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010048</Quest>
+                                <Quest>1999910048</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010049</Quest>
+                                <Quest>1999910049</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010050</Quest>
+                                <Quest>1999910050</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010051</Quest>
+                                <Quest>1999910051</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010052</Quest>
+                                <Quest>1999910052</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010053</Quest>
+                                <Quest>1999910053</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010054</Quest>
+                                <Quest>1999910054</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010055</Quest>
+                                <Quest>1999910055</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010056</Quest>
+                                <Quest>1999910056</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010057</Quest>
+                                <Quest>1999910057</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010058</Quest>
+                                <Quest>1999910058</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010059</Quest>
+                                <Quest>1999910059</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010060</Quest>
+                                <Quest>1999910060</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010061</Quest>
+                                <Quest>1999910061</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010062</Quest>
+                                <Quest>1999910062</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010063</Quest>
+                                <Quest>1999910063</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010064</Quest>
+                                <Quest>1999910064</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010065</Quest>
+                                <Quest>1999910065</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010066</Quest>
+                                <Quest>1999910066</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010067</Quest>
+                                <Quest>1999910067</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010068</Quest>
+                                <Quest>1999910068</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010069</Quest>
+                                <Quest>1999910069</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010070</Quest>
+                                <Quest>1999910070</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010071</Quest>
+                                <Quest>1999910071</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010072</Quest>
+                                <Quest>1999910072</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010073</Quest>
+                                <Quest>1999910073</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010074</Quest>
+                                <Quest>1999910074</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010075</Quest>
+                                <Quest>1999910075</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010076</Quest>
+                                <Quest>1999910076</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010077</Quest>
+                                <Quest>1999910077</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010078</Quest>
+                                <Quest>1999910078</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010079</Quest>
+                                <Quest>1999910079</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010080</Quest>
+                                <Quest>1999910080</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010081</Quest>
+                                <Quest>1999910081</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010082</Quest>
+                                <Quest>1999910082</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010083</Quest>
+                                <Quest>1999910083</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1561,7 +1561,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010043</GUID>
+                        <GUID>1999910043</GUID>
                         <Name>Delete bufffactory andean+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1916,8 +1916,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1959,7 +1959,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010044</GUID>
+                        <GUID>1999910044</GUID>
                         <Name>spawn bufffactory andean+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2325,8 +2325,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2346,8 +2346,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2389,7 +2389,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010045</GUID>
+                        <GUID>1999910045</GUID>
                         <Name>spawn bufffactory andean+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2756,8 +2756,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2777,8 +2777,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2820,7 +2820,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010046</GUID>
+                        <GUID>1999910046</GUID>
                         <Name>spawn bufffactory andean+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3187,8 +3187,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3208,8 +3208,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3251,7 +3251,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010047</GUID>
+                        <GUID>1999910047</GUID>
                         <Name>spawn bufffactory andean+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3618,8 +3618,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3639,8 +3639,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3682,7 +3682,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010048</GUID>
+                        <GUID>1999910048</GUID>
                         <Name>spawn bufffactory andean+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4049,8 +4049,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4070,8 +4070,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4113,7 +4113,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010049</GUID>
+                        <GUID>1999910049</GUID>
                         <Name>spawn bufffactory andean+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4480,8 +4480,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4501,8 +4501,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4544,7 +4544,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010050</GUID>
+                        <GUID>1999910050</GUID>
                         <Name>spawn bufffactory andean+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4911,8 +4911,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4932,8 +4932,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4975,7 +4975,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010051</GUID>
+                        <GUID>1999910051</GUID>
                         <Name>spawn bufffactory andean+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5342,8 +5342,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5363,8 +5363,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5406,7 +5406,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010052</GUID>
+                        <GUID>1999910052</GUID>
                         <Name>spawn bufffactory andean+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5773,8 +5773,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5794,8 +5794,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5837,7 +5837,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010053</GUID>
+                        <GUID>1999910053</GUID>
                         <Name>spawn bufffactory andean+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6204,8 +6204,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6225,8 +6225,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6268,7 +6268,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010054</GUID>
+                        <GUID>1999910054</GUID>
                         <Name>spawn bufffactory andean+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6635,8 +6635,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6656,8 +6656,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6699,7 +6699,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010055</GUID>
+                        <GUID>1999910055</GUID>
                         <Name>spawn bufffactory andean+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7066,8 +7066,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7087,8 +7087,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7130,7 +7130,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010056</GUID>
+                        <GUID>1999910056</GUID>
                         <Name>spawn bufffactory andean+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7497,8 +7497,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7518,8 +7518,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7561,7 +7561,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010057</GUID>
+                        <GUID>1999910057</GUID>
                         <Name>spawn bufffactory andean+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7928,8 +7928,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7949,8 +7949,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7992,7 +7992,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010058</GUID>
+                        <GUID>1999910058</GUID>
                         <Name>spawn bufffactory andean+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8359,8 +8359,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8380,8 +8380,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8423,7 +8423,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010059</GUID>
+                        <GUID>1999910059</GUID>
                         <Name>spawn bufffactory andean+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8790,8 +8790,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8811,8 +8811,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8854,7 +8854,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010060</GUID>
+                        <GUID>1999910060</GUID>
                         <Name>spawn bufffactory andean+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9206,8 +9206,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9227,8 +9227,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9270,7 +9270,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010061</GUID>
+                        <GUID>1999910061</GUID>
                         <Name>spawn bufffactory andean+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9622,8 +9622,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9643,8 +9643,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9686,7 +9686,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010062</GUID>
+                        <GUID>1999910062</GUID>
                         <Name>spawn bufffactory andean+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10038,8 +10038,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10059,8 +10059,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10102,7 +10102,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010063</GUID>
+                        <GUID>1999910063</GUID>
                         <Name>spawn bufffactory andean+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10453,8 +10453,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10495,7 +10495,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010064</GUID>
+                        <GUID>1999910064</GUID>
                         <Name>remove andean+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10587,7 +10587,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010065</GUID>
+                        <GUID>1999910065</GUID>
                         <Name>remove andean+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10679,7 +10679,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010066</GUID>
+                        <GUID>1999910066</GUID>
                         <Name>remove andean+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10771,7 +10771,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010067</GUID>
+                        <GUID>1999910067</GUID>
                         <Name>remove andean+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10863,7 +10863,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010068</GUID>
+                        <GUID>1999910068</GUID>
                         <Name>remove andean+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10955,7 +10955,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010069</GUID>
+                        <GUID>1999910069</GUID>
                         <Name>remove andean+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11047,7 +11047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010070</GUID>
+                        <GUID>1999910070</GUID>
                         <Name>remove andean+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11139,7 +11139,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010071</GUID>
+                        <GUID>1999910071</GUID>
                         <Name>remove andean+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11231,7 +11231,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010072</GUID>
+                        <GUID>1999910072</GUID>
                         <Name>remove andean+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11323,7 +11323,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010073</GUID>
+                        <GUID>1999910073</GUID>
                         <Name>remove andean+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11415,7 +11415,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010074</GUID>
+                        <GUID>1999910074</GUID>
                         <Name>remove andean+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11507,7 +11507,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010075</GUID>
+                        <GUID>1999910075</GUID>
                         <Name>remove andean+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11599,7 +11599,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010076</GUID>
+                        <GUID>1999910076</GUID>
                         <Name>remove andean+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11691,7 +11691,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010077</GUID>
+                        <GUID>1999910077</GUID>
                         <Name>remove andean+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11783,7 +11783,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010078</GUID>
+                        <GUID>1999910078</GUID>
                         <Name>remove andean+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11875,7 +11875,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010079</GUID>
+                        <GUID>1999910079</GUID>
                         <Name>remove andean+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11967,7 +11967,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010080</GUID>
+                        <GUID>1999910080</GUID>
                         <Name>remove andean+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12059,7 +12059,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010081</GUID>
+                        <GUID>1999910081</GUID>
                         <Name>remove andean+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12151,7 +12151,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010082</GUID>
+                        <GUID>1999910082</GUID>
                         <Name>remove andean+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12243,7 +12243,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010083</GUID>
+                        <GUID>1999910083</GUID>
                         <Name>remove andean+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

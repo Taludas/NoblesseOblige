@@ -1488,127 +1488,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007643</Quest>
+                                <Quest>1999907643</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007644</Quest>
+                                <Quest>1999907644</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007645</Quest>
+                                <Quest>1999907645</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007646</Quest>
+                                <Quest>1999907646</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007647</Quest>
+                                <Quest>1999907647</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007648</Quest>
+                                <Quest>1999907648</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007649</Quest>
+                                <Quest>1999907649</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007650</Quest>
+                                <Quest>1999907650</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007651</Quest>
+                                <Quest>1999907651</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007652</Quest>
+                                <Quest>1999907652</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007653</Quest>
+                                <Quest>1999907653</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007654</Quest>
+                                <Quest>1999907654</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007655</Quest>
+                                <Quest>1999907655</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007656</Quest>
+                                <Quest>1999907656</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007657</Quest>
+                                <Quest>1999907657</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007658</Quest>
+                                <Quest>1999907658</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007659</Quest>
+                                <Quest>1999907659</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007660</Quest>
+                                <Quest>1999907660</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007661</Quest>
+                                <Quest>1999907661</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007662</Quest>
+                                <Quest>1999907662</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007663</Quest>
+                                <Quest>1999907663</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007664</Quest>
+                                <Quest>1999907664</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007665</Quest>
+                                <Quest>1999907665</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007666</Quest>
+                                <Quest>1999907666</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007667</Quest>
+                                <Quest>1999907667</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007668</Quest>
+                                <Quest>1999907668</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007669</Quest>
+                                <Quest>1999907669</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007670</Quest>
+                                <Quest>1999907670</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007671</Quest>
+                                <Quest>1999907671</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007672</Quest>
+                                <Quest>1999907672</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007673</Quest>
+                                <Quest>1999907673</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007674</Quest>
+                                <Quest>1999907674</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007675</Quest>
+                                <Quest>1999907675</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007676</Quest>
+                                <Quest>1999907676</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007677</Quest>
+                                <Quest>1999907677</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007678</Quest>
+                                <Quest>1999907678</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007679</Quest>
+                                <Quest>1999907679</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007680</Quest>
+                                <Quest>1999907680</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007681</Quest>
+                                <Quest>1999907681</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007682</Quest>
+                                <Quest>1999907682</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007683</Quest>
+                                <Quest>1999907683</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1630,7 +1630,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007643</GUID>
+                        <GUID>1999907643</GUID>
                         <Name>Delete bufffactory miombo_woodlands+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1985,8 +1985,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2028,7 +2028,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007644</GUID>
+                        <GUID>1999907644</GUID>
                         <Name>spawn bufffactory miombo_woodlands+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2394,8 +2394,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2415,8 +2415,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2458,7 +2458,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007645</GUID>
+                        <GUID>1999907645</GUID>
                         <Name>spawn bufffactory miombo_woodlands+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2825,8 +2825,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2846,8 +2846,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2889,7 +2889,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007646</GUID>
+                        <GUID>1999907646</GUID>
                         <Name>spawn bufffactory miombo_woodlands+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3256,8 +3256,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3277,8 +3277,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3320,7 +3320,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007647</GUID>
+                        <GUID>1999907647</GUID>
                         <Name>spawn bufffactory miombo_woodlands+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3687,8 +3687,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3708,8 +3708,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3751,7 +3751,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007648</GUID>
+                        <GUID>1999907648</GUID>
                         <Name>spawn bufffactory miombo_woodlands+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4118,8 +4118,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4139,8 +4139,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4182,7 +4182,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007649</GUID>
+                        <GUID>1999907649</GUID>
                         <Name>spawn bufffactory miombo_woodlands+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4549,8 +4549,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4570,8 +4570,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4613,7 +4613,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007650</GUID>
+                        <GUID>1999907650</GUID>
                         <Name>spawn bufffactory miombo_woodlands+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4980,8 +4980,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5001,8 +5001,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5044,7 +5044,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007651</GUID>
+                        <GUID>1999907651</GUID>
                         <Name>spawn bufffactory miombo_woodlands+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5411,8 +5411,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5432,8 +5432,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5475,7 +5475,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007652</GUID>
+                        <GUID>1999907652</GUID>
                         <Name>spawn bufffactory miombo_woodlands+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5842,8 +5842,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5863,8 +5863,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5906,7 +5906,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007653</GUID>
+                        <GUID>1999907653</GUID>
                         <Name>spawn bufffactory miombo_woodlands+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6273,8 +6273,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6294,8 +6294,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6337,7 +6337,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007654</GUID>
+                        <GUID>1999907654</GUID>
                         <Name>spawn bufffactory miombo_woodlands+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6704,8 +6704,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6725,8 +6725,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6768,7 +6768,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007655</GUID>
+                        <GUID>1999907655</GUID>
                         <Name>spawn bufffactory miombo_woodlands+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7135,8 +7135,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7156,8 +7156,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7199,7 +7199,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007656</GUID>
+                        <GUID>1999907656</GUID>
                         <Name>spawn bufffactory miombo_woodlands+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7566,8 +7566,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7587,8 +7587,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7630,7 +7630,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007657</GUID>
+                        <GUID>1999907657</GUID>
                         <Name>spawn bufffactory miombo_woodlands+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7997,8 +7997,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8018,8 +8018,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8061,7 +8061,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007658</GUID>
+                        <GUID>1999907658</GUID>
                         <Name>spawn bufffactory miombo_woodlands+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8428,8 +8428,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8449,8 +8449,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8492,7 +8492,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007659</GUID>
+                        <GUID>1999907659</GUID>
                         <Name>spawn bufffactory miombo_woodlands+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8859,8 +8859,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8880,8 +8880,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8923,7 +8923,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007660</GUID>
+                        <GUID>1999907660</GUID>
                         <Name>spawn bufffactory miombo_woodlands+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9275,8 +9275,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9296,8 +9296,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9339,7 +9339,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007661</GUID>
+                        <GUID>1999907661</GUID>
                         <Name>spawn bufffactory miombo_woodlands+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9691,8 +9691,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9712,8 +9712,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9755,7 +9755,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007662</GUID>
+                        <GUID>1999907662</GUID>
                         <Name>spawn bufffactory miombo_woodlands+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10107,8 +10107,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10128,8 +10128,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10171,7 +10171,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007663</GUID>
+                        <GUID>1999907663</GUID>
                         <Name>spawn bufffactory miombo_woodlands+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10522,8 +10522,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10564,7 +10564,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007664</GUID>
+                        <GUID>1999907664</GUID>
                         <Name>remove miombo_woodlands+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10656,7 +10656,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007665</GUID>
+                        <GUID>1999907665</GUID>
                         <Name>remove miombo_woodlands+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10748,7 +10748,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007666</GUID>
+                        <GUID>1999907666</GUID>
                         <Name>remove miombo_woodlands+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10840,7 +10840,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007667</GUID>
+                        <GUID>1999907667</GUID>
                         <Name>remove miombo_woodlands+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10932,7 +10932,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007668</GUID>
+                        <GUID>1999907668</GUID>
                         <Name>remove miombo_woodlands+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11024,7 +11024,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007669</GUID>
+                        <GUID>1999907669</GUID>
                         <Name>remove miombo_woodlands+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11116,7 +11116,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007670</GUID>
+                        <GUID>1999907670</GUID>
                         <Name>remove miombo_woodlands+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11208,7 +11208,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007671</GUID>
+                        <GUID>1999907671</GUID>
                         <Name>remove miombo_woodlands+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11300,7 +11300,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007672</GUID>
+                        <GUID>1999907672</GUID>
                         <Name>remove miombo_woodlands+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11392,7 +11392,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007673</GUID>
+                        <GUID>1999907673</GUID>
                         <Name>remove miombo_woodlands+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11484,7 +11484,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007674</GUID>
+                        <GUID>1999907674</GUID>
                         <Name>remove miombo_woodlands+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11576,7 +11576,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007675</GUID>
+                        <GUID>1999907675</GUID>
                         <Name>remove miombo_woodlands+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11668,7 +11668,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007676</GUID>
+                        <GUID>1999907676</GUID>
                         <Name>remove miombo_woodlands+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11760,7 +11760,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007677</GUID>
+                        <GUID>1999907677</GUID>
                         <Name>remove miombo_woodlands+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11852,7 +11852,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007678</GUID>
+                        <GUID>1999907678</GUID>
                         <Name>remove miombo_woodlands+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11944,7 +11944,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007679</GUID>
+                        <GUID>1999907679</GUID>
                         <Name>remove miombo_woodlands+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12036,7 +12036,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007680</GUID>
+                        <GUID>1999907680</GUID>
                         <Name>remove miombo_woodlands+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12128,7 +12128,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007681</GUID>
+                        <GUID>1999907681</GUID>
                         <Name>remove miombo_woodlands+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12220,7 +12220,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007682</GUID>
+                        <GUID>1999907682</GUID>
                         <Name>remove miombo_woodlands+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12312,7 +12312,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007683</GUID>
+                        <GUID>1999907683</GUID>
                         <Name>remove miombo_woodlands+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

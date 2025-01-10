@@ -1223,127 +1223,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999006443</Quest>
+                                <Quest>1999906443</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006444</Quest>
+                                <Quest>1999906444</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006445</Quest>
+                                <Quest>1999906445</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006446</Quest>
+                                <Quest>1999906446</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006447</Quest>
+                                <Quest>1999906447</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006448</Quest>
+                                <Quest>1999906448</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006449</Quest>
+                                <Quest>1999906449</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006450</Quest>
+                                <Quest>1999906450</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006451</Quest>
+                                <Quest>1999906451</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006452</Quest>
+                                <Quest>1999906452</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006453</Quest>
+                                <Quest>1999906453</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006454</Quest>
+                                <Quest>1999906454</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006455</Quest>
+                                <Quest>1999906455</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006456</Quest>
+                                <Quest>1999906456</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006457</Quest>
+                                <Quest>1999906457</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006458</Quest>
+                                <Quest>1999906458</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006459</Quest>
+                                <Quest>1999906459</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006460</Quest>
+                                <Quest>1999906460</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006461</Quest>
+                                <Quest>1999906461</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006462</Quest>
+                                <Quest>1999906462</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006463</Quest>
+                                <Quest>1999906463</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006464</Quest>
+                                <Quest>1999906464</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006465</Quest>
+                                <Quest>1999906465</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006466</Quest>
+                                <Quest>1999906466</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006467</Quest>
+                                <Quest>1999906467</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006468</Quest>
+                                <Quest>1999906468</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006469</Quest>
+                                <Quest>1999906469</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006470</Quest>
+                                <Quest>1999906470</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006471</Quest>
+                                <Quest>1999906471</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006472</Quest>
+                                <Quest>1999906472</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006473</Quest>
+                                <Quest>1999906473</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006474</Quest>
+                                <Quest>1999906474</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006475</Quest>
+                                <Quest>1999906475</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006476</Quest>
+                                <Quest>1999906476</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006477</Quest>
+                                <Quest>1999906477</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006478</Quest>
+                                <Quest>1999906478</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006479</Quest>
+                                <Quest>1999906479</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006480</Quest>
+                                <Quest>1999906480</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006481</Quest>
+                                <Quest>1999906481</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006482</Quest>
+                                <Quest>1999906482</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006483</Quest>
+                                <Quest>1999906483</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1365,7 +1365,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006443</GUID>
+                        <GUID>1999906443</GUID>
                         <Name>Delete bufffactory easternjungle+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1720,8 +1720,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1763,7 +1763,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006444</GUID>
+                        <GUID>1999906444</GUID>
                         <Name>spawn bufffactory easternjungle+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2129,8 +2129,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2150,8 +2150,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2193,7 +2193,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006445</GUID>
+                        <GUID>1999906445</GUID>
                         <Name>spawn bufffactory easternjungle+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2560,8 +2560,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2581,8 +2581,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2624,7 +2624,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006446</GUID>
+                        <GUID>1999906446</GUID>
                         <Name>spawn bufffactory easternjungle+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -2991,8 +2991,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3012,8 +3012,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3055,7 +3055,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006447</GUID>
+                        <GUID>1999906447</GUID>
                         <Name>spawn bufffactory easternjungle+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3422,8 +3422,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3443,8 +3443,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3486,7 +3486,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006448</GUID>
+                        <GUID>1999906448</GUID>
                         <Name>spawn bufffactory easternjungle+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3853,8 +3853,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3874,8 +3874,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3917,7 +3917,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006449</GUID>
+                        <GUID>1999906449</GUID>
                         <Name>spawn bufffactory easternjungle+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4284,8 +4284,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4305,8 +4305,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4348,7 +4348,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006450</GUID>
+                        <GUID>1999906450</GUID>
                         <Name>spawn bufffactory easternjungle+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4715,8 +4715,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4736,8 +4736,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4779,7 +4779,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006451</GUID>
+                        <GUID>1999906451</GUID>
                         <Name>spawn bufffactory easternjungle+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5146,8 +5146,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5167,8 +5167,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5210,7 +5210,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006452</GUID>
+                        <GUID>1999906452</GUID>
                         <Name>spawn bufffactory easternjungle+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5577,8 +5577,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5598,8 +5598,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5641,7 +5641,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006453</GUID>
+                        <GUID>1999906453</GUID>
                         <Name>spawn bufffactory easternjungle+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6008,8 +6008,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6029,8 +6029,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6072,7 +6072,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006454</GUID>
+                        <GUID>1999906454</GUID>
                         <Name>spawn bufffactory easternjungle+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6439,8 +6439,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6460,8 +6460,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6503,7 +6503,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006455</GUID>
+                        <GUID>1999906455</GUID>
                         <Name>spawn bufffactory easternjungle+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6870,8 +6870,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6891,8 +6891,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6934,7 +6934,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006456</GUID>
+                        <GUID>1999906456</GUID>
                         <Name>spawn bufffactory easternjungle+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7301,8 +7301,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7322,8 +7322,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7365,7 +7365,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006457</GUID>
+                        <GUID>1999906457</GUID>
                         <Name>spawn bufffactory easternjungle+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7732,8 +7732,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7753,8 +7753,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7796,7 +7796,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006458</GUID>
+                        <GUID>1999906458</GUID>
                         <Name>spawn bufffactory easternjungle+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8163,8 +8163,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8184,8 +8184,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8227,7 +8227,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006459</GUID>
+                        <GUID>1999906459</GUID>
                         <Name>spawn bufffactory easternjungle+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8594,8 +8594,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8615,8 +8615,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8658,7 +8658,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006460</GUID>
+                        <GUID>1999906460</GUID>
                         <Name>spawn bufffactory easternjungle+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9010,8 +9010,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9031,8 +9031,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9074,7 +9074,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006461</GUID>
+                        <GUID>1999906461</GUID>
                         <Name>spawn bufffactory easternjungle+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9426,8 +9426,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9447,8 +9447,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9490,7 +9490,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006462</GUID>
+                        <GUID>1999906462</GUID>
                         <Name>spawn bufffactory easternjungle+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9842,8 +9842,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9863,8 +9863,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9906,7 +9906,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006463</GUID>
+                        <GUID>1999906463</GUID>
                         <Name>spawn bufffactory easternjungle+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10257,8 +10257,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10299,7 +10299,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006464</GUID>
+                        <GUID>1999906464</GUID>
                         <Name>remove easternjungle+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10391,7 +10391,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006465</GUID>
+                        <GUID>1999906465</GUID>
                         <Name>remove easternjungle+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10483,7 +10483,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006466</GUID>
+                        <GUID>1999906466</GUID>
                         <Name>remove easternjungle+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10575,7 +10575,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006467</GUID>
+                        <GUID>1999906467</GUID>
                         <Name>remove easternjungle+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10667,7 +10667,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006468</GUID>
+                        <GUID>1999906468</GUID>
                         <Name>remove easternjungle+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10759,7 +10759,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006469</GUID>
+                        <GUID>1999906469</GUID>
                         <Name>remove easternjungle+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10851,7 +10851,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006470</GUID>
+                        <GUID>1999906470</GUID>
                         <Name>remove easternjungle+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10943,7 +10943,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006471</GUID>
+                        <GUID>1999906471</GUID>
                         <Name>remove easternjungle+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11035,7 +11035,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006472</GUID>
+                        <GUID>1999906472</GUID>
                         <Name>remove easternjungle+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11127,7 +11127,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006473</GUID>
+                        <GUID>1999906473</GUID>
                         <Name>remove easternjungle+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11219,7 +11219,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006474</GUID>
+                        <GUID>1999906474</GUID>
                         <Name>remove easternjungle+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11311,7 +11311,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006475</GUID>
+                        <GUID>1999906475</GUID>
                         <Name>remove easternjungle+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11403,7 +11403,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006476</GUID>
+                        <GUID>1999906476</GUID>
                         <Name>remove easternjungle+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11495,7 +11495,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006477</GUID>
+                        <GUID>1999906477</GUID>
                         <Name>remove easternjungle+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11587,7 +11587,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006478</GUID>
+                        <GUID>1999906478</GUID>
                         <Name>remove easternjungle+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11679,7 +11679,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006479</GUID>
+                        <GUID>1999906479</GUID>
                         <Name>remove easternjungle+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11771,7 +11771,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006480</GUID>
+                        <GUID>1999906480</GUID>
                         <Name>remove easternjungle+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11863,7 +11863,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006481</GUID>
+                        <GUID>1999906481</GUID>
                         <Name>remove easternjungle+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11955,7 +11955,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006482</GUID>
+                        <GUID>1999906482</GUID>
                         <Name>remove easternjungle+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12047,7 +12047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006483</GUID>
+                        <GUID>1999906483</GUID>
                         <Name>remove easternjungle+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

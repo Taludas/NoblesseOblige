@@ -1236,127 +1236,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007343</Quest>
+                                <Quest>1999907343</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007344</Quest>
+                                <Quest>1999907344</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007345</Quest>
+                                <Quest>1999907345</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007346</Quest>
+                                <Quest>1999907346</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007347</Quest>
+                                <Quest>1999907347</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007348</Quest>
+                                <Quest>1999907348</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007349</Quest>
+                                <Quest>1999907349</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007350</Quest>
+                                <Quest>1999907350</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007351</Quest>
+                                <Quest>1999907351</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007352</Quest>
+                                <Quest>1999907352</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007353</Quest>
+                                <Quest>1999907353</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007354</Quest>
+                                <Quest>1999907354</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007355</Quest>
+                                <Quest>1999907355</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007356</Quest>
+                                <Quest>1999907356</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007357</Quest>
+                                <Quest>1999907357</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007358</Quest>
+                                <Quest>1999907358</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007359</Quest>
+                                <Quest>1999907359</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007360</Quest>
+                                <Quest>1999907360</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007361</Quest>
+                                <Quest>1999907361</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007362</Quest>
+                                <Quest>1999907362</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007363</Quest>
+                                <Quest>1999907363</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007364</Quest>
+                                <Quest>1999907364</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007365</Quest>
+                                <Quest>1999907365</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007366</Quest>
+                                <Quest>1999907366</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007367</Quest>
+                                <Quest>1999907367</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007368</Quest>
+                                <Quest>1999907368</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007369</Quest>
+                                <Quest>1999907369</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007370</Quest>
+                                <Quest>1999907370</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007371</Quest>
+                                <Quest>1999907371</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007372</Quest>
+                                <Quest>1999907372</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007373</Quest>
+                                <Quest>1999907373</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007374</Quest>
+                                <Quest>1999907374</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007375</Quest>
+                                <Quest>1999907375</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007376</Quest>
+                                <Quest>1999907376</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007377</Quest>
+                                <Quest>1999907377</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007378</Quest>
+                                <Quest>1999907378</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007379</Quest>
+                                <Quest>1999907379</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007380</Quest>
+                                <Quest>1999907380</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007381</Quest>
+                                <Quest>1999907381</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007382</Quest>
+                                <Quest>1999907382</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007383</Quest>
+                                <Quest>1999907383</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1378,7 +1378,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007343</GUID>
+                        <GUID>1999907343</GUID>
                         <Name>Delete bufffactory teeming_lakes+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1733,8 +1733,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1776,7 +1776,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007344</GUID>
+                        <GUID>1999907344</GUID>
                         <Name>spawn bufffactory teeming_lakes+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2142,8 +2142,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2163,8 +2163,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2206,7 +2206,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007345</GUID>
+                        <GUID>1999907345</GUID>
                         <Name>spawn bufffactory teeming_lakes+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2573,8 +2573,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2594,8 +2594,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2637,7 +2637,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007346</GUID>
+                        <GUID>1999907346</GUID>
                         <Name>spawn bufffactory teeming_lakes+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3004,8 +3004,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3025,8 +3025,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3068,7 +3068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007347</GUID>
+                        <GUID>1999907347</GUID>
                         <Name>spawn bufffactory teeming_lakes+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3435,8 +3435,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3456,8 +3456,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3499,7 +3499,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007348</GUID>
+                        <GUID>1999907348</GUID>
                         <Name>spawn bufffactory teeming_lakes+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3866,8 +3866,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3887,8 +3887,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3930,7 +3930,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007349</GUID>
+                        <GUID>1999907349</GUID>
                         <Name>spawn bufffactory teeming_lakes+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4297,8 +4297,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4318,8 +4318,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4361,7 +4361,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007350</GUID>
+                        <GUID>1999907350</GUID>
                         <Name>spawn bufffactory teeming_lakes+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4728,8 +4728,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4749,8 +4749,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4792,7 +4792,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007351</GUID>
+                        <GUID>1999907351</GUID>
                         <Name>spawn bufffactory teeming_lakes+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5159,8 +5159,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5180,8 +5180,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5223,7 +5223,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007352</GUID>
+                        <GUID>1999907352</GUID>
                         <Name>spawn bufffactory teeming_lakes+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5590,8 +5590,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5611,8 +5611,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5654,7 +5654,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007353</GUID>
+                        <GUID>1999907353</GUID>
                         <Name>spawn bufffactory teeming_lakes+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6021,8 +6021,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6042,8 +6042,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6085,7 +6085,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007354</GUID>
+                        <GUID>1999907354</GUID>
                         <Name>spawn bufffactory teeming_lakes+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6452,8 +6452,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6473,8 +6473,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6516,7 +6516,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007355</GUID>
+                        <GUID>1999907355</GUID>
                         <Name>spawn bufffactory teeming_lakes+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6883,8 +6883,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6904,8 +6904,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6947,7 +6947,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007356</GUID>
+                        <GUID>1999907356</GUID>
                         <Name>spawn bufffactory teeming_lakes+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7314,8 +7314,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7335,8 +7335,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7378,7 +7378,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007357</GUID>
+                        <GUID>1999907357</GUID>
                         <Name>spawn bufffactory teeming_lakes+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7745,8 +7745,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7766,8 +7766,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7809,7 +7809,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007358</GUID>
+                        <GUID>1999907358</GUID>
                         <Name>spawn bufffactory teeming_lakes+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8176,8 +8176,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8197,8 +8197,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8240,7 +8240,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007359</GUID>
+                        <GUID>1999907359</GUID>
                         <Name>spawn bufffactory teeming_lakes+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8607,8 +8607,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8628,8 +8628,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8671,7 +8671,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007360</GUID>
+                        <GUID>1999907360</GUID>
                         <Name>spawn bufffactory teeming_lakes+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9023,8 +9023,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9044,8 +9044,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9087,7 +9087,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007361</GUID>
+                        <GUID>1999907361</GUID>
                         <Name>spawn bufffactory teeming_lakes+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9439,8 +9439,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9460,8 +9460,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9503,7 +9503,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007362</GUID>
+                        <GUID>1999907362</GUID>
                         <Name>spawn bufffactory teeming_lakes+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9855,8 +9855,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9876,8 +9876,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9919,7 +9919,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007363</GUID>
+                        <GUID>1999907363</GUID>
                         <Name>spawn bufffactory teeming_lakes+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10270,8 +10270,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10312,7 +10312,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007364</GUID>
+                        <GUID>1999907364</GUID>
                         <Name>remove teeming_lakes+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10404,7 +10404,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007365</GUID>
+                        <GUID>1999907365</GUID>
                         <Name>remove teeming_lakes+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10496,7 +10496,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007366</GUID>
+                        <GUID>1999907366</GUID>
                         <Name>remove teeming_lakes+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10588,7 +10588,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007367</GUID>
+                        <GUID>1999907367</GUID>
                         <Name>remove teeming_lakes+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10680,7 +10680,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007368</GUID>
+                        <GUID>1999907368</GUID>
                         <Name>remove teeming_lakes+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10772,7 +10772,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007369</GUID>
+                        <GUID>1999907369</GUID>
                         <Name>remove teeming_lakes+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10864,7 +10864,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007370</GUID>
+                        <GUID>1999907370</GUID>
                         <Name>remove teeming_lakes+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10956,7 +10956,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007371</GUID>
+                        <GUID>1999907371</GUID>
                         <Name>remove teeming_lakes+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11048,7 +11048,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007372</GUID>
+                        <GUID>1999907372</GUID>
                         <Name>remove teeming_lakes+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11140,7 +11140,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007373</GUID>
+                        <GUID>1999907373</GUID>
                         <Name>remove teeming_lakes+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11232,7 +11232,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007374</GUID>
+                        <GUID>1999907374</GUID>
                         <Name>remove teeming_lakes+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11324,7 +11324,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007375</GUID>
+                        <GUID>1999907375</GUID>
                         <Name>remove teeming_lakes+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11416,7 +11416,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007376</GUID>
+                        <GUID>1999907376</GUID>
                         <Name>remove teeming_lakes+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11508,7 +11508,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007377</GUID>
+                        <GUID>1999907377</GUID>
                         <Name>remove teeming_lakes+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11600,7 +11600,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007378</GUID>
+                        <GUID>1999907378</GUID>
                         <Name>remove teeming_lakes+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11692,7 +11692,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007379</GUID>
+                        <GUID>1999907379</GUID>
                         <Name>remove teeming_lakes+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11784,7 +11784,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007380</GUID>
+                        <GUID>1999907380</GUID>
                         <Name>remove teeming_lakes+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11876,7 +11876,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007381</GUID>
+                        <GUID>1999907381</GUID>
                         <Name>remove teeming_lakes+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11968,7 +11968,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007382</GUID>
+                        <GUID>1999907382</GUID>
                         <Name>remove teeming_lakes+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12060,7 +12060,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007383</GUID>
+                        <GUID>1999907383</GUID>
                         <Name>remove teeming_lakes+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

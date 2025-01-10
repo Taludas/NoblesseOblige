@@ -1473,127 +1473,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999010143</Quest>
+                                <Quest>1999910143</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010144</Quest>
+                                <Quest>1999910144</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010145</Quest>
+                                <Quest>1999910145</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010146</Quest>
+                                <Quest>1999910146</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010147</Quest>
+                                <Quest>1999910147</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010148</Quest>
+                                <Quest>1999910148</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010149</Quest>
+                                <Quest>1999910149</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010150</Quest>
+                                <Quest>1999910150</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010151</Quest>
+                                <Quest>1999910151</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010152</Quest>
+                                <Quest>1999910152</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010153</Quest>
+                                <Quest>1999910153</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010154</Quest>
+                                <Quest>1999910154</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010155</Quest>
+                                <Quest>1999910155</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010156</Quest>
+                                <Quest>1999910156</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010157</Quest>
+                                <Quest>1999910157</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010158</Quest>
+                                <Quest>1999910158</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010159</Quest>
+                                <Quest>1999910159</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010160</Quest>
+                                <Quest>1999910160</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010161</Quest>
+                                <Quest>1999910161</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010162</Quest>
+                                <Quest>1999910162</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010163</Quest>
+                                <Quest>1999910163</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010164</Quest>
+                                <Quest>1999910164</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010165</Quest>
+                                <Quest>1999910165</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010166</Quest>
+                                <Quest>1999910166</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010167</Quest>
+                                <Quest>1999910167</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010168</Quest>
+                                <Quest>1999910168</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010169</Quest>
+                                <Quest>1999910169</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010170</Quest>
+                                <Quest>1999910170</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010171</Quest>
+                                <Quest>1999910171</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010172</Quest>
+                                <Quest>1999910172</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010173</Quest>
+                                <Quest>1999910173</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010174</Quest>
+                                <Quest>1999910174</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010175</Quest>
+                                <Quest>1999910175</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010176</Quest>
+                                <Quest>1999910176</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010177</Quest>
+                                <Quest>1999910177</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010178</Quest>
+                                <Quest>1999910178</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010179</Quest>
+                                <Quest>1999910179</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010180</Quest>
+                                <Quest>1999910180</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010181</Quest>
+                                <Quest>1999910181</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010182</Quest>
+                                <Quest>1999910182</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010183</Quest>
+                                <Quest>1999910183</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1615,7 +1615,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010143</GUID>
+                        <GUID>1999910143</GUID>
                         <Name>Delete bufffactory medicinal+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1970,8 +1970,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2013,7 +2013,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010144</GUID>
+                        <GUID>1999910144</GUID>
                         <Name>spawn bufffactory medicinal+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2379,8 +2379,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2400,8 +2400,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2443,7 +2443,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010145</GUID>
+                        <GUID>1999910145</GUID>
                         <Name>spawn bufffactory medicinal+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2810,8 +2810,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2831,8 +2831,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2874,7 +2874,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010146</GUID>
+                        <GUID>1999910146</GUID>
                         <Name>spawn bufffactory medicinal+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3241,8 +3241,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3262,8 +3262,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3305,7 +3305,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010147</GUID>
+                        <GUID>1999910147</GUID>
                         <Name>spawn bufffactory medicinal+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3672,8 +3672,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3693,8 +3693,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3736,7 +3736,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010148</GUID>
+                        <GUID>1999910148</GUID>
                         <Name>spawn bufffactory medicinal+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4103,8 +4103,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4124,8 +4124,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4167,7 +4167,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010149</GUID>
+                        <GUID>1999910149</GUID>
                         <Name>spawn bufffactory medicinal+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4534,8 +4534,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4555,8 +4555,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4598,7 +4598,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010150</GUID>
+                        <GUID>1999910150</GUID>
                         <Name>spawn bufffactory medicinal+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4965,8 +4965,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4986,8 +4986,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5029,7 +5029,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010151</GUID>
+                        <GUID>1999910151</GUID>
                         <Name>spawn bufffactory medicinal+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5396,8 +5396,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5417,8 +5417,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5460,7 +5460,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010152</GUID>
+                        <GUID>1999910152</GUID>
                         <Name>spawn bufffactory medicinal+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5827,8 +5827,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5848,8 +5848,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5891,7 +5891,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010153</GUID>
+                        <GUID>1999910153</GUID>
                         <Name>spawn bufffactory medicinal+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6258,8 +6258,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6279,8 +6279,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6322,7 +6322,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010154</GUID>
+                        <GUID>1999910154</GUID>
                         <Name>spawn bufffactory medicinal+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6689,8 +6689,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6710,8 +6710,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6753,7 +6753,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010155</GUID>
+                        <GUID>1999910155</GUID>
                         <Name>spawn bufffactory medicinal+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7120,8 +7120,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7141,8 +7141,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7184,7 +7184,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010156</GUID>
+                        <GUID>1999910156</GUID>
                         <Name>spawn bufffactory medicinal+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7551,8 +7551,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7572,8 +7572,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7615,7 +7615,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010157</GUID>
+                        <GUID>1999910157</GUID>
                         <Name>spawn bufffactory medicinal+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7982,8 +7982,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8003,8 +8003,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8046,7 +8046,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010158</GUID>
+                        <GUID>1999910158</GUID>
                         <Name>spawn bufffactory medicinal+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8413,8 +8413,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8434,8 +8434,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8477,7 +8477,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010159</GUID>
+                        <GUID>1999910159</GUID>
                         <Name>spawn bufffactory medicinal+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8844,8 +8844,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8865,8 +8865,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8908,7 +8908,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010160</GUID>
+                        <GUID>1999910160</GUID>
                         <Name>spawn bufffactory medicinal+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9260,8 +9260,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9281,8 +9281,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9324,7 +9324,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010161</GUID>
+                        <GUID>1999910161</GUID>
                         <Name>spawn bufffactory medicinal+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9676,8 +9676,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9697,8 +9697,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9740,7 +9740,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010162</GUID>
+                        <GUID>1999910162</GUID>
                         <Name>spawn bufffactory medicinal+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10092,8 +10092,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10113,8 +10113,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10156,7 +10156,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010163</GUID>
+                        <GUID>1999910163</GUID>
                         <Name>spawn bufffactory medicinal+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10507,8 +10507,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10549,7 +10549,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010164</GUID>
+                        <GUID>1999910164</GUID>
                         <Name>remove medicinal+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10641,7 +10641,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010165</GUID>
+                        <GUID>1999910165</GUID>
                         <Name>remove medicinal+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10733,7 +10733,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010166</GUID>
+                        <GUID>1999910166</GUID>
                         <Name>remove medicinal+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10825,7 +10825,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010167</GUID>
+                        <GUID>1999910167</GUID>
                         <Name>remove medicinal+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10917,7 +10917,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010168</GUID>
+                        <GUID>1999910168</GUID>
                         <Name>remove medicinal+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11009,7 +11009,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010169</GUID>
+                        <GUID>1999910169</GUID>
                         <Name>remove medicinal+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11101,7 +11101,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010170</GUID>
+                        <GUID>1999910170</GUID>
                         <Name>remove medicinal+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11193,7 +11193,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010171</GUID>
+                        <GUID>1999910171</GUID>
                         <Name>remove medicinal+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11285,7 +11285,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010172</GUID>
+                        <GUID>1999910172</GUID>
                         <Name>remove medicinal+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11377,7 +11377,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010173</GUID>
+                        <GUID>1999910173</GUID>
                         <Name>remove medicinal+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11469,7 +11469,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010174</GUID>
+                        <GUID>1999910174</GUID>
                         <Name>remove medicinal+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11561,7 +11561,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010175</GUID>
+                        <GUID>1999910175</GUID>
                         <Name>remove medicinal+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11653,7 +11653,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010176</GUID>
+                        <GUID>1999910176</GUID>
                         <Name>remove medicinal+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11745,7 +11745,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010177</GUID>
+                        <GUID>1999910177</GUID>
                         <Name>remove medicinal+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11837,7 +11837,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010178</GUID>
+                        <GUID>1999910178</GUID>
                         <Name>remove medicinal+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11929,7 +11929,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010179</GUID>
+                        <GUID>1999910179</GUID>
                         <Name>remove medicinal+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12021,7 +12021,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010180</GUID>
+                        <GUID>1999910180</GUID>
                         <Name>remove medicinal+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12113,7 +12113,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010181</GUID>
+                        <GUID>1999910181</GUID>
                         <Name>remove medicinal+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12205,7 +12205,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010182</GUID>
+                        <GUID>1999910182</GUID>
                         <Name>remove medicinal+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12297,7 +12297,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010183</GUID>
+                        <GUID>1999910183</GUID>
                         <Name>remove medicinal+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

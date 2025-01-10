@@ -1419,127 +1419,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009743</Quest>
+                                <Quest>1999909743</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009744</Quest>
+                                <Quest>1999909744</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009745</Quest>
+                                <Quest>1999909745</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009746</Quest>
+                                <Quest>1999909746</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009747</Quest>
+                                <Quest>1999909747</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009748</Quest>
+                                <Quest>1999909748</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009749</Quest>
+                                <Quest>1999909749</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009750</Quest>
+                                <Quest>1999909750</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009751</Quest>
+                                <Quest>1999909751</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009752</Quest>
+                                <Quest>1999909752</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009753</Quest>
+                                <Quest>1999909753</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009754</Quest>
+                                <Quest>1999909754</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009755</Quest>
+                                <Quest>1999909755</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009756</Quest>
+                                <Quest>1999909756</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009757</Quest>
+                                <Quest>1999909757</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009758</Quest>
+                                <Quest>1999909758</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009759</Quest>
+                                <Quest>1999909759</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009760</Quest>
+                                <Quest>1999909760</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009761</Quest>
+                                <Quest>1999909761</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009762</Quest>
+                                <Quest>1999909762</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009763</Quest>
+                                <Quest>1999909763</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009764</Quest>
+                                <Quest>1999909764</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009765</Quest>
+                                <Quest>1999909765</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009766</Quest>
+                                <Quest>1999909766</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009767</Quest>
+                                <Quest>1999909767</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009768</Quest>
+                                <Quest>1999909768</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009769</Quest>
+                                <Quest>1999909769</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009770</Quest>
+                                <Quest>1999909770</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009771</Quest>
+                                <Quest>1999909771</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009772</Quest>
+                                <Quest>1999909772</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009773</Quest>
+                                <Quest>1999909773</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009774</Quest>
+                                <Quest>1999909774</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009775</Quest>
+                                <Quest>1999909775</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009776</Quest>
+                                <Quest>1999909776</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009777</Quest>
+                                <Quest>1999909777</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009778</Quest>
+                                <Quest>1999909778</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009779</Quest>
+                                <Quest>1999909779</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009780</Quest>
+                                <Quest>1999909780</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009781</Quest>
+                                <Quest>1999909781</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009782</Quest>
+                                <Quest>1999909782</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009783</Quest>
+                                <Quest>1999909783</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1561,7 +1561,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009743</GUID>
+                        <GUID>1999909743</GUID>
                         <Name>Delete bufffactory near_east+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1916,8 +1916,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1959,7 +1959,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009744</GUID>
+                        <GUID>1999909744</GUID>
                         <Name>spawn bufffactory near_east+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2325,8 +2325,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2346,8 +2346,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2389,7 +2389,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009745</GUID>
+                        <GUID>1999909745</GUID>
                         <Name>spawn bufffactory near_east+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2756,8 +2756,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2777,8 +2777,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2820,7 +2820,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009746</GUID>
+                        <GUID>1999909746</GUID>
                         <Name>spawn bufffactory near_east+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3187,8 +3187,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3208,8 +3208,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3251,7 +3251,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009747</GUID>
+                        <GUID>1999909747</GUID>
                         <Name>spawn bufffactory near_east+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3618,8 +3618,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3639,8 +3639,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3682,7 +3682,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009748</GUID>
+                        <GUID>1999909748</GUID>
                         <Name>spawn bufffactory near_east+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4049,8 +4049,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4070,8 +4070,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4113,7 +4113,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009749</GUID>
+                        <GUID>1999909749</GUID>
                         <Name>spawn bufffactory near_east+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4480,8 +4480,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4501,8 +4501,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4544,7 +4544,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009750</GUID>
+                        <GUID>1999909750</GUID>
                         <Name>spawn bufffactory near_east+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4911,8 +4911,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4932,8 +4932,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4975,7 +4975,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009751</GUID>
+                        <GUID>1999909751</GUID>
                         <Name>spawn bufffactory near_east+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5342,8 +5342,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5363,8 +5363,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5406,7 +5406,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009752</GUID>
+                        <GUID>1999909752</GUID>
                         <Name>spawn bufffactory near_east+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5773,8 +5773,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5794,8 +5794,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5837,7 +5837,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009753</GUID>
+                        <GUID>1999909753</GUID>
                         <Name>spawn bufffactory near_east+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6204,8 +6204,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6225,8 +6225,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6268,7 +6268,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009754</GUID>
+                        <GUID>1999909754</GUID>
                         <Name>spawn bufffactory near_east+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6635,8 +6635,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6656,8 +6656,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6699,7 +6699,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009755</GUID>
+                        <GUID>1999909755</GUID>
                         <Name>spawn bufffactory near_east+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7066,8 +7066,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7087,8 +7087,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7130,7 +7130,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009756</GUID>
+                        <GUID>1999909756</GUID>
                         <Name>spawn bufffactory near_east+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7497,8 +7497,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7518,8 +7518,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7561,7 +7561,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009757</GUID>
+                        <GUID>1999909757</GUID>
                         <Name>spawn bufffactory near_east+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7928,8 +7928,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7949,8 +7949,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7992,7 +7992,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009758</GUID>
+                        <GUID>1999909758</GUID>
                         <Name>spawn bufffactory near_east+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8359,8 +8359,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8380,8 +8380,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8423,7 +8423,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009759</GUID>
+                        <GUID>1999909759</GUID>
                         <Name>spawn bufffactory near_east+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8790,8 +8790,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8811,8 +8811,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8854,7 +8854,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009760</GUID>
+                        <GUID>1999909760</GUID>
                         <Name>spawn bufffactory near_east+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9206,8 +9206,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9227,8 +9227,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9270,7 +9270,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009761</GUID>
+                        <GUID>1999909761</GUID>
                         <Name>spawn bufffactory near_east+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9622,8 +9622,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9643,8 +9643,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9686,7 +9686,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009762</GUID>
+                        <GUID>1999909762</GUID>
                         <Name>spawn bufffactory near_east+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10038,8 +10038,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10059,8 +10059,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10102,7 +10102,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009763</GUID>
+                        <GUID>1999909763</GUID>
                         <Name>spawn bufffactory near_east+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10453,8 +10453,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10495,7 +10495,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009764</GUID>
+                        <GUID>1999909764</GUID>
                         <Name>remove near_east+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10587,7 +10587,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009765</GUID>
+                        <GUID>1999909765</GUID>
                         <Name>remove near_east+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10679,7 +10679,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009766</GUID>
+                        <GUID>1999909766</GUID>
                         <Name>remove near_east+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10771,7 +10771,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009767</GUID>
+                        <GUID>1999909767</GUID>
                         <Name>remove near_east+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10863,7 +10863,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009768</GUID>
+                        <GUID>1999909768</GUID>
                         <Name>remove near_east+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10955,7 +10955,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009769</GUID>
+                        <GUID>1999909769</GUID>
                         <Name>remove near_east+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11047,7 +11047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009770</GUID>
+                        <GUID>1999909770</GUID>
                         <Name>remove near_east+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11139,7 +11139,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009771</GUID>
+                        <GUID>1999909771</GUID>
                         <Name>remove near_east+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11231,7 +11231,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009772</GUID>
+                        <GUID>1999909772</GUID>
                         <Name>remove near_east+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11323,7 +11323,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009773</GUID>
+                        <GUID>1999909773</GUID>
                         <Name>remove near_east+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11415,7 +11415,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009774</GUID>
+                        <GUID>1999909774</GUID>
                         <Name>remove near_east+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11507,7 +11507,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009775</GUID>
+                        <GUID>1999909775</GUID>
                         <Name>remove near_east+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11599,7 +11599,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009776</GUID>
+                        <GUID>1999909776</GUID>
                         <Name>remove near_east+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11691,7 +11691,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009777</GUID>
+                        <GUID>1999909777</GUID>
                         <Name>remove near_east+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11783,7 +11783,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009778</GUID>
+                        <GUID>1999909778</GUID>
                         <Name>remove near_east+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11875,7 +11875,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009779</GUID>
+                        <GUID>1999909779</GUID>
                         <Name>remove near_east+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11967,7 +11967,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009780</GUID>
+                        <GUID>1999909780</GUID>
                         <Name>remove near_east+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12059,7 +12059,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009781</GUID>
+                        <GUID>1999909781</GUID>
                         <Name>remove near_east+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12151,7 +12151,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009782</GUID>
+                        <GUID>1999909782</GUID>
                         <Name>remove near_east+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12243,7 +12243,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009783</GUID>
+                        <GUID>1999909783</GUID>
                         <Name>remove near_east+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

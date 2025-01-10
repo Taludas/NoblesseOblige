@@ -1336,127 +1336,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999006843</Quest>
+                                <Quest>1999906843</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006844</Quest>
+                                <Quest>1999906844</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006845</Quest>
+                                <Quest>1999906845</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006846</Quest>
+                                <Quest>1999906846</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006847</Quest>
+                                <Quest>1999906847</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006848</Quest>
+                                <Quest>1999906848</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006849</Quest>
+                                <Quest>1999906849</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006850</Quest>
+                                <Quest>1999906850</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006851</Quest>
+                                <Quest>1999906851</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006852</Quest>
+                                <Quest>1999906852</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006853</Quest>
+                                <Quest>1999906853</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006854</Quest>
+                                <Quest>1999906854</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006855</Quest>
+                                <Quest>1999906855</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006856</Quest>
+                                <Quest>1999906856</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006857</Quest>
+                                <Quest>1999906857</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006858</Quest>
+                                <Quest>1999906858</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006859</Quest>
+                                <Quest>1999906859</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006860</Quest>
+                                <Quest>1999906860</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006861</Quest>
+                                <Quest>1999906861</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006862</Quest>
+                                <Quest>1999906862</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006863</Quest>
+                                <Quest>1999906863</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006864</Quest>
+                                <Quest>1999906864</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006865</Quest>
+                                <Quest>1999906865</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006866</Quest>
+                                <Quest>1999906866</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006867</Quest>
+                                <Quest>1999906867</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006868</Quest>
+                                <Quest>1999906868</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006869</Quest>
+                                <Quest>1999906869</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006870</Quest>
+                                <Quest>1999906870</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006871</Quest>
+                                <Quest>1999906871</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006872</Quest>
+                                <Quest>1999906872</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006873</Quest>
+                                <Quest>1999906873</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006874</Quest>
+                                <Quest>1999906874</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006875</Quest>
+                                <Quest>1999906875</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006876</Quest>
+                                <Quest>1999906876</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006877</Quest>
+                                <Quest>1999906877</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006878</Quest>
+                                <Quest>1999906878</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006879</Quest>
+                                <Quest>1999906879</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006880</Quest>
+                                <Quest>1999906880</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006881</Quest>
+                                <Quest>1999906881</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006882</Quest>
+                                <Quest>1999906882</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006883</Quest>
+                                <Quest>1999906883</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1478,7 +1478,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006843</GUID>
+                        <GUID>1999906843</GUID>
                         <Name>Delete bufffactory abyssal_depth+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1833,8 +1833,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1876,7 +1876,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006844</GUID>
+                        <GUID>1999906844</GUID>
                         <Name>spawn bufffactory abyssal_depth+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2242,8 +2242,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2263,8 +2263,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2306,7 +2306,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006845</GUID>
+                        <GUID>1999906845</GUID>
                         <Name>spawn bufffactory abyssal_depth+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2673,8 +2673,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2694,8 +2694,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2737,7 +2737,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006846</GUID>
+                        <GUID>1999906846</GUID>
                         <Name>spawn bufffactory abyssal_depth+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3104,8 +3104,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3125,8 +3125,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3168,7 +3168,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006847</GUID>
+                        <GUID>1999906847</GUID>
                         <Name>spawn bufffactory abyssal_depth+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3535,8 +3535,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3556,8 +3556,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3599,7 +3599,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006848</GUID>
+                        <GUID>1999906848</GUID>
                         <Name>spawn bufffactory abyssal_depth+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3966,8 +3966,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3987,8 +3987,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4030,7 +4030,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006849</GUID>
+                        <GUID>1999906849</GUID>
                         <Name>spawn bufffactory abyssal_depth+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4397,8 +4397,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4418,8 +4418,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4461,7 +4461,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006850</GUID>
+                        <GUID>1999906850</GUID>
                         <Name>spawn bufffactory abyssal_depth+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4828,8 +4828,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4849,8 +4849,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4892,7 +4892,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006851</GUID>
+                        <GUID>1999906851</GUID>
                         <Name>spawn bufffactory abyssal_depth+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5259,8 +5259,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5280,8 +5280,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5323,7 +5323,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006852</GUID>
+                        <GUID>1999906852</GUID>
                         <Name>spawn bufffactory abyssal_depth+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5690,8 +5690,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5711,8 +5711,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5754,7 +5754,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006853</GUID>
+                        <GUID>1999906853</GUID>
                         <Name>spawn bufffactory abyssal_depth+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6121,8 +6121,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6142,8 +6142,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6185,7 +6185,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006854</GUID>
+                        <GUID>1999906854</GUID>
                         <Name>spawn bufffactory abyssal_depth+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6552,8 +6552,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6573,8 +6573,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6616,7 +6616,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006855</GUID>
+                        <GUID>1999906855</GUID>
                         <Name>spawn bufffactory abyssal_depth+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6983,8 +6983,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7004,8 +7004,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7047,7 +7047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006856</GUID>
+                        <GUID>1999906856</GUID>
                         <Name>spawn bufffactory abyssal_depth+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7414,8 +7414,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7435,8 +7435,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7478,7 +7478,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006857</GUID>
+                        <GUID>1999906857</GUID>
                         <Name>spawn bufffactory abyssal_depth+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7845,8 +7845,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7866,8 +7866,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7909,7 +7909,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006858</GUID>
+                        <GUID>1999906858</GUID>
                         <Name>spawn bufffactory abyssal_depth+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8276,8 +8276,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8297,8 +8297,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8340,7 +8340,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006859</GUID>
+                        <GUID>1999906859</GUID>
                         <Name>spawn bufffactory abyssal_depth+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8707,8 +8707,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8728,8 +8728,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8771,7 +8771,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006860</GUID>
+                        <GUID>1999906860</GUID>
                         <Name>spawn bufffactory abyssal_depth+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9123,8 +9123,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9144,8 +9144,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9187,7 +9187,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006861</GUID>
+                        <GUID>1999906861</GUID>
                         <Name>spawn bufffactory abyssal_depth+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9539,8 +9539,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9560,8 +9560,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9603,7 +9603,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006862</GUID>
+                        <GUID>1999906862</GUID>
                         <Name>spawn bufffactory abyssal_depth+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9955,8 +9955,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9976,8 +9976,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10019,7 +10019,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006863</GUID>
+                        <GUID>1999906863</GUID>
                         <Name>spawn bufffactory abyssal_depth+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10370,8 +10370,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10412,7 +10412,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006864</GUID>
+                        <GUID>1999906864</GUID>
                         <Name>remove abyssal_depth+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10504,7 +10504,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006865</GUID>
+                        <GUID>1999906865</GUID>
                         <Name>remove abyssal_depth+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10596,7 +10596,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006866</GUID>
+                        <GUID>1999906866</GUID>
                         <Name>remove abyssal_depth+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10688,7 +10688,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006867</GUID>
+                        <GUID>1999906867</GUID>
                         <Name>remove abyssal_depth+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10780,7 +10780,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006868</GUID>
+                        <GUID>1999906868</GUID>
                         <Name>remove abyssal_depth+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10872,7 +10872,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006869</GUID>
+                        <GUID>1999906869</GUID>
                         <Name>remove abyssal_depth+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10964,7 +10964,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006870</GUID>
+                        <GUID>1999906870</GUID>
                         <Name>remove abyssal_depth+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11056,7 +11056,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006871</GUID>
+                        <GUID>1999906871</GUID>
                         <Name>remove abyssal_depth+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11148,7 +11148,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006872</GUID>
+                        <GUID>1999906872</GUID>
                         <Name>remove abyssal_depth+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11240,7 +11240,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006873</GUID>
+                        <GUID>1999906873</GUID>
                         <Name>remove abyssal_depth+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11332,7 +11332,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006874</GUID>
+                        <GUID>1999906874</GUID>
                         <Name>remove abyssal_depth+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11424,7 +11424,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006875</GUID>
+                        <GUID>1999906875</GUID>
                         <Name>remove abyssal_depth+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11516,7 +11516,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006876</GUID>
+                        <GUID>1999906876</GUID>
                         <Name>remove abyssal_depth+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11608,7 +11608,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006877</GUID>
+                        <GUID>1999906877</GUID>
                         <Name>remove abyssal_depth+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11700,7 +11700,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006878</GUID>
+                        <GUID>1999906878</GUID>
                         <Name>remove abyssal_depth+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11792,7 +11792,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006879</GUID>
+                        <GUID>1999906879</GUID>
                         <Name>remove abyssal_depth+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11884,7 +11884,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006880</GUID>
+                        <GUID>1999906880</GUID>
                         <Name>remove abyssal_depth+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11976,7 +11976,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006881</GUID>
+                        <GUID>1999906881</GUID>
                         <Name>remove abyssal_depth+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12068,7 +12068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006882</GUID>
+                        <GUID>1999906882</GUID>
                         <Name>remove abyssal_depth+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12160,7 +12160,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006883</GUID>
+                        <GUID>1999906883</GUID>
                         <Name>remove abyssal_depth+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

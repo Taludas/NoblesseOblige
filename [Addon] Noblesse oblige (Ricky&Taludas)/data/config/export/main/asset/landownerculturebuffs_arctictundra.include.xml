@@ -1339,127 +1339,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007143</Quest>
+                                <Quest>1999907143</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007144</Quest>
+                                <Quest>1999907144</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007145</Quest>
+                                <Quest>1999907145</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007146</Quest>
+                                <Quest>1999907146</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007147</Quest>
+                                <Quest>1999907147</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007148</Quest>
+                                <Quest>1999907148</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007149</Quest>
+                                <Quest>1999907149</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007150</Quest>
+                                <Quest>1999907150</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007151</Quest>
+                                <Quest>1999907151</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007152</Quest>
+                                <Quest>1999907152</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007153</Quest>
+                                <Quest>1999907153</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007154</Quest>
+                                <Quest>1999907154</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007155</Quest>
+                                <Quest>1999907155</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007156</Quest>
+                                <Quest>1999907156</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007157</Quest>
+                                <Quest>1999907157</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007158</Quest>
+                                <Quest>1999907158</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007159</Quest>
+                                <Quest>1999907159</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007160</Quest>
+                                <Quest>1999907160</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007161</Quest>
+                                <Quest>1999907161</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007162</Quest>
+                                <Quest>1999907162</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007163</Quest>
+                                <Quest>1999907163</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007164</Quest>
+                                <Quest>1999907164</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007165</Quest>
+                                <Quest>1999907165</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007166</Quest>
+                                <Quest>1999907166</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007167</Quest>
+                                <Quest>1999907167</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007168</Quest>
+                                <Quest>1999907168</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007169</Quest>
+                                <Quest>1999907169</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007170</Quest>
+                                <Quest>1999907170</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007171</Quest>
+                                <Quest>1999907171</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007172</Quest>
+                                <Quest>1999907172</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007173</Quest>
+                                <Quest>1999907173</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007174</Quest>
+                                <Quest>1999907174</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007175</Quest>
+                                <Quest>1999907175</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007176</Quest>
+                                <Quest>1999907176</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007177</Quest>
+                                <Quest>1999907177</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007178</Quest>
+                                <Quest>1999907178</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007179</Quest>
+                                <Quest>1999907179</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007180</Quest>
+                                <Quest>1999907180</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007181</Quest>
+                                <Quest>1999907181</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007182</Quest>
+                                <Quest>1999907182</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007183</Quest>
+                                <Quest>1999907183</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1481,7 +1481,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007143</GUID>
+                        <GUID>1999907143</GUID>
                         <Name>Delete bufffactory arctic_tundra+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1836,8 +1836,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1879,7 +1879,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007144</GUID>
+                        <GUID>1999907144</GUID>
                         <Name>spawn bufffactory arctic_tundra+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2245,8 +2245,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2266,8 +2266,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2309,7 +2309,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007145</GUID>
+                        <GUID>1999907145</GUID>
                         <Name>spawn bufffactory arctic_tundra+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2676,8 +2676,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2697,8 +2697,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2740,7 +2740,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007146</GUID>
+                        <GUID>1999907146</GUID>
                         <Name>spawn bufffactory arctic_tundra+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3107,8 +3107,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3128,8 +3128,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3171,7 +3171,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007147</GUID>
+                        <GUID>1999907147</GUID>
                         <Name>spawn bufffactory arctic_tundra+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3538,8 +3538,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3559,8 +3559,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3602,7 +3602,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007148</GUID>
+                        <GUID>1999907148</GUID>
                         <Name>spawn bufffactory arctic_tundra+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3969,8 +3969,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3990,8 +3990,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4033,7 +4033,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007149</GUID>
+                        <GUID>1999907149</GUID>
                         <Name>spawn bufffactory arctic_tundra+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4400,8 +4400,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4421,8 +4421,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4464,7 +4464,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007150</GUID>
+                        <GUID>1999907150</GUID>
                         <Name>spawn bufffactory arctic_tundra+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4831,8 +4831,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4852,8 +4852,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4895,7 +4895,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007151</GUID>
+                        <GUID>1999907151</GUID>
                         <Name>spawn bufffactory arctic_tundra+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5262,8 +5262,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5283,8 +5283,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5326,7 +5326,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007152</GUID>
+                        <GUID>1999907152</GUID>
                         <Name>spawn bufffactory arctic_tundra+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5693,8 +5693,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5714,8 +5714,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5757,7 +5757,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007153</GUID>
+                        <GUID>1999907153</GUID>
                         <Name>spawn bufffactory arctic_tundra+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6124,8 +6124,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6145,8 +6145,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6188,7 +6188,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007154</GUID>
+                        <GUID>1999907154</GUID>
                         <Name>spawn bufffactory arctic_tundra+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6555,8 +6555,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6576,8 +6576,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6619,7 +6619,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007155</GUID>
+                        <GUID>1999907155</GUID>
                         <Name>spawn bufffactory arctic_tundra+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6986,8 +6986,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7007,8 +7007,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7050,7 +7050,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007156</GUID>
+                        <GUID>1999907156</GUID>
                         <Name>spawn bufffactory arctic_tundra+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7417,8 +7417,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7438,8 +7438,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7481,7 +7481,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007157</GUID>
+                        <GUID>1999907157</GUID>
                         <Name>spawn bufffactory arctic_tundra+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7848,8 +7848,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7869,8 +7869,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7912,7 +7912,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007158</GUID>
+                        <GUID>1999907158</GUID>
                         <Name>spawn bufffactory arctic_tundra+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8279,8 +8279,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8300,8 +8300,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8343,7 +8343,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007159</GUID>
+                        <GUID>1999907159</GUID>
                         <Name>spawn bufffactory arctic_tundra+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8710,8 +8710,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8731,8 +8731,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8774,7 +8774,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007160</GUID>
+                        <GUID>1999907160</GUID>
                         <Name>spawn bufffactory arctic_tundra+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9126,8 +9126,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9147,8 +9147,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9190,7 +9190,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007161</GUID>
+                        <GUID>1999907161</GUID>
                         <Name>spawn bufffactory arctic_tundra+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9542,8 +9542,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9563,8 +9563,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9606,7 +9606,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007162</GUID>
+                        <GUID>1999907162</GUID>
                         <Name>spawn bufffactory arctic_tundra+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9958,8 +9958,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9979,8 +9979,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10022,7 +10022,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007163</GUID>
+                        <GUID>1999907163</GUID>
                         <Name>spawn bufffactory arctic_tundra+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10373,8 +10373,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10415,7 +10415,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007164</GUID>
+                        <GUID>1999907164</GUID>
                         <Name>remove arctic_tundra+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10507,7 +10507,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007165</GUID>
+                        <GUID>1999907165</GUID>
                         <Name>remove arctic_tundra+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10599,7 +10599,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007166</GUID>
+                        <GUID>1999907166</GUID>
                         <Name>remove arctic_tundra+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10691,7 +10691,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007167</GUID>
+                        <GUID>1999907167</GUID>
                         <Name>remove arctic_tundra+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10783,7 +10783,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007168</GUID>
+                        <GUID>1999907168</GUID>
                         <Name>remove arctic_tundra+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10875,7 +10875,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007169</GUID>
+                        <GUID>1999907169</GUID>
                         <Name>remove arctic_tundra+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10967,7 +10967,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007170</GUID>
+                        <GUID>1999907170</GUID>
                         <Name>remove arctic_tundra+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11059,7 +11059,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007171</GUID>
+                        <GUID>1999907171</GUID>
                         <Name>remove arctic_tundra+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11151,7 +11151,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007172</GUID>
+                        <GUID>1999907172</GUID>
                         <Name>remove arctic_tundra+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11243,7 +11243,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007173</GUID>
+                        <GUID>1999907173</GUID>
                         <Name>remove arctic_tundra+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11335,7 +11335,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007174</GUID>
+                        <GUID>1999907174</GUID>
                         <Name>remove arctic_tundra+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11427,7 +11427,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007175</GUID>
+                        <GUID>1999907175</GUID>
                         <Name>remove arctic_tundra+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11519,7 +11519,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007176</GUID>
+                        <GUID>1999907176</GUID>
                         <Name>remove arctic_tundra+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11611,7 +11611,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007177</GUID>
+                        <GUID>1999907177</GUID>
                         <Name>remove arctic_tundra+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11703,7 +11703,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007178</GUID>
+                        <GUID>1999907178</GUID>
                         <Name>remove arctic_tundra+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11795,7 +11795,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007179</GUID>
+                        <GUID>1999907179</GUID>
                         <Name>remove arctic_tundra+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11887,7 +11887,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007180</GUID>
+                        <GUID>1999907180</GUID>
                         <Name>remove arctic_tundra+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11979,7 +11979,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007181</GUID>
+                        <GUID>1999907181</GUID>
                         <Name>remove arctic_tundra+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12071,7 +12071,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007182</GUID>
+                        <GUID>1999907182</GUID>
                         <Name>remove arctic_tundra+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12163,7 +12163,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007183</GUID>
+                        <GUID>1999907183</GUID>
                         <Name>remove arctic_tundra+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

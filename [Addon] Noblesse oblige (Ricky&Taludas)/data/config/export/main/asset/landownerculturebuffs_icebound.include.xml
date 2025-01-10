@@ -1646,127 +1646,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008943</Quest>
+                                <Quest>1999908943</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008944</Quest>
+                                <Quest>1999908944</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008945</Quest>
+                                <Quest>1999908945</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008946</Quest>
+                                <Quest>1999908946</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008947</Quest>
+                                <Quest>1999908947</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008948</Quest>
+                                <Quest>1999908948</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008949</Quest>
+                                <Quest>1999908949</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008950</Quest>
+                                <Quest>1999908950</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008951</Quest>
+                                <Quest>1999908951</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008952</Quest>
+                                <Quest>1999908952</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008953</Quest>
+                                <Quest>1999908953</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008954</Quest>
+                                <Quest>1999908954</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008955</Quest>
+                                <Quest>1999908955</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008956</Quest>
+                                <Quest>1999908956</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008957</Quest>
+                                <Quest>1999908957</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008958</Quest>
+                                <Quest>1999908958</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008959</Quest>
+                                <Quest>1999908959</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008960</Quest>
+                                <Quest>1999908960</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008961</Quest>
+                                <Quest>1999908961</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008962</Quest>
+                                <Quest>1999908962</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008963</Quest>
+                                <Quest>1999908963</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008964</Quest>
+                                <Quest>1999908964</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008965</Quest>
+                                <Quest>1999908965</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008966</Quest>
+                                <Quest>1999908966</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008967</Quest>
+                                <Quest>1999908967</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008968</Quest>
+                                <Quest>1999908968</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008969</Quest>
+                                <Quest>1999908969</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008970</Quest>
+                                <Quest>1999908970</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008971</Quest>
+                                <Quest>1999908971</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008972</Quest>
+                                <Quest>1999908972</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008973</Quest>
+                                <Quest>1999908973</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008974</Quest>
+                                <Quest>1999908974</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008975</Quest>
+                                <Quest>1999908975</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008976</Quest>
+                                <Quest>1999908976</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008977</Quest>
+                                <Quest>1999908977</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008978</Quest>
+                                <Quest>1999908978</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008979</Quest>
+                                <Quest>1999908979</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008980</Quest>
+                                <Quest>1999908980</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008981</Quest>
+                                <Quest>1999908981</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008982</Quest>
+                                <Quest>1999908982</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008983</Quest>
+                                <Quest>1999908983</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1788,7 +1788,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008943</GUID>
+                        <GUID>1999908943</GUID>
                         <Name>Delete bufffactory icebound+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -2143,8 +2143,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2186,7 +2186,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008944</GUID>
+                        <GUID>1999908944</GUID>
                         <Name>spawn bufffactory icebound+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2552,8 +2552,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2573,8 +2573,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2616,7 +2616,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008945</GUID>
+                        <GUID>1999908945</GUID>
                         <Name>spawn bufffactory icebound+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2983,8 +2983,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3004,8 +3004,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3047,7 +3047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008946</GUID>
+                        <GUID>1999908946</GUID>
                         <Name>spawn bufffactory icebound+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3414,8 +3414,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3435,8 +3435,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3478,7 +3478,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008947</GUID>
+                        <GUID>1999908947</GUID>
                         <Name>spawn bufffactory icebound+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3845,8 +3845,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3866,8 +3866,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3909,7 +3909,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008948</GUID>
+                        <GUID>1999908948</GUID>
                         <Name>spawn bufffactory icebound+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4276,8 +4276,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4297,8 +4297,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4340,7 +4340,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008949</GUID>
+                        <GUID>1999908949</GUID>
                         <Name>spawn bufffactory icebound+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4707,8 +4707,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4728,8 +4728,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4771,7 +4771,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008950</GUID>
+                        <GUID>1999908950</GUID>
                         <Name>spawn bufffactory icebound+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -5138,8 +5138,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5159,8 +5159,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5202,7 +5202,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008951</GUID>
+                        <GUID>1999908951</GUID>
                         <Name>spawn bufffactory icebound+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5569,8 +5569,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5590,8 +5590,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5633,7 +5633,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008952</GUID>
+                        <GUID>1999908952</GUID>
                         <Name>spawn bufffactory icebound+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -6000,8 +6000,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6021,8 +6021,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6064,7 +6064,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008953</GUID>
+                        <GUID>1999908953</GUID>
                         <Name>spawn bufffactory icebound+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6431,8 +6431,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6452,8 +6452,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6495,7 +6495,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008954</GUID>
+                        <GUID>1999908954</GUID>
                         <Name>spawn bufffactory icebound+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6862,8 +6862,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6883,8 +6883,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6926,7 +6926,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008955</GUID>
+                        <GUID>1999908955</GUID>
                         <Name>spawn bufffactory icebound+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7293,8 +7293,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7314,8 +7314,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7357,7 +7357,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008956</GUID>
+                        <GUID>1999908956</GUID>
                         <Name>spawn bufffactory icebound+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7724,8 +7724,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7745,8 +7745,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7788,7 +7788,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008957</GUID>
+                        <GUID>1999908957</GUID>
                         <Name>spawn bufffactory icebound+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -8155,8 +8155,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8176,8 +8176,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8219,7 +8219,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008958</GUID>
+                        <GUID>1999908958</GUID>
                         <Name>spawn bufffactory icebound+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8586,8 +8586,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8607,8 +8607,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8650,7 +8650,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008959</GUID>
+                        <GUID>1999908959</GUID>
                         <Name>spawn bufffactory icebound+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -9017,8 +9017,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9038,8 +9038,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9081,7 +9081,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008960</GUID>
+                        <GUID>1999908960</GUID>
                         <Name>spawn bufffactory icebound+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9433,8 +9433,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9454,8 +9454,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9497,7 +9497,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008961</GUID>
+                        <GUID>1999908961</GUID>
                         <Name>spawn bufffactory icebound+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9849,8 +9849,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9870,8 +9870,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9913,7 +9913,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008962</GUID>
+                        <GUID>1999908962</GUID>
                         <Name>spawn bufffactory icebound+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10265,8 +10265,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10286,8 +10286,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10329,7 +10329,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008963</GUID>
+                        <GUID>1999908963</GUID>
                         <Name>spawn bufffactory icebound+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10680,8 +10680,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10722,7 +10722,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008964</GUID>
+                        <GUID>1999908964</GUID>
                         <Name>remove icebound+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10814,7 +10814,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008965</GUID>
+                        <GUID>1999908965</GUID>
                         <Name>remove icebound+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10906,7 +10906,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008966</GUID>
+                        <GUID>1999908966</GUID>
                         <Name>remove icebound+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10998,7 +10998,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008967</GUID>
+                        <GUID>1999908967</GUID>
                         <Name>remove icebound+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11090,7 +11090,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008968</GUID>
+                        <GUID>1999908968</GUID>
                         <Name>remove icebound+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11182,7 +11182,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008969</GUID>
+                        <GUID>1999908969</GUID>
                         <Name>remove icebound+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11274,7 +11274,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008970</GUID>
+                        <GUID>1999908970</GUID>
                         <Name>remove icebound+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11366,7 +11366,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008971</GUID>
+                        <GUID>1999908971</GUID>
                         <Name>remove icebound+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11458,7 +11458,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008972</GUID>
+                        <GUID>1999908972</GUID>
                         <Name>remove icebound+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11550,7 +11550,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008973</GUID>
+                        <GUID>1999908973</GUID>
                         <Name>remove icebound+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11642,7 +11642,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008974</GUID>
+                        <GUID>1999908974</GUID>
                         <Name>remove icebound+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11734,7 +11734,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008975</GUID>
+                        <GUID>1999908975</GUID>
                         <Name>remove icebound+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11826,7 +11826,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008976</GUID>
+                        <GUID>1999908976</GUID>
                         <Name>remove icebound+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11918,7 +11918,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008977</GUID>
+                        <GUID>1999908977</GUID>
                         <Name>remove icebound+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12010,7 +12010,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008978</GUID>
+                        <GUID>1999908978</GUID>
                         <Name>remove icebound+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12102,7 +12102,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008979</GUID>
+                        <GUID>1999908979</GUID>
                         <Name>remove icebound+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12194,7 +12194,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008980</GUID>
+                        <GUID>1999908980</GUID>
                         <Name>remove icebound+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12286,7 +12286,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008981</GUID>
+                        <GUID>1999908981</GUID>
                         <Name>remove icebound+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12378,7 +12378,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008982</GUID>
+                        <GUID>1999908982</GUID>
                         <Name>remove icebound+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12470,7 +12470,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008983</GUID>
+                        <GUID>1999908983</GUID>
                         <Name>remove icebound+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

@@ -1809,127 +1809,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999006043</Quest>
+                                <Quest>1999906043</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006044</Quest>
+                                <Quest>1999906044</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006045</Quest>
+                                <Quest>1999906045</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006046</Quest>
+                                <Quest>1999906046</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006047</Quest>
+                                <Quest>1999906047</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006048</Quest>
+                                <Quest>1999906048</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006049</Quest>
+                                <Quest>1999906049</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006050</Quest>
+                                <Quest>1999906050</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006051</Quest>
+                                <Quest>1999906051</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006052</Quest>
+                                <Quest>1999906052</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006053</Quest>
+                                <Quest>1999906053</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006054</Quest>
+                                <Quest>1999906054</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006055</Quest>
+                                <Quest>1999906055</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006056</Quest>
+                                <Quest>1999906056</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006057</Quest>
+                                <Quest>1999906057</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006058</Quest>
+                                <Quest>1999906058</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006059</Quest>
+                                <Quest>1999906059</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006060</Quest>
+                                <Quest>1999906060</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006061</Quest>
+                                <Quest>1999906061</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006062</Quest>
+                                <Quest>1999906062</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006063</Quest>
+                                <Quest>1999906063</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006064</Quest>
+                                <Quest>1999906064</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006065</Quest>
+                                <Quest>1999906065</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006066</Quest>
+                                <Quest>1999906066</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006067</Quest>
+                                <Quest>1999906067</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006068</Quest>
+                                <Quest>1999906068</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006069</Quest>
+                                <Quest>1999906069</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006070</Quest>
+                                <Quest>1999906070</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006071</Quest>
+                                <Quest>1999906071</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006072</Quest>
+                                <Quest>1999906072</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006073</Quest>
+                                <Quest>1999906073</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006074</Quest>
+                                <Quest>1999906074</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006075</Quest>
+                                <Quest>1999906075</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006076</Quest>
+                                <Quest>1999906076</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006077</Quest>
+                                <Quest>1999906077</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006078</Quest>
+                                <Quest>1999906078</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006079</Quest>
+                                <Quest>1999906079</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006080</Quest>
+                                <Quest>1999906080</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006081</Quest>
+                                <Quest>1999906081</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006082</Quest>
+                                <Quest>1999906082</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006083</Quest>
+                                <Quest>1999906083</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1951,7 +1951,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006043</GUID>
+                        <GUID>1999906043</GUID>
                         <Name>Delete bufffactory taiga+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -2306,8 +2306,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2349,7 +2349,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006044</GUID>
+                        <GUID>1999906044</GUID>
                         <Name>spawn bufffactory taiga+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2715,8 +2715,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2736,8 +2736,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2779,7 +2779,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006045</GUID>
+                        <GUID>1999906045</GUID>
                         <Name>spawn bufffactory taiga+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -3146,8 +3146,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3167,8 +3167,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3210,7 +3210,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006046</GUID>
+                        <GUID>1999906046</GUID>
                         <Name>spawn bufffactory taiga+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3577,8 +3577,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3598,8 +3598,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3641,7 +3641,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006047</GUID>
+                        <GUID>1999906047</GUID>
                         <Name>spawn bufffactory taiga+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -4008,8 +4008,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4029,8 +4029,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4072,7 +4072,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006048</GUID>
+                        <GUID>1999906048</GUID>
                         <Name>spawn bufffactory taiga+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4439,8 +4439,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4460,8 +4460,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4503,7 +4503,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006049</GUID>
+                        <GUID>1999906049</GUID>
                         <Name>spawn bufffactory taiga+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4870,8 +4870,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4891,8 +4891,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4934,7 +4934,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006050</GUID>
+                        <GUID>1999906050</GUID>
                         <Name>spawn bufffactory taiga+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -5301,8 +5301,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5322,8 +5322,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5365,7 +5365,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006051</GUID>
+                        <GUID>1999906051</GUID>
                         <Name>spawn bufffactory taiga+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5732,8 +5732,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5753,8 +5753,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5796,7 +5796,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006052</GUID>
+                        <GUID>1999906052</GUID>
                         <Name>spawn bufffactory taiga+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -6163,8 +6163,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6184,8 +6184,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6227,7 +6227,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006053</GUID>
+                        <GUID>1999906053</GUID>
                         <Name>spawn bufffactory taiga+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6594,8 +6594,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6615,8 +6615,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6658,7 +6658,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006054</GUID>
+                        <GUID>1999906054</GUID>
                         <Name>spawn bufffactory taiga+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -7025,8 +7025,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7046,8 +7046,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7089,7 +7089,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006055</GUID>
+                        <GUID>1999906055</GUID>
                         <Name>spawn bufffactory taiga+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7456,8 +7456,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7477,8 +7477,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7520,7 +7520,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006056</GUID>
+                        <GUID>1999906056</GUID>
                         <Name>spawn bufffactory taiga+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7887,8 +7887,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7908,8 +7908,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7951,7 +7951,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006057</GUID>
+                        <GUID>1999906057</GUID>
                         <Name>spawn bufffactory taiga+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -8318,8 +8318,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8339,8 +8339,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8382,7 +8382,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006058</GUID>
+                        <GUID>1999906058</GUID>
                         <Name>spawn bufffactory taiga+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8749,8 +8749,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8770,8 +8770,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8813,7 +8813,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006059</GUID>
+                        <GUID>1999906059</GUID>
                         <Name>spawn bufffactory taiga+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -9180,8 +9180,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9201,8 +9201,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9244,7 +9244,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006060</GUID>
+                        <GUID>1999906060</GUID>
                         <Name>spawn bufffactory taiga+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9596,8 +9596,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9617,8 +9617,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9660,7 +9660,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006061</GUID>
+                        <GUID>1999906061</GUID>
                         <Name>spawn bufffactory taiga+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -10012,8 +10012,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10033,8 +10033,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10076,7 +10076,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006062</GUID>
+                        <GUID>1999906062</GUID>
                         <Name>spawn bufffactory taiga+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10428,8 +10428,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10449,8 +10449,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10492,7 +10492,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006063</GUID>
+                        <GUID>1999906063</GUID>
                         <Name>spawn bufffactory taiga+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10843,8 +10843,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10885,7 +10885,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006064</GUID>
+                        <GUID>1999906064</GUID>
                         <Name>remove taiga+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10977,7 +10977,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006065</GUID>
+                        <GUID>1999906065</GUID>
                         <Name>remove taiga+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11069,7 +11069,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006066</GUID>
+                        <GUID>1999906066</GUID>
                         <Name>remove taiga+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11161,7 +11161,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006067</GUID>
+                        <GUID>1999906067</GUID>
                         <Name>remove taiga+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11253,7 +11253,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006068</GUID>
+                        <GUID>1999906068</GUID>
                         <Name>remove taiga+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11345,7 +11345,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006069</GUID>
+                        <GUID>1999906069</GUID>
                         <Name>remove taiga+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11437,7 +11437,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006070</GUID>
+                        <GUID>1999906070</GUID>
                         <Name>remove taiga+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11529,7 +11529,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006071</GUID>
+                        <GUID>1999906071</GUID>
                         <Name>remove taiga+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11621,7 +11621,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006072</GUID>
+                        <GUID>1999906072</GUID>
                         <Name>remove taiga+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11713,7 +11713,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006073</GUID>
+                        <GUID>1999906073</GUID>
                         <Name>remove taiga+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11805,7 +11805,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006074</GUID>
+                        <GUID>1999906074</GUID>
                         <Name>remove taiga+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11897,7 +11897,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006075</GUID>
+                        <GUID>1999906075</GUID>
                         <Name>remove taiga+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11989,7 +11989,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006076</GUID>
+                        <GUID>1999906076</GUID>
                         <Name>remove taiga+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12081,7 +12081,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006077</GUID>
+                        <GUID>1999906077</GUID>
                         <Name>remove taiga+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12173,7 +12173,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006078</GUID>
+                        <GUID>1999906078</GUID>
                         <Name>remove taiga+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12265,7 +12265,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006079</GUID>
+                        <GUID>1999906079</GUID>
                         <Name>remove taiga+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12357,7 +12357,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006080</GUID>
+                        <GUID>1999906080</GUID>
                         <Name>remove taiga+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12449,7 +12449,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006081</GUID>
+                        <GUID>1999906081</GUID>
                         <Name>remove taiga+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12541,7 +12541,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006082</GUID>
+                        <GUID>1999906082</GUID>
                         <Name>remove taiga+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12633,7 +12633,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006083</GUID>
+                        <GUID>1999906083</GUID>
                         <Name>remove taiga+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

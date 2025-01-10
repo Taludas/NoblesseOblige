@@ -1356,127 +1356,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999010243</Quest>
+                                <Quest>1999910243</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010244</Quest>
+                                <Quest>1999910244</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010245</Quest>
+                                <Quest>1999910245</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010246</Quest>
+                                <Quest>1999910246</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010247</Quest>
+                                <Quest>1999910247</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010248</Quest>
+                                <Quest>1999910248</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010249</Quest>
+                                <Quest>1999910249</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010250</Quest>
+                                <Quest>1999910250</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010251</Quest>
+                                <Quest>1999910251</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010252</Quest>
+                                <Quest>1999910252</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010253</Quest>
+                                <Quest>1999910253</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010254</Quest>
+                                <Quest>1999910254</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010255</Quest>
+                                <Quest>1999910255</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010256</Quest>
+                                <Quest>1999910256</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010257</Quest>
+                                <Quest>1999910257</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010258</Quest>
+                                <Quest>1999910258</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010259</Quest>
+                                <Quest>1999910259</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010260</Quest>
+                                <Quest>1999910260</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010261</Quest>
+                                <Quest>1999910261</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010262</Quest>
+                                <Quest>1999910262</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010263</Quest>
+                                <Quest>1999910263</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010264</Quest>
+                                <Quest>1999910264</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010265</Quest>
+                                <Quest>1999910265</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010266</Quest>
+                                <Quest>1999910266</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010267</Quest>
+                                <Quest>1999910267</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010268</Quest>
+                                <Quest>1999910268</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010269</Quest>
+                                <Quest>1999910269</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010270</Quest>
+                                <Quest>1999910270</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010271</Quest>
+                                <Quest>1999910271</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010272</Quest>
+                                <Quest>1999910272</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010273</Quest>
+                                <Quest>1999910273</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010274</Quest>
+                                <Quest>1999910274</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010275</Quest>
+                                <Quest>1999910275</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010276</Quest>
+                                <Quest>1999910276</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010277</Quest>
+                                <Quest>1999910277</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010278</Quest>
+                                <Quest>1999910278</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010279</Quest>
+                                <Quest>1999910279</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010280</Quest>
+                                <Quest>1999910280</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010281</Quest>
+                                <Quest>1999910281</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010282</Quest>
+                                <Quest>1999910282</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999010283</Quest>
+                                <Quest>1999910283</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1498,7 +1498,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010243</GUID>
+                        <GUID>1999910243</GUID>
                         <Name>Delete bufffactory enchanted+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1853,8 +1853,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1896,7 +1896,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010244</GUID>
+                        <GUID>1999910244</GUID>
                         <Name>spawn bufffactory enchanted+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2262,8 +2262,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2283,8 +2283,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2326,7 +2326,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010245</GUID>
+                        <GUID>1999910245</GUID>
                         <Name>spawn bufffactory enchanted+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2693,8 +2693,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2714,8 +2714,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2757,7 +2757,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010246</GUID>
+                        <GUID>1999910246</GUID>
                         <Name>spawn bufffactory enchanted+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3124,8 +3124,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3145,8 +3145,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3188,7 +3188,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010247</GUID>
+                        <GUID>1999910247</GUID>
                         <Name>spawn bufffactory enchanted+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3555,8 +3555,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3576,8 +3576,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3619,7 +3619,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010248</GUID>
+                        <GUID>1999910248</GUID>
                         <Name>spawn bufffactory enchanted+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3986,8 +3986,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4007,8 +4007,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4050,7 +4050,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010249</GUID>
+                        <GUID>1999910249</GUID>
                         <Name>spawn bufffactory enchanted+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4417,8 +4417,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4438,8 +4438,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4481,7 +4481,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010250</GUID>
+                        <GUID>1999910250</GUID>
                         <Name>spawn bufffactory enchanted+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4848,8 +4848,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4869,8 +4869,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4912,7 +4912,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010251</GUID>
+                        <GUID>1999910251</GUID>
                         <Name>spawn bufffactory enchanted+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5279,8 +5279,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5300,8 +5300,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5343,7 +5343,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010252</GUID>
+                        <GUID>1999910252</GUID>
                         <Name>spawn bufffactory enchanted+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5710,8 +5710,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5731,8 +5731,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5774,7 +5774,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010253</GUID>
+                        <GUID>1999910253</GUID>
                         <Name>spawn bufffactory enchanted+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6141,8 +6141,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6162,8 +6162,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6205,7 +6205,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010254</GUID>
+                        <GUID>1999910254</GUID>
                         <Name>spawn bufffactory enchanted+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6572,8 +6572,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6593,8 +6593,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6636,7 +6636,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010255</GUID>
+                        <GUID>1999910255</GUID>
                         <Name>spawn bufffactory enchanted+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7003,8 +7003,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7024,8 +7024,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7067,7 +7067,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010256</GUID>
+                        <GUID>1999910256</GUID>
                         <Name>spawn bufffactory enchanted+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7434,8 +7434,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7455,8 +7455,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7498,7 +7498,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010257</GUID>
+                        <GUID>1999910257</GUID>
                         <Name>spawn bufffactory enchanted+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7865,8 +7865,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7886,8 +7886,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7929,7 +7929,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010258</GUID>
+                        <GUID>1999910258</GUID>
                         <Name>spawn bufffactory enchanted+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8296,8 +8296,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8317,8 +8317,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8360,7 +8360,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010259</GUID>
+                        <GUID>1999910259</GUID>
                         <Name>spawn bufffactory enchanted+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8727,8 +8727,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8748,8 +8748,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8791,7 +8791,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010260</GUID>
+                        <GUID>1999910260</GUID>
                         <Name>spawn bufffactory enchanted+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9143,8 +9143,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9164,8 +9164,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9207,7 +9207,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010261</GUID>
+                        <GUID>1999910261</GUID>
                         <Name>spawn bufffactory enchanted+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9559,8 +9559,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9580,8 +9580,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9623,7 +9623,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010262</GUID>
+                        <GUID>1999910262</GUID>
                         <Name>spawn bufffactory enchanted+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9975,8 +9975,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9996,8 +9996,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10039,7 +10039,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010263</GUID>
+                        <GUID>1999910263</GUID>
                         <Name>spawn bufffactory enchanted+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10390,8 +10390,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10432,7 +10432,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010264</GUID>
+                        <GUID>1999910264</GUID>
                         <Name>remove enchanted+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10524,7 +10524,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010265</GUID>
+                        <GUID>1999910265</GUID>
                         <Name>remove enchanted+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10616,7 +10616,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010266</GUID>
+                        <GUID>1999910266</GUID>
                         <Name>remove enchanted+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10708,7 +10708,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010267</GUID>
+                        <GUID>1999910267</GUID>
                         <Name>remove enchanted+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10800,7 +10800,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010268</GUID>
+                        <GUID>1999910268</GUID>
                         <Name>remove enchanted+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10892,7 +10892,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010269</GUID>
+                        <GUID>1999910269</GUID>
                         <Name>remove enchanted+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10984,7 +10984,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010270</GUID>
+                        <GUID>1999910270</GUID>
                         <Name>remove enchanted+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11076,7 +11076,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010271</GUID>
+                        <GUID>1999910271</GUID>
                         <Name>remove enchanted+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11168,7 +11168,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010272</GUID>
+                        <GUID>1999910272</GUID>
                         <Name>remove enchanted+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11260,7 +11260,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010273</GUID>
+                        <GUID>1999910273</GUID>
                         <Name>remove enchanted+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11352,7 +11352,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010274</GUID>
+                        <GUID>1999910274</GUID>
                         <Name>remove enchanted+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11444,7 +11444,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010275</GUID>
+                        <GUID>1999910275</GUID>
                         <Name>remove enchanted+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11536,7 +11536,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010276</GUID>
+                        <GUID>1999910276</GUID>
                         <Name>remove enchanted+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11628,7 +11628,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010277</GUID>
+                        <GUID>1999910277</GUID>
                         <Name>remove enchanted+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11720,7 +11720,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010278</GUID>
+                        <GUID>1999910278</GUID>
                         <Name>remove enchanted+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11812,7 +11812,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010279</GUID>
+                        <GUID>1999910279</GUID>
                         <Name>remove enchanted+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11904,7 +11904,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010280</GUID>
+                        <GUID>1999910280</GUID>
                         <Name>remove enchanted+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11996,7 +11996,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010281</GUID>
+                        <GUID>1999910281</GUID>
                         <Name>remove enchanted+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12088,7 +12088,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010282</GUID>
+                        <GUID>1999910282</GUID>
                         <Name>remove enchanted+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12180,7 +12180,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999010283</GUID>
+                        <GUID>1999910283</GUID>
                         <Name>remove enchanted+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

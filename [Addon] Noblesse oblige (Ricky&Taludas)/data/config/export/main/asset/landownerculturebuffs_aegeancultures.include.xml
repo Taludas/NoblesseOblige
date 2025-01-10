@@ -15,7 +15,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -68,7 +68,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -121,7 +121,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -174,7 +174,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -227,7 +227,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -280,7 +280,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -333,7 +333,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -386,7 +386,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -439,7 +439,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -492,7 +492,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -545,7 +545,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -598,7 +598,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -651,7 +651,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -704,7 +704,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -757,7 +757,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -810,7 +810,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -863,7 +863,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -916,7 +916,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -969,7 +969,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -1022,7 +1022,7 @@
                     <ItemEffect>
                         <EffectTargets>
                             <Item>
-                                <GUID>1010361</GUID>
+                                <GUID>193863</GUID>
                             </Item>
                             <Item>
                                 <GUID>191562</GUID>
@@ -1376,7 +1376,7 @@
                     <AssetPool>
                         <AssetList>
                             <Item>
-                                <Asset>1010361</Asset>
+                                <Asset>193863</Asset>
                             </Item>
                             <Item>
                                 <Asset>118736</Asset>
@@ -1402,127 +1402,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008143</Quest>
+                                <Quest>1999908143</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008144</Quest>
+                                <Quest>1999908144</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008145</Quest>
+                                <Quest>1999908145</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008146</Quest>
+                                <Quest>1999908146</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008147</Quest>
+                                <Quest>1999908147</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008148</Quest>
+                                <Quest>1999908148</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008149</Quest>
+                                <Quest>1999908149</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008150</Quest>
+                                <Quest>1999908150</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008151</Quest>
+                                <Quest>1999908151</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008152</Quest>
+                                <Quest>1999908152</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008153</Quest>
+                                <Quest>1999908153</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008154</Quest>
+                                <Quest>1999908154</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008155</Quest>
+                                <Quest>1999908155</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008156</Quest>
+                                <Quest>1999908156</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008157</Quest>
+                                <Quest>1999908157</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008158</Quest>
+                                <Quest>1999908158</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008159</Quest>
+                                <Quest>1999908159</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008160</Quest>
+                                <Quest>1999908160</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008161</Quest>
+                                <Quest>1999908161</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008162</Quest>
+                                <Quest>1999908162</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008163</Quest>
+                                <Quest>1999908163</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008164</Quest>
+                                <Quest>1999908164</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008165</Quest>
+                                <Quest>1999908165</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008166</Quest>
+                                <Quest>1999908166</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008167</Quest>
+                                <Quest>1999908167</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008168</Quest>
+                                <Quest>1999908168</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008169</Quest>
+                                <Quest>1999908169</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008170</Quest>
+                                <Quest>1999908170</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008171</Quest>
+                                <Quest>1999908171</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008172</Quest>
+                                <Quest>1999908172</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008173</Quest>
+                                <Quest>1999908173</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008174</Quest>
+                                <Quest>1999908174</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008175</Quest>
+                                <Quest>1999908175</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008176</Quest>
+                                <Quest>1999908176</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008177</Quest>
+                                <Quest>1999908177</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008178</Quest>
+                                <Quest>1999908178</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008179</Quest>
+                                <Quest>1999908179</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008180</Quest>
+                                <Quest>1999908180</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008181</Quest>
+                                <Quest>1999908181</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008182</Quest>
+                                <Quest>1999908182</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008183</Quest>
+                                <Quest>1999908183</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1544,7 +1544,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008143</GUID>
+                        <GUID>1999908143</GUID>
                         <Name>Delete bufffactory aegean_cultures+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1899,8 +1899,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1942,7 +1942,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008144</GUID>
+                        <GUID>1999908144</GUID>
                         <Name>spawn bufffactory aegean_cultures+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2308,8 +2308,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2329,8 +2329,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2372,7 +2372,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008145</GUID>
+                        <GUID>1999908145</GUID>
                         <Name>spawn bufffactory aegean_cultures+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2739,8 +2739,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2760,8 +2760,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2803,7 +2803,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008146</GUID>
+                        <GUID>1999908146</GUID>
                         <Name>spawn bufffactory aegean_cultures+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3170,8 +3170,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3191,8 +3191,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3234,7 +3234,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008147</GUID>
+                        <GUID>1999908147</GUID>
                         <Name>spawn bufffactory aegean_cultures+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3601,8 +3601,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3622,8 +3622,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3665,7 +3665,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008148</GUID>
+                        <GUID>1999908148</GUID>
                         <Name>spawn bufffactory aegean_cultures+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4032,8 +4032,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4053,8 +4053,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4096,7 +4096,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008149</GUID>
+                        <GUID>1999908149</GUID>
                         <Name>spawn bufffactory aegean_cultures+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4463,8 +4463,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4484,8 +4484,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4527,7 +4527,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008150</GUID>
+                        <GUID>1999908150</GUID>
                         <Name>spawn bufffactory aegean_cultures+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4894,8 +4894,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4915,8 +4915,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4958,7 +4958,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008151</GUID>
+                        <GUID>1999908151</GUID>
                         <Name>spawn bufffactory aegean_cultures+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5325,8 +5325,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5346,8 +5346,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5389,7 +5389,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008152</GUID>
+                        <GUID>1999908152</GUID>
                         <Name>spawn bufffactory aegean_cultures+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5756,8 +5756,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5777,8 +5777,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5820,7 +5820,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008153</GUID>
+                        <GUID>1999908153</GUID>
                         <Name>spawn bufffactory aegean_cultures+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6187,8 +6187,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6208,8 +6208,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6251,7 +6251,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008154</GUID>
+                        <GUID>1999908154</GUID>
                         <Name>spawn bufffactory aegean_cultures+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6618,8 +6618,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6639,8 +6639,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6682,7 +6682,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008155</GUID>
+                        <GUID>1999908155</GUID>
                         <Name>spawn bufffactory aegean_cultures+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7049,8 +7049,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7070,8 +7070,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7113,7 +7113,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008156</GUID>
+                        <GUID>1999908156</GUID>
                         <Name>spawn bufffactory aegean_cultures+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7480,8 +7480,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7501,8 +7501,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7544,7 +7544,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008157</GUID>
+                        <GUID>1999908157</GUID>
                         <Name>spawn bufffactory aegean_cultures+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7911,8 +7911,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7932,8 +7932,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7975,7 +7975,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008158</GUID>
+                        <GUID>1999908158</GUID>
                         <Name>spawn bufffactory aegean_cultures+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8342,8 +8342,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8363,8 +8363,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8406,7 +8406,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008159</GUID>
+                        <GUID>1999908159</GUID>
                         <Name>spawn bufffactory aegean_cultures+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8773,8 +8773,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8794,8 +8794,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8837,7 +8837,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008160</GUID>
+                        <GUID>1999908160</GUID>
                         <Name>spawn bufffactory aegean_cultures+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9189,8 +9189,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9210,8 +9210,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9253,7 +9253,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008161</GUID>
+                        <GUID>1999908161</GUID>
                         <Name>spawn bufffactory aegean_cultures+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9605,8 +9605,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9626,8 +9626,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9669,7 +9669,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008162</GUID>
+                        <GUID>1999908162</GUID>
                         <Name>spawn bufffactory aegean_cultures+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10021,8 +10021,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10042,8 +10042,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10085,7 +10085,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008163</GUID>
+                        <GUID>1999908163</GUID>
                         <Name>spawn bufffactory aegean_cultures+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10436,8 +10436,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10478,7 +10478,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008164</GUID>
+                        <GUID>1999908164</GUID>
                         <Name>remove aegean_cultures+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10570,7 +10570,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008165</GUID>
+                        <GUID>1999908165</GUID>
                         <Name>remove aegean_cultures+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10662,7 +10662,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008166</GUID>
+                        <GUID>1999908166</GUID>
                         <Name>remove aegean_cultures+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10754,7 +10754,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008167</GUID>
+                        <GUID>1999908167</GUID>
                         <Name>remove aegean_cultures+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10846,7 +10846,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008168</GUID>
+                        <GUID>1999908168</GUID>
                         <Name>remove aegean_cultures+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10938,7 +10938,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008169</GUID>
+                        <GUID>1999908169</GUID>
                         <Name>remove aegean_cultures+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11030,7 +11030,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008170</GUID>
+                        <GUID>1999908170</GUID>
                         <Name>remove aegean_cultures+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11122,7 +11122,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008171</GUID>
+                        <GUID>1999908171</GUID>
                         <Name>remove aegean_cultures+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11214,7 +11214,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008172</GUID>
+                        <GUID>1999908172</GUID>
                         <Name>remove aegean_cultures+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11306,7 +11306,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008173</GUID>
+                        <GUID>1999908173</GUID>
                         <Name>remove aegean_cultures+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11398,7 +11398,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008174</GUID>
+                        <GUID>1999908174</GUID>
                         <Name>remove aegean_cultures+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11490,7 +11490,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008175</GUID>
+                        <GUID>1999908175</GUID>
                         <Name>remove aegean_cultures+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11582,7 +11582,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008176</GUID>
+                        <GUID>1999908176</GUID>
                         <Name>remove aegean_cultures+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11674,7 +11674,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008177</GUID>
+                        <GUID>1999908177</GUID>
                         <Name>remove aegean_cultures+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11766,7 +11766,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008178</GUID>
+                        <GUID>1999908178</GUID>
                         <Name>remove aegean_cultures+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11858,7 +11858,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008179</GUID>
+                        <GUID>1999908179</GUID>
                         <Name>remove aegean_cultures+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11950,7 +11950,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008180</GUID>
+                        <GUID>1999908180</GUID>
                         <Name>remove aegean_cultures+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12042,7 +12042,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008181</GUID>
+                        <GUID>1999908181</GUID>
                         <Name>remove aegean_cultures+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12134,7 +12134,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008182</GUID>
+                        <GUID>1999908182</GUID>
                         <Name>remove aegean_cultures+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12226,7 +12226,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008183</GUID>
+                        <GUID>1999908183</GUID>
                         <Name>remove aegean_cultures+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

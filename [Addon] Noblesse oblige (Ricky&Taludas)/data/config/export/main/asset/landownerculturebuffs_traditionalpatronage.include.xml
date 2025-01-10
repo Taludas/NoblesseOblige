@@ -4697,67 +4697,67 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999005843</Quest>
+                                <Quest>1999905843</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005844</Quest>
+                                <Quest>1999905844</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005845</Quest>
+                                <Quest>1999905845</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005846</Quest>
+                                <Quest>1999905846</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005847</Quest>
+                                <Quest>1999905847</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005848</Quest>
+                                <Quest>1999905848</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005849</Quest>
+                                <Quest>1999905849</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005850</Quest>
+                                <Quest>1999905850</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005851</Quest>
+                                <Quest>1999905851</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005852</Quest>
+                                <Quest>1999905852</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005853</Quest>
+                                <Quest>1999905853</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005854</Quest>
+                                <Quest>1999905854</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005855</Quest>
+                                <Quest>1999905855</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005856</Quest>
+                                <Quest>1999905856</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005857</Quest>
+                                <Quest>1999905857</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005858</Quest>
+                                <Quest>1999905858</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005859</Quest>
+                                <Quest>1999905859</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005860</Quest>
+                                <Quest>1999905860</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005861</Quest>
+                                <Quest>1999905861</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005862</Quest>
+                                <Quest>1999905862</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999005863</Quest>
+                                <Quest>1999905863</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -4774,54 +4774,12 @@
             </Asset>
 
             <!-- #Notifications -->
-            <!-- Level 0 -->
-            <Asset>
-                <Template>Trigger</Template>
-                <Values>
-                    <Standard>
-                        <GUID>1999005727</GUID>
-                        <Name>downgrade to level 0 for less than 300 landowners</Name>
-                    </Standard>
-                    <Trigger>
-                        <TriggerCondition>
-                            <Template>ConditionPlayerCounter</Template>
-                            <Values>
-                                <Condition />
-                                <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
-                                    <ComparisonOp>LessThan</ComparisonOp>
-                                    <CounterAmount>300</CounterAmount>
-                                </ConditionPlayerCounter>
-                            </Values>
-                        </TriggerCondition>
-                        <TriggerActions>
-                            <!-- Register x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005728</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                        </TriggerActions>
-                    </Trigger>
-                    <TriggerSetup>
-                        <AutoRegisterTrigger>0</AutoRegisterTrigger>
-                    </TriggerSetup>
-                </Values>
-            </Asset>
-
             <!-- Level 1 -->
             <Asset>
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005728</GUID>
+                        <GUID>1999010528</GUID>
                         <Name>upgrade to lvl 1 buff for at least 300 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -4830,14 +4788,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>300</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -4867,30 +4840,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005730</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005727</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -4901,7 +4850,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005729</GUID>
+                        <GUID>1999010529</GUID>
                         <Name>downgrade to lvl 1 buff for less than 600 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -4910,8 +4859,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>600</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -4944,44 +4893,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- remove level x+1 buff -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionBuff</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionBuff>
-                                            <BuffAsset>1999005702</BuffAsset>
-                                            <AddBuff>0</AddBuff>
-                                            <BuffProcessingParticipant>1</BuffProcessingParticipant>
-                                        </ActionBuff>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005730</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005727</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -4998,7 +4909,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005730</GUID>
+                        <GUID>1999010530</GUID>
                         <Name>upgrade to lvl 2 buff for at least 600 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5007,14 +4918,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>600</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -5044,30 +4970,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005732</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005729</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -5079,7 +4981,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005731</GUID>
+                        <GUID>1999010531</GUID>
                         <Name>downgrade to lvl 2 buff for less than 900 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5088,8 +4990,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>900</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -5122,30 +5024,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005732</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005729</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -5162,7 +5040,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005732</GUID>
+                        <GUID>1999010532</GUID>
                         <Name>upgrade to lvl 3 buff for at least 900 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5171,14 +5049,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>900</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -5208,30 +5101,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005734</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005731</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -5243,7 +5112,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005733</GUID>
+                        <GUID>1999010533</GUID>
                         <Name>downgrade to lvl 3 buff for less than 1200 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5252,8 +5121,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>1200</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -5286,30 +5155,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005734</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005731</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -5326,7 +5171,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005734</GUID>
+                        <GUID>1999010534</GUID>
                         <Name>upgrade to lvl 4 buff for at least 1200 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5335,14 +5180,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>1200</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -5372,30 +5232,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005736</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005733</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -5407,7 +5243,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005735</GUID>
+                        <GUID>1999010535</GUID>
                         <Name>downgrade to lvl 4 buff for less than 1500 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5416,8 +5252,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>1500</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -5450,30 +5286,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005736</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005733</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -5490,7 +5302,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005736</GUID>
+                        <GUID>1999010536</GUID>
                         <Name>upgrade to lvl 5 buff for at least 1500 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5499,14 +5311,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>1500</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -5536,30 +5363,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005738</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005735</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -5571,7 +5374,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005737</GUID>
+                        <GUID>1999010537</GUID>
                         <Name>downgrade to lvl 5 buff for less than 2100 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5580,8 +5383,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>2100</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -5614,30 +5417,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005738</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005735</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -5654,7 +5433,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005738</GUID>
+                        <GUID>1999010538</GUID>
                         <Name>upgrade to lvl 6 buff for at least 2100 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5663,14 +5442,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>2100</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -5700,30 +5494,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005740</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005737</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -5735,7 +5505,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005739</GUID>
+                        <GUID>1999010539</GUID>
                         <Name>downgrade to lvl 6 buff for less than 2700 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5744,8 +5514,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>2700</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -5778,30 +5548,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005740</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005737</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -5818,7 +5564,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005740</GUID>
+                        <GUID>1999010540</GUID>
                         <Name>upgrade to lvl 7 buff for at least 2700 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5827,14 +5573,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>2700</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -5864,30 +5625,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005742</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005739</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -5899,7 +5636,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005741</GUID>
+                        <GUID>1999010541</GUID>
                         <Name>downgrade to lvl 7 buff for less than 3300 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5908,8 +5645,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>3300</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -5942,30 +5679,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005742</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005739</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -5982,7 +5695,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005742</GUID>
+                        <GUID>1999010542</GUID>
                         <Name>upgrade to lvl 8 buff for at least 3300 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -5991,14 +5704,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>3300</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -6028,30 +5756,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005744</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005741</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -6063,7 +5767,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005743</GUID>
+                        <GUID>1999010543</GUID>
                         <Name>downgrade to lvl 8 buff for less than 3900 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6072,8 +5776,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>3900</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -6106,30 +5810,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005744</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005741</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -6146,7 +5826,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005744</GUID>
+                        <GUID>1999010544</GUID>
                         <Name>upgrade to lvl 9 buff for at least 3900 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6155,14 +5835,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>3900</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -6192,30 +5887,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005746</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005743</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -6227,7 +5898,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005745</GUID>
+                        <GUID>1999010545</GUID>
                         <Name>downgrade to lvl 9 buff for less than 4500 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6236,8 +5907,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>4500</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -6270,30 +5941,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005746</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005743</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -6310,7 +5957,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005746</GUID>
+                        <GUID>1999010546</GUID>
                         <Name>upgrade to lvl 10 buff for at least 4500 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6319,14 +5966,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>4500</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -6356,30 +6018,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005748</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005745</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -6391,7 +6029,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005747</GUID>
+                        <GUID>1999010547</GUID>
                         <Name>downgrade to lvl 10 buff for less than 5100 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6400,8 +6038,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>5100</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -6434,30 +6072,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005748</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005745</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -6474,7 +6088,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005748</GUID>
+                        <GUID>1999010548</GUID>
                         <Name>upgrade to lvl 11 buff for at least 5100 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6483,14 +6097,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>5100</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -6520,30 +6149,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005750</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005747</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -6555,7 +6160,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005749</GUID>
+                        <GUID>1999010549</GUID>
                         <Name>downgrade to lvl 11 buff for less than 5700 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6564,8 +6169,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>5700</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -6598,30 +6203,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005750</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005747</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -6638,7 +6219,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005750</GUID>
+                        <GUID>1999010550</GUID>
                         <Name>upgrade to lvl 12 buff for at least 5700 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6647,14 +6228,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>5700</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -6684,30 +6280,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005752</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005749</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -6719,7 +6291,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005751</GUID>
+                        <GUID>1999010551</GUID>
                         <Name>downgrade to lvl 12 buff for less than 6300 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6728,8 +6300,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>6300</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -6762,30 +6334,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005752</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005749</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -6802,7 +6350,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005752</GUID>
+                        <GUID>1999010552</GUID>
                         <Name>upgrade to lvl 13 buff for at least 6300 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6811,14 +6359,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>6300</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -6848,30 +6411,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005754</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005751</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -6883,7 +6422,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005753</GUID>
+                        <GUID>1999010553</GUID>
                         <Name>downgrade to lvl 13 buff for less than 6900 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6892,8 +6431,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>6900</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -6926,30 +6465,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005754</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005751</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -6966,7 +6481,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005754</GUID>
+                        <GUID>1999010554</GUID>
                         <Name>upgrade to lvl 14 buff for at least 6900 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -6975,14 +6490,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>6900</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -7012,30 +6542,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005756</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005753</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -7047,7 +6553,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005755</GUID>
+                        <GUID>1999010555</GUID>
                         <Name>downgrade to lvl 14 buff for less than 7500 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7056,8 +6562,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>7500</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -7090,30 +6596,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005756</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005753</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -7130,7 +6612,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005756</GUID>
+                        <GUID>1999010556</GUID>
                         <Name>upgrade to lvl 15 buff for at least 7500 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7139,14 +6621,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>7500</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -7176,30 +6673,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005758</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005755</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -7211,7 +6684,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005757</GUID>
+                        <GUID>1999010557</GUID>
                         <Name>downgrade to lvl 15 buff for less than 8400 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7220,8 +6693,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>8400</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -7254,30 +6727,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005758</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005755</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -7294,7 +6743,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005758</GUID>
+                        <GUID>1999010558</GUID>
                         <Name>upgrade to lvl 16 buff for at least 8400 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7303,14 +6752,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>8400</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -7340,30 +6804,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005760</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005757</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -7375,7 +6815,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005759</GUID>
+                        <GUID>1999010559</GUID>
                         <Name>downgrade to lvl 16 buff for less than 9300 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7384,8 +6824,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>9300</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -7418,30 +6858,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005760</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005757</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -7458,7 +6874,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005760</GUID>
+                        <GUID>1999010560</GUID>
                         <Name>upgrade to lvl 17 buff for at least 9300 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7467,14 +6883,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>9300</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -7504,30 +6935,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005762</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005759</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -7539,7 +6946,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005761</GUID>
+                        <GUID>1999010561</GUID>
                         <Name>downgrade to lvl 17 buff for less than 10200 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7548,8 +6955,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>10200</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -7582,30 +6989,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005762</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005759</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -7622,7 +7005,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005762</GUID>
+                        <GUID>1999010562</GUID>
                         <Name>upgrade to lvl 18 buff for at least 10200 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7631,14 +7014,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>10200</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -7668,30 +7066,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005764</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005761</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -7703,7 +7077,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005763</GUID>
+                        <GUID>1999010563</GUID>
                         <Name>downgrade to lvl 18 buff for less than 11100 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7712,8 +7086,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>11100</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -7746,30 +7120,6 @@
                                                 </Values>
                                             </Notification>
                                         </ActionNotification>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005764</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005761</TriggerAsset>
-                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -7786,7 +7136,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005764</GUID>
+                        <GUID>1999010564</GUID>
                         <Name>upgrade to lvl 19 buff for at least 11100 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7795,14 +7145,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>11100</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -7832,30 +7197,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005766</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005763</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -7867,7 +7208,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005765</GUID>
+                        <GUID>1999010565</GUID>
                         <Name>downgrade to lvl 19 buff for less than 12000 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7876,8 +7217,8 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>LessThan</ComparisonOp>
                                     <CounterAmount>12000</CounterAmount>
                                 </ConditionPlayerCounter>
@@ -7913,30 +7254,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register upgrade to x+1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005766</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005763</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -7950,7 +7267,7 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005766</GUID>
+                        <GUID>1999010566</GUID>
                         <Name>upgrade to lvl 20 buff for at least 12000 landowners</Name>
                     </Standard>
                     <Trigger>
@@ -7959,14 +7276,29 @@
                             <Values>
                                 <Condition />
                                 <ConditionPlayerCounter>
-                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                    <Context>1999005104</Context>
+                                    <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                    <Context>1999010496</Context>
                                     <ComparisonOp>AtLeast</ComparisonOp>
                                     <CounterAmount>12000</CounterAmount>
                                 </ConditionPlayerCounter>
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionUnlockAsset</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionUnlockAsset>
+                                    <UnlockAssets>
+                                      <Item>
+                                        <Asset>1999005104</Asset>
+                                      </Item>
+                                    </UnlockAssets>
+                                  </ActionUnlockAsset>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                             <!-- Action Notification -->
                             <Item>
                                 <TriggerAction>
@@ -7996,18 +7328,6 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                            <!-- Register downgrade to x-1 -->
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999005765</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
                         </TriggerActions>
                     </Trigger>
                     <TriggerSetup>
@@ -8022,7 +7342,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005843</GUID>
+                        <GUID>1999905843</GUID>
                         <Name>Delete bufffactory culturesetsattractiveness+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -8031,6 +7351,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010528</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <Item>
                                             <Action>
                                                 <Template>ActionDeleteObjects</Template>
@@ -8377,8 +7709,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8398,7 +7730,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005844</GUID>
+                        <GUID>1999905844</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -8407,6 +7739,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010530</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove higher level buffs -->
                                         <Item>
                                             <Action>
@@ -8764,8 +8108,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8785,8 +8129,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8806,7 +8150,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005845</GUID>
+                        <GUID>1999905845</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -8815,6 +8159,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010532</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -9173,8 +8529,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9194,8 +8550,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9215,7 +8571,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005846</GUID>
+                        <GUID>1999905846</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -9224,6 +8580,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010534</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -9582,8 +8950,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9603,8 +8971,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9624,7 +8992,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005847</GUID>
+                        <GUID>1999905847</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -9633,6 +9001,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010536</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -9991,8 +9371,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10012,8 +9392,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10033,7 +9413,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005848</GUID>
+                        <GUID>1999905848</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -10042,6 +9422,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010538</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -10400,8 +9792,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10421,8 +9813,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10442,7 +9834,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005849</GUID>
+                        <GUID>1999905849</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -10451,6 +9843,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010540</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -10809,8 +10213,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10830,8 +10234,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10851,7 +10255,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005850</GUID>
+                        <GUID>1999905850</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -10860,6 +10264,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010542</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -11218,8 +10634,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -11239,8 +10655,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -11260,7 +10676,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005851</GUID>
+                        <GUID>1999905851</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -11269,6 +10685,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010544</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -11627,8 +11055,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -11648,8 +11076,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -11669,7 +11097,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005852</GUID>
+                        <GUID>1999905852</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -11678,6 +11106,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010546</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -12036,8 +11476,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -12057,8 +11497,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -12078,7 +11518,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005853</GUID>
+                        <GUID>1999905853</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -12087,6 +11527,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010548</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -12445,8 +11897,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -12466,8 +11918,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -12487,7 +11939,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005854</GUID>
+                        <GUID>1999905854</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -12496,6 +11948,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010550</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -12854,8 +12318,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -12875,8 +12339,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -12896,7 +12360,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005855</GUID>
+                        <GUID>1999905855</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -12905,6 +12369,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010552</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -13263,8 +12739,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -13284,8 +12760,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -13305,7 +12781,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005856</GUID>
+                        <GUID>1999905856</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -13314,6 +12790,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010554</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -13672,8 +13160,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -13693,8 +13181,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -13714,7 +13202,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005857</GUID>
+                        <GUID>1999905857</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -13723,6 +13211,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010556</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -14081,8 +13581,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -14102,8 +13602,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -14123,7 +13623,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005858</GUID>
+                        <GUID>1999905858</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -14132,6 +13632,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010558</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -14490,8 +14002,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -14511,8 +14023,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -14532,7 +14044,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005859</GUID>
+                        <GUID>1999905859</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -14541,6 +14053,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010560</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -14899,8 +14423,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -14920,8 +14444,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -14941,7 +14465,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005860</GUID>
+                        <GUID>1999905860</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -14950,6 +14474,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010562</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -15293,8 +14829,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -15314,8 +14850,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -15335,7 +14871,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005861</GUID>
+                        <GUID>1999905861</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -15344,6 +14880,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010564</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -15687,8 +15235,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -15708,8 +15256,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -15729,7 +15277,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005862</GUID>
+                        <GUID>1999905862</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -15738,6 +15286,18 @@
                             <Values>
                                 <ActionList>
                                     <Actions>
+                                        <!-- Register upgrade to x+1 -->
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionRegisterTrigger</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionRegisterTrigger>
+                                                        <TriggerAsset>1999010566</TriggerAsset>
+                                                    </ActionRegisterTrigger>
+                                                </Values>
+                                            </Action>
+                                        </Item>
                                         <!-- remove lower level buffs -->
                                         <Item>
                                             <Action>
@@ -16081,8 +15641,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -16102,8 +15662,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -16123,7 +15683,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999005863</GUID>
+                        <GUID>1999905863</GUID>
                         <Name>spawn bufffactory culturesetsattractiveness+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -16474,8 +16034,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>

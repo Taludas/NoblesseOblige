@@ -1376,127 +1376,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009143</Quest>
+                                <Quest>1999909143</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009144</Quest>
+                                <Quest>1999909144</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009145</Quest>
+                                <Quest>1999909145</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009146</Quest>
+                                <Quest>1999909146</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009147</Quest>
+                                <Quest>1999909147</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009148</Quest>
+                                <Quest>1999909148</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009149</Quest>
+                                <Quest>1999909149</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009150</Quest>
+                                <Quest>1999909150</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009151</Quest>
+                                <Quest>1999909151</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009152</Quest>
+                                <Quest>1999909152</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009153</Quest>
+                                <Quest>1999909153</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009154</Quest>
+                                <Quest>1999909154</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009155</Quest>
+                                <Quest>1999909155</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009156</Quest>
+                                <Quest>1999909156</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009157</Quest>
+                                <Quest>1999909157</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009158</Quest>
+                                <Quest>1999909158</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009159</Quest>
+                                <Quest>1999909159</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009160</Quest>
+                                <Quest>1999909160</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009161</Quest>
+                                <Quest>1999909161</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009162</Quest>
+                                <Quest>1999909162</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009163</Quest>
+                                <Quest>1999909163</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009164</Quest>
+                                <Quest>1999909164</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009165</Quest>
+                                <Quest>1999909165</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009166</Quest>
+                                <Quest>1999909166</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009167</Quest>
+                                <Quest>1999909167</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009168</Quest>
+                                <Quest>1999909168</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009169</Quest>
+                                <Quest>1999909169</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009170</Quest>
+                                <Quest>1999909170</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009171</Quest>
+                                <Quest>1999909171</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009172</Quest>
+                                <Quest>1999909172</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009173</Quest>
+                                <Quest>1999909173</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009174</Quest>
+                                <Quest>1999909174</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009175</Quest>
+                                <Quest>1999909175</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009176</Quest>
+                                <Quest>1999909176</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009177</Quest>
+                                <Quest>1999909177</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009178</Quest>
+                                <Quest>1999909178</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009179</Quest>
+                                <Quest>1999909179</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009180</Quest>
+                                <Quest>1999909180</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009181</Quest>
+                                <Quest>1999909181</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009182</Quest>
+                                <Quest>1999909182</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009183</Quest>
+                                <Quest>1999909183</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1518,7 +1518,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009143</GUID>
+                        <GUID>1999909143</GUID>
                         <Name>Delete bufffactory lost_tribes+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1873,8 +1873,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1916,7 +1916,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009144</GUID>
+                        <GUID>1999909144</GUID>
                         <Name>spawn bufffactory lost_tribes+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2282,8 +2282,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2303,8 +2303,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2346,7 +2346,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009145</GUID>
+                        <GUID>1999909145</GUID>
                         <Name>spawn bufffactory lost_tribes+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2713,8 +2713,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2734,8 +2734,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2777,7 +2777,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009146</GUID>
+                        <GUID>1999909146</GUID>
                         <Name>spawn bufffactory lost_tribes+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3144,8 +3144,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3165,8 +3165,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3208,7 +3208,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009147</GUID>
+                        <GUID>1999909147</GUID>
                         <Name>spawn bufffactory lost_tribes+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3575,8 +3575,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3596,8 +3596,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3639,7 +3639,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009148</GUID>
+                        <GUID>1999909148</GUID>
                         <Name>spawn bufffactory lost_tribes+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4006,8 +4006,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4027,8 +4027,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4070,7 +4070,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009149</GUID>
+                        <GUID>1999909149</GUID>
                         <Name>spawn bufffactory lost_tribes+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4437,8 +4437,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4458,8 +4458,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4501,7 +4501,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009150</GUID>
+                        <GUID>1999909150</GUID>
                         <Name>spawn bufffactory lost_tribes+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4868,8 +4868,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4889,8 +4889,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4932,7 +4932,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009151</GUID>
+                        <GUID>1999909151</GUID>
                         <Name>spawn bufffactory lost_tribes+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5299,8 +5299,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5320,8 +5320,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5363,7 +5363,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009152</GUID>
+                        <GUID>1999909152</GUID>
                         <Name>spawn bufffactory lost_tribes+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5730,8 +5730,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5751,8 +5751,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5794,7 +5794,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009153</GUID>
+                        <GUID>1999909153</GUID>
                         <Name>spawn bufffactory lost_tribes+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6161,8 +6161,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6182,8 +6182,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6225,7 +6225,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009154</GUID>
+                        <GUID>1999909154</GUID>
                         <Name>spawn bufffactory lost_tribes+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6592,8 +6592,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6613,8 +6613,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6656,7 +6656,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009155</GUID>
+                        <GUID>1999909155</GUID>
                         <Name>spawn bufffactory lost_tribes+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7023,8 +7023,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7044,8 +7044,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7087,7 +7087,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009156</GUID>
+                        <GUID>1999909156</GUID>
                         <Name>spawn bufffactory lost_tribes+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7454,8 +7454,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7475,8 +7475,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7518,7 +7518,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009157</GUID>
+                        <GUID>1999909157</GUID>
                         <Name>spawn bufffactory lost_tribes+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7885,8 +7885,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7906,8 +7906,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7949,7 +7949,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009158</GUID>
+                        <GUID>1999909158</GUID>
                         <Name>spawn bufffactory lost_tribes+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8316,8 +8316,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8337,8 +8337,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8380,7 +8380,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009159</GUID>
+                        <GUID>1999909159</GUID>
                         <Name>spawn bufffactory lost_tribes+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8747,8 +8747,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8768,8 +8768,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8811,7 +8811,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009160</GUID>
+                        <GUID>1999909160</GUID>
                         <Name>spawn bufffactory lost_tribes+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9163,8 +9163,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9184,8 +9184,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9227,7 +9227,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009161</GUID>
+                        <GUID>1999909161</GUID>
                         <Name>spawn bufffactory lost_tribes+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9579,8 +9579,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9600,8 +9600,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9643,7 +9643,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009162</GUID>
+                        <GUID>1999909162</GUID>
                         <Name>spawn bufffactory lost_tribes+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9995,8 +9995,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10016,8 +10016,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10059,7 +10059,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009163</GUID>
+                        <GUID>1999909163</GUID>
                         <Name>spawn bufffactory lost_tribes+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10410,8 +10410,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10452,7 +10452,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009164</GUID>
+                        <GUID>1999909164</GUID>
                         <Name>remove lost_tribes+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10544,7 +10544,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009165</GUID>
+                        <GUID>1999909165</GUID>
                         <Name>remove lost_tribes+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10636,7 +10636,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009166</GUID>
+                        <GUID>1999909166</GUID>
                         <Name>remove lost_tribes+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10728,7 +10728,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009167</GUID>
+                        <GUID>1999909167</GUID>
                         <Name>remove lost_tribes+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10820,7 +10820,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009168</GUID>
+                        <GUID>1999909168</GUID>
                         <Name>remove lost_tribes+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10912,7 +10912,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009169</GUID>
+                        <GUID>1999909169</GUID>
                         <Name>remove lost_tribes+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11004,7 +11004,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009170</GUID>
+                        <GUID>1999909170</GUID>
                         <Name>remove lost_tribes+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11096,7 +11096,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009171</GUID>
+                        <GUID>1999909171</GUID>
                         <Name>remove lost_tribes+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11188,7 +11188,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009172</GUID>
+                        <GUID>1999909172</GUID>
                         <Name>remove lost_tribes+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11280,7 +11280,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009173</GUID>
+                        <GUID>1999909173</GUID>
                         <Name>remove lost_tribes+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11372,7 +11372,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009174</GUID>
+                        <GUID>1999909174</GUID>
                         <Name>remove lost_tribes+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11464,7 +11464,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009175</GUID>
+                        <GUID>1999909175</GUID>
                         <Name>remove lost_tribes+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11556,7 +11556,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009176</GUID>
+                        <GUID>1999909176</GUID>
                         <Name>remove lost_tribes+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11648,7 +11648,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009177</GUID>
+                        <GUID>1999909177</GUID>
                         <Name>remove lost_tribes+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11740,7 +11740,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009178</GUID>
+                        <GUID>1999909178</GUID>
                         <Name>remove lost_tribes+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11832,7 +11832,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009179</GUID>
+                        <GUID>1999909179</GUID>
                         <Name>remove lost_tribes+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11924,7 +11924,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009180</GUID>
+                        <GUID>1999909180</GUID>
                         <Name>remove lost_tribes+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12016,7 +12016,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009181</GUID>
+                        <GUID>1999909181</GUID>
                         <Name>remove lost_tribes+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12108,7 +12108,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009182</GUID>
+                        <GUID>1999909182</GUID>
                         <Name>remove lost_tribes+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12200,7 +12200,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009183</GUID>
+                        <GUID>1999909183</GUID>
                         <Name>remove lost_tribes+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

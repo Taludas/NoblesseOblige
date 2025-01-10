@@ -1336,127 +1336,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008643</Quest>
+                                <Quest>1999908643</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008644</Quest>
+                                <Quest>1999908644</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008645</Quest>
+                                <Quest>1999908645</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008646</Quest>
+                                <Quest>1999908646</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008647</Quest>
+                                <Quest>1999908647</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008648</Quest>
+                                <Quest>1999908648</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008649</Quest>
+                                <Quest>1999908649</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008650</Quest>
+                                <Quest>1999908650</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008651</Quest>
+                                <Quest>1999908651</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008652</Quest>
+                                <Quest>1999908652</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008653</Quest>
+                                <Quest>1999908653</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008654</Quest>
+                                <Quest>1999908654</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008655</Quest>
+                                <Quest>1999908655</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008656</Quest>
+                                <Quest>1999908656</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008657</Quest>
+                                <Quest>1999908657</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008658</Quest>
+                                <Quest>1999908658</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008659</Quest>
+                                <Quest>1999908659</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008660</Quest>
+                                <Quest>1999908660</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008661</Quest>
+                                <Quest>1999908661</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008662</Quest>
+                                <Quest>1999908662</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008663</Quest>
+                                <Quest>1999908663</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008664</Quest>
+                                <Quest>1999908664</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008665</Quest>
+                                <Quest>1999908665</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008666</Quest>
+                                <Quest>1999908666</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008667</Quest>
+                                <Quest>1999908667</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008668</Quest>
+                                <Quest>1999908668</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008669</Quest>
+                                <Quest>1999908669</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008670</Quest>
+                                <Quest>1999908670</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008671</Quest>
+                                <Quest>1999908671</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008672</Quest>
+                                <Quest>1999908672</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008673</Quest>
+                                <Quest>1999908673</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008674</Quest>
+                                <Quest>1999908674</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008675</Quest>
+                                <Quest>1999908675</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008676</Quest>
+                                <Quest>1999908676</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008677</Quest>
+                                <Quest>1999908677</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008678</Quest>
+                                <Quest>1999908678</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008679</Quest>
+                                <Quest>1999908679</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008680</Quest>
+                                <Quest>1999908680</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008681</Quest>
+                                <Quest>1999908681</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008682</Quest>
+                                <Quest>1999908682</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008683</Quest>
+                                <Quest>1999908683</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1478,7 +1478,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008643</GUID>
+                        <GUID>1999908643</GUID>
                         <Name>Delete bufffactory atlantean+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1833,8 +1833,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1876,7 +1876,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008644</GUID>
+                        <GUID>1999908644</GUID>
                         <Name>spawn bufffactory atlantean+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2242,8 +2242,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2263,8 +2263,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2306,7 +2306,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008645</GUID>
+                        <GUID>1999908645</GUID>
                         <Name>spawn bufffactory atlantean+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2673,8 +2673,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2694,8 +2694,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2737,7 +2737,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008646</GUID>
+                        <GUID>1999908646</GUID>
                         <Name>spawn bufffactory atlantean+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3104,8 +3104,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3125,8 +3125,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3168,7 +3168,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008647</GUID>
+                        <GUID>1999908647</GUID>
                         <Name>spawn bufffactory atlantean+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3535,8 +3535,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3556,8 +3556,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3599,7 +3599,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008648</GUID>
+                        <GUID>1999908648</GUID>
                         <Name>spawn bufffactory atlantean+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3966,8 +3966,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3987,8 +3987,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4030,7 +4030,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008649</GUID>
+                        <GUID>1999908649</GUID>
                         <Name>spawn bufffactory atlantean+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4397,8 +4397,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4418,8 +4418,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4461,7 +4461,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008650</GUID>
+                        <GUID>1999908650</GUID>
                         <Name>spawn bufffactory atlantean+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4828,8 +4828,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4849,8 +4849,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4892,7 +4892,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008651</GUID>
+                        <GUID>1999908651</GUID>
                         <Name>spawn bufffactory atlantean+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5259,8 +5259,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5280,8 +5280,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5323,7 +5323,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008652</GUID>
+                        <GUID>1999908652</GUID>
                         <Name>spawn bufffactory atlantean+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5690,8 +5690,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5711,8 +5711,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5754,7 +5754,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008653</GUID>
+                        <GUID>1999908653</GUID>
                         <Name>spawn bufffactory atlantean+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6121,8 +6121,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6142,8 +6142,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6185,7 +6185,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008654</GUID>
+                        <GUID>1999908654</GUID>
                         <Name>spawn bufffactory atlantean+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6552,8 +6552,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6573,8 +6573,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6616,7 +6616,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008655</GUID>
+                        <GUID>1999908655</GUID>
                         <Name>spawn bufffactory atlantean+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6983,8 +6983,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7004,8 +7004,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7047,7 +7047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008656</GUID>
+                        <GUID>1999908656</GUID>
                         <Name>spawn bufffactory atlantean+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7414,8 +7414,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7435,8 +7435,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7478,7 +7478,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008657</GUID>
+                        <GUID>1999908657</GUID>
                         <Name>spawn bufffactory atlantean+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7845,8 +7845,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7866,8 +7866,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7909,7 +7909,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008658</GUID>
+                        <GUID>1999908658</GUID>
                         <Name>spawn bufffactory atlantean+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8276,8 +8276,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8297,8 +8297,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8340,7 +8340,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008659</GUID>
+                        <GUID>1999908659</GUID>
                         <Name>spawn bufffactory atlantean+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8707,8 +8707,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8728,8 +8728,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8771,7 +8771,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008660</GUID>
+                        <GUID>1999908660</GUID>
                         <Name>spawn bufffactory atlantean+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9123,8 +9123,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9144,8 +9144,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9187,7 +9187,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008661</GUID>
+                        <GUID>1999908661</GUID>
                         <Name>spawn bufffactory atlantean+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9539,8 +9539,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9560,8 +9560,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9603,7 +9603,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008662</GUID>
+                        <GUID>1999908662</GUID>
                         <Name>spawn bufffactory atlantean+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9955,8 +9955,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9976,8 +9976,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10019,7 +10019,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008663</GUID>
+                        <GUID>1999908663</GUID>
                         <Name>spawn bufffactory atlantean+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10370,8 +10370,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10412,7 +10412,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008664</GUID>
+                        <GUID>1999908664</GUID>
                         <Name>remove atlantean+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10504,7 +10504,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008665</GUID>
+                        <GUID>1999908665</GUID>
                         <Name>remove atlantean+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10596,7 +10596,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008666</GUID>
+                        <GUID>1999908666</GUID>
                         <Name>remove atlantean+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10688,7 +10688,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008667</GUID>
+                        <GUID>1999908667</GUID>
                         <Name>remove atlantean+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10780,7 +10780,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008668</GUID>
+                        <GUID>1999908668</GUID>
                         <Name>remove atlantean+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10872,7 +10872,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008669</GUID>
+                        <GUID>1999908669</GUID>
                         <Name>remove atlantean+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10964,7 +10964,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008670</GUID>
+                        <GUID>1999908670</GUID>
                         <Name>remove atlantean+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11056,7 +11056,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008671</GUID>
+                        <GUID>1999908671</GUID>
                         <Name>remove atlantean+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11148,7 +11148,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008672</GUID>
+                        <GUID>1999908672</GUID>
                         <Name>remove atlantean+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11240,7 +11240,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008673</GUID>
+                        <GUID>1999908673</GUID>
                         <Name>remove atlantean+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11332,7 +11332,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008674</GUID>
+                        <GUID>1999908674</GUID>
                         <Name>remove atlantean+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11424,7 +11424,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008675</GUID>
+                        <GUID>1999908675</GUID>
                         <Name>remove atlantean+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11516,7 +11516,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008676</GUID>
+                        <GUID>1999908676</GUID>
                         <Name>remove atlantean+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11608,7 +11608,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008677</GUID>
+                        <GUID>1999908677</GUID>
                         <Name>remove atlantean+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11700,7 +11700,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008678</GUID>
+                        <GUID>1999908678</GUID>
                         <Name>remove atlantean+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11792,7 +11792,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008679</GUID>
+                        <GUID>1999908679</GUID>
                         <Name>remove atlantean+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11884,7 +11884,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008680</GUID>
+                        <GUID>1999908680</GUID>
                         <Name>remove atlantean+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11976,7 +11976,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008681</GUID>
+                        <GUID>1999908681</GUID>
                         <Name>remove atlantean+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12068,7 +12068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008682</GUID>
+                        <GUID>1999908682</GUID>
                         <Name>remove atlantean+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12160,7 +12160,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008683</GUID>
+                        <GUID>1999908683</GUID>
                         <Name>remove atlantean+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

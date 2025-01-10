@@ -1196,127 +1196,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009343</Quest>
+                                <Quest>1999909343</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009344</Quest>
+                                <Quest>1999909344</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009345</Quest>
+                                <Quest>1999909345</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009346</Quest>
+                                <Quest>1999909346</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009347</Quest>
+                                <Quest>1999909347</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009348</Quest>
+                                <Quest>1999909348</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009349</Quest>
+                                <Quest>1999909349</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009350</Quest>
+                                <Quest>1999909350</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009351</Quest>
+                                <Quest>1999909351</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009352</Quest>
+                                <Quest>1999909352</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009353</Quest>
+                                <Quest>1999909353</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009354</Quest>
+                                <Quest>1999909354</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009355</Quest>
+                                <Quest>1999909355</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009356</Quest>
+                                <Quest>1999909356</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009357</Quest>
+                                <Quest>1999909357</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009358</Quest>
+                                <Quest>1999909358</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009359</Quest>
+                                <Quest>1999909359</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009360</Quest>
+                                <Quest>1999909360</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009361</Quest>
+                                <Quest>1999909361</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009362</Quest>
+                                <Quest>1999909362</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009363</Quest>
+                                <Quest>1999909363</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009364</Quest>
+                                <Quest>1999909364</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009365</Quest>
+                                <Quest>1999909365</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009366</Quest>
+                                <Quest>1999909366</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009367</Quest>
+                                <Quest>1999909367</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009368</Quest>
+                                <Quest>1999909368</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009369</Quest>
+                                <Quest>1999909369</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009370</Quest>
+                                <Quest>1999909370</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009371</Quest>
+                                <Quest>1999909371</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009372</Quest>
+                                <Quest>1999909372</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009373</Quest>
+                                <Quest>1999909373</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009374</Quest>
+                                <Quest>1999909374</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009375</Quest>
+                                <Quest>1999909375</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009376</Quest>
+                                <Quest>1999909376</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009377</Quest>
+                                <Quest>1999909377</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009378</Quest>
+                                <Quest>1999909378</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009379</Quest>
+                                <Quest>1999909379</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009380</Quest>
+                                <Quest>1999909380</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009381</Quest>
+                                <Quest>1999909381</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009382</Quest>
+                                <Quest>1999909382</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009383</Quest>
+                                <Quest>1999909383</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1338,7 +1338,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009343</GUID>
+                        <GUID>1999909343</GUID>
                         <Name>Delete bufffactory heirlooms+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1693,8 +1693,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1736,7 +1736,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009344</GUID>
+                        <GUID>1999909344</GUID>
                         <Name>spawn bufffactory heirlooms+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2102,8 +2102,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2123,8 +2123,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2166,7 +2166,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009345</GUID>
+                        <GUID>1999909345</GUID>
                         <Name>spawn bufffactory heirlooms+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2533,8 +2533,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2554,8 +2554,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2597,7 +2597,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009346</GUID>
+                        <GUID>1999909346</GUID>
                         <Name>spawn bufffactory heirlooms+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -2964,8 +2964,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2985,8 +2985,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3028,7 +3028,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009347</GUID>
+                        <GUID>1999909347</GUID>
                         <Name>spawn bufffactory heirlooms+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3395,8 +3395,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3416,8 +3416,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3459,7 +3459,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009348</GUID>
+                        <GUID>1999909348</GUID>
                         <Name>spawn bufffactory heirlooms+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3826,8 +3826,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3847,8 +3847,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3890,7 +3890,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009349</GUID>
+                        <GUID>1999909349</GUID>
                         <Name>spawn bufffactory heirlooms+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4257,8 +4257,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4278,8 +4278,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4321,7 +4321,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009350</GUID>
+                        <GUID>1999909350</GUID>
                         <Name>spawn bufffactory heirlooms+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4688,8 +4688,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4709,8 +4709,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4752,7 +4752,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009351</GUID>
+                        <GUID>1999909351</GUID>
                         <Name>spawn bufffactory heirlooms+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5119,8 +5119,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5140,8 +5140,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5183,7 +5183,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009352</GUID>
+                        <GUID>1999909352</GUID>
                         <Name>spawn bufffactory heirlooms+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5550,8 +5550,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5571,8 +5571,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5614,7 +5614,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009353</GUID>
+                        <GUID>1999909353</GUID>
                         <Name>spawn bufffactory heirlooms+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -5981,8 +5981,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6002,8 +6002,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6045,7 +6045,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009354</GUID>
+                        <GUID>1999909354</GUID>
                         <Name>spawn bufffactory heirlooms+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6412,8 +6412,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6433,8 +6433,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6476,7 +6476,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009355</GUID>
+                        <GUID>1999909355</GUID>
                         <Name>spawn bufffactory heirlooms+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6843,8 +6843,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6864,8 +6864,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6907,7 +6907,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009356</GUID>
+                        <GUID>1999909356</GUID>
                         <Name>spawn bufffactory heirlooms+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7274,8 +7274,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7295,8 +7295,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7338,7 +7338,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009357</GUID>
+                        <GUID>1999909357</GUID>
                         <Name>spawn bufffactory heirlooms+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7705,8 +7705,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7726,8 +7726,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7769,7 +7769,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009358</GUID>
+                        <GUID>1999909358</GUID>
                         <Name>spawn bufffactory heirlooms+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8136,8 +8136,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8157,8 +8157,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8200,7 +8200,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009359</GUID>
+                        <GUID>1999909359</GUID>
                         <Name>spawn bufffactory heirlooms+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8567,8 +8567,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8588,8 +8588,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8631,7 +8631,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009360</GUID>
+                        <GUID>1999909360</GUID>
                         <Name>spawn bufffactory heirlooms+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -8983,8 +8983,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9004,8 +9004,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9047,7 +9047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009361</GUID>
+                        <GUID>1999909361</GUID>
                         <Name>spawn bufffactory heirlooms+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9399,8 +9399,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9420,8 +9420,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9463,7 +9463,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009362</GUID>
+                        <GUID>1999909362</GUID>
                         <Name>spawn bufffactory heirlooms+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9815,8 +9815,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9836,8 +9836,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9879,7 +9879,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009363</GUID>
+                        <GUID>1999909363</GUID>
                         <Name>spawn bufffactory heirlooms+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10230,8 +10230,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10272,7 +10272,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009364</GUID>
+                        <GUID>1999909364</GUID>
                         <Name>remove heirlooms+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10364,7 +10364,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009365</GUID>
+                        <GUID>1999909365</GUID>
                         <Name>remove heirlooms+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10456,7 +10456,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009366</GUID>
+                        <GUID>1999909366</GUID>
                         <Name>remove heirlooms+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10548,7 +10548,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009367</GUID>
+                        <GUID>1999909367</GUID>
                         <Name>remove heirlooms+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10640,7 +10640,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009368</GUID>
+                        <GUID>1999909368</GUID>
                         <Name>remove heirlooms+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10732,7 +10732,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009369</GUID>
+                        <GUID>1999909369</GUID>
                         <Name>remove heirlooms+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10824,7 +10824,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009370</GUID>
+                        <GUID>1999909370</GUID>
                         <Name>remove heirlooms+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10916,7 +10916,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009371</GUID>
+                        <GUID>1999909371</GUID>
                         <Name>remove heirlooms+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11008,7 +11008,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009372</GUID>
+                        <GUID>1999909372</GUID>
                         <Name>remove heirlooms+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11100,7 +11100,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009373</GUID>
+                        <GUID>1999909373</GUID>
                         <Name>remove heirlooms+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11192,7 +11192,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009374</GUID>
+                        <GUID>1999909374</GUID>
                         <Name>remove heirlooms+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11284,7 +11284,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009375</GUID>
+                        <GUID>1999909375</GUID>
                         <Name>remove heirlooms+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11376,7 +11376,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009376</GUID>
+                        <GUID>1999909376</GUID>
                         <Name>remove heirlooms+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11468,7 +11468,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009377</GUID>
+                        <GUID>1999909377</GUID>
                         <Name>remove heirlooms+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11560,7 +11560,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009378</GUID>
+                        <GUID>1999909378</GUID>
                         <Name>remove heirlooms+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11652,7 +11652,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009379</GUID>
+                        <GUID>1999909379</GUID>
                         <Name>remove heirlooms+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11744,7 +11744,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009380</GUID>
+                        <GUID>1999909380</GUID>
                         <Name>remove heirlooms+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11836,7 +11836,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009381</GUID>
+                        <GUID>1999909381</GUID>
                         <Name>remove heirlooms+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11928,7 +11928,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009382</GUID>
+                        <GUID>1999909382</GUID>
                         <Name>remove heirlooms+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12020,7 +12020,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009383</GUID>
+                        <GUID>1999909383</GUID>
                         <Name>remove heirlooms+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

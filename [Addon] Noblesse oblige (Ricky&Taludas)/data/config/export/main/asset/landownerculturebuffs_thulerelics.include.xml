@@ -1808,127 +1808,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008843</Quest>
+                                <Quest>1999908843</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008844</Quest>
+                                <Quest>1999908844</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008845</Quest>
+                                <Quest>1999908845</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008846</Quest>
+                                <Quest>1999908846</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008847</Quest>
+                                <Quest>1999908847</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008848</Quest>
+                                <Quest>1999908848</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008849</Quest>
+                                <Quest>1999908849</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008850</Quest>
+                                <Quest>1999908850</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008851</Quest>
+                                <Quest>1999908851</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008852</Quest>
+                                <Quest>1999908852</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008853</Quest>
+                                <Quest>1999908853</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008854</Quest>
+                                <Quest>1999908854</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008855</Quest>
+                                <Quest>1999908855</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008856</Quest>
+                                <Quest>1999908856</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008857</Quest>
+                                <Quest>1999908857</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008858</Quest>
+                                <Quest>1999908858</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008859</Quest>
+                                <Quest>1999908859</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008860</Quest>
+                                <Quest>1999908860</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008861</Quest>
+                                <Quest>1999908861</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008862</Quest>
+                                <Quest>1999908862</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008863</Quest>
+                                <Quest>1999908863</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008864</Quest>
+                                <Quest>1999908864</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008865</Quest>
+                                <Quest>1999908865</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008866</Quest>
+                                <Quest>1999908866</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008867</Quest>
+                                <Quest>1999908867</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008868</Quest>
+                                <Quest>1999908868</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008869</Quest>
+                                <Quest>1999908869</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008870</Quest>
+                                <Quest>1999908870</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008871</Quest>
+                                <Quest>1999908871</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008872</Quest>
+                                <Quest>1999908872</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008873</Quest>
+                                <Quest>1999908873</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008874</Quest>
+                                <Quest>1999908874</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008875</Quest>
+                                <Quest>1999908875</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008876</Quest>
+                                <Quest>1999908876</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008877</Quest>
+                                <Quest>1999908877</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008878</Quest>
+                                <Quest>1999908878</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008879</Quest>
+                                <Quest>1999908879</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008880</Quest>
+                                <Quest>1999908880</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008881</Quest>
+                                <Quest>1999908881</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008882</Quest>
+                                <Quest>1999908882</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008883</Quest>
+                                <Quest>1999908883</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1950,7 +1950,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008843</GUID>
+                        <GUID>1999908843</GUID>
                         <Name>Delete bufffactory thule_relics+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -2305,8 +2305,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2348,7 +2348,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008844</GUID>
+                        <GUID>1999908844</GUID>
                         <Name>spawn bufffactory thule_relics+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2714,8 +2714,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2735,8 +2735,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2778,7 +2778,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008845</GUID>
+                        <GUID>1999908845</GUID>
                         <Name>spawn bufffactory thule_relics+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -3145,8 +3145,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3166,8 +3166,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3209,7 +3209,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008846</GUID>
+                        <GUID>1999908846</GUID>
                         <Name>spawn bufffactory thule_relics+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3576,8 +3576,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3597,8 +3597,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3640,7 +3640,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008847</GUID>
+                        <GUID>1999908847</GUID>
                         <Name>spawn bufffactory thule_relics+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -4007,8 +4007,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4028,8 +4028,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4071,7 +4071,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008848</GUID>
+                        <GUID>1999908848</GUID>
                         <Name>spawn bufffactory thule_relics+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4438,8 +4438,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4459,8 +4459,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4502,7 +4502,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008849</GUID>
+                        <GUID>1999908849</GUID>
                         <Name>spawn bufffactory thule_relics+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4869,8 +4869,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4890,8 +4890,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4933,7 +4933,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008850</GUID>
+                        <GUID>1999908850</GUID>
                         <Name>spawn bufffactory thule_relics+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -5300,8 +5300,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5321,8 +5321,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5364,7 +5364,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008851</GUID>
+                        <GUID>1999908851</GUID>
                         <Name>spawn bufffactory thule_relics+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5731,8 +5731,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5752,8 +5752,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5795,7 +5795,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008852</GUID>
+                        <GUID>1999908852</GUID>
                         <Name>spawn bufffactory thule_relics+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -6162,8 +6162,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6183,8 +6183,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6226,7 +6226,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008853</GUID>
+                        <GUID>1999908853</GUID>
                         <Name>spawn bufffactory thule_relics+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6593,8 +6593,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6614,8 +6614,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6657,7 +6657,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008854</GUID>
+                        <GUID>1999908854</GUID>
                         <Name>spawn bufffactory thule_relics+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -7024,8 +7024,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7045,8 +7045,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7088,7 +7088,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008855</GUID>
+                        <GUID>1999908855</GUID>
                         <Name>spawn bufffactory thule_relics+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7455,8 +7455,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7476,8 +7476,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7519,7 +7519,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008856</GUID>
+                        <GUID>1999908856</GUID>
                         <Name>spawn bufffactory thule_relics+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7886,8 +7886,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7907,8 +7907,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7950,7 +7950,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008857</GUID>
+                        <GUID>1999908857</GUID>
                         <Name>spawn bufffactory thule_relics+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -8317,8 +8317,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8338,8 +8338,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8381,7 +8381,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008858</GUID>
+                        <GUID>1999908858</GUID>
                         <Name>spawn bufffactory thule_relics+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8748,8 +8748,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8769,8 +8769,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8812,7 +8812,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008859</GUID>
+                        <GUID>1999908859</GUID>
                         <Name>spawn bufffactory thule_relics+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -9179,8 +9179,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9200,8 +9200,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9243,7 +9243,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008860</GUID>
+                        <GUID>1999908860</GUID>
                         <Name>spawn bufffactory thule_relics+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9595,8 +9595,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9616,8 +9616,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9659,7 +9659,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008861</GUID>
+                        <GUID>1999908861</GUID>
                         <Name>spawn bufffactory thule_relics+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -10011,8 +10011,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10032,8 +10032,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10075,7 +10075,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008862</GUID>
+                        <GUID>1999908862</GUID>
                         <Name>spawn bufffactory thule_relics+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10427,8 +10427,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10448,8 +10448,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10491,7 +10491,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008863</GUID>
+                        <GUID>1999908863</GUID>
                         <Name>spawn bufffactory thule_relics+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10842,8 +10842,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10884,7 +10884,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008864</GUID>
+                        <GUID>1999908864</GUID>
                         <Name>remove thule_relics+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10976,7 +10976,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008865</GUID>
+                        <GUID>1999908865</GUID>
                         <Name>remove thule_relics+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11068,7 +11068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008866</GUID>
+                        <GUID>1999908866</GUID>
                         <Name>remove thule_relics+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11160,7 +11160,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008867</GUID>
+                        <GUID>1999908867</GUID>
                         <Name>remove thule_relics+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11252,7 +11252,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008868</GUID>
+                        <GUID>1999908868</GUID>
                         <Name>remove thule_relics+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11344,7 +11344,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008869</GUID>
+                        <GUID>1999908869</GUID>
                         <Name>remove thule_relics+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11436,7 +11436,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008870</GUID>
+                        <GUID>1999908870</GUID>
                         <Name>remove thule_relics+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11528,7 +11528,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008871</GUID>
+                        <GUID>1999908871</GUID>
                         <Name>remove thule_relics+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11620,7 +11620,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008872</GUID>
+                        <GUID>1999908872</GUID>
                         <Name>remove thule_relics+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11712,7 +11712,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008873</GUID>
+                        <GUID>1999908873</GUID>
                         <Name>remove thule_relics+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11804,7 +11804,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008874</GUID>
+                        <GUID>1999908874</GUID>
                         <Name>remove thule_relics+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11896,7 +11896,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008875</GUID>
+                        <GUID>1999908875</GUID>
                         <Name>remove thule_relics+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11988,7 +11988,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008876</GUID>
+                        <GUID>1999908876</GUID>
                         <Name>remove thule_relics+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12080,7 +12080,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008877</GUID>
+                        <GUID>1999908877</GUID>
                         <Name>remove thule_relics+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12172,7 +12172,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008878</GUID>
+                        <GUID>1999908878</GUID>
                         <Name>remove thule_relics+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12264,7 +12264,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008879</GUID>
+                        <GUID>1999908879</GUID>
                         <Name>remove thule_relics+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12356,7 +12356,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008880</GUID>
+                        <GUID>1999908880</GUID>
                         <Name>remove thule_relics+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12448,7 +12448,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008881</GUID>
+                        <GUID>1999908881</GUID>
                         <Name>remove thule_relics+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12540,7 +12540,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008882</GUID>
+                        <GUID>1999908882</GUID>
                         <Name>remove thule_relics+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12632,7 +12632,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008883</GUID>
+                        <GUID>1999908883</GUID>
                         <Name>remove thule_relics+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

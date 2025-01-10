@@ -1437,127 +1437,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999006243</Quest>
+                                <Quest>1999906243</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006244</Quest>
+                                <Quest>1999906244</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006245</Quest>
+                                <Quest>1999906245</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006246</Quest>
+                                <Quest>1999906246</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006247</Quest>
+                                <Quest>1999906247</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006248</Quest>
+                                <Quest>1999906248</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006249</Quest>
+                                <Quest>1999906249</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006250</Quest>
+                                <Quest>1999906250</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006251</Quest>
+                                <Quest>1999906251</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006252</Quest>
+                                <Quest>1999906252</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006253</Quest>
+                                <Quest>1999906253</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006254</Quest>
+                                <Quest>1999906254</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006255</Quest>
+                                <Quest>1999906255</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006256</Quest>
+                                <Quest>1999906256</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006257</Quest>
+                                <Quest>1999906257</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006258</Quest>
+                                <Quest>1999906258</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006259</Quest>
+                                <Quest>1999906259</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006260</Quest>
+                                <Quest>1999906260</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006261</Quest>
+                                <Quest>1999906261</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006262</Quest>
+                                <Quest>1999906262</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006263</Quest>
+                                <Quest>1999906263</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006264</Quest>
+                                <Quest>1999906264</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006265</Quest>
+                                <Quest>1999906265</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006266</Quest>
+                                <Quest>1999906266</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006267</Quest>
+                                <Quest>1999906267</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006268</Quest>
+                                <Quest>1999906268</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006269</Quest>
+                                <Quest>1999906269</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006270</Quest>
+                                <Quest>1999906270</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006271</Quest>
+                                <Quest>1999906271</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006272</Quest>
+                                <Quest>1999906272</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006273</Quest>
+                                <Quest>1999906273</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006274</Quest>
+                                <Quest>1999906274</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006275</Quest>
+                                <Quest>1999906275</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006276</Quest>
+                                <Quest>1999906276</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006277</Quest>
+                                <Quest>1999906277</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006278</Quest>
+                                <Quest>1999906278</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006279</Quest>
+                                <Quest>1999906279</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006280</Quest>
+                                <Quest>1999906280</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006281</Quest>
+                                <Quest>1999906281</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006282</Quest>
+                                <Quest>1999906282</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006283</Quest>
+                                <Quest>1999906283</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1579,7 +1579,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006243</GUID>
+                        <GUID>1999906243</GUID>
                         <Name>Delete bufffactory ocean_predators+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1934,8 +1934,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1977,7 +1977,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006244</GUID>
+                        <GUID>1999906244</GUID>
                         <Name>spawn bufffactory ocean_predators+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2343,8 +2343,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2364,8 +2364,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2407,7 +2407,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006245</GUID>
+                        <GUID>1999906245</GUID>
                         <Name>spawn bufffactory ocean_predators+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2774,8 +2774,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2795,8 +2795,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2838,7 +2838,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006246</GUID>
+                        <GUID>1999906246</GUID>
                         <Name>spawn bufffactory ocean_predators+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3205,8 +3205,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3226,8 +3226,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3269,7 +3269,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006247</GUID>
+                        <GUID>1999906247</GUID>
                         <Name>spawn bufffactory ocean_predators+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3636,8 +3636,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3657,8 +3657,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3700,7 +3700,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006248</GUID>
+                        <GUID>1999906248</GUID>
                         <Name>spawn bufffactory ocean_predators+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4067,8 +4067,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4088,8 +4088,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4131,7 +4131,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006249</GUID>
+                        <GUID>1999906249</GUID>
                         <Name>spawn bufffactory ocean_predators+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4498,8 +4498,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4519,8 +4519,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4562,7 +4562,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006250</GUID>
+                        <GUID>1999906250</GUID>
                         <Name>spawn bufffactory ocean_predators+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4929,8 +4929,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4950,8 +4950,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4993,7 +4993,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006251</GUID>
+                        <GUID>1999906251</GUID>
                         <Name>spawn bufffactory ocean_predators+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5360,8 +5360,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5381,8 +5381,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5424,7 +5424,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006252</GUID>
+                        <GUID>1999906252</GUID>
                         <Name>spawn bufffactory ocean_predators+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5791,8 +5791,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5812,8 +5812,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5855,7 +5855,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006253</GUID>
+                        <GUID>1999906253</GUID>
                         <Name>spawn bufffactory ocean_predators+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6222,8 +6222,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6243,8 +6243,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6286,7 +6286,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006254</GUID>
+                        <GUID>1999906254</GUID>
                         <Name>spawn bufffactory ocean_predators+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6653,8 +6653,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6674,8 +6674,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6717,7 +6717,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006255</GUID>
+                        <GUID>1999906255</GUID>
                         <Name>spawn bufffactory ocean_predators+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7084,8 +7084,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7105,8 +7105,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7148,7 +7148,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006256</GUID>
+                        <GUID>1999906256</GUID>
                         <Name>spawn bufffactory ocean_predators+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7515,8 +7515,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7536,8 +7536,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7579,7 +7579,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006257</GUID>
+                        <GUID>1999906257</GUID>
                         <Name>spawn bufffactory ocean_predators+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7946,8 +7946,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7967,8 +7967,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8010,7 +8010,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006258</GUID>
+                        <GUID>1999906258</GUID>
                         <Name>spawn bufffactory ocean_predators+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8377,8 +8377,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8398,8 +8398,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8441,7 +8441,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006259</GUID>
+                        <GUID>1999906259</GUID>
                         <Name>spawn bufffactory ocean_predators+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8808,8 +8808,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8829,8 +8829,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8872,7 +8872,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006260</GUID>
+                        <GUID>1999906260</GUID>
                         <Name>spawn bufffactory ocean_predators+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9224,8 +9224,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9245,8 +9245,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9288,7 +9288,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006261</GUID>
+                        <GUID>1999906261</GUID>
                         <Name>spawn bufffactory ocean_predators+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9640,8 +9640,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9661,8 +9661,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9704,7 +9704,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006262</GUID>
+                        <GUID>1999906262</GUID>
                         <Name>spawn bufffactory ocean_predators+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10056,8 +10056,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10077,8 +10077,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10120,7 +10120,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006263</GUID>
+                        <GUID>1999906263</GUID>
                         <Name>spawn bufffactory ocean_predators+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10471,8 +10471,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10513,7 +10513,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006264</GUID>
+                        <GUID>1999906264</GUID>
                         <Name>remove ocean_predators+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10605,7 +10605,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006265</GUID>
+                        <GUID>1999906265</GUID>
                         <Name>remove ocean_predators+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10697,7 +10697,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006266</GUID>
+                        <GUID>1999906266</GUID>
                         <Name>remove ocean_predators+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10789,7 +10789,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006267</GUID>
+                        <GUID>1999906267</GUID>
                         <Name>remove ocean_predators+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10881,7 +10881,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006268</GUID>
+                        <GUID>1999906268</GUID>
                         <Name>remove ocean_predators+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10973,7 +10973,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006269</GUID>
+                        <GUID>1999906269</GUID>
                         <Name>remove ocean_predators+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11065,7 +11065,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006270</GUID>
+                        <GUID>1999906270</GUID>
                         <Name>remove ocean_predators+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11157,7 +11157,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006271</GUID>
+                        <GUID>1999906271</GUID>
                         <Name>remove ocean_predators+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11249,7 +11249,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006272</GUID>
+                        <GUID>1999906272</GUID>
                         <Name>remove ocean_predators+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11341,7 +11341,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006273</GUID>
+                        <GUID>1999906273</GUID>
                         <Name>remove ocean_predators+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11433,7 +11433,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006274</GUID>
+                        <GUID>1999906274</GUID>
                         <Name>remove ocean_predators+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11525,7 +11525,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006275</GUID>
+                        <GUID>1999906275</GUID>
                         <Name>remove ocean_predators+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11617,7 +11617,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006276</GUID>
+                        <GUID>1999906276</GUID>
                         <Name>remove ocean_predators+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11709,7 +11709,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006277</GUID>
+                        <GUID>1999906277</GUID>
                         <Name>remove ocean_predators+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11801,7 +11801,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006278</GUID>
+                        <GUID>1999906278</GUID>
                         <Name>remove ocean_predators+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11893,7 +11893,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006279</GUID>
+                        <GUID>1999906279</GUID>
                         <Name>remove ocean_predators+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11985,7 +11985,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006280</GUID>
+                        <GUID>1999906280</GUID>
                         <Name>remove ocean_predators+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12077,7 +12077,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006281</GUID>
+                        <GUID>1999906281</GUID>
                         <Name>remove ocean_predators+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12169,7 +12169,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006282</GUID>
+                        <GUID>1999906282</GUID>
                         <Name>remove ocean_predators+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12261,7 +12261,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006283</GUID>
+                        <GUID>1999906283</GUID>
                         <Name>remove ocean_predators+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

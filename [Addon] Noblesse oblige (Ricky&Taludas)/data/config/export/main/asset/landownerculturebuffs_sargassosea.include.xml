@@ -1339,127 +1339,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009543</Quest>
+                                <Quest>1999909543</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009544</Quest>
+                                <Quest>1999909544</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009545</Quest>
+                                <Quest>1999909545</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009546</Quest>
+                                <Quest>1999909546</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009547</Quest>
+                                <Quest>1999909547</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009548</Quest>
+                                <Quest>1999909548</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009549</Quest>
+                                <Quest>1999909549</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009550</Quest>
+                                <Quest>1999909550</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009551</Quest>
+                                <Quest>1999909551</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009552</Quest>
+                                <Quest>1999909552</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009553</Quest>
+                                <Quest>1999909553</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009554</Quest>
+                                <Quest>1999909554</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009555</Quest>
+                                <Quest>1999909555</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009556</Quest>
+                                <Quest>1999909556</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009557</Quest>
+                                <Quest>1999909557</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009558</Quest>
+                                <Quest>1999909558</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009559</Quest>
+                                <Quest>1999909559</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009560</Quest>
+                                <Quest>1999909560</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009561</Quest>
+                                <Quest>1999909561</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009562</Quest>
+                                <Quest>1999909562</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009563</Quest>
+                                <Quest>1999909563</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009564</Quest>
+                                <Quest>1999909564</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009565</Quest>
+                                <Quest>1999909565</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009566</Quest>
+                                <Quest>1999909566</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009567</Quest>
+                                <Quest>1999909567</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009568</Quest>
+                                <Quest>1999909568</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009569</Quest>
+                                <Quest>1999909569</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009570</Quest>
+                                <Quest>1999909570</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009571</Quest>
+                                <Quest>1999909571</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009572</Quest>
+                                <Quest>1999909572</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009573</Quest>
+                                <Quest>1999909573</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009574</Quest>
+                                <Quest>1999909574</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009575</Quest>
+                                <Quest>1999909575</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009576</Quest>
+                                <Quest>1999909576</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009577</Quest>
+                                <Quest>1999909577</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009578</Quest>
+                                <Quest>1999909578</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009579</Quest>
+                                <Quest>1999909579</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009580</Quest>
+                                <Quest>1999909580</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009581</Quest>
+                                <Quest>1999909581</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009582</Quest>
+                                <Quest>1999909582</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009583</Quest>
+                                <Quest>1999909583</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1481,7 +1481,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009543</GUID>
+                        <GUID>1999909543</GUID>
                         <Name>Delete bufffactory sargasso+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1836,8 +1836,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1879,7 +1879,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009544</GUID>
+                        <GUID>1999909544</GUID>
                         <Name>spawn bufffactory sargasso+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2245,8 +2245,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2266,8 +2266,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2309,7 +2309,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009545</GUID>
+                        <GUID>1999909545</GUID>
                         <Name>spawn bufffactory sargasso+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2676,8 +2676,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2697,8 +2697,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2740,7 +2740,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009546</GUID>
+                        <GUID>1999909546</GUID>
                         <Name>spawn bufffactory sargasso+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3107,8 +3107,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3128,8 +3128,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3171,7 +3171,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009547</GUID>
+                        <GUID>1999909547</GUID>
                         <Name>spawn bufffactory sargasso+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3538,8 +3538,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3559,8 +3559,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3602,7 +3602,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009548</GUID>
+                        <GUID>1999909548</GUID>
                         <Name>spawn bufffactory sargasso+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3969,8 +3969,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3990,8 +3990,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4033,7 +4033,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009549</GUID>
+                        <GUID>1999909549</GUID>
                         <Name>spawn bufffactory sargasso+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4400,8 +4400,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4421,8 +4421,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4464,7 +4464,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009550</GUID>
+                        <GUID>1999909550</GUID>
                         <Name>spawn bufffactory sargasso+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4831,8 +4831,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4852,8 +4852,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4895,7 +4895,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009551</GUID>
+                        <GUID>1999909551</GUID>
                         <Name>spawn bufffactory sargasso+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5262,8 +5262,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5283,8 +5283,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5326,7 +5326,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009552</GUID>
+                        <GUID>1999909552</GUID>
                         <Name>spawn bufffactory sargasso+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5693,8 +5693,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5714,8 +5714,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5757,7 +5757,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009553</GUID>
+                        <GUID>1999909553</GUID>
                         <Name>spawn bufffactory sargasso+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6124,8 +6124,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6145,8 +6145,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6188,7 +6188,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009554</GUID>
+                        <GUID>1999909554</GUID>
                         <Name>spawn bufffactory sargasso+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6555,8 +6555,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6576,8 +6576,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6619,7 +6619,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009555</GUID>
+                        <GUID>1999909555</GUID>
                         <Name>spawn bufffactory sargasso+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6986,8 +6986,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7007,8 +7007,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7050,7 +7050,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009556</GUID>
+                        <GUID>1999909556</GUID>
                         <Name>spawn bufffactory sargasso+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7417,8 +7417,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7438,8 +7438,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7481,7 +7481,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009557</GUID>
+                        <GUID>1999909557</GUID>
                         <Name>spawn bufffactory sargasso+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7848,8 +7848,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7869,8 +7869,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7912,7 +7912,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009558</GUID>
+                        <GUID>1999909558</GUID>
                         <Name>spawn bufffactory sargasso+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8279,8 +8279,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8300,8 +8300,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8343,7 +8343,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009559</GUID>
+                        <GUID>1999909559</GUID>
                         <Name>spawn bufffactory sargasso+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8710,8 +8710,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8731,8 +8731,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8774,7 +8774,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009560</GUID>
+                        <GUID>1999909560</GUID>
                         <Name>spawn bufffactory sargasso+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9126,8 +9126,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9147,8 +9147,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9190,7 +9190,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009561</GUID>
+                        <GUID>1999909561</GUID>
                         <Name>spawn bufffactory sargasso+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9542,8 +9542,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9563,8 +9563,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9606,7 +9606,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009562</GUID>
+                        <GUID>1999909562</GUID>
                         <Name>spawn bufffactory sargasso+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9958,8 +9958,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9979,8 +9979,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10022,7 +10022,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009563</GUID>
+                        <GUID>1999909563</GUID>
                         <Name>spawn bufffactory sargasso+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10373,8 +10373,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10415,7 +10415,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009564</GUID>
+                        <GUID>1999909564</GUID>
                         <Name>remove sargasso+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10507,7 +10507,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009565</GUID>
+                        <GUID>1999909565</GUID>
                         <Name>remove sargasso+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10599,7 +10599,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009566</GUID>
+                        <GUID>1999909566</GUID>
                         <Name>remove sargasso+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10691,7 +10691,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009567</GUID>
+                        <GUID>1999909567</GUID>
                         <Name>remove sargasso+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10783,7 +10783,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009568</GUID>
+                        <GUID>1999909568</GUID>
                         <Name>remove sargasso+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10875,7 +10875,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009569</GUID>
+                        <GUID>1999909569</GUID>
                         <Name>remove sargasso+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10967,7 +10967,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009570</GUID>
+                        <GUID>1999909570</GUID>
                         <Name>remove sargasso+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11059,7 +11059,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009571</GUID>
+                        <GUID>1999909571</GUID>
                         <Name>remove sargasso+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11151,7 +11151,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009572</GUID>
+                        <GUID>1999909572</GUID>
                         <Name>remove sargasso+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11243,7 +11243,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009573</GUID>
+                        <GUID>1999909573</GUID>
                         <Name>remove sargasso+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11335,7 +11335,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009574</GUID>
+                        <GUID>1999909574</GUID>
                         <Name>remove sargasso+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11427,7 +11427,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009575</GUID>
+                        <GUID>1999909575</GUID>
                         <Name>remove sargasso+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11519,7 +11519,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009576</GUID>
+                        <GUID>1999909576</GUID>
                         <Name>remove sargasso+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11611,7 +11611,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009577</GUID>
+                        <GUID>1999909577</GUID>
                         <Name>remove sargasso+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11703,7 +11703,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009578</GUID>
+                        <GUID>1999909578</GUID>
                         <Name>remove sargasso+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11795,7 +11795,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009579</GUID>
+                        <GUID>1999909579</GUID>
                         <Name>remove sargasso+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11887,7 +11887,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009580</GUID>
+                        <GUID>1999909580</GUID>
                         <Name>remove sargasso+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11979,7 +11979,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009581</GUID>
+                        <GUID>1999909581</GUID>
                         <Name>remove sargasso+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12071,7 +12071,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009582</GUID>
+                        <GUID>1999909582</GUID>
                         <Name>remove sargasso+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12163,7 +12163,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009583</GUID>
+                        <GUID>1999909583</GUID>
                         <Name>remove sargasso+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

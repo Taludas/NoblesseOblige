@@ -1196,127 +1196,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008243</Quest>
+                                <Quest>1999908243</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008244</Quest>
+                                <Quest>1999908244</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008245</Quest>
+                                <Quest>1999908245</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008246</Quest>
+                                <Quest>1999908246</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008247</Quest>
+                                <Quest>1999908247</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008248</Quest>
+                                <Quest>1999908248</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008249</Quest>
+                                <Quest>1999908249</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008250</Quest>
+                                <Quest>1999908250</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008251</Quest>
+                                <Quest>1999908251</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008252</Quest>
+                                <Quest>1999908252</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008253</Quest>
+                                <Quest>1999908253</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008254</Quest>
+                                <Quest>1999908254</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008255</Quest>
+                                <Quest>1999908255</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008256</Quest>
+                                <Quest>1999908256</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008257</Quest>
+                                <Quest>1999908257</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008258</Quest>
+                                <Quest>1999908258</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008259</Quest>
+                                <Quest>1999908259</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008260</Quest>
+                                <Quest>1999908260</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008261</Quest>
+                                <Quest>1999908261</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008262</Quest>
+                                <Quest>1999908262</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008263</Quest>
+                                <Quest>1999908263</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008264</Quest>
+                                <Quest>1999908264</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008265</Quest>
+                                <Quest>1999908265</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008266</Quest>
+                                <Quest>1999908266</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008267</Quest>
+                                <Quest>1999908267</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008268</Quest>
+                                <Quest>1999908268</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008269</Quest>
+                                <Quest>1999908269</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008270</Quest>
+                                <Quest>1999908270</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008271</Quest>
+                                <Quest>1999908271</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008272</Quest>
+                                <Quest>1999908272</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008273</Quest>
+                                <Quest>1999908273</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008274</Quest>
+                                <Quest>1999908274</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008275</Quest>
+                                <Quest>1999908275</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008276</Quest>
+                                <Quest>1999908276</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008277</Quest>
+                                <Quest>1999908277</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008278</Quest>
+                                <Quest>1999908278</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008279</Quest>
+                                <Quest>1999908279</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008280</Quest>
+                                <Quest>1999908280</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008281</Quest>
+                                <Quest>1999908281</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008282</Quest>
+                                <Quest>1999908282</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008283</Quest>
+                                <Quest>1999908283</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1338,7 +1338,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008243</GUID>
+                        <GUID>1999908243</GUID>
                         <Name>Delete bufffactory lost_cities+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1693,8 +1693,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1736,7 +1736,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008244</GUID>
+                        <GUID>1999908244</GUID>
                         <Name>spawn bufffactory lost_cities+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2102,8 +2102,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2123,8 +2123,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2166,7 +2166,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008245</GUID>
+                        <GUID>1999908245</GUID>
                         <Name>spawn bufffactory lost_cities+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2533,8 +2533,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2554,8 +2554,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2597,7 +2597,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008246</GUID>
+                        <GUID>1999908246</GUID>
                         <Name>spawn bufffactory lost_cities+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -2964,8 +2964,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2985,8 +2985,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3028,7 +3028,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008247</GUID>
+                        <GUID>1999908247</GUID>
                         <Name>spawn bufffactory lost_cities+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3395,8 +3395,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3416,8 +3416,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3459,7 +3459,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008248</GUID>
+                        <GUID>1999908248</GUID>
                         <Name>spawn bufffactory lost_cities+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3826,8 +3826,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3847,8 +3847,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3890,7 +3890,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008249</GUID>
+                        <GUID>1999908249</GUID>
                         <Name>spawn bufffactory lost_cities+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4257,8 +4257,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4278,8 +4278,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4321,7 +4321,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008250</GUID>
+                        <GUID>1999908250</GUID>
                         <Name>spawn bufffactory lost_cities+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4688,8 +4688,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4709,8 +4709,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4752,7 +4752,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008251</GUID>
+                        <GUID>1999908251</GUID>
                         <Name>spawn bufffactory lost_cities+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5119,8 +5119,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5140,8 +5140,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5183,7 +5183,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008252</GUID>
+                        <GUID>1999908252</GUID>
                         <Name>spawn bufffactory lost_cities+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5550,8 +5550,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5571,8 +5571,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5614,7 +5614,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008253</GUID>
+                        <GUID>1999908253</GUID>
                         <Name>spawn bufffactory lost_cities+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -5981,8 +5981,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6002,8 +6002,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6045,7 +6045,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008254</GUID>
+                        <GUID>1999908254</GUID>
                         <Name>spawn bufffactory lost_cities+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6412,8 +6412,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6433,8 +6433,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6476,7 +6476,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008255</GUID>
+                        <GUID>1999908255</GUID>
                         <Name>spawn bufffactory lost_cities+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6843,8 +6843,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6864,8 +6864,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6907,7 +6907,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008256</GUID>
+                        <GUID>1999908256</GUID>
                         <Name>spawn bufffactory lost_cities+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7274,8 +7274,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7295,8 +7295,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7338,7 +7338,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008257</GUID>
+                        <GUID>1999908257</GUID>
                         <Name>spawn bufffactory lost_cities+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7705,8 +7705,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7726,8 +7726,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7769,7 +7769,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008258</GUID>
+                        <GUID>1999908258</GUID>
                         <Name>spawn bufffactory lost_cities+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8136,8 +8136,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8157,8 +8157,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8200,7 +8200,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008259</GUID>
+                        <GUID>1999908259</GUID>
                         <Name>spawn bufffactory lost_cities+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8567,8 +8567,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8588,8 +8588,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8631,7 +8631,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008260</GUID>
+                        <GUID>1999908260</GUID>
                         <Name>spawn bufffactory lost_cities+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -8983,8 +8983,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9004,8 +9004,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9047,7 +9047,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008261</GUID>
+                        <GUID>1999908261</GUID>
                         <Name>spawn bufffactory lost_cities+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9399,8 +9399,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9420,8 +9420,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9463,7 +9463,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008262</GUID>
+                        <GUID>1999908262</GUID>
                         <Name>spawn bufffactory lost_cities+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9815,8 +9815,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9836,8 +9836,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9879,7 +9879,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008263</GUID>
+                        <GUID>1999908263</GUID>
                         <Name>spawn bufffactory lost_cities+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10230,8 +10230,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10272,7 +10272,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008264</GUID>
+                        <GUID>1999908264</GUID>
                         <Name>remove lost_cities+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10364,7 +10364,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008265</GUID>
+                        <GUID>1999908265</GUID>
                         <Name>remove lost_cities+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10456,7 +10456,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008266</GUID>
+                        <GUID>1999908266</GUID>
                         <Name>remove lost_cities+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10548,7 +10548,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008267</GUID>
+                        <GUID>1999908267</GUID>
                         <Name>remove lost_cities+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10640,7 +10640,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008268</GUID>
+                        <GUID>1999908268</GUID>
                         <Name>remove lost_cities+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10732,7 +10732,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008269</GUID>
+                        <GUID>1999908269</GUID>
                         <Name>remove lost_cities+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10824,7 +10824,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008270</GUID>
+                        <GUID>1999908270</GUID>
                         <Name>remove lost_cities+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10916,7 +10916,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008271</GUID>
+                        <GUID>1999908271</GUID>
                         <Name>remove lost_cities+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11008,7 +11008,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008272</GUID>
+                        <GUID>1999908272</GUID>
                         <Name>remove lost_cities+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11100,7 +11100,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008273</GUID>
+                        <GUID>1999908273</GUID>
                         <Name>remove lost_cities+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11192,7 +11192,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008274</GUID>
+                        <GUID>1999908274</GUID>
                         <Name>remove lost_cities+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11284,7 +11284,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008275</GUID>
+                        <GUID>1999908275</GUID>
                         <Name>remove lost_cities+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11376,7 +11376,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008276</GUID>
+                        <GUID>1999908276</GUID>
                         <Name>remove lost_cities+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11468,7 +11468,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008277</GUID>
+                        <GUID>1999908277</GUID>
                         <Name>remove lost_cities+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11560,7 +11560,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008278</GUID>
+                        <GUID>1999908278</GUID>
                         <Name>remove lost_cities+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11652,7 +11652,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008279</GUID>
+                        <GUID>1999908279</GUID>
                         <Name>remove lost_cities+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11744,7 +11744,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008280</GUID>
+                        <GUID>1999908280</GUID>
                         <Name>remove lost_cities+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11836,7 +11836,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008281</GUID>
+                        <GUID>1999908281</GUID>
                         <Name>remove lost_cities+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11928,7 +11928,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008282</GUID>
+                        <GUID>1999908282</GUID>
                         <Name>remove lost_cities+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12020,7 +12020,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008283</GUID>
+                        <GUID>1999908283</GUID>
                         <Name>remove lost_cities+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

@@ -1348,127 +1348,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999006543</Quest>
+                                <Quest>1999906543</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006544</Quest>
+                                <Quest>1999906544</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006545</Quest>
+                                <Quest>1999906545</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006546</Quest>
+                                <Quest>1999906546</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006547</Quest>
+                                <Quest>1999906547</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006548</Quest>
+                                <Quest>1999906548</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006549</Quest>
+                                <Quest>1999906549</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006550</Quest>
+                                <Quest>1999906550</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006551</Quest>
+                                <Quest>1999906551</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006552</Quest>
+                                <Quest>1999906552</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006553</Quest>
+                                <Quest>1999906553</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006554</Quest>
+                                <Quest>1999906554</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006555</Quest>
+                                <Quest>1999906555</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006556</Quest>
+                                <Quest>1999906556</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006557</Quest>
+                                <Quest>1999906557</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006558</Quest>
+                                <Quest>1999906558</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006559</Quest>
+                                <Quest>1999906559</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006560</Quest>
+                                <Quest>1999906560</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006561</Quest>
+                                <Quest>1999906561</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006562</Quest>
+                                <Quest>1999906562</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006563</Quest>
+                                <Quest>1999906563</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006564</Quest>
+                                <Quest>1999906564</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006565</Quest>
+                                <Quest>1999906565</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006566</Quest>
+                                <Quest>1999906566</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006567</Quest>
+                                <Quest>1999906567</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006568</Quest>
+                                <Quest>1999906568</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006569</Quest>
+                                <Quest>1999906569</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006570</Quest>
+                                <Quest>1999906570</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006571</Quest>
+                                <Quest>1999906571</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006572</Quest>
+                                <Quest>1999906572</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006573</Quest>
+                                <Quest>1999906573</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006574</Quest>
+                                <Quest>1999906574</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006575</Quest>
+                                <Quest>1999906575</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006576</Quest>
+                                <Quest>1999906576</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006577</Quest>
+                                <Quest>1999906577</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006578</Quest>
+                                <Quest>1999906578</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006579</Quest>
+                                <Quest>1999906579</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006580</Quest>
+                                <Quest>1999906580</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006581</Quest>
+                                <Quest>1999906581</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006582</Quest>
+                                <Quest>1999906582</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999006583</Quest>
+                                <Quest>1999906583</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1490,7 +1490,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006543</GUID>
+                        <GUID>1999906543</GUID>
                         <Name>Delete bufffactory domestic_animals+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1845,8 +1845,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1888,7 +1888,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006544</GUID>
+                        <GUID>1999906544</GUID>
                         <Name>spawn bufffactory domestic_animals+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2254,8 +2254,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2275,8 +2275,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2318,7 +2318,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006545</GUID>
+                        <GUID>1999906545</GUID>
                         <Name>spawn bufffactory domestic_animals+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2685,8 +2685,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2706,8 +2706,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2749,7 +2749,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006546</GUID>
+                        <GUID>1999906546</GUID>
                         <Name>spawn bufffactory domestic_animals+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3116,8 +3116,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3137,8 +3137,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3180,7 +3180,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006547</GUID>
+                        <GUID>1999906547</GUID>
                         <Name>spawn bufffactory domestic_animals+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3547,8 +3547,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3568,8 +3568,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3611,7 +3611,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006548</GUID>
+                        <GUID>1999906548</GUID>
                         <Name>spawn bufffactory domestic_animals+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3978,8 +3978,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3999,8 +3999,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4042,7 +4042,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006549</GUID>
+                        <GUID>1999906549</GUID>
                         <Name>spawn bufffactory domestic_animals+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4409,8 +4409,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4430,8 +4430,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4473,7 +4473,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006550</GUID>
+                        <GUID>1999906550</GUID>
                         <Name>spawn bufffactory domestic_animals+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4840,8 +4840,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4861,8 +4861,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4904,7 +4904,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006551</GUID>
+                        <GUID>1999906551</GUID>
                         <Name>spawn bufffactory domestic_animals+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5271,8 +5271,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5292,8 +5292,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5335,7 +5335,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006552</GUID>
+                        <GUID>1999906552</GUID>
                         <Name>spawn bufffactory domestic_animals+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5702,8 +5702,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5723,8 +5723,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5766,7 +5766,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006553</GUID>
+                        <GUID>1999906553</GUID>
                         <Name>spawn bufffactory domestic_animals+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6133,8 +6133,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6154,8 +6154,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6197,7 +6197,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006554</GUID>
+                        <GUID>1999906554</GUID>
                         <Name>spawn bufffactory domestic_animals+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6564,8 +6564,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6585,8 +6585,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6628,7 +6628,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006555</GUID>
+                        <GUID>1999906555</GUID>
                         <Name>spawn bufffactory domestic_animals+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6995,8 +6995,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7016,8 +7016,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7059,7 +7059,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006556</GUID>
+                        <GUID>1999906556</GUID>
                         <Name>spawn bufffactory domestic_animals+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7426,8 +7426,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7447,8 +7447,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7490,7 +7490,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006557</GUID>
+                        <GUID>1999906557</GUID>
                         <Name>spawn bufffactory domestic_animals+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7857,8 +7857,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7878,8 +7878,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7921,7 +7921,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006558</GUID>
+                        <GUID>1999906558</GUID>
                         <Name>spawn bufffactory domestic_animals+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8288,8 +8288,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8309,8 +8309,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8352,7 +8352,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006559</GUID>
+                        <GUID>1999906559</GUID>
                         <Name>spawn bufffactory domestic_animals+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8719,8 +8719,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8740,8 +8740,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8783,7 +8783,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006560</GUID>
+                        <GUID>1999906560</GUID>
                         <Name>spawn bufffactory domestic_animals+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9135,8 +9135,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9156,8 +9156,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9199,7 +9199,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006561</GUID>
+                        <GUID>1999906561</GUID>
                         <Name>spawn bufffactory domestic_animals+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9551,8 +9551,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9572,8 +9572,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9615,7 +9615,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006562</GUID>
+                        <GUID>1999906562</GUID>
                         <Name>spawn bufffactory domestic_animals+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9967,8 +9967,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9988,8 +9988,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10031,7 +10031,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006563</GUID>
+                        <GUID>1999906563</GUID>
                         <Name>spawn bufffactory domestic_animals+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10382,8 +10382,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10424,7 +10424,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006564</GUID>
+                        <GUID>1999906564</GUID>
                         <Name>remove domestic_animals+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10516,7 +10516,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006565</GUID>
+                        <GUID>1999906565</GUID>
                         <Name>remove domestic_animals+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10608,7 +10608,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006566</GUID>
+                        <GUID>1999906566</GUID>
                         <Name>remove domestic_animals+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10700,7 +10700,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006567</GUID>
+                        <GUID>1999906567</GUID>
                         <Name>remove domestic_animals+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10792,7 +10792,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006568</GUID>
+                        <GUID>1999906568</GUID>
                         <Name>remove domestic_animals+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10884,7 +10884,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006569</GUID>
+                        <GUID>1999906569</GUID>
                         <Name>remove domestic_animals+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10976,7 +10976,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006570</GUID>
+                        <GUID>1999906570</GUID>
                         <Name>remove domestic_animals+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11068,7 +11068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006571</GUID>
+                        <GUID>1999906571</GUID>
                         <Name>remove domestic_animals+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11160,7 +11160,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006572</GUID>
+                        <GUID>1999906572</GUID>
                         <Name>remove domestic_animals+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11252,7 +11252,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006573</GUID>
+                        <GUID>1999906573</GUID>
                         <Name>remove domestic_animals+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11344,7 +11344,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006574</GUID>
+                        <GUID>1999906574</GUID>
                         <Name>remove domestic_animals+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11436,7 +11436,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006575</GUID>
+                        <GUID>1999906575</GUID>
                         <Name>remove domestic_animals+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11528,7 +11528,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006576</GUID>
+                        <GUID>1999906576</GUID>
                         <Name>remove domestic_animals+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11620,7 +11620,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006577</GUID>
+                        <GUID>1999906577</GUID>
                         <Name>remove domestic_animals+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11712,7 +11712,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006578</GUID>
+                        <GUID>1999906578</GUID>
                         <Name>remove domestic_animals+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11804,7 +11804,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006579</GUID>
+                        <GUID>1999906579</GUID>
                         <Name>remove domestic_animals+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11896,7 +11896,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006580</GUID>
+                        <GUID>1999906580</GUID>
                         <Name>remove domestic_animals+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11988,7 +11988,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006581</GUID>
+                        <GUID>1999906581</GUID>
                         <Name>remove domestic_animals+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12080,7 +12080,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006582</GUID>
+                        <GUID>1999906582</GUID>
                         <Name>remove domestic_animals+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12172,7 +12172,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999006583</GUID>
+                        <GUID>1999906583</GUID>
                         <Name>remove domestic_animals+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

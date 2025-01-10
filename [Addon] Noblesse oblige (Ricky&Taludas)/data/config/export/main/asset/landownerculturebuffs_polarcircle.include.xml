@@ -1585,127 +1585,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007043</Quest>
+                                <Quest>1999907043</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007044</Quest>
+                                <Quest>1999907044</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007045</Quest>
+                                <Quest>1999907045</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007046</Quest>
+                                <Quest>1999907046</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007047</Quest>
+                                <Quest>1999907047</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007048</Quest>
+                                <Quest>1999907048</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007049</Quest>
+                                <Quest>1999907049</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007050</Quest>
+                                <Quest>1999907050</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007051</Quest>
+                                <Quest>1999907051</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007052</Quest>
+                                <Quest>1999907052</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007053</Quest>
+                                <Quest>1999907053</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007054</Quest>
+                                <Quest>1999907054</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007055</Quest>
+                                <Quest>1999907055</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007056</Quest>
+                                <Quest>1999907056</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007057</Quest>
+                                <Quest>1999907057</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007058</Quest>
+                                <Quest>1999907058</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007059</Quest>
+                                <Quest>1999907059</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007060</Quest>
+                                <Quest>1999907060</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007061</Quest>
+                                <Quest>1999907061</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007062</Quest>
+                                <Quest>1999907062</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007063</Quest>
+                                <Quest>1999907063</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007064</Quest>
+                                <Quest>1999907064</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007065</Quest>
+                                <Quest>1999907065</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007066</Quest>
+                                <Quest>1999907066</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007067</Quest>
+                                <Quest>1999907067</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007068</Quest>
+                                <Quest>1999907068</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007069</Quest>
+                                <Quest>1999907069</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007070</Quest>
+                                <Quest>1999907070</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007071</Quest>
+                                <Quest>1999907071</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007072</Quest>
+                                <Quest>1999907072</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007073</Quest>
+                                <Quest>1999907073</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007074</Quest>
+                                <Quest>1999907074</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007075</Quest>
+                                <Quest>1999907075</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007076</Quest>
+                                <Quest>1999907076</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007077</Quest>
+                                <Quest>1999907077</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007078</Quest>
+                                <Quest>1999907078</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007079</Quest>
+                                <Quest>1999907079</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007080</Quest>
+                                <Quest>1999907080</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007081</Quest>
+                                <Quest>1999907081</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007082</Quest>
+                                <Quest>1999907082</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007083</Quest>
+                                <Quest>1999907083</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1727,7 +1727,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007043</GUID>
+                        <GUID>1999907043</GUID>
                         <Name>Delete bufffactory polar circle+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -2082,8 +2082,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2125,7 +2125,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007044</GUID>
+                        <GUID>1999907044</GUID>
                         <Name>spawn bufffactory polar circle+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2491,8 +2491,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2512,8 +2512,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2555,7 +2555,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007045</GUID>
+                        <GUID>1999907045</GUID>
                         <Name>spawn bufffactory polar circle+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2922,8 +2922,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2943,8 +2943,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2986,7 +2986,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007046</GUID>
+                        <GUID>1999907046</GUID>
                         <Name>spawn bufffactory polar circle+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3353,8 +3353,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3374,8 +3374,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3417,7 +3417,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007047</GUID>
+                        <GUID>1999907047</GUID>
                         <Name>spawn bufffactory polar circle+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3784,8 +3784,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3805,8 +3805,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3848,7 +3848,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007048</GUID>
+                        <GUID>1999907048</GUID>
                         <Name>spawn bufffactory polar circle+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4215,8 +4215,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4236,8 +4236,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4279,7 +4279,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007049</GUID>
+                        <GUID>1999907049</GUID>
                         <Name>spawn bufffactory polar circle+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4646,8 +4646,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4667,8 +4667,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4710,7 +4710,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007050</GUID>
+                        <GUID>1999907050</GUID>
                         <Name>spawn bufffactory polar circle+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -5077,8 +5077,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5098,8 +5098,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5141,7 +5141,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007051</GUID>
+                        <GUID>1999907051</GUID>
                         <Name>spawn bufffactory polar circle+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5508,8 +5508,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5529,8 +5529,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5572,7 +5572,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007052</GUID>
+                        <GUID>1999907052</GUID>
                         <Name>spawn bufffactory polar circle+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5939,8 +5939,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5960,8 +5960,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6003,7 +6003,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007053</GUID>
+                        <GUID>1999907053</GUID>
                         <Name>spawn bufffactory polar circle+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6370,8 +6370,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6391,8 +6391,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6434,7 +6434,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007054</GUID>
+                        <GUID>1999907054</GUID>
                         <Name>spawn bufffactory polar circle+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6801,8 +6801,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6822,8 +6822,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6865,7 +6865,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007055</GUID>
+                        <GUID>1999907055</GUID>
                         <Name>spawn bufffactory polar circle+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7232,8 +7232,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7253,8 +7253,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7296,7 +7296,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007056</GUID>
+                        <GUID>1999907056</GUID>
                         <Name>spawn bufffactory polar circle+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7663,8 +7663,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7684,8 +7684,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7727,7 +7727,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007057</GUID>
+                        <GUID>1999907057</GUID>
                         <Name>spawn bufffactory polar circle+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -8094,8 +8094,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8115,8 +8115,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8158,7 +8158,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007058</GUID>
+                        <GUID>1999907058</GUID>
                         <Name>spawn bufffactory polar circle+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8525,8 +8525,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8546,8 +8546,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8589,7 +8589,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007059</GUID>
+                        <GUID>1999907059</GUID>
                         <Name>spawn bufffactory polar circle+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8956,8 +8956,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8977,8 +8977,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9020,7 +9020,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007060</GUID>
+                        <GUID>1999907060</GUID>
                         <Name>spawn bufffactory polar circle+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9372,8 +9372,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9393,8 +9393,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9436,7 +9436,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007061</GUID>
+                        <GUID>1999907061</GUID>
                         <Name>spawn bufffactory polar circle+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9788,8 +9788,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9809,8 +9809,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9852,7 +9852,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007062</GUID>
+                        <GUID>1999907062</GUID>
                         <Name>spawn bufffactory polar circle+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -10204,8 +10204,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10225,8 +10225,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10268,7 +10268,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007063</GUID>
+                        <GUID>1999907063</GUID>
                         <Name>spawn bufffactory polar circle+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10619,8 +10619,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10661,7 +10661,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007064</GUID>
+                        <GUID>1999907064</GUID>
                         <Name>remove polar circle+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10753,7 +10753,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007065</GUID>
+                        <GUID>1999907065</GUID>
                         <Name>remove polar circle+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10845,7 +10845,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007066</GUID>
+                        <GUID>1999907066</GUID>
                         <Name>remove polar circle+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10937,7 +10937,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007067</GUID>
+                        <GUID>1999907067</GUID>
                         <Name>remove polar circle+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11029,7 +11029,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007068</GUID>
+                        <GUID>1999907068</GUID>
                         <Name>remove polar circle+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11121,7 +11121,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007069</GUID>
+                        <GUID>1999907069</GUID>
                         <Name>remove polar circle+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11213,7 +11213,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007070</GUID>
+                        <GUID>1999907070</GUID>
                         <Name>remove polar circle+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11305,7 +11305,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007071</GUID>
+                        <GUID>1999907071</GUID>
                         <Name>remove polar circle+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11397,7 +11397,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007072</GUID>
+                        <GUID>1999907072</GUID>
                         <Name>remove polar circle+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11489,7 +11489,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007073</GUID>
+                        <GUID>1999907073</GUID>
                         <Name>remove polar circle+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11581,7 +11581,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007074</GUID>
+                        <GUID>1999907074</GUID>
                         <Name>remove polar circle+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11673,7 +11673,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007075</GUID>
+                        <GUID>1999907075</GUID>
                         <Name>remove polar circle+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11765,7 +11765,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007076</GUID>
+                        <GUID>1999907076</GUID>
                         <Name>remove polar circle+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11857,7 +11857,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007077</GUID>
+                        <GUID>1999907077</GUID>
                         <Name>remove polar circle+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11949,7 +11949,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007078</GUID>
+                        <GUID>1999907078</GUID>
                         <Name>remove polar circle+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12041,7 +12041,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007079</GUID>
+                        <GUID>1999907079</GUID>
                         <Name>remove polar circle+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12133,7 +12133,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007080</GUID>
+                        <GUID>1999907080</GUID>
                         <Name>remove polar circle+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12225,7 +12225,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007081</GUID>
+                        <GUID>1999907081</GUID>
                         <Name>remove polar circle+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12317,7 +12317,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007082</GUID>
+                        <GUID>1999907082</GUID>
                         <Name>remove polar circle+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12409,7 +12409,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007083</GUID>
+                        <GUID>1999907083</GUID>
                         <Name>remove polar circle+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

@@ -1296,127 +1296,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007443</Quest>
+                                <Quest>1999907443</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007444</Quest>
+                                <Quest>1999907444</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007445</Quest>
+                                <Quest>1999907445</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007446</Quest>
+                                <Quest>1999907446</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007447</Quest>
+                                <Quest>1999907447</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007448</Quest>
+                                <Quest>1999907448</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007449</Quest>
+                                <Quest>1999907449</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007450</Quest>
+                                <Quest>1999907450</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007451</Quest>
+                                <Quest>1999907451</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007452</Quest>
+                                <Quest>1999907452</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007453</Quest>
+                                <Quest>1999907453</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007454</Quest>
+                                <Quest>1999907454</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007455</Quest>
+                                <Quest>1999907455</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007456</Quest>
+                                <Quest>1999907456</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007457</Quest>
+                                <Quest>1999907457</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007458</Quest>
+                                <Quest>1999907458</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007459</Quest>
+                                <Quest>1999907459</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007460</Quest>
+                                <Quest>1999907460</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007461</Quest>
+                                <Quest>1999907461</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007462</Quest>
+                                <Quest>1999907462</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007463</Quest>
+                                <Quest>1999907463</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007464</Quest>
+                                <Quest>1999907464</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007465</Quest>
+                                <Quest>1999907465</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007466</Quest>
+                                <Quest>1999907466</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007467</Quest>
+                                <Quest>1999907467</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007468</Quest>
+                                <Quest>1999907468</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007469</Quest>
+                                <Quest>1999907469</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007470</Quest>
+                                <Quest>1999907470</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007471</Quest>
+                                <Quest>1999907471</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007472</Quest>
+                                <Quest>1999907472</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007473</Quest>
+                                <Quest>1999907473</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007474</Quest>
+                                <Quest>1999907474</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007475</Quest>
+                                <Quest>1999907475</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007476</Quest>
+                                <Quest>1999907476</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007477</Quest>
+                                <Quest>1999907477</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007478</Quest>
+                                <Quest>1999907478</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007479</Quest>
+                                <Quest>1999907479</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007480</Quest>
+                                <Quest>1999907480</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007481</Quest>
+                                <Quest>1999907481</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007482</Quest>
+                                <Quest>1999907482</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007483</Quest>
+                                <Quest>1999907483</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1438,7 +1438,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007443</GUID>
+                        <GUID>1999907443</GUID>
                         <Name>Delete bufffactory enbesan_highlands+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1793,8 +1793,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1836,7 +1836,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007444</GUID>
+                        <GUID>1999907444</GUID>
                         <Name>spawn bufffactory enbesan_highlands+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2202,8 +2202,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2223,8 +2223,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2266,7 +2266,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007445</GUID>
+                        <GUID>1999907445</GUID>
                         <Name>spawn bufffactory enbesan_highlands+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2633,8 +2633,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2654,8 +2654,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2697,7 +2697,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007446</GUID>
+                        <GUID>1999907446</GUID>
                         <Name>spawn bufffactory enbesan_highlands+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3064,8 +3064,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3085,8 +3085,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3128,7 +3128,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007447</GUID>
+                        <GUID>1999907447</GUID>
                         <Name>spawn bufffactory enbesan_highlands+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3495,8 +3495,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3516,8 +3516,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3559,7 +3559,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007448</GUID>
+                        <GUID>1999907448</GUID>
                         <Name>spawn bufffactory enbesan_highlands+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3926,8 +3926,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3947,8 +3947,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3990,7 +3990,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007449</GUID>
+                        <GUID>1999907449</GUID>
                         <Name>spawn bufffactory enbesan_highlands+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4357,8 +4357,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4378,8 +4378,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4421,7 +4421,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007450</GUID>
+                        <GUID>1999907450</GUID>
                         <Name>spawn bufffactory enbesan_highlands+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4788,8 +4788,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4809,8 +4809,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4852,7 +4852,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007451</GUID>
+                        <GUID>1999907451</GUID>
                         <Name>spawn bufffactory enbesan_highlands+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5219,8 +5219,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5240,8 +5240,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5283,7 +5283,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007452</GUID>
+                        <GUID>1999907452</GUID>
                         <Name>spawn bufffactory enbesan_highlands+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5650,8 +5650,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5671,8 +5671,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5714,7 +5714,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007453</GUID>
+                        <GUID>1999907453</GUID>
                         <Name>spawn bufffactory enbesan_highlands+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6081,8 +6081,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6102,8 +6102,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6145,7 +6145,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007454</GUID>
+                        <GUID>1999907454</GUID>
                         <Name>spawn bufffactory enbesan_highlands+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6512,8 +6512,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6533,8 +6533,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6576,7 +6576,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007455</GUID>
+                        <GUID>1999907455</GUID>
                         <Name>spawn bufffactory enbesan_highlands+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6943,8 +6943,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6964,8 +6964,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7007,7 +7007,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007456</GUID>
+                        <GUID>1999907456</GUID>
                         <Name>spawn bufffactory enbesan_highlands+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7374,8 +7374,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7395,8 +7395,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7438,7 +7438,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007457</GUID>
+                        <GUID>1999907457</GUID>
                         <Name>spawn bufffactory enbesan_highlands+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7805,8 +7805,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7826,8 +7826,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7869,7 +7869,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007458</GUID>
+                        <GUID>1999907458</GUID>
                         <Name>spawn bufffactory enbesan_highlands+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8236,8 +8236,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8257,8 +8257,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8300,7 +8300,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007459</GUID>
+                        <GUID>1999907459</GUID>
                         <Name>spawn bufffactory enbesan_highlands+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8667,8 +8667,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8688,8 +8688,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8731,7 +8731,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007460</GUID>
+                        <GUID>1999907460</GUID>
                         <Name>spawn bufffactory enbesan_highlands+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9083,8 +9083,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9104,8 +9104,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9147,7 +9147,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007461</GUID>
+                        <GUID>1999907461</GUID>
                         <Name>spawn bufffactory enbesan_highlands+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9499,8 +9499,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9520,8 +9520,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9563,7 +9563,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007462</GUID>
+                        <GUID>1999907462</GUID>
                         <Name>spawn bufffactory enbesan_highlands+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9915,8 +9915,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9936,8 +9936,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9979,7 +9979,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007463</GUID>
+                        <GUID>1999907463</GUID>
                         <Name>spawn bufffactory enbesan_highlands+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10330,8 +10330,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10372,7 +10372,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007464</GUID>
+                        <GUID>1999907464</GUID>
                         <Name>remove enbesan_highlands+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10464,7 +10464,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007465</GUID>
+                        <GUID>1999907465</GUID>
                         <Name>remove enbesan_highlands+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10556,7 +10556,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007466</GUID>
+                        <GUID>1999907466</GUID>
                         <Name>remove enbesan_highlands+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10648,7 +10648,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007467</GUID>
+                        <GUID>1999907467</GUID>
                         <Name>remove enbesan_highlands+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10740,7 +10740,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007468</GUID>
+                        <GUID>1999907468</GUID>
                         <Name>remove enbesan_highlands+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10832,7 +10832,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007469</GUID>
+                        <GUID>1999907469</GUID>
                         <Name>remove enbesan_highlands+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10924,7 +10924,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007470</GUID>
+                        <GUID>1999907470</GUID>
                         <Name>remove enbesan_highlands+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11016,7 +11016,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007471</GUID>
+                        <GUID>1999907471</GUID>
                         <Name>remove enbesan_highlands+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11108,7 +11108,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007472</GUID>
+                        <GUID>1999907472</GUID>
                         <Name>remove enbesan_highlands+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11200,7 +11200,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007473</GUID>
+                        <GUID>1999907473</GUID>
                         <Name>remove enbesan_highlands+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11292,7 +11292,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007474</GUID>
+                        <GUID>1999907474</GUID>
                         <Name>remove enbesan_highlands+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11384,7 +11384,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007475</GUID>
+                        <GUID>1999907475</GUID>
                         <Name>remove enbesan_highlands+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11476,7 +11476,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007476</GUID>
+                        <GUID>1999907476</GUID>
                         <Name>remove enbesan_highlands+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11568,7 +11568,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007477</GUID>
+                        <GUID>1999907477</GUID>
                         <Name>remove enbesan_highlands+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11660,7 +11660,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007478</GUID>
+                        <GUID>1999907478</GUID>
                         <Name>remove enbesan_highlands+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11752,7 +11752,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007479</GUID>
+                        <GUID>1999907479</GUID>
                         <Name>remove enbesan_highlands+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11844,7 +11844,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007480</GUID>
+                        <GUID>1999907480</GUID>
                         <Name>remove enbesan_highlands+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11936,7 +11936,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007481</GUID>
+                        <GUID>1999907481</GUID>
                         <Name>remove enbesan_highlands+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12028,7 +12028,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007482</GUID>
+                        <GUID>1999907482</GUID>
                         <Name>remove enbesan_highlands+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12120,7 +12120,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007483</GUID>
+                        <GUID>1999907483</GUID>
                         <Name>remove enbesan_highlands+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

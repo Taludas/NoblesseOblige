@@ -1356,127 +1356,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009443</Quest>
+                                <Quest>1999909443</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009444</Quest>
+                                <Quest>1999909444</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009445</Quest>
+                                <Quest>1999909445</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009446</Quest>
+                                <Quest>1999909446</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009447</Quest>
+                                <Quest>1999909447</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009448</Quest>
+                                <Quest>1999909448</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009449</Quest>
+                                <Quest>1999909449</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009450</Quest>
+                                <Quest>1999909450</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009451</Quest>
+                                <Quest>1999909451</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009452</Quest>
+                                <Quest>1999909452</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009453</Quest>
+                                <Quest>1999909453</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009454</Quest>
+                                <Quest>1999909454</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009455</Quest>
+                                <Quest>1999909455</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009456</Quest>
+                                <Quest>1999909456</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009457</Quest>
+                                <Quest>1999909457</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009458</Quest>
+                                <Quest>1999909458</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009459</Quest>
+                                <Quest>1999909459</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009460</Quest>
+                                <Quest>1999909460</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009461</Quest>
+                                <Quest>1999909461</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009462</Quest>
+                                <Quest>1999909462</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009463</Quest>
+                                <Quest>1999909463</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009464</Quest>
+                                <Quest>1999909464</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009465</Quest>
+                                <Quest>1999909465</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009466</Quest>
+                                <Quest>1999909466</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009467</Quest>
+                                <Quest>1999909467</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009468</Quest>
+                                <Quest>1999909468</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009469</Quest>
+                                <Quest>1999909469</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009470</Quest>
+                                <Quest>1999909470</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009471</Quest>
+                                <Quest>1999909471</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009472</Quest>
+                                <Quest>1999909472</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009473</Quest>
+                                <Quest>1999909473</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009474</Quest>
+                                <Quest>1999909474</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009475</Quest>
+                                <Quest>1999909475</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009476</Quest>
+                                <Quest>1999909476</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009477</Quest>
+                                <Quest>1999909477</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009478</Quest>
+                                <Quest>1999909478</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009479</Quest>
+                                <Quest>1999909479</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009480</Quest>
+                                <Quest>1999909480</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009481</Quest>
+                                <Quest>1999909481</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009482</Quest>
+                                <Quest>1999909482</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009483</Quest>
+                                <Quest>1999909483</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1498,7 +1498,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009443</GUID>
+                        <GUID>1999909443</GUID>
                         <Name>Delete bufffactory amazonas+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1853,8 +1853,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1896,7 +1896,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009444</GUID>
+                        <GUID>1999909444</GUID>
                         <Name>spawn bufffactory amazonas+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2262,8 +2262,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2283,8 +2283,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2326,7 +2326,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009445</GUID>
+                        <GUID>1999909445</GUID>
                         <Name>spawn bufffactory amazonas+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2693,8 +2693,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2714,8 +2714,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2757,7 +2757,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009446</GUID>
+                        <GUID>1999909446</GUID>
                         <Name>spawn bufffactory amazonas+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3124,8 +3124,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3145,8 +3145,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3188,7 +3188,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009447</GUID>
+                        <GUID>1999909447</GUID>
                         <Name>spawn bufffactory amazonas+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3555,8 +3555,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3576,8 +3576,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3619,7 +3619,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009448</GUID>
+                        <GUID>1999909448</GUID>
                         <Name>spawn bufffactory amazonas+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3986,8 +3986,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4007,8 +4007,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4050,7 +4050,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009449</GUID>
+                        <GUID>1999909449</GUID>
                         <Name>spawn bufffactory amazonas+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4417,8 +4417,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4438,8 +4438,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4481,7 +4481,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009450</GUID>
+                        <GUID>1999909450</GUID>
                         <Name>spawn bufffactory amazonas+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4848,8 +4848,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4869,8 +4869,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4912,7 +4912,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009451</GUID>
+                        <GUID>1999909451</GUID>
                         <Name>spawn bufffactory amazonas+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5279,8 +5279,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5300,8 +5300,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5343,7 +5343,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009452</GUID>
+                        <GUID>1999909452</GUID>
                         <Name>spawn bufffactory amazonas+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5710,8 +5710,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5731,8 +5731,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5774,7 +5774,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009453</GUID>
+                        <GUID>1999909453</GUID>
                         <Name>spawn bufffactory amazonas+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6141,8 +6141,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6162,8 +6162,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6205,7 +6205,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009454</GUID>
+                        <GUID>1999909454</GUID>
                         <Name>spawn bufffactory amazonas+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6572,8 +6572,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6593,8 +6593,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6636,7 +6636,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009455</GUID>
+                        <GUID>1999909455</GUID>
                         <Name>spawn bufffactory amazonas+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7003,8 +7003,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7024,8 +7024,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7067,7 +7067,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009456</GUID>
+                        <GUID>1999909456</GUID>
                         <Name>spawn bufffactory amazonas+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7434,8 +7434,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7455,8 +7455,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7498,7 +7498,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009457</GUID>
+                        <GUID>1999909457</GUID>
                         <Name>spawn bufffactory amazonas+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7865,8 +7865,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7886,8 +7886,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7929,7 +7929,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009458</GUID>
+                        <GUID>1999909458</GUID>
                         <Name>spawn bufffactory amazonas+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8296,8 +8296,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8317,8 +8317,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8360,7 +8360,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009459</GUID>
+                        <GUID>1999909459</GUID>
                         <Name>spawn bufffactory amazonas+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8727,8 +8727,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8748,8 +8748,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8791,7 +8791,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009460</GUID>
+                        <GUID>1999909460</GUID>
                         <Name>spawn bufffactory amazonas+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9143,8 +9143,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9164,8 +9164,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9207,7 +9207,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009461</GUID>
+                        <GUID>1999909461</GUID>
                         <Name>spawn bufffactory amazonas+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9559,8 +9559,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9580,8 +9580,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9623,7 +9623,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009462</GUID>
+                        <GUID>1999909462</GUID>
                         <Name>spawn bufffactory amazonas+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9975,8 +9975,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9996,8 +9996,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10039,7 +10039,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009463</GUID>
+                        <GUID>1999909463</GUID>
                         <Name>spawn bufffactory amazonas+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10390,8 +10390,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10432,7 +10432,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009464</GUID>
+                        <GUID>1999909464</GUID>
                         <Name>remove amazonas+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10524,7 +10524,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009465</GUID>
+                        <GUID>1999909465</GUID>
                         <Name>remove amazonas+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10616,7 +10616,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009466</GUID>
+                        <GUID>1999909466</GUID>
                         <Name>remove amazonas+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10708,7 +10708,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009467</GUID>
+                        <GUID>1999909467</GUID>
                         <Name>remove amazonas+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10800,7 +10800,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009468</GUID>
+                        <GUID>1999909468</GUID>
                         <Name>remove amazonas+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10892,7 +10892,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009469</GUID>
+                        <GUID>1999909469</GUID>
                         <Name>remove amazonas+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10984,7 +10984,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009470</GUID>
+                        <GUID>1999909470</GUID>
                         <Name>remove amazonas+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11076,7 +11076,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009471</GUID>
+                        <GUID>1999909471</GUID>
                         <Name>remove amazonas+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11168,7 +11168,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009472</GUID>
+                        <GUID>1999909472</GUID>
                         <Name>remove amazonas+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11260,7 +11260,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009473</GUID>
+                        <GUID>1999909473</GUID>
                         <Name>remove amazonas+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11352,7 +11352,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009474</GUID>
+                        <GUID>1999909474</GUID>
                         <Name>remove amazonas+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11444,7 +11444,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009475</GUID>
+                        <GUID>1999909475</GUID>
                         <Name>remove amazonas+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11536,7 +11536,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009476</GUID>
+                        <GUID>1999909476</GUID>
                         <Name>remove amazonas+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11628,7 +11628,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009477</GUID>
+                        <GUID>1999909477</GUID>
                         <Name>remove amazonas+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11720,7 +11720,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009478</GUID>
+                        <GUID>1999909478</GUID>
                         <Name>remove amazonas+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11812,7 +11812,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009479</GUID>
+                        <GUID>1999909479</GUID>
                         <Name>remove amazonas+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11904,7 +11904,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009480</GUID>
+                        <GUID>1999909480</GUID>
                         <Name>remove amazonas+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11996,7 +11996,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009481</GUID>
+                        <GUID>1999909481</GUID>
                         <Name>remove amazonas+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12088,7 +12088,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009482</GUID>
+                        <GUID>1999909482</GUID>
                         <Name>remove amazonas+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12180,7 +12180,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009483</GUID>
+                        <GUID>1999909483</GUID>
                         <Name>remove amazonas+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

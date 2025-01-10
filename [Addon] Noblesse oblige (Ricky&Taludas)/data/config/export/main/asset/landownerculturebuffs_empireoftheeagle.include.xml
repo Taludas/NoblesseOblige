@@ -1376,127 +1376,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999007743</Quest>
+                                <Quest>1999907743</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007744</Quest>
+                                <Quest>1999907744</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007745</Quest>
+                                <Quest>1999907745</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007746</Quest>
+                                <Quest>1999907746</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007747</Quest>
+                                <Quest>1999907747</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007748</Quest>
+                                <Quest>1999907748</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007749</Quest>
+                                <Quest>1999907749</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007750</Quest>
+                                <Quest>1999907750</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007751</Quest>
+                                <Quest>1999907751</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007752</Quest>
+                                <Quest>1999907752</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007753</Quest>
+                                <Quest>1999907753</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007754</Quest>
+                                <Quest>1999907754</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007755</Quest>
+                                <Quest>1999907755</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007756</Quest>
+                                <Quest>1999907756</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007757</Quest>
+                                <Quest>1999907757</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007758</Quest>
+                                <Quest>1999907758</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007759</Quest>
+                                <Quest>1999907759</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007760</Quest>
+                                <Quest>1999907760</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007761</Quest>
+                                <Quest>1999907761</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007762</Quest>
+                                <Quest>1999907762</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007763</Quest>
+                                <Quest>1999907763</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007764</Quest>
+                                <Quest>1999907764</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007765</Quest>
+                                <Quest>1999907765</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007766</Quest>
+                                <Quest>1999907766</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007767</Quest>
+                                <Quest>1999907767</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007768</Quest>
+                                <Quest>1999907768</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007769</Quest>
+                                <Quest>1999907769</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007770</Quest>
+                                <Quest>1999907770</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007771</Quest>
+                                <Quest>1999907771</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007772</Quest>
+                                <Quest>1999907772</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007773</Quest>
+                                <Quest>1999907773</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007774</Quest>
+                                <Quest>1999907774</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007775</Quest>
+                                <Quest>1999907775</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007776</Quest>
+                                <Quest>1999907776</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007777</Quest>
+                                <Quest>1999907777</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007778</Quest>
+                                <Quest>1999907778</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007779</Quest>
+                                <Quest>1999907779</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007780</Quest>
+                                <Quest>1999907780</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007781</Quest>
+                                <Quest>1999907781</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007782</Quest>
+                                <Quest>1999907782</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999007783</Quest>
+                                <Quest>1999907783</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1518,7 +1518,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007743</GUID>
+                        <GUID>1999907743</GUID>
                         <Name>Delete bufffactory empire_of_the_eagle+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1873,8 +1873,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1916,7 +1916,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007744</GUID>
+                        <GUID>1999907744</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2282,8 +2282,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2303,8 +2303,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2346,7 +2346,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007745</GUID>
+                        <GUID>1999907745</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2713,8 +2713,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2734,8 +2734,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2777,7 +2777,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007746</GUID>
+                        <GUID>1999907746</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3144,8 +3144,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3165,8 +3165,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3208,7 +3208,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007747</GUID>
+                        <GUID>1999907747</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3575,8 +3575,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3596,8 +3596,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3639,7 +3639,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007748</GUID>
+                        <GUID>1999907748</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -4006,8 +4006,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4027,8 +4027,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4070,7 +4070,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007749</GUID>
+                        <GUID>1999907749</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4437,8 +4437,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4458,8 +4458,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4501,7 +4501,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007750</GUID>
+                        <GUID>1999907750</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4868,8 +4868,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4889,8 +4889,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4932,7 +4932,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007751</GUID>
+                        <GUID>1999907751</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5299,8 +5299,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5320,8 +5320,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5363,7 +5363,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007752</GUID>
+                        <GUID>1999907752</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5730,8 +5730,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5751,8 +5751,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5794,7 +5794,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007753</GUID>
+                        <GUID>1999907753</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6161,8 +6161,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6182,8 +6182,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6225,7 +6225,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007754</GUID>
+                        <GUID>1999907754</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6592,8 +6592,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6613,8 +6613,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6656,7 +6656,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007755</GUID>
+                        <GUID>1999907755</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -7023,8 +7023,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7044,8 +7044,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7087,7 +7087,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007756</GUID>
+                        <GUID>1999907756</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7454,8 +7454,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7475,8 +7475,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7518,7 +7518,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007757</GUID>
+                        <GUID>1999907757</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7885,8 +7885,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7906,8 +7906,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7949,7 +7949,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007758</GUID>
+                        <GUID>1999907758</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8316,8 +8316,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8337,8 +8337,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8380,7 +8380,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007759</GUID>
+                        <GUID>1999907759</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8747,8 +8747,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8768,8 +8768,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8811,7 +8811,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007760</GUID>
+                        <GUID>1999907760</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9163,8 +9163,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9184,8 +9184,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9227,7 +9227,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007761</GUID>
+                        <GUID>1999907761</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9579,8 +9579,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9600,8 +9600,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9643,7 +9643,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007762</GUID>
+                        <GUID>1999907762</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9995,8 +9995,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10016,8 +10016,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10059,7 +10059,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007763</GUID>
+                        <GUID>1999907763</GUID>
                         <Name>spawn bufffactory empire_of_the_eagle+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10410,8 +10410,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10452,7 +10452,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007764</GUID>
+                        <GUID>1999907764</GUID>
                         <Name>remove empire_of_the_eagle+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10544,7 +10544,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007765</GUID>
+                        <GUID>1999907765</GUID>
                         <Name>remove empire_of_the_eagle+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10636,7 +10636,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007766</GUID>
+                        <GUID>1999907766</GUID>
                         <Name>remove empire_of_the_eagle+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10728,7 +10728,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007767</GUID>
+                        <GUID>1999907767</GUID>
                         <Name>remove empire_of_the_eagle+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10820,7 +10820,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007768</GUID>
+                        <GUID>1999907768</GUID>
                         <Name>remove empire_of_the_eagle+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10912,7 +10912,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007769</GUID>
+                        <GUID>1999907769</GUID>
                         <Name>remove empire_of_the_eagle+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11004,7 +11004,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007770</GUID>
+                        <GUID>1999907770</GUID>
                         <Name>remove empire_of_the_eagle+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11096,7 +11096,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007771</GUID>
+                        <GUID>1999907771</GUID>
                         <Name>remove empire_of_the_eagle+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11188,7 +11188,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007772</GUID>
+                        <GUID>1999907772</GUID>
                         <Name>remove empire_of_the_eagle+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11280,7 +11280,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007773</GUID>
+                        <GUID>1999907773</GUID>
                         <Name>remove empire_of_the_eagle+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11372,7 +11372,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007774</GUID>
+                        <GUID>1999907774</GUID>
                         <Name>remove empire_of_the_eagle+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11464,7 +11464,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007775</GUID>
+                        <GUID>1999907775</GUID>
                         <Name>remove empire_of_the_eagle+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11556,7 +11556,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007776</GUID>
+                        <GUID>1999907776</GUID>
                         <Name>remove empire_of_the_eagle+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11648,7 +11648,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007777</GUID>
+                        <GUID>1999907777</GUID>
                         <Name>remove empire_of_the_eagle+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11740,7 +11740,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007778</GUID>
+                        <GUID>1999907778</GUID>
                         <Name>remove empire_of_the_eagle+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11832,7 +11832,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007779</GUID>
+                        <GUID>1999907779</GUID>
                         <Name>remove empire_of_the_eagle+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11924,7 +11924,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007780</GUID>
+                        <GUID>1999907780</GUID>
                         <Name>remove empire_of_the_eagle+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12016,7 +12016,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007781</GUID>
+                        <GUID>1999907781</GUID>
                         <Name>remove empire_of_the_eagle+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12108,7 +12108,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007782</GUID>
+                        <GUID>1999907782</GUID>
                         <Name>remove empire_of_the_eagle+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12200,7 +12200,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999007783</GUID>
+                        <GUID>1999907783</GUID>
                         <Name>remove empire_of_the_eagle+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

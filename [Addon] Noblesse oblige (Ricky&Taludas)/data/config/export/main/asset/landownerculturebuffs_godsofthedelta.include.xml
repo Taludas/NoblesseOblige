@@ -1242,127 +1242,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999009043</Quest>
+                                <Quest>1999909043</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009044</Quest>
+                                <Quest>1999909044</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009045</Quest>
+                                <Quest>1999909045</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009046</Quest>
+                                <Quest>1999909046</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009047</Quest>
+                                <Quest>1999909047</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009048</Quest>
+                                <Quest>1999909048</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009049</Quest>
+                                <Quest>1999909049</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009050</Quest>
+                                <Quest>1999909050</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009051</Quest>
+                                <Quest>1999909051</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009052</Quest>
+                                <Quest>1999909052</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009053</Quest>
+                                <Quest>1999909053</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009054</Quest>
+                                <Quest>1999909054</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009055</Quest>
+                                <Quest>1999909055</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009056</Quest>
+                                <Quest>1999909056</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009057</Quest>
+                                <Quest>1999909057</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009058</Quest>
+                                <Quest>1999909058</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009059</Quest>
+                                <Quest>1999909059</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009060</Quest>
+                                <Quest>1999909060</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009061</Quest>
+                                <Quest>1999909061</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009062</Quest>
+                                <Quest>1999909062</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009063</Quest>
+                                <Quest>1999909063</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009064</Quest>
+                                <Quest>1999909064</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009065</Quest>
+                                <Quest>1999909065</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009066</Quest>
+                                <Quest>1999909066</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009067</Quest>
+                                <Quest>1999909067</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009068</Quest>
+                                <Quest>1999909068</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009069</Quest>
+                                <Quest>1999909069</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009070</Quest>
+                                <Quest>1999909070</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009071</Quest>
+                                <Quest>1999909071</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009072</Quest>
+                                <Quest>1999909072</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009073</Quest>
+                                <Quest>1999909073</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009074</Quest>
+                                <Quest>1999909074</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009075</Quest>
+                                <Quest>1999909075</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009076</Quest>
+                                <Quest>1999909076</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009077</Quest>
+                                <Quest>1999909077</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009078</Quest>
+                                <Quest>1999909078</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009079</Quest>
+                                <Quest>1999909079</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009080</Quest>
+                                <Quest>1999909080</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009081</Quest>
+                                <Quest>1999909081</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009082</Quest>
+                                <Quest>1999909082</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999009083</Quest>
+                                <Quest>1999909083</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1384,7 +1384,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009043</GUID>
+                        <GUID>1999909043</GUID>
                         <Name>Delete bufffactory gods_of_the_delta+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1739,8 +1739,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1782,7 +1782,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009044</GUID>
+                        <GUID>1999909044</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2148,8 +2148,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2169,8 +2169,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2212,7 +2212,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009045</GUID>
+                        <GUID>1999909045</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2579,8 +2579,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2600,8 +2600,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2643,7 +2643,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009046</GUID>
+                        <GUID>1999909046</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3010,8 +3010,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3031,8 +3031,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3074,7 +3074,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009047</GUID>
+                        <GUID>1999909047</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3441,8 +3441,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3462,8 +3462,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3505,7 +3505,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009048</GUID>
+                        <GUID>1999909048</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3872,8 +3872,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3893,8 +3893,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3936,7 +3936,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009049</GUID>
+                        <GUID>1999909049</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4303,8 +4303,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4324,8 +4324,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4367,7 +4367,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009050</GUID>
+                        <GUID>1999909050</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4734,8 +4734,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4755,8 +4755,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4798,7 +4798,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009051</GUID>
+                        <GUID>1999909051</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5165,8 +5165,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5186,8 +5186,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5229,7 +5229,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009052</GUID>
+                        <GUID>1999909052</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5596,8 +5596,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5617,8 +5617,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5660,7 +5660,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009053</GUID>
+                        <GUID>1999909053</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6027,8 +6027,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6048,8 +6048,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6091,7 +6091,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009054</GUID>
+                        <GUID>1999909054</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6458,8 +6458,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6479,8 +6479,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6522,7 +6522,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009055</GUID>
+                        <GUID>1999909055</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6889,8 +6889,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6910,8 +6910,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6953,7 +6953,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009056</GUID>
+                        <GUID>1999909056</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7320,8 +7320,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7341,8 +7341,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7384,7 +7384,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009057</GUID>
+                        <GUID>1999909057</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7751,8 +7751,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7772,8 +7772,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7815,7 +7815,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009058</GUID>
+                        <GUID>1999909058</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8182,8 +8182,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8203,8 +8203,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8246,7 +8246,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009059</GUID>
+                        <GUID>1999909059</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8613,8 +8613,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8634,8 +8634,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8677,7 +8677,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009060</GUID>
+                        <GUID>1999909060</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9029,8 +9029,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9050,8 +9050,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9093,7 +9093,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009061</GUID>
+                        <GUID>1999909061</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9445,8 +9445,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9466,8 +9466,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9509,7 +9509,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009062</GUID>
+                        <GUID>1999909062</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9861,8 +9861,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9882,8 +9882,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9925,7 +9925,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009063</GUID>
+                        <GUID>1999909063</GUID>
                         <Name>spawn bufffactory gods_of_the_delta+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10276,8 +10276,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10318,7 +10318,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009064</GUID>
+                        <GUID>1999909064</GUID>
                         <Name>remove gods_of_the_delta+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10410,7 +10410,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009065</GUID>
+                        <GUID>1999909065</GUID>
                         <Name>remove gods_of_the_delta+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10502,7 +10502,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009066</GUID>
+                        <GUID>1999909066</GUID>
                         <Name>remove gods_of_the_delta+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10594,7 +10594,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009067</GUID>
+                        <GUID>1999909067</GUID>
                         <Name>remove gods_of_the_delta+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10686,7 +10686,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009068</GUID>
+                        <GUID>1999909068</GUID>
                         <Name>remove gods_of_the_delta+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10778,7 +10778,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009069</GUID>
+                        <GUID>1999909069</GUID>
                         <Name>remove gods_of_the_delta+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10870,7 +10870,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009070</GUID>
+                        <GUID>1999909070</GUID>
                         <Name>remove gods_of_the_delta+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10962,7 +10962,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009071</GUID>
+                        <GUID>1999909071</GUID>
                         <Name>remove gods_of_the_delta+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11054,7 +11054,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009072</GUID>
+                        <GUID>1999909072</GUID>
                         <Name>remove gods_of_the_delta+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11146,7 +11146,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009073</GUID>
+                        <GUID>1999909073</GUID>
                         <Name>remove gods_of_the_delta+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11238,7 +11238,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009074</GUID>
+                        <GUID>1999909074</GUID>
                         <Name>remove gods_of_the_delta+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11330,7 +11330,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009075</GUID>
+                        <GUID>1999909075</GUID>
                         <Name>remove gods_of_the_delta+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11422,7 +11422,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009076</GUID>
+                        <GUID>1999909076</GUID>
                         <Name>remove gods_of_the_delta+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11514,7 +11514,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009077</GUID>
+                        <GUID>1999909077</GUID>
                         <Name>remove gods_of_the_delta+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11606,7 +11606,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009078</GUID>
+                        <GUID>1999909078</GUID>
                         <Name>remove gods_of_the_delta+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11698,7 +11698,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009079</GUID>
+                        <GUID>1999909079</GUID>
                         <Name>remove gods_of_the_delta+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11790,7 +11790,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009080</GUID>
+                        <GUID>1999909080</GUID>
                         <Name>remove gods_of_the_delta+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11882,7 +11882,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009081</GUID>
+                        <GUID>1999909081</GUID>
                         <Name>remove gods_of_the_delta+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11974,7 +11974,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009082</GUID>
+                        <GUID>1999909082</GUID>
                         <Name>remove gods_of_the_delta+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12066,7 +12066,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999009083</GUID>
+                        <GUID>1999909083</GUID>
                         <Name>remove gods_of_the_delta+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>

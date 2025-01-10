@@ -1256,127 +1256,127 @@
                     <QuestPool>
                         <Quests>
                             <Item>
-                                <Quest>1999008343</Quest>
+                                <Quest>1999908343</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008344</Quest>
+                                <Quest>1999908344</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008345</Quest>
+                                <Quest>1999908345</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008346</Quest>
+                                <Quest>1999908346</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008347</Quest>
+                                <Quest>1999908347</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008348</Quest>
+                                <Quest>1999908348</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008349</Quest>
+                                <Quest>1999908349</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008350</Quest>
+                                <Quest>1999908350</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008351</Quest>
+                                <Quest>1999908351</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008352</Quest>
+                                <Quest>1999908352</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008353</Quest>
+                                <Quest>1999908353</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008354</Quest>
+                                <Quest>1999908354</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008355</Quest>
+                                <Quest>1999908355</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008356</Quest>
+                                <Quest>1999908356</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008357</Quest>
+                                <Quest>1999908357</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008358</Quest>
+                                <Quest>1999908358</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008359</Quest>
+                                <Quest>1999908359</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008360</Quest>
+                                <Quest>1999908360</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008361</Quest>
+                                <Quest>1999908361</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008362</Quest>
+                                <Quest>1999908362</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008363</Quest>
+                                <Quest>1999908363</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008364</Quest>
+                                <Quest>1999908364</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008365</Quest>
+                                <Quest>1999908365</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008366</Quest>
+                                <Quest>1999908366</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008367</Quest>
+                                <Quest>1999908367</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008368</Quest>
+                                <Quest>1999908368</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008369</Quest>
+                                <Quest>1999908369</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008370</Quest>
+                                <Quest>1999908370</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008371</Quest>
+                                <Quest>1999908371</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008372</Quest>
+                                <Quest>1999908372</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008373</Quest>
+                                <Quest>1999908373</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008374</Quest>
+                                <Quest>1999908374</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008375</Quest>
+                                <Quest>1999908375</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008376</Quest>
+                                <Quest>1999908376</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008377</Quest>
+                                <Quest>1999908377</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008378</Quest>
+                                <Quest>1999908378</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008379</Quest>
+                                <Quest>1999908379</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008380</Quest>
+                                <Quest>1999908380</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008381</Quest>
+                                <Quest>1999908381</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008382</Quest>
+                                <Quest>1999908382</Quest>
                             </Item>
                             <Item>
-                                <Quest>1999008383</Quest>
+                                <Quest>1999908383</Quest>
                             </Item>
                         </Quests>
                         <PoolCooldown>0</PoolCooldown>
@@ -1398,7 +1398,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008343</GUID>
+                        <GUID>1999908343</GUID>
                         <Name>Delete bufffactory northern_sagas+1 lessthan 300</Name>
                     </Standard>
                     <Quest>
@@ -1753,8 +1753,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -1796,7 +1796,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008344</GUID>
+                        <GUID>1999908344</GUID>
                         <Name>spawn bufffactory northern_sagas+1 300-600</Name>
                     </Standard>
                     <Quest>
@@ -2162,8 +2162,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2183,8 +2183,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2226,7 +2226,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008345</GUID>
+                        <GUID>1999908345</GUID>
                         <Name>spawn bufffactory northern_sagas+2 600-900</Name>
                     </Standard>
                     <Quest>
@@ -2593,8 +2593,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>600</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2614,8 +2614,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -2657,7 +2657,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008346</GUID>
+                        <GUID>1999908346</GUID>
                         <Name>spawn bufffactory northern_sagas+3 900-1200</Name>
                     </Standard>
                     <Quest>
@@ -3024,8 +3024,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3045,8 +3045,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3088,7 +3088,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008347</GUID>
+                        <GUID>1999908347</GUID>
                         <Name>spawn bufffactory northern_sagas+4 1200-1500</Name>
                     </Standard>
                     <Quest>
@@ -3455,8 +3455,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3476,8 +3476,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3519,7 +3519,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008348</GUID>
+                        <GUID>1999908348</GUID>
                         <Name>spawn bufffactory northern_sagas+5 1500-2100</Name>
                     </Standard>
                     <Quest>
@@ -3886,8 +3886,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>1500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3907,8 +3907,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -3950,7 +3950,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008349</GUID>
+                        <GUID>1999908349</GUID>
                         <Name>spawn bufffactory northern_sagas+6 2100-2700</Name>
                     </Standard>
                     <Quest>
@@ -4317,8 +4317,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4338,8 +4338,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4381,7 +4381,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008350</GUID>
+                        <GUID>1999908350</GUID>
                         <Name>spawn bufffactory northern_sagas+7 2700-3300</Name>
                     </Standard>
                     <Quest>
@@ -4748,8 +4748,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>2700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4769,8 +4769,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -4812,7 +4812,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008351</GUID>
+                        <GUID>1999908351</GUID>
                         <Name>spawn bufffactory northern_sagas+8 3300-3900</Name>
                     </Standard>
                     <Quest>
@@ -5179,8 +5179,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5200,8 +5200,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5243,7 +5243,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008352</GUID>
+                        <GUID>1999908352</GUID>
                         <Name>spawn bufffactory northern_sagas+9 3900-4500</Name>
                     </Standard>
                     <Quest>
@@ -5610,8 +5610,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>3900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5631,8 +5631,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -5674,7 +5674,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008353</GUID>
+                        <GUID>1999908353</GUID>
                         <Name>spawn bufffactory northern_sagas+10 4500-5100</Name>
                     </Standard>
                     <Quest>
@@ -6041,8 +6041,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>4500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6062,8 +6062,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6105,7 +6105,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008354</GUID>
+                        <GUID>1999908354</GUID>
                         <Name>spawn bufffactory northern_sagas+11 5100-5700</Name>
                     </Standard>
                     <Quest>
@@ -6472,8 +6472,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6493,8 +6493,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6536,7 +6536,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008355</GUID>
+                        <GUID>1999908355</GUID>
                         <Name>spawn bufffactory northern_sagas+12 5700-6300</Name>
                     </Standard>
                     <Quest>
@@ -6903,8 +6903,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>5700</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6924,8 +6924,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -6967,7 +6967,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008356</GUID>
+                        <GUID>1999908356</GUID>
                         <Name>spawn bufffactory northern_sagas+13 6300-6900</Name>
                     </Standard>
                     <Quest>
@@ -7334,8 +7334,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7355,8 +7355,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7398,7 +7398,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008357</GUID>
+                        <GUID>1999908357</GUID>
                         <Name>spawn bufffactory northern_sagas+14 6900-7500</Name>
                     </Standard>
                     <Quest>
@@ -7765,8 +7765,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>6900</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7786,8 +7786,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -7829,7 +7829,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008358</GUID>
+                        <GUID>1999908358</GUID>
                         <Name>spawn bufffactory northern_sagas+15 7500-8400</Name>
                     </Standard>
                     <Quest>
@@ -8196,8 +8196,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>7500</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8217,8 +8217,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8260,7 +8260,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008359</GUID>
+                        <GUID>1999908359</GUID>
                         <Name>spawn bufffactory northern_sagas+16 8400-9300</Name>
                     </Standard>
                     <Quest>
@@ -8627,8 +8627,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>8400</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8648,8 +8648,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -8691,7 +8691,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008360</GUID>
+                        <GUID>1999908360</GUID>
                         <Name>spawn bufffactory northern_sagas+17 9300-10200</Name>
                     </Standard>
                     <Quest>
@@ -9043,8 +9043,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>9300</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9064,8 +9064,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9107,7 +9107,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008361</GUID>
+                        <GUID>1999908361</GUID>
                         <Name>spawn bufffactory northern_sagas+18 10200-11100</Name>
                     </Standard>
                     <Quest>
@@ -9459,8 +9459,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>10200</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9480,8 +9480,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9523,7 +9523,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008362</GUID>
+                        <GUID>1999908362</GUID>
                         <Name>spawn bufffactory northern_sagas+19 11100-12000</Name>
                     </Standard>
                     <Quest>
@@ -9875,8 +9875,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>11100</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9896,8 +9896,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>LessThan</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -9939,7 +9939,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008363</GUID>
+                        <GUID>1999908363</GUID>
                         <Name>spawn bufffactory northern_sagas+20 more than 12000</Name>
                     </Standard>
                     <Quest>
@@ -10290,8 +10290,8 @@
                                                 <Values>
                                                     <Condition />
                                                     <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>1999005104</Context>
+                                                        <PlayerCounter>PopulationByGroup</PlayerCounter>
+                                                        <Context>1999010496</Context>
                                                         <ComparisonOp>AtLeast</ComparisonOp>
                                                         <CounterAmount>12000</CounterAmount>
                                                     </ConditionPlayerCounter>
@@ -10332,7 +10332,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008364</GUID>
+                        <GUID>1999908364</GUID>
                         <Name>remove northern_sagas+1 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10424,7 +10424,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008365</GUID>
+                        <GUID>1999908365</GUID>
                         <Name>remove northern_sagas+2 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10516,7 +10516,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008366</GUID>
+                        <GUID>1999908366</GUID>
                         <Name>remove northern_sagas+3 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10608,7 +10608,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008367</GUID>
+                        <GUID>1999908367</GUID>
                         <Name>remove northern_sagas+4 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10700,7 +10700,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008368</GUID>
+                        <GUID>1999908368</GUID>
                         <Name>remove northern_sagas+5 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10792,7 +10792,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008369</GUID>
+                        <GUID>1999908369</GUID>
                         <Name>remove northern_sagas+6 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10884,7 +10884,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008370</GUID>
+                        <GUID>1999908370</GUID>
                         <Name>remove northern_sagas+7 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -10976,7 +10976,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008371</GUID>
+                        <GUID>1999908371</GUID>
                         <Name>remove northern_sagas+8 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11068,7 +11068,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008372</GUID>
+                        <GUID>1999908372</GUID>
                         <Name>remove northern_sagas+9 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11160,7 +11160,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008373</GUID>
+                        <GUID>1999908373</GUID>
                         <Name>remove northern_sagas+10 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11252,7 +11252,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008374</GUID>
+                        <GUID>1999908374</GUID>
                         <Name>remove northern_sagas+11 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11344,7 +11344,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008375</GUID>
+                        <GUID>1999908375</GUID>
                         <Name>remove northern_sagas+12 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11436,7 +11436,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008376</GUID>
+                        <GUID>1999908376</GUID>
                         <Name>remove northern_sagas+13 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11528,7 +11528,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008377</GUID>
+                        <GUID>1999908377</GUID>
                         <Name>remove northern_sagas+14 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11620,7 +11620,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008378</GUID>
+                        <GUID>1999908378</GUID>
                         <Name>remove northern_sagas+15 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11712,7 +11712,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008379</GUID>
+                        <GUID>1999908379</GUID>
                         <Name>remove northern_sagas+16 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11804,7 +11804,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008380</GUID>
+                        <GUID>1999908380</GUID>
                         <Name>remove northern_sagas+17 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11896,7 +11896,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008381</GUID>
+                        <GUID>1999908381</GUID>
                         <Name>remove northern_sagas+18 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -11988,7 +11988,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008382</GUID>
+                        <GUID>1999908382</GUID>
                         <Name>remove northern_sagas+19 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
@@ -12080,7 +12080,7 @@
                 <Template>A7_QuestDummyQuest</Template>
                 <Values>
                     <Standard>
-                        <GUID>1999008383</GUID>
+                        <GUID>1999908383</GUID>
                         <Name>remove northern_sagas+20 bufffactory if set is deactivated</Name>
                     </Standard>
                     <Quest>
