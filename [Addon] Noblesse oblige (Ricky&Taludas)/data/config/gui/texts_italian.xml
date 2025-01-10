@@ -18,7 +18,15 @@
     </Text>
     <Text>
       <GUID>1999005104</GUID>
-      <Text>Proprietari terrieri</Text>
+      <Text>Proprietari terrieri (Antica Nobiltà)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010494</GUID>
+      <Text>Proprietari terrieri (Autocrati patriarcali)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010495</GUID>
+      <Text>Proprietari terrieri (Conservatori moderni)</Text>
     </Text>
     <Text>
       <GUID>1999005105</GUID>
@@ -894,7 +902,7 @@
     </Text>
     <Text>
       <GUID>1999005423</GUID>
-      <Text>La Cattedrale Imperiale è un luogo di culto. Una volta terminato questo magnifico monumento, la Cattedrale provvede a tutte le esigenze religiose di servizio pubblico e la vostra popolazione si concentrerà maggiormente sulla propria fede e meno sul mondo materiale. Il consumo di beni sarà ridotto del 5% e la felicità aumenterà del 5%.</Text>
+      <Text>La Cattedrale Imperiale è un luogo di culto. Una volta terminato questo magnifico monumento, la Cattedrale provvede a tutte le esigenze religiose di servizio pubblico e la vostra popolazione si concentrerà maggiormente sulla propria fede e meno sul mondo materiale.</Text>
     </Text>
     <Text>
       <GUID>1999005424</GUID>

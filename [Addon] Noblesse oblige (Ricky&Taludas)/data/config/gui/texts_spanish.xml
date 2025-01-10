@@ -18,7 +18,15 @@
     </Text>
     <Text>
       <GUID>1999005104</GUID>
-      <Text>Terratenientes</Text>
+      <Text>Terratenientes (Vieja Nobleza)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010494</GUID>
+      <Text>Terratenientes (Autócratas patriarcales)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010495</GUID>
+      <Text>Terratenientes (Conservadores modernos)</Text>
     </Text>
     <Text>
       <GUID>1999005105</GUID>
@@ -894,7 +902,7 @@
     </Text>
     <Text>
       <GUID>1999005423</GUID>
-      <Text>La Catedral Imperial es un lugar de culto. Una vez que este magnífico monumento esté terminado, la Catedral proveerá todas las necesidades de servicio público religioso y su población se centrará más en su fe y menos en el mundo material. El consumo de bienes se reducirá en un 5% y la felicidad aumentará en un 5.</Text>
+      <Text>La Catedral Imperial es un lugar de culto. Una vez que este magnífico monumento esté terminado, la Catedral proveerá todas las necesidades de servicio público religioso y su población se centrará más en su fe y menos en el mundo material.</Text>
     </Text>
     <Text>
       <GUID>1999005424</GUID>

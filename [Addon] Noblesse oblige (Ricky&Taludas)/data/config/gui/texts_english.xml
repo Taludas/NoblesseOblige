@@ -18,7 +18,15 @@
     </Text>
     <Text>
       <GUID>1999005104</GUID>
-      <Text>Landowners</Text>
+      <Text>Landowners (Old Nobility)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010494</GUID>
+      <Text>Landowners (Patriarchial Autocrats)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010495</GUID>
+      <Text>Landowners (Modern Conservatists)</Text>
     </Text>
     <Text>
       <GUID>1999005105</GUID>
@@ -894,7 +902,7 @@
     </Text>
     <Text>
       <GUID>1999005423</GUID>
-      <Text>The Imperial Cathedral is a place of worship. Once this magnificent monument is finished, the Cathedral provides all religious public service needs and your populace will focus more on their faith and less on the material world. Consumption of goods will be lowered by 5% and happiness will increase by 5.</Text>
+      <Text>The Imperial Cathedral is a place of worship. Once this magnificent monument is finished, the Cathedral provides all religious public service needs and your populace will focus more on their faith and less on the material world.</Text>
     </Text>
     <Text>
       <GUID>1999005424</GUID>

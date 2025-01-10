@@ -18,7 +18,15 @@
     </Text>
     <Text>
       <GUID>1999005104</GUID>
-      <Text>Propriétaires</Text>
+      <Text>Propriétaires (Ancienne noblesse)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010494</GUID>
+      <Text>Propriétaires (Autocrates patriarcaux)</Text>
+    </Text>
+    <Text>
+      <GUID>1999010495</GUID>
+      <Text>Propriétaires (Conservateurs modernes)</Text>
     </Text>
     <Text>
       <GUID>1999005105</GUID>
@@ -894,7 +902,7 @@
     </Text>
     <Text>
       <GUID>1999005423</GUID>
-      <Text>La cathédrale impériale est un lieu de culte. Une fois ce magnifique monument terminé, la cathédrale répond à tous les besoins du service public religieux et votre population se concentrera davantage sur sa foi et moins sur le monde matériel. La consommation de biens sera réduite de 5% et le bonheur augmentera de 5.</Text>
+      <Text>La cathédrale impériale est un lieu de culte. Une fois ce magnifique monument terminé, la cathédrale répond à tous les besoins du service public religieux et votre population se concentrera davantage sur sa foi et moins sur le monde matériel.</Text>
     </Text>
     <Text>
       <GUID>1999005424</GUID>
