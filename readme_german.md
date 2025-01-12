@@ -35,6 +35,18 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.2.1</summary>
+
+- weitere Überarbeitung der Grafiken des Kaiserdoms
+- Trigger für das Aufdecken der Stadttheaterrezepte hinzufügen, wenn man es früh baut (mit Investoren), bevor man ein Rezept tatsächlich freischaltet (mit Landbesitzern), damit man man kein leeres Rezeptbuch vorgesetzt bekommt.
+- Überarbeitung der Trigger für die Freischaltung von Landbesitzern der Stufen 2 und 3 (Änderung von x benötigten Gebäuden zu einem festen Wert für die Bevölkerungszahl) - nur relevant für neue Spiele oder bestehende Spiele, bei denen vorher NO nicht geladen wurden
+- Fix für Level 2 und Level 3 Großgrundbesitzer-Produkt-Bedarfsmengen (war x0.5 für Level 2 und x0.25 für Level 3 nach der Aufteilung in drei Bevölkerungsebenen in v1.2.0)
+- Überarbeitung der Freischaltungen für die Großgrundbesitzer der Stufen 2 und 3 mit der Aufteilung der Bevölkerungsgruppen
+- Unterstützung für Lions Chapel Mod hinzugefügt (neues Kapellenprodukt hinzugefügt, Skins für die Kapelle dieser Mod hinzugefügt)
+- Behebung des Problems, dass Gemälde nicht in der Lagerliste für alle Produkte angezeigt werden
+
+</details>
+<details>
     <summary>Patch Notes Version 1.2.0</summary>
 
 - Aufteilung der Landbesitzer-Bevölkerungsstufe, um das Problem mit dem Zurücksetzen von Bedürfnissen bei der Aktivierung von einflussverleihenden Buffs zu beheben, wenn Zufriedenheitsbedürfnisse geliefert werden

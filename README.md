@@ -39,6 +39,17 @@ If you like this mod and want to support me, feel free to share it with your fri
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.2.1</summary>
+
+- further rework imperial cathedral graphics
+- add unhide trigger for Municipal Theatre recipes, if you build it early (with Investors) before you unlock a recipe (with Landowners) you don't get a blank recipe book
+- rework unlock triggers for level 2 and level 3 landowner populations (change from x buildings needed to populationlevel counteramount) - only relevant for new games or existing games without NO loaded before
+- fix level 2 and level 3 landowner population needs consumption (was x0.5 for level 2 and x0.25 for level 3 after division into three population tiers in v1.2.0)
+- rework need unlocks for level 2 and level 3 landowner populations with the split up of pop groups
+- add support for Lions Chapel mod (add chapel public building need, add his skins to this mod's chapel)
+- fix painting product not present in the storage list for all products
+</details>
+<details>
     <summary>Patch Notes Version 1.2.0</summary>
 
 - split up Landowner population level in order to fix the issue with resetting needs on activation of influence-providing buffs when supplying happiness needs
