@@ -1113,6 +1113,12 @@
             </Item>
           </ModOp>
 
+          <ModOp Type="addNextSibling" GUID="501997" Path="/Values/ProductList/List/Item[Product='1999005072']">
+            <Item>
+                <Product>1999005069</Product>
+            </Item>
+          </ModOp>
+
           <ModOp Type="addNextSibling" GUID="120057" Condition="!~/Values/ProductStorageList/ProductList/Item[Product='1999005069']" Path="/Values/ProductStorageList/ProductList/Item[Product='1999005072']">
               <Item>
                   <Product>1999005069</Product>
@@ -22355,9 +22361,6 @@
                                 <Item>
                                     <Filename>data\lion053\1404_chapel\1404_chapel.cfg</Filename>
                                 </Item>
-                                <Item>
-                                    <Filename>data\lion053\ow_chapel\ow_chapel_01.cfg</Filename>
-                                </Item>
                             </Variations>
                             <Skins>
                                 <DefaultSkinName>1999005306</DefaultSkinName>
@@ -22433,6 +22436,23 @@
                 <Item>
                     <Asset>1999005306</Asset>
                 </Item>
+            </ModOp>
+
+            <!-- Add Chapel output to Lion's Chapel -->
+            <ModOp Type="addPrevSibling" GUID="2100115121" Path="/Values/PublicService/PublicServiceOutputs[1]" Condition="#lion053_ow_chapels">
+              <Item>
+                <Product>1999005123</Product>
+              </Item>
+            </ModOp>
+
+            <!-- Add second skin if Lion's Mod is active -->
+            <ModOp Type="add" GUID="1999005306" Path="/Values/Object/Variations" Condition="#lion053_ow_chapels">
+              <Item>
+                <Filename>data\graphics\lion053\mod_buildings\ow_chapel\ow_chapel_01.cfg</Filename>
+              </Item>
+              <Item>
+                <Filename>data\graphics\lion053\mod_buildings\ow_chapel\ow_chapel_skin03_01.cfg</Filename>
+              </Item>
             </ModOp>
         </Group>
 
@@ -24640,9 +24660,7 @@
                                 </Item>
                             </Variations>
                         </Object>
-                        <Mesh>
-                            <MeshPlacement>OnTerrainSlope</MeshPlacement>
-                        </Mesh>
+                        <Mesh />
                         <Selection>
                             <GUIType>Monument</GUIType>
                             <ParticipantMessageArcheType>Resident_tier02_atWork</ParticipantMessageArcheType>
@@ -24779,9 +24797,7 @@
                                 </Item>
                             </Variations>
                         </Object>
-                        <Mesh>
-                            <MeshPlacement>OnTerrain</MeshPlacement>
-                        </Mesh>
+                        <Mesh />
                         <Selection>
                             <GUIType>Monument</GUIType>
                             <ParticipantMessageArcheType>Resident_tier02_atWork</ParticipantMessageArcheType>
@@ -24931,9 +24947,7 @@
                                 </Item>
                             </Variations>
                         </Object>
-                        <Mesh>
-                            <MeshPlacement>OnTerrain</MeshPlacement>
-                        </Mesh>
+                        <Mesh />
                         <Selection>
                             <GUIType>Monument</GUIType>
                             <ParticipantMessageArcheType>Resident_tier03_atWork</ParticipantMessageArcheType>
@@ -25094,9 +25108,7 @@
                                 </Item>
                             </Variations>
                         </Object>
-                        <Mesh>
-                            <MeshPlacement>OnTerrain</MeshPlacement>
-                        </Mesh>
+                        <Mesh />
                         <Selection>
                             <GUIType>MonumentEvent</GUIType>
                             <ParticipantMessageArcheType>Mod5</ParticipantMessageArcheType>
@@ -27376,8 +27388,8 @@
               </Item>
             </ModOp>
 
-            <!-- replace Aces Imperial Cathedral entry, if present -->
-            <Group Condition="@1337473001">
+            <!-- add Public Building needs to Aces Cathedral, if present -->
+            <Group Condition="#Old World Cathedral">
               <ModOp Type="add" GUID="1337473004" Path="/Values/PublicService/PublicServiceOutputs">
                   <Item>
                       <Product>1999005123</Product>
@@ -27385,11 +27397,6 @@
                   <Item>
                       <Product>1999005125</Product>
                   </Item>
-              </ModOp>
-              <ModOp Type="replace" GUID="500447,500116" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1337473001']">
-                <Item>
-                  <Building>1999005415</Building>
-                </Item>
               </ModOp>
             </Group>
         </Group>
@@ -28174,17 +28181,16 @@
                           </Item>
                           <Item>
                             <Product>133097</Product>
-                            <Amount>0.025000025000025</Amount>
+                            <Amount>0.05000005000005</Amount>
                             <SupplyWeight>12</SupplyWeight>
                             <FullWeightPopulationCount>50</FullWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>120016</Product>
-                            <Amount>0.00666666666666667</Amount>
+                            <Amount>0.0133333333333333</Amount>
                             <SupplyWeight>14</SupplyWeight>
                             <FullWeightPopulationCount>50</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>24</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
@@ -28192,61 +28198,58 @@
                             <SupplyWeight>10</SupplyWeight>
                             <IsConsideredByAI>1</IsConsideredByAI>
                             <FullWeightPopulationCount>50</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>34</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010215</Product>
-                            <Amount>0.0111111111111111</Amount>
+                            <Amount>0.0222222222222222</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <FullWeightPopulationCount>100</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>49</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1010241</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.0333333333333333</Amount>
                             <SupplyWeight>6</SupplyWeight>
                             <FullWeightPopulationCount>100</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>49</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1999005057</Product>
-                            <Amount>0.0125000125000125</Amount>
+                            <Amount>0.025000025000025</Amount>
                             <SupplyWeight>10</SupplyWeight>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                             <NoWeightPopulationCount>99</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>120032</Product>
-                            <Amount>0.0208333333333333</Amount>
+                            <Amount>0.0416666666666667</Amount>
                             <SupplyWeight>10</SupplyWeight>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                             <NoWeightPopulationCount>99</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1010211</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0166666666666667</Amount>
                             <SupplyWeight>8</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>149</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>300</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>199</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>114430</Product>
-                            <Amount>0.0100000040000016</Amount>
+                            <Amount>0.0200000080000032</Amount>
                             <SupplyWeight>8</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>149</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>300</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>199</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
 
                           <!-- Happiness/Influence Needs -->
                           <Item>
                             <Product>1742100211</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0166666666666667</Amount>
                             <HappinessValue>16</HappinessValue>
                             <MoneyValue>180</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
@@ -28265,55 +28268,56 @@
                             <MoneyValue>150</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
                             <FullWeightPopulationCount>100</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>49</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010352</Product>
                             <HappinessValue>8</HappinessValue>
                             <MoneyValue>120</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                             <NoWeightPopulationCount>99</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010247</Product>
-                            <Amount>0.0125000125000125</Amount>
+                            <Amount>0.025000025000025</Amount>
                             <HappinessValue>8</HappinessValue>
                             <MoneyValue>150</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                             <NoWeightPopulationCount>99</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010259</Product>
-                            <Amount>0.0111111111111111</Amount>
+                            <Amount>0.0222222222222222</Amount>
                             <HappinessValue>12</HappinessValue>
                             <MoneyValue>175</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                             <NoWeightPopulationCount>99</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1999005072</Product>
-                            <Amount>0.0104166666666667</Amount>
+                            <Amount>0.0208333333333333</Amount>
                             <HappinessValue>14</HappinessValue>
                             <MoneyValue>200</MoneyValue>
-                            <NoWeightPopulationCount>149</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>400</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>199</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1999005069</Product>
-                            <Amount>0.00666666666666667</Amount>
+                            <Amount>0.0133333333333333</Amount>
                             <HappinessValue>16</HappinessValue>
                             <MoneyValue>250</MoneyValue>
-                            <NoWeightPopulationCount>149</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>400</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>199</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
 
                           <!-- Lifestyle Needs-->
                           <Item>
                             <Product>535</Product>
-                            <Amount>0.050000500005</Amount>
+                            <Amount>0.10000100001</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>10</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28325,7 +28329,7 @@
                           </Item>
                           <Item>
                             <Product>536</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.0333333333333334</Amount>
                             <SupplyWeight>12</SupplyWeight>
                             <MoneyValue>30</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28337,7 +28341,7 @@
                           </Item>
                           <Item>
                             <Product>2524</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0166666666666667</Amount>
                             <SupplyWeight>20</SupplyWeight>
                             <MoneyValue>60</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28360,7 +28364,7 @@
                           </Item>
                           <Item>
                             <Product>114431</Product>
-                            <Amount>0.0133333333333333</Amount>
+                            <Amount>0.0266666666666666</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>85</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28383,7 +28387,7 @@
                           </Item>
                           <Item>
                             <Product>112698</Product>
-                            <Amount>0.0100004000160006</Amount>
+                            <Amount>0.0200008000320012</Amount>
                             <SupplyWeight>10</SupplyWeight>
                             <MoneyValue>150</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28395,7 +28399,7 @@
                           </Item>
                           <Item>
                             <Product>5386</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.0333333333333334</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>125</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28407,7 +28411,7 @@
                           </Item>
                           <Item>
                             <Product>135233</Product>
-                            <Amount>0.00666666666666667</Amount>
+                            <Amount>0.0133333333333333</Amount>
                             <SupplyWeight>15</SupplyWeight>
                             <MoneyValue>225</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28508,7 +28512,7 @@
                           </Item>
                           <Item>
                             <Product>133097</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.0666666666666667</Amount>
                             <SupplyWeight>16</SupplyWeight>
                             <FullWeightPopulationCount>50</FullWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
@@ -28518,80 +28522,79 @@
                             <SupplyWeight>10</SupplyWeight>
                             <IsConsideredByAI>1</IsConsideredByAI>
                             <FullWeightPopulationCount>50</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>34</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1999005057</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0333333333333333</Amount>
                             <SupplyWeight>28</SupplyWeight>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>99</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>120032</Product>
-                            <Amount>0.0145914680767861</Amount>
+                            <Amount>0.0583658723071446</Amount>
                             <SupplyWeight>14</SupplyWeight>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>99</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>114430</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0333333333333333</Amount>
                             <SupplyWeight>18</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>149</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>300</FullWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>120030</Product>
-                            <Amount>0.01250012500125	</Amount>
+                            <Amount>0.050000500005</Amount>
                             <SupplyWeight>14</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>300</FullWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1010245</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0333333333333333</Amount>
                             <SupplyWeight>14</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>300</FullWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1999005075</Product>
-                            <Amount>0.00625006250062501</Amount>
+                            <Amount>0.0250002500025</Amount>
                             <SupplyWeight>20</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>750</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>499</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>135234</Product>
-                            <Amount>0.00750007500075</Amount>
+                            <Amount>0.030000300003</Amount>
                             <SupplyWeight>16</SupplyWeight>
-                            <FullWeightPopulationCount>50</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>25</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>750</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>499</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1500010847</Product>
-                            <Amount>0.0104166666666667</Amount>
+                            <Amount>0.0416666666666667</Amount>
                             <SupplyWeight>20</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>2000</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>999</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
                           <Item>
                             <Product>1010225</Product>
-                            <Amount>0.00333333333333333</Amount>
+                            <Amount>0.0133333333333333</Amount>
                             <SupplyWeight>16</SupplyWeight>
-                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
+                            <FullWeightPopulationCount>2000</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>999</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
                           </Item>
 
                           <!-- Happiness/Influence Needs -->
                           <Item>
                             <Product>1742100211</Product>
-                            <Amount>0.00625000625000625</Amount>
+                            <Amount>0.025000025000025</Amount>
                             <HappinessValue>18</HappinessValue>
                             <MoneyValue>240</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
@@ -28609,79 +28612,88 @@
                             <HappinessValue>6</HappinessValue>
                             <MoneyValue>275</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>2000</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>999</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010247</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0333333333333333</Amount>
                             <HappinessValue>10</HappinessValue>
                             <MoneyValue>175</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>99</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010259</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0333333333333333</Amount>
                             <HappinessValue>14</HappinessValue>
                             <MoneyValue>200</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
-                            <FullWeightPopulationCount>150</FullWeightPopulationCount>
-                            <NoWeightPopulationCount>99</NoWeightPopulationCount>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1999005072</Product>
-                            <Amount>0.0104166666666667</Amount>
+                            <Amount>0.0416666666666667</Amount>
                             <HappinessValue>16</HappinessValue>
                             <MoneyValue>250</MoneyValue>
-                            <NoWeightPopulationCount>149</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1999005069</Product>
-                            <Amount>0.00625006250062501</Amount>
+                            <Amount>0.0250002500025</Amount>
                             <HappinessValue>18</HappinessValue>
                             <MoneyValue>300</MoneyValue>
-                            <NoWeightPopulationCount>149</NoWeightPopulationCount>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>200</FullWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010246</Product>
-                            <Amount>0.00500002000008</Amount>
+                            <Amount>0.02000008000032</Amount>
                             <HappinessValue>12</HappinessValue>
                             <MoneyValue>200</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>750</FullWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010355</Product>
                             <HappinessValue>6</HappinessValue>
                             <MoneyValue>180</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>750</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>499</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1999005078</Product>
-                            <Amount>0.00625006250062501</Amount>
+                            <Amount>0.0250002500025</Amount>
                             <HappinessValue>20</HappinessValue>
                             <MoneyValue>300</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>2000</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>999</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1010248</Product>
-                            <Amount>0.00500002000008</Amount>
+                            <Amount>0.02000008000032</Amount>
                             <HappinessValue>16</HappinessValue>
                             <MoneyValue>225</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>2000</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>999</NoWeightPopulationCount>
                           </Item>
                           <Item>
                             <Product>1999005126</Product>
                             <HappinessValue>10</HappinessValue>
                             <MoneyValue>160</MoneyValue>
                             <IsConsideredByAI>1</IsConsideredByAI>
+                            <FullWeightPopulationCount>2000</FullWeightPopulationCount>
+                            <NoWeightPopulationCount>999</NoWeightPopulationCount>
                           </Item>
 
                           <!-- Lifestyle Needs-->
                           <Item>
                             <Product>535</Product>
-                            <Amount>0.050000500005</Amount>
+                            <Amount>0.20000200002</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>10</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28693,7 +28705,7 @@
                           </Item>
                           <Item>
                             <Product>536</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.0666666666666668</Amount>
                             <SupplyWeight>12</SupplyWeight>
                             <MoneyValue>30</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28705,7 +28717,7 @@
                           </Item>
                           <Item>
                             <Product>2524</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0333333333333333</Amount>
                             <SupplyWeight>20</SupplyWeight>
                             <MoneyValue>60</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28728,7 +28740,7 @@
                           </Item>
                           <Item>
                             <Product>114431</Product>
-                            <Amount>0.0133333333333333</Amount>
+                            <Amount>0.0533333333333332</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>85</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28751,7 +28763,7 @@
                           </Item>
                           <Item>
                             <Product>112698</Product>
-                            <Amount>0.0100004000160006</Amount>
+                            <Amount>0.0400016000640024</Amount>
                             <SupplyWeight>10</SupplyWeight>
                             <MoneyValue>150</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28763,7 +28775,7 @@
                           </Item>
                           <Item>
                             <Product>5386</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.0666666666666668</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>125</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -28775,7 +28787,7 @@
                           </Item>
                           <Item>
                             <Product>135233</Product>
-                            <Amount>0.00666666666666667</Amount>
+                            <Amount>0.0266666666666667</Amount>
                             <SupplyWeight>15</SupplyWeight>
                             <MoneyValue>225</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -47248,18 +47260,6 @@
                                                         <Asset>102037222</Asset>
                                                     </Item>
                                                     <Item>
-                                                        <Asset>1337473001</Asset>
-                                                    </Item>
-                                                    <Item>
-                                                        <Asset>1337473002</Asset>
-                                                    </Item>
-                                                    <Item>
-                                                        <Asset>1337473003</Asset>
-                                                    </Item>
-                                                    <Item>
-                                                        <Asset>1337473004</Asset>
-                                                    </Item>
-                                                    <Item>
                                                         <Asset>1999005415</Asset>
                                                     </Item>
                                                     <Item>
@@ -49602,8 +49602,9 @@
                             <Values>
                               <Condition />
                               <ConditionPlayerCounter>
-                                <Context>1999005117</Context>
-                                <CounterAmount>2</CounterAmount>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>1999010494</Context>
+                                <CounterAmount>100</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
                           </TriggerCondition>
@@ -49792,8 +49793,9 @@
                             <Values>
                               <Condition />
                               <ConditionPlayerCounter>
-                                <Context>1999005117</Context>
-                                <CounterAmount>3</CounterAmount>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>1999010494</Context>
+                                <CounterAmount>200</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
                           </TriggerCondition>
@@ -50032,8 +50034,9 @@
                             <Values>
                               <Condition />
                               <ConditionPlayerCounter>
-                                <Context>1999005118</Context>
-                                <CounterAmount>3</CounterAmount>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>1999010495</Context>
+                                <CounterAmount>500</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
                           </TriggerCondition>
@@ -50065,18 +50068,6 @@
                                                 </Item>
                                                 <Item>
                                                     <Asset>102037222</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473001</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473002</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473003</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473004</Asset>
                                                 </Item>
                                                 <Item>
                                                     <Asset>1999005415</Asset>
@@ -50162,8 +50153,9 @@
                             <Values>
                               <Condition />
                               <ConditionPlayerCounter>
-                                <Context>1999005118</Context>
-                                <CounterAmount>5</CounterAmount>
+                                <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                <Context>1999010495</Context>
+                                <CounterAmount>1000</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
                           </TriggerCondition>
@@ -50230,18 +50222,6 @@
                                                 </Item>
                                                 <Item>
                                                     <Asset>1999010447</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473001</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473002</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473003</Asset>
-                                                </Item>
-                                                <Item>
-                                                    <Asset>1337473004</Asset>
                                                 </Item>
                                                 <Item>
                                                     <Asset>1999005415</Asset>
@@ -50625,6 +50605,74 @@
                                                 <Item>
                                                     <Asset>1999010433</Asset>
                                                 </Item>
+                                              </UnlockAssets>
+                                          </ActionUnlockAsset>
+                                      </Values>
+                                  </TriggerAction>
+                              </Item>
+                          </TriggerActions>
+                          <ResetTrigger>
+                              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                              <Values>
+                                  <EmptyAutoCreateValue/>
+                              </Values>
+                          </ResetTrigger>
+                      </Trigger>
+                      <TriggerSetup>
+                          <UsedBySecondParties>0</UsedBySecondParties>
+                      </TriggerSetup>
+                  </Values>
+                </Asset>
+
+                <Asset>
+                  <Template>Trigger</Template>
+                  <Values>
+                      <Standard>
+                          <GUID>1999010497</GUID>
+                          <Name>Sandbox Mode Unhide Recipes Municipal Theatre if unlocked early</Name>
+                      </Standard>
+                      <Trigger>
+                          <TriggerCondition>
+                            <Template>ConditionPlayerCounter</Template>
+                            <Values>
+                              <Condition/>
+                              <ConditionPlayerCounter>
+                                <Context>102037222</Context>
+                                <CounterAmount>1</CounterAmount>
+                              </ConditionPlayerCounter>
+                            </Values>
+                          </TriggerCondition>
+                          <TriggerActions>
+                              <Item>
+                                  <TriggerAction>
+                                      <Template>ActionUnlockAsset</Template>
+                                      <Values>
+                                          <Action/>
+                                          <ActionUnlockAsset>
+                                              <UnhideAssets>
+                                                <Item>
+                                                    <Asset>1999010428</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1999010429</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1999010430</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1999010431</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1999010432</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1999010433</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1999010434</Asset>
+                                                </Item>
+                                              </UnhideAssets>
+                                              <UnlockAssets>
                                               </UnlockAssets>
                                           </ActionUnlockAsset>
                                       </Values>
