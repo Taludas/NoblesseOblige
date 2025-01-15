@@ -1,0 +1,101 @@
+name: Release Mods
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  build-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Get latest release tag
+        id: get_latest_release
+        run: |
+          echo "::set-output name=latest_tag::$(git describe --tags --abbrev=0)"
+
+      - name: Get commit descriptions since last release
+        id: get_commit_descriptions
+        run: |
+          latest_tag=$(echo "${{ steps.get_latest_release.outputs.latest_tag }}")
+          commits=$(git log $latest_tag..HEAD --pretty=format:"%s")
+          echo "::set-output name=commits::${commits}"
+
+      - name: Prepare release artifacts
+        id: prepare_artifacts
+        run: |
+          mkdir -p artifacts
+          version=$(echo "${GITHUB_REF}" | sed 's/refs\/tags\///')
+          repo_name=$(basename $GITHUB_REPOSITORY)
+
+          for folder in $(find . -maxdepth 1 -mindepth 1 -type d); do
+            modinfo="$folder/modinfo.json"
+            if [ -f "$modinfo" ]; then
+              modid=$(jq -r .ModID "$modinfo")
+              mod_version=$(jq -r .Version "$modinfo")
+              zip_name="${modid}_${mod_version}.zip"
+              zip -r "artifacts/$zip_name" "$folder"
+
+              # Check if the version is new compared to the latest release
+              latest_release_version=$(git show ${{ steps.get_latest_release.outputs.latest_tag }}:$folder/modinfo.json | jq -r .Version || echo "none")
+              if [ "$mod_version" != "$latest_release_version" ]; then
+                echo "$zip_name" >> artifacts/new_mods_to_upload.txt
+              fi
+            fi
+          done
+
+          # Create all-in-one zip
+          zip -r "artifacts/all_mods_${version}.zip" */
+
+      - name: Attach artifacts to release
+        uses: actions/upload-artifact@v3
+        with:
+          name: mod-artifacts
+          path: artifacts/
+
+      - name: Update release description
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const commits = `"${{ steps.get_commit_descriptions.outputs.commits }}"`;
+            const version = context.payload.release.tag_name;
+            const repoName = context.repo.repo;
+            const releaseDesc = `Changes in this release:\n\n${commits}`;
+
+            await github.rest.repos.updateRelease({
+              owner: context.repo.owner,
+              repo: repoName,
+              release_id: context.payload.release.id,
+              name: `${repoName} ${version}`,
+              body: releaseDesc
+            });
+
+      - name: Upload new mods to mod.io
+        if: ${{ env.MODIO_TOKEN && (steps.prepare_artifacts.outputs.new_mods_to_upload || false) }}
+        env:
+          MODIO_TOKEN: ${{ secrets.MODIO_TOKEN }}
+        run: |
+          while IFS= read -r zip_name; do
+            folder=$(basename "$zip_name" .zip | cut -d_ -f1)
+            modinfo="$folder/modinfo.json"
+
+            if [ -f "$modinfo" ]; then
+              modid=$(jq -r .ModID "$modinfo")
+              mod_version=$(jq -r .Version "$modinfo")
+
+              nickelc/modio-upload-action@v2.1.0 --game-id 4169 \
+                --mod-id $modid \
+                --version $mod_version \
+                --changelog "${{ steps.get_commit_descriptions.outputs.commits }}" \
+                --file "artifacts/$zip_name"
+            fi
+          done < artifacts/new_mods_to_upload.txt
