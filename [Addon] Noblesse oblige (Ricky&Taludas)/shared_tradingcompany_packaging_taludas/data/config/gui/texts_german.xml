@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>Ladepier</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>Die richtige Handhabung der Ware und Fortschritte bei der Verpackung erhöhen die Effizienz von Import-Docks.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>Effiziente Waren-Abfertigung</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>Die richtige Handhabung der Ware und Fortschritte bei der Verpackung erhöhen die Effizienz von Import-Docks und sorgen dafür, dass Eure gelagerten Importgüter länger halten.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

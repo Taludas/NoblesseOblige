@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>핸들링 피어</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>적절한 취급 부두와 포장의 발전은 수입 부두의 효율성을 높입니다.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>핸들링 피어</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>적절한 취급 부두와 포장의 발전은 수입 부두의 효율성을 높여 저장된 수입 상품을 더 오래 사용할 수 있도록 합니다.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

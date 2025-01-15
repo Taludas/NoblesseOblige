@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>Muelle de manipulación</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>Los muelles de manejo adecuados y los avances en el embalaje aumentan la eficiencia de los muelles de importación.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>Manipulación de muelles</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>Los muelles de manipulación adecuados y los avances en el embalaje aumentan la eficiencia de los muelles de importación, lo que hace que sus productos importados almacenados duren más.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

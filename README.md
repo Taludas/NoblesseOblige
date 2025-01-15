@@ -37,7 +37,13 @@ If you like this mod and want to support me, feel free to share it with your fri
 - This mod is incompatible with all other mods that alter the initial loadout of your starting ships.
 
 ## Changelog
+<details>
+    <summary>Patch Notes Version 1.3.0</summary>
 
+- extract Import Docks and Packaging Module of the Foreign Trading Company into submods to easily share between modders
+- rebalance Export Dock Steel of the Foreign Trading Company to be least efficient in terms of input/trade license (was more efficient than cannons)
+- fix addition of Chapel Public Service to Lion's OW Chapel mod
+</details>
 <details>
     <summary>Patch Notes Version 1.2.1</summary>
 

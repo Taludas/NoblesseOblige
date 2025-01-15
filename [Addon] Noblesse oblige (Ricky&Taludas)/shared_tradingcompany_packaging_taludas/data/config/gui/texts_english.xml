@@ -1,0 +1,21 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>Handling Pier</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>Proper Handling Piers and advancements in packaging increase the efficiency of Import Piers.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>Handling Piers</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>Proper Handling Piers and advancements in packaging increase the efficiency of Import Piers, making your stored imported goods last longer.</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

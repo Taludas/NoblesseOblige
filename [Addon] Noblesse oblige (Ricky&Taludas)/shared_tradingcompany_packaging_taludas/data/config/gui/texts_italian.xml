@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>Pontile di movimentazione</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>La corretta movimentazione dei moli e i progressi nell'imballaggio aumentano l'efficienza dei moli di importazione.</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>Movimentazione di pontili</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>La corretta movimentazione dei moli e i progressi nell'imballaggio aumentano l'efficienza dei moli di importazione, facendo durare più a lungo le merci importate immagazzinate.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

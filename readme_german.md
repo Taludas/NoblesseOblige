@@ -35,6 +35,14 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.3.0</summary>
+
+- Extraktion der Importdocks und des Ladepiers der Fernhandelscompagnie in Submods, um sie leichter zwischen Moddern teilen zu können
+- Exportdocks Stahl der Fernhandelscompagnie wurden neu gebalanced, so dass sie in Bezug auf Input/Handelslizenz am wenigsten effizient sind (war effizienter als Kanonen)
+- Fix beim Hinzufügen des öffentlichen Dienstes der Kapelle zur Lion's OW Chapel Mod
+
+</details>
+<details>
     <summary>Patch Notes Version 1.2.1</summary>
 
 - weitere Überarbeitung der Grafiken des Kaiserdoms

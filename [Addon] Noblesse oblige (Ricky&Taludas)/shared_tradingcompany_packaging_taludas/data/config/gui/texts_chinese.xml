@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999005388</GUID>
+      <Text>装卸码头</Text>
+    </Text>
+    <Text>
+      <GUID>1999005645</GUID>
+      <Text>正确处理码头装卸和包装的进步，提高了进口码头的效率。</Text>
+    </Text>
+    <Text>
+      <GUID>1999005646</GUID>
+      <Text>装卸码头</Text>
+    </Text>
+    <Text>
+      <GUID>1999005647</GUID>
+      <Text>正确处理码头装卸和包装的进步，提高了进口码头的效率。同时使您能储存更多的进口货物。</Text>
+    </Text>
+  </ModOp>
+</ModOps>
