@@ -1,10 +1,12 @@
 {
-  "Version": "1.6",
+  "Version": "1.7",
   "ModID": "Taludas_shared_tradingcompany",
   "DeprecateIds": [],
   "ModDependencies": [
+    "Taludas_sharedproduct_tradelicense"
   ],
   "LoadAfterIds": [
+    "Taludas_sharedproduct_tradelicense"
   ],
   "IncompatibleIds": null,
   "Category": {

@@ -1,7 +1,4 @@
 <ModOps>
-    <!-- remove Bus activation from Hacienda Template if NW Tourism is enabled, instead add it at the assets level -->
-    <ModOp Type="remove" Template = "Hacienda" Path="/Properties/BusActivation" Condition="#FamTaubeLexy_NewWorldHotels" />
-
     <!-- change QuestCategory of Serps Dummy Quest to MetaQuest to disable Quest fulfillment sound -->
     <ModOp Type="replace" Template = "A7_QuestDummyQuest" Path="/Properties/Quest/QuestCategory">
         <QuestCategory>MetaQuest</QuestCategory>

@@ -2161,6 +2161,24 @@
           <AmountInPercent>-30</AmountInPercent>
         </Item>
       </ModOp>
+
+      <ModOp Type="add" GUID="190136" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+          <GUID>1999005421</GUID>
+        </Item>
+        <Item>
+          <GUID>249947</GUID>
+        </Item>
+        <Item>
+          <GUID>1010471</GUID>
+        </Item>
+        <Item>
+          <GUID>1010470</GUID>
+        </Item>
+        <Item>
+          <GUID>110935</GUID>
+        </Item>
+      </ModOp>
     </Group>
 
     <!-- #Build Menu Landowners -->
@@ -6203,13 +6221,6 @@
               </Values>
              </Asset>
             </ModOp>
-        </Group>
-
-        <!-- remove Bus activation from Hacienda Template if NW Tourism is enabled, instead add it at the assets level -->
-        <Group>
-          <ModOp Type="add" GUID="24768" Path="/Values" Condition="#FamTaubeLexy_NewWorldHotels">
-            <BusActivation />
-          </ModOp>
         </Group>
     </Group>
 
@@ -26449,7 +26460,7 @@
                           <!-- Lifestyle Needs-->
                           <Item>
                             <Product>535</Product>
-                            <Amount>0.050000500005</Amount>
+                            <Amount>0.012500125001</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>10</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -26461,7 +26472,7 @@
                           </Item>
                           <Item>
                             <Product>536</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.004166666666666665</Amount>
                             <SupplyWeight>12</SupplyWeight>
                             <MoneyValue>30</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -26473,7 +26484,7 @@
                           </Item>
                           <Item>
                             <Product>2524</Product>
-                            <Amount>0.00833333333333333</Amount>
+                            <Amount>0.0020833333333333325</Amount>
                             <SupplyWeight>20</SupplyWeight>
                             <MoneyValue>60</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -26782,7 +26793,7 @@
                           <!-- Lifestyle Needs-->
                           <Item>
                             <Product>535</Product>
-                            <Amount>0.10000100001</Amount>
+                            <Amount>0.025000250002</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>10</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -26794,7 +26805,7 @@
                           </Item>
                           <Item>
                             <Product>536</Product>
-                            <Amount>0.0333333333333334</Amount>
+                            <Amount>0.00833333333333335</Amount>
                             <SupplyWeight>12</SupplyWeight>
                             <MoneyValue>30</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -26806,7 +26817,7 @@
                           </Item>
                           <Item>
                             <Product>2524</Product>
-                            <Amount>0.0166666666666667</Amount>
+                            <Amount>0.004166666666666665</Amount>
                             <SupplyWeight>20</SupplyWeight>
                             <MoneyValue>60</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -27158,7 +27169,7 @@
                           <!-- Lifestyle Needs-->
                           <Item>
                             <Product>535</Product>
-                            <Amount>0.20000200002</Amount>
+                            <Amount>0.050000500005</Amount>
                             <SupplyWeight>8</SupplyWeight>
                             <MoneyValue>10</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -27170,7 +27181,7 @@
                           </Item>
                           <Item>
                             <Product>536</Product>
-                            <Amount>0.0666666666666668</Amount>
+                            <Amount>0.0166666666666667</Amount>
                             <SupplyWeight>12</SupplyWeight>
                             <MoneyValue>30</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -27182,7 +27193,7 @@
                           </Item>
                           <Item>
                             <Product>2524</Product>
-                            <Amount>0.0333333333333333</Amount>
+                            <Amount>0.00833333333333333</Amount>
                             <SupplyWeight>20</SupplyWeight>
                             <MoneyValue>60</MoneyValue>
                             <AdditionalGlobalUnlockRequirement>
@@ -27785,6 +27796,110 @@
                     </PublicServiceOutputs>
                   </PublicService>
                 </ModOp>
+
+                <!-- Inivsibel buff to cultural modules, that increase public building range with each module by 1 -->
+                <ModOp Type="addNextSibling" GUID="249947">
+                    <Asset>
+                        <Template>ForwardBuff</Template>
+                        <Values>
+                            <Standard>
+                                <GUID>1999010498</GUID>
+                                <Name>Forward Buff cultural buildings to increase range with each module</Name>
+                                <IconFilename>data/ui/2kimages/main/icons/icon_range.png</IconFilename>
+                            </Standard>
+                            <Buff />
+                            <ItemEffect>
+                                <EffectTargets>
+                                    <Item>
+                                        <GUID>110935</GUID>
+                                    </Item>
+                                    <Item>
+                                        <GUID>1010471</GUID>
+                                    </Item>
+                                    <Item>
+                                        <GUID>1010470</GUID>
+                                    </Item>
+                                </EffectTargets>
+                            </ItemEffect>
+                            <Text>
+                                <LocaText>
+                                    <English>
+                                        <Text>Module Expansion</Text>
+                                        <Status>Exported</Status>
+                                    </English>
+                                </LocaText>
+                                <LineID>36284</LineID>
+                            </Text>
+                            <EffectForward>
+                                <ForwardEffect>1999010499</ForwardEffect>
+                                <ForwardEffectScope>ModuleOwner</ForwardEffectScope>
+                            </EffectForward>
+                            <CultureUpgrade>
+                                <HideBuff>1</HideBuff>
+                            </CultureUpgrade>
+                        </Values>
+                    </Asset>
+                </ModOp>
+                <ModOp Type="add" Path="//Asset[Template = 'CultureModule' and not(Values/Standard/GUID='111104') and not(Values/Standard/GUID='100455') and not(Values/Standard/GUID='101954') and not(Values/Standard/GUID='100454') and not(Values/Standard/GUID='101956') and not(Values/Standard/GUID='113452')]/Values">
+                    <UpgradeList>
+                        <DefaultBuff>1999010498</DefaultBuff>
+                    </UpgradeList>
+                </ModOp>
+                <ModOp Type="add" GUID="111104,100455,101954,100454,101956,113452" Path="/Values">
+                    <UpgradeList />
+                </ModOp>
+                <ModOp Type="addNextSibling" GUID="249947">
+                    <Asset>
+                        <Template>TownhallBuff</Template>
+                        <Values>
+                            <Standard>
+                                <GUID>1999010499</GUID>
+                                <Name>Buff cultural buildings to increase range with each module</Name>
+                                <IconFilename>data/ui/2kimages/main/icons/icon_range.png</IconFilename>
+                            </Standard>
+                            <ItemEffect>
+                                <EffectTargets>
+                                    <Item>
+                                        <GUID>110935</GUID>
+                                    </Item>
+                                    <Item>
+                                        <GUID>1010471</GUID>
+                                    </Item>
+                                    <Item>
+                                        <GUID>1010470</GUID>
+                                    </Item>
+                                </EffectTargets>
+                            </ItemEffect>
+                            <Text>
+                                <LocaText>
+                                    <English>
+                                        <Text>Internal Use</Text>
+                                    </English>
+                                </LocaText>
+                            </Text>
+                            <BuildingUpgrade>
+                                <PublicServiceFullSatisfactionDistance>
+                                    <Value>1</Value>
+                                </PublicServiceFullSatisfactionDistance>
+                                <PublicServiceNoSatisfactionDistance>
+                                    <Value>1</Value>
+                                </PublicServiceNoSatisfactionDistance>
+                            </BuildingUpgrade>
+                            <Buff />
+                            <PopulationUpgrade />
+                            <ResidenceUpgrade />
+                            <IncidentInfectableUpgrade />
+                            <CultureUpgrade>
+                                <HideBuff>1</HideBuff>
+                            </CultureUpgrade>
+                            <InfluenceSourceUpgrade />
+                            <WarehouseUpgrade />
+                            <DistributionUpgrade />
+                            <ItemContainerUpgrade />
+                            <FactoryUpgrade />
+                        </Values>
+                    </Asset>
+                </ModOp>
             </Group>
 
             <!-- Introduction of New Bonus Needs into the categories -->
@@ -28062,6 +28177,9 @@
                               <ResidentMax>50</ResidentMax>
                               <ResidentsRequiredForUpgrade>50</ResidentsRequiredForUpgrade>
                               <IsBaseResidence>1</IsBaseResidence>
+                              <MoveInMs>6000</MoveInMs>
+                              <MoveOutMs>12000</MoveOutMs>
+                              <MoveRandomMs>250</MoveRandomMs>
                             </Residence7>
                             <LogisticNode />
                             <AmbientMoodProvider>
@@ -28313,9 +28431,9 @@
                               <ResidentMax>100</ResidentMax>
                               <ResidentsRequiredForUpgrade>100</ResidentsRequiredForUpgrade>
                               <IsBaseResidence>1</IsBaseResidence>
-                              <MoveInMs>20000</MoveInMs>
-                              <MoveOutMs>60000</MoveOutMs>
-                              <MoveRandomMs>8000</MoveRandomMs>
+                              <MoveInMs>4000</MoveInMs>
+                              <MoveOutMs>10000</MoveOutMs>
+                              <MoveRandomMs>250</MoveRandomMs>
                             </Residence7>
                             <LogisticNode />
                             <AmbientMoodProvider>
@@ -28554,9 +28672,9 @@
                               <ResidentMax>200</ResidentMax>
                               <ResidentsRequiredForUpgrade>200</ResidentsRequiredForUpgrade>
                               <IsBaseResidence>1</IsBaseResidence>
-                              <MoveInMs>10000</MoveInMs>
-                              <MoveOutMs>30000</MoveOutMs>
-                              <MoveRandomMs>6000</MoveRandomMs>
+                              <MoveInMs>2000</MoveInMs>
+                              <MoveOutMs>5000</MoveOutMs>
+                              <MoveRandomMs>250</MoveRandomMs>
                             </Residence7>
                             <LogisticNode />
                             <AmbientMoodProvider>
@@ -45103,6 +45221,9 @@
           <Product>1500010153</Product>
           <Amount>20</Amount>
         </Item>
+      </ModOp>
+      <ModOp Type="replace" GUID="1999003164" Path="/Values/Reward/RewardAssets/Item[Reward = '1010218']/Reward" Condition="#Taludas_NewWorldExpanded_Mayabeque">
+        <Reward>1500010153</Reward>
       </ModOp>
       <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/EarlyGame/GoodsProduction/Item[Good = '1010196']">
         <Item>

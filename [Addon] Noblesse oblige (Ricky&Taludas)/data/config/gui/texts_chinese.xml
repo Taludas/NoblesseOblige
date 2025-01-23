@@ -10,7 +10,7 @@
     </Text>
     <Text>
       <GUID>1999005102</GUID>
-      <Text>庄园</Text>
+      <Text>贵族庄园</Text>
     </Text>
     <Text>
       <GUID>1999005103</GUID>
@@ -18,15 +18,15 @@
     </Text>
     <Text>
       <GUID>1999005104</GUID>
-      <Text>贵族（旧贵族）</Text>
+      <Text>贵族（封建贵族）</Text>
     </Text>
     <Text>
       <GUID>1999010494</GUID>
-      <Text>贵族 (宗法专制者)</Text>
+      <Text>贵族（宗族长老）</Text>
     </Text>
     <Text>
       <GUID>1999010495</GUID>
-      <Text>贵族 (现代保守主义者)</Text>
+      <Text>贵族（开明乡绅）</Text>
     </Text>
     <Text>
       <GUID>1999005105</GUID>
@@ -122,11 +122,11 @@
     </Text>
     <Text>
       <GUID>1999005129</GUID>
-      <Text>Hidden-ForwardBuff Palace Modules PB 系列</Text>
+      <Text>Hidden-ForwardBuff Palace Modules PB range</Text>
     </Text>
     <Text>
       <GUID>1999005130</GUID>
-      <Text>隐藏 - 增加 Palace 模块的 PB 范围</Text>
+      <Text>Hidden-Increase PB range from Palace modules</Text>
     </Text>
     <Text>
       <GUID>1999005131</GUID>
@@ -218,7 +218,7 @@
     </Text>
     <Text>
       <GUID>1999005214</GUID>
-      <Text>马铃薯是一种了不起的东西：它含有多种营养物质，包括多于香蕉的钾，以及大量维生素C。它的做法也很多，可以油炸、烘烤或炖煮。在这个MOD中，它的主要用途不再局限于酿造烈酒。</Text>
+      <Text>马铃薯是一种了不起的东西：它含有多种营养物质，比香蕉还多的钾，以及大量维生素C。它的烹饪方法也很多，可以油炸、烘烤或炖煮。在这个MOD中，它的主要用途不再局限于酿造烈酒。</Text>
     </Text>
     <Text>
       <GUID>1999005215</GUID>
@@ -338,15 +338,15 @@
     </Text>
     <Text>
       <GUID>1999005248</GUID>
-      <Text>[AssetData（24806） Text]</Text>
+      <Text>[AssetData(24806) Text]</Text>
     </Text>
     <Text>
       <GUID>1999005249</GUID>
-      <Text>[AssetData（24806） Text]</Text>
+      <Text>[AssetData(24806) Text]</Text>
     </Text>
     <Text>
       <GUID>1999005250</GUID>
-      <Text>[AssetData（24806） Text]</Text>
+      <Text>[AssetData(24806) Text]</Text>
     </Text>
     <Text>
       <GUID>1999005254</GUID>
@@ -402,7 +402,7 @@
     </Text>
     <Text>
       <GUID>1999005269</GUID>
-      <Text>果园： 苹果</Text>
+      <Text>果园：苹果</Text>
     </Text>
     <Text>
       <GUID>1999005270</GUID>
@@ -594,7 +594,7 @@
     </Text>
     <Text>
       <GUID>1999005297</GUID>
-      <Text>糖果</Text>
+      <Text>糖果店</Text>
     </Text>
     <Text>
       <GUID>1999005298</GUID>
@@ -602,7 +602,7 @@
     </Text>
     <Text>
       <GUID>1999005299</GUID>
-      <Text>糕点</Text>
+      <Text>杏仁糖果店</Text>
     </Text>
     <Text>
       <GUID>1999005338</GUID>
@@ -638,7 +638,7 @@
     </Text>
     <Text>
       <GUID>1999005346</GUID>
-      <Text>工匠工坊</Text>
+      <Text>油画工作室</Text>
     </Text>
     <Text>
       <GUID>1999005347</GUID>
@@ -658,7 +658,7 @@
     </Text>
     <Text>
       <GUID>1999005355</GUID>
-      <Text>漆器制造厂</Text>
+      <Text>漆器工坊</Text>
     </Text>
     <Text>
       <GUID>1999005356</GUID>
@@ -946,11 +946,11 @@
     </Text>
     <Text>
       <GUID>1999005451</GUID>
-      <Text>毛皮提供的影响</Text>
+      <Text>毛草大衣提供的影响</Text>
     </Text>
     <Text>
       <GUID>1999005452</GUID>
-      <Text>毛皮提供的影响</Text>
+      <Text>皮草大衣提供的影响</Text>
     </Text>
     <Text>
       <GUID>1999005453</GUID>
@@ -1018,7 +1018,7 @@
     </Text>
     <Text>
       <GUID>1999005512</GUID>
-      <Text>贵族需要的纸</Text>
+      <Text>所需文件</Text>
     </Text>
     <Text>
       <GUID>1999005514</GUID>
@@ -1138,7 +1138,7 @@
     </Text>
     <Text>
       <GUID>1999005543</GUID>
-      <Text>所有 传统工匠工作坊</Text>
+      <Text>所有传统工匠工作坊</Text>
     </Text>
     <Text>
       <GUID>1999005544</GUID>
@@ -1282,7 +1282,7 @@
     </Text>
     <Text>
       <GUID>1999005582</GUID>
-      <Text>额外的柑橘种植区域</Text>
+      <Text>额外柑橘种植区域</Text>
     </Text>
     <Text>
       <GUID>1999005583</GUID>
@@ -5194,19 +5194,19 @@
     </Text>
     <Text>
       <GUID>1999010302</GUID>
-      <Text>所有庄园</Text>
+      <Text>所有贵族庄园</Text>
     </Text>
     <Text>
       <GUID>1999010305</GUID>
-      <Text>古老贵族</Text>
+      <Text>封建贵族</Text>
     </Text>
     <Text>
       <GUID>1999010307</GUID>
-      <Text>独裁专制</Text>
+      <Text>宗族长老</Text>
     </Text>
     <Text>
       <GUID>1999010309</GUID>
-      <Text>现代保守</Text>
+      <Text>开明乡绅</Text>
     </Text>
     <Text>
       <GUID>1999010311</GUID>
@@ -5466,15 +5466,15 @@
     </Text>
     <Text>
       <GUID>1999010461</GUID>
-      <Text>猩红的研究</Text>
+      <Text>血字的研究</Text>
     </Text>
     <Text>
       <GUID>1999010462</GUID>
-      <Text>岛屿大师</Text>
+      <Text>大师锦标赛</Text>
     </Text>
     <Text>
       <GUID>1999010463</GUID>
-      <Text>百年进步</Text>
+      <Text>进步百年</Text>
     </Text>
     <Text>
       <GUID>1999010464</GUID>
@@ -5482,7 +5482,7 @@
     </Text>
     <Text>
       <GUID>1999010465</GUID>
-      <Text>下一个超模</Text>
+      <Text>下一站超模</Text>
     </Text>
     <Text>
       <GUID>1999010466</GUID>
@@ -5490,7 +5490,7 @@
     </Text>
     <Text>
       <GUID>1999010467</GUID>
-      <Text>沙龙</Text>
+      <Text>高级沙龙</Text>
     </Text>
     <Text>
       <GUID>1999010468</GUID>
@@ -5498,11 +5498,11 @@
     </Text>
     <Text>
       <GUID>1999010469</GUID>
-      <Text>主机</Text>
+      <Text>圣餐</Text>
     </Text>
     <Text>
       <GUID>1999010470</GUID>
-      <Text>大众葡萄酒</Text>
+      <Text>圣酒</Text>
     </Text>
     <Text>
       <GUID>1999010471</GUID>
@@ -5510,7 +5510,7 @@
     </Text>
     <Text>
       <GUID>1999010472</GUID>
-      <Text>礼仪文学</Text>
+      <Text>礼仪记录</Text>
     </Text>
     <Text>
       <GUID>1999010473</GUID>
@@ -5518,11 +5518,11 @@
     </Text>
     <Text>
       <GUID>1999010474</GUID>
-      <Text>所有市政剧院</Text>
+      <Text>所有城市大剧院</Text>
     </Text>
     <Text>
       <GUID>1999010493</GUID>
-      <Text>管理</Text>
+      <Text>庄园办公楼</Text>
     </Text>
   </ModOp>
 </ModOps>

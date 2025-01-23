@@ -1,5 +1,5 @@
 {
-	"Version": "1.3.0",
+	"Version": "1.3.1",
 	"ModID": "RickyTaludas_OWHacienda",
 	"ModioResourceId": 4584455,
 	"IncompatibleIds": null,
@@ -62,7 +62,8 @@
 		"Taludas_shared_importdock_diamonds",
 		"Taludas_shared_importdock_saffron",
 		"Taludas_shared_importdock_silk",
-		"Taludas_shared_importdock_tea"
+		"Taludas_shared_importdock_tea",
+		"Taludas_sharedproduct_tradelicense"
 	],
 	"LoadAfterIds": [
 		"Taludas_sharedproduct_wine",
@@ -120,7 +121,9 @@
 		"jakob_biogas",
 		"Taludas_neutral_aftermonumentevent_festivalreward_infotip",
 		"Taludas_shared_tradingcompany_packaging",
-		"lion053_ow_chapels"
+		"lion053_ow_chapels",
+		"Taludas_sharedproduct_tradelicense",
+		"Taludas_NewWorldExpanded_Mayabeque"
 	],
 	"Category": {
 		"Chinese": "插件",
