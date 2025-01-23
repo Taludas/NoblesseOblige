@@ -35,6 +35,21 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 ## Changelog
 
 <details>
+    <summary>Patch Notes Version 1.3.1</summary>
+
+- Palast, Zoo, Museum, Botanischer Garten und Kathedrale dem Palastbuff des Ministeriums für Soziales hinzugefügt
+- Anpassung der Mod an das Update der NW Tourism Mod
+- Behebung des hohen Postverbrauchs von Landbesitzern (Faktor .25)
+- Einführung einer Mechanik, die die Reichweite des öffentlichen Dienstes von Zoo, Museum und Botanischem Garten um 1 Kachel pro ausgerüstetem Item erhöht
+- Verkürzung der Einzugszeit für Großgrundbesitzer
+- Stahlträger wurden gegen Werkzeuge in der Questbelohnung der "Willkommen in Mayabeque"-Quest getauscht, wenn die Mod Koloss der Neuen Welt aktiv ist
+- chinesische Übersetzungen von hanthe2th aktualisiert
+- Update auf die neueste Version von Sharedproduct Horses
+- Die Submod "Fernhandelscompagnie" wurde überarbeitet, indem die Submod "Handelslizenzen" in eine separate Shared Mod ausgelagert wurde (nur für Modder relevant)
+- Fernhandelscompagnie-Lagerhaus zum Bau-Menü und Assetpool der shared mod hinzugefügt (nur für Modder relevant)
+
+</details>
+<details>
     <summary>Patch Notes Version 1.3.0</summary>
 
 - Extraktion der Importdocks und des Ladepiers der Fernhandelscompagnie in Submods, um sie leichter zwischen Moddern teilen zu können

@@ -38,6 +38,20 @@ If you like this mod and want to support me, feel free to share it with your fri
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 1.3.1</summary>
+
+- add Palace, Zoo, Museum, Botanical Garden and Cathedral to Department of Welfare Palace buff
+- adapt mod for update in NW Tourism mod
+- fix high consumption of mail by landowners (factor .25)
+- introduce a mechanic that increases the range of the Zoo, Museum and Botanical Garden Public Service range by 1 tile per equipped item
+- increase move-in time for Landowners
+- change steel beams for tools in the quest reward of the "Welcome to Mayabeque" Quest if you use Colossus of the New World
+- update chinese translations by hanthe2th
+- update to newest version of sharedproduct Horses
+- rework the trading company submod by outsourcing the tradelicenses submod into a separate shared mod (only relevant for modders)
+- add trading company warehouse to build menu and assetpool (only relevant for modders)
+</details>
+<details>
     <summary>Patch Notes Version 1.3.0</summary>
 
 - extract Import Docks and Packaging Module of the Foreign Trading Company into submods to easily share between modders
