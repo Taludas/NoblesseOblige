@@ -158,7 +158,9 @@
               </Item>
             </Maintenances>
           </Maintenance>
-          <StorageBase />
+          <StorageBase>
+            <ProductStorageList>1999005354</ProductStorageList>
+          </StorageBase>
           <LoadingPier>
             <NumOfPiers>1</NumOfPiers>
             <LoadingSpeed>2</LoadingSpeed>
