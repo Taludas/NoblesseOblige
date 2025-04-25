@@ -33,7 +33,11 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 - Diese Mod ist inkompatibel mit allen anderen Mods, die die anfängliche Ladung der Startschiffe verändern.
 
 ## Changelog
+<details>
+    <summary>Patch Notes Version 1.3.2</summary>
 
+- kleinere Anpassungen für die kommende "New Horizons" Mod
+</details>
 <details>
     <summary>Patch Notes Version 1.3.1</summary>
 
