@@ -45225,7 +45225,7 @@
       <ModOp Type="replace" GUID="1999003164" Path="/Values/Reward/RewardAssets/Item[Reward = '1010218']/Reward" Condition="#Taludas_NewWorldExpanded_Mayabeque">
         <Reward>1500010153</Reward>
       </ModOp>
-      <ModOp Type="replace" GUID="1414040004" Path="/Values/Quest/OnQuestStart/Values/ActionList/Actions/Item[Action/Template = 'ActionAddGoodsToItemContainer']/Action/Values/ActionAddGoodsToItemContainer/Goods/Item[Good = '1010218']/Good" Condition="#new_horizons">
+      <ModOp Type="replace" GUID="1414040004" Path="/Values/Quest/OnQuestStart/Values/ActionList/Actions/Item[Action/Template = 'ActionAddGoodsToItemContainer']/Action/Values/ActionAddGoodsToItemContainer/Goods/Item[Good = '1010218']/Good" Condition="#NewHorizons">
         <Good>1500010153</Good>
       </ModOp>
       <ModOp Type="addNextSibling" GUID="45" Path="/Values/Trader/Progression/EarlyGame/GoodsProduction/Item[Good = '1010196']">

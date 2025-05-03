@@ -38,6 +38,11 @@ If you like this mod and want to support me, feel free to share it with your fri
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 1.3.3</summary>
+
+- small adjustments for upcoming "New Horizons" mod
+</details>
+<details>
     <summary>Patch Notes Version 1.3.2</summary>
 
 - small adjustments for upcoming "New Horizons" mod
