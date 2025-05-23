@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>14443044</GUID>
+      <Text>所有 Import Piers</Text>
+    </Text>
+  </ModOp>
+</ModOps>

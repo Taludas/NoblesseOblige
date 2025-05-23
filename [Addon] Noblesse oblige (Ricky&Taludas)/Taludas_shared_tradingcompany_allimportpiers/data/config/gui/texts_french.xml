@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>14443044</GUID>
+      <Text>Tous les quais d’importation</Text>
+    </Text>
+  </ModOp>
+</ModOps>

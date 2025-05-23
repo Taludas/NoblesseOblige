@@ -1,0 +1,56 @@
+{
+  "Version": "1.0",
+  "ModID": "Taludas_shared_tradingcompany_allimportpiers",
+  "DeprecateIds": [],
+  "ModDependencies": [
+    "Taludas_shared_tradingcompany"
+  ],
+  "LoadAfterIds": [
+    "Taludas_shared_tradingcompany"
+  ],
+  "IncompatibleIds": null,
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "English": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "French": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "German": " shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "Italian": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "Japanese": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "Korean": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "Polish": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "Russian": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "Spanish": "shared_tradingcompany_allimportpiers_taludas (Taludas)",
+    "Taiwanese": "shared_tradingcompany_allimportpiers_taludas (Taludas)"
+  },
+  "Description": {
+    "English": "# - New pool: allimportpiers Effect Target Pool for use in the Foreign Trading Company",
+    "German": "# Neuer Pool: allimportpiers Effect Target Pool zur Nutzung in der Fernhandelscompagnie",
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+  ],
+  "CreatorName": "Taludas, Taubenangriff",
+  "Image": null
+}

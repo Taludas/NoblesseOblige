@@ -1,0 +1,40 @@
+<ModOps>
+  <ModOp Type="addNextSibling" GUID="24800">
+    <Asset>
+      <Template>ItemEffectTargetPool</Template>
+      <Values>
+        <Standard>
+          <GUID>14443044</GUID>
+          <Name>All Import Piers</Name>
+          <IconFilename>data/ui/2kimages/main/icons/icon_arrowpoint_right.png</IconFilename>
+        </Standard>
+        <Text />
+        <ItemEffectTargetPool>
+          <EffectTargetGUIDs>
+            <Item>
+              <GUID>1441358</GUID>
+            </Item>
+            <Item>
+              <GUID>1441359</GUID>
+            </Item>
+            <Item>
+              <GUID>1441357</GUID>
+            </Item>
+            <Item>
+              <GUID>1441350</GUID>
+            </Item>
+            <Item>
+              <GUID>1441351</GUID>
+            </Item>
+            <Item>
+              <GUID>1441352</GUID>
+            </Item>
+            <Item>
+              <GUID>1441403</GUID>
+            </Item>
+          </EffectTargetGUIDs>
+        </ItemEffectTargetPool>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>
