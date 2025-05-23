@@ -34,6 +34,11 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 1.3.4</summary>
+
+- Verbesserte Kompatibilität mit "New Horizons" Mod
+</details>
+<details>
     <summary>Patch Notes Version 1.3.3</summary>
 
 - kleinere Anpassungen für die kommende "New Horizons" Mod
