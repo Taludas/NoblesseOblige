@@ -34,6 +34,11 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 1.3.6</summary>
+
+- die Unlock Trigger funktionieren jetzt wirklich mit den überarbeiteten GUIDs der PopulationLevel.
+</details>
+<details>
     <summary>Patch Notes Version 1.3.5</summary>
 
 - Behebung eines Kompatibilitätsproblems mit dem "Arctic Zoo"-Mod, das zu einem CTD beim Ausrüsten von Tier-Items in den Arctic Zoo-Modulen führte.

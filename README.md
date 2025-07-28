@@ -38,6 +38,11 @@ If you like this mod and want to support me, feel free to share it with your fri
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 1.3.6</summary>
+
+- make sure the unlock triggers really work with the reworked population level GUIDs
+</details>
+<details>
     <summary>Patch Notes Version 1.3.5</summary>
 
 - fix a compatibility issue with "Arctic Zoo" mod which led to a CTD when equipping animal items in the Arctic Zoo modules.

@@ -49709,6 +49709,46 @@
                       </TriggerSetup>
                   </Values>
                 </Asset>
+                <Asset>
+                  <Template>Trigger</Template>
+                  <Values>
+                      <Standard>
+                          <GUID>1999010502</GUID>
+                          <Name>Sandbox Mode Reregister Triggers after PopulationLevel GUID change with script</Name>
+                      </Standard>
+                      <Trigger>
+                          <TriggerCondition>
+                            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                            <Values>
+                              <Condition />
+                              <ConditionAlwaysTrue />
+                            </Values>
+                          </TriggerCondition>
+                          <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionExecuteScript</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionExecuteScript>
+                                    <ScriptFileName>data/ricky/haciendaoldworld/reregister_unlock_triggers.lua</ScriptFileName>
+                                  </ActionExecuteScript>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                          </TriggerActions>
+                          <ResetTrigger>
+                              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                              <Values>
+                                  <EmptyAutoCreateValue/>
+                              </Values>
+                          </ResetTrigger>
+                      </Trigger>
+                      <TriggerSetup>
+                          <UsedBySecondParties>0</UsedBySecondParties>
+                      </TriggerSetup>
+                  </Values>
+                </Asset>
             </ModOp>
         </Group>
     </Group>
