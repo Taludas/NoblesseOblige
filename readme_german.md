@@ -34,6 +34,13 @@ Wenn euch diese Mod gefällt und ihr mich unterstützen wollt, könnt ihr sie ge
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 1.3.5</summary>
+
+- Behebung eines Kompatibilitätsproblems mit dem "Arctic Zoo"-Mod, das zu einem CTD beim Ausrüsten von Tier-Items in den Arctic Zoo-Modulen führte.
+- Austausch der OW Hacienda PopulationLevel GUIDs gegen neue GUIDs, die kleiner sind als die der vanilla PopulationLevels, um die WorkCondition Quests wieder normal funktionieren zu lassen, und um das Problem zu beheben, dass die normalen Bauern, Arbeiter und Handwerker nicht von den WorkCondition Quests betroffen waren (jetzt sind stattdessen die Bevölkerungen von NO nicht mehr betroffen).
+- Hinzufügen eines Triggers, um OW-Hacienda-Kräuterfarm-Feldmodule freizuschalten, wenn keine Vanilla-Arbeiter gebaut werden.
+</details>
+<details>
     <summary>Patch Notes Version 1.3.4</summary>
 
 - Verbesserte Kompatibilität mit "New Horizons" Mod

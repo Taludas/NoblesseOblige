@@ -38,6 +38,13 @@ If you like this mod and want to support me, feel free to share it with your fri
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 1.3.5</summary>
+
+- fix a compatibility issue with "Arctic Zoo" mod which led to a CTD when equipping animal items in the Arctic Zoo modules.
+- exchange OW Hacienda PopulationLevel GUIDs for new ones that are smaller than the ones of vanilla PopulationLevels to get WorkCondition quests back to working normally, also to fix the issue that normal populations of Farmers, Workers and Artisans wouldn't be affected by the workforce conditions (now the NO populations are no longer affected instead).
+- add a trigger to unlock OW Hacienda Herb Farm field modules when not building any vanilla workers.
+</details>
+<details>
     <summary>Patch Notes Version 1.3.4</summary>
 
 - improved compatibility with "New Horizons"

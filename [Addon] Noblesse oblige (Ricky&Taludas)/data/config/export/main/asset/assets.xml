@@ -1319,7 +1319,7 @@
         <!-- Change Unlock for Herbs Lifestyle Need to 500 Artisans -->
         <ModOp Type="replace" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5383']/AdditionalGlobalUnlockRequirement">
           <AdditionalGlobalUnlockRequirement>
-            <Population>1999005305</Population>
+            <Population>601389</Population>
             <MinPopulationAmount>500</MinPopulationAmount>
           </AdditionalGlobalUnlockRequirement>
         </ModOp>
@@ -27840,14 +27840,14 @@
                         </Values>
                     </Asset>
                 </ModOp>
-                <ModOp Type="add" Path="//Asset[Template = 'CultureModule' and not(Values/Standard/GUID='111104') and not(Values/Standard/GUID='100455') and not(Values/Standard/GUID='101954') and not(Values/Standard/GUID='100454') and not(Values/Standard/GUID='101956') and not(Values/Standard/GUID='113452')]/Values">
-                    <UpgradeList>
-                        <DefaultBuff>1999010498</DefaultBuff>
-                    </UpgradeList>
+
+                <ModOp Type="merge" Path="//Asset[Template = 'CultureModule']/Values">
+                  <UpgradeList />
                 </ModOp>
-                <ModOp Type="add" GUID="111104,100455,101954,100454,101956,113452" Path="/Values">
-                    <UpgradeList />
+                <ModOp Type="add" Path="//Asset[Template = 'CultureModule' and not(Values/Standard/GUID='111104') and not(Values/Standard/GUID='100455') and not(Values/Standard/GUID='101954') and not(Values/Standard/GUID='100454') and not(Values/Standard/GUID='101956') and not(Values/Standard/GUID='113452')]/Values/UpgradeList">
+                  <DefaultBuff>1999010498</DefaultBuff>
                 </ModOp>
+
                 <ModOp Type="addNextSibling" GUID="249947">
                     <Asset>
                         <Template>TownhallBuff</Template>
@@ -29221,7 +29221,7 @@
                                 <ResidenceStorage>
                                     <InputStorageMax>1</InputStorageMax>
                                 </ResidenceStorage>
-                                <PopulationLevel7>1999005303</PopulationLevel7>
+                                <PopulationLevel7>601387</PopulationLevel7>
                                 <ResidentMax>25</ResidentMax>
                                 <ResidentsRequiredForUpgrade>25</ResidentsRequiredForUpgrade>
                                 <IsBaseResidence>0</IsBaseResidence>
@@ -29339,7 +29339,7 @@
                         <Template>PopulationLevel7</Template>
                         <Values>
                             <Standard>
-                                <GUID>1999005303</GUID>
+                                <GUID>601387</GUID>
                                 <Name>Population Level OW Hacienda Farmers</Name>
                                 <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_resident_farmer.png</IconFilename>
                             </Standard>
@@ -29351,6 +29351,7 @@
                                     </English>
                                 </LocaText>
                                 <LineID>3757</LineID>
+                                <TextOverride>1999005303</TextOverride>
                             </Text>
                             <PopulationLevel7>
                                 <PopulationInputs>
@@ -29532,7 +29533,7 @@
                                         <SupplyWeight>3</SupplyWeight>
                                         <MoneyValue>45</MoneyValue>
                                         <AdditionalGlobalUnlockRequirement>
-                                          <Population>1999005305</Population>
+                                          <Population>601389</Population>
                                           <MinPopulationAmount>500</MinPopulationAmount>
                                         </AdditionalGlobalUnlockRequirement>
                                         <ExcludePopulationFromMoneyAndConsumptionCalculation>1</ExcludePopulationFromMoneyAndConsumptionCalculation>
@@ -29587,14 +29588,14 @@
                 <!-- Global Population -->
                 <ModOp Type="addNextSibling" GUID="2001271" Path="/Values/GUIConfig/PopulationLevelList/Item[PopulationLevel = '1999010495']">
                     <Item>
-                        <PopulationLevel>1999005303</PopulationLevel>
+                        <PopulationLevel>601387</PopulationLevel>
                     </Item>
                 </ModOp>
 
                 <!-- Residence UI HappinessConfig -->
                 <ModOp Type="add" GUID="25000118" Path="/Values/ObjectmenuResidenceScene/HappinessConfigs">
                     <Item>
-                        <PopulationLevel>1999005303</PopulationLevel>
+                        <PopulationLevel>601387</PopulationLevel>
                         <AssignedConfig>502287</AssignedConfig>
                     </Item>
                 </ModOp>
@@ -29616,7 +29617,7 @@
                         <Values>
                           <MainNotification>
                             <Title>21535</Title>
-                            <NotificationMainIconAsset>1999005303</NotificationMainIconAsset>
+                            <NotificationMainIconAsset>601387</NotificationMainIconAsset>
                             <Icon01>1999005223</Icon01>
                             <Icon02>1999005284</Icon02>
                             <Icon03>1999005261</Icon03>
@@ -29658,7 +29659,7 @@
               <ModOp Type="add" GUID="142358" Path="/Values/BannerConfig/CityLevelBanners">
                 <Item>
                   <RequiredValue>1</RequiredValue>
-                  <PopulationGUID>1999005303</PopulationGUID>
+                  <PopulationGUID>601387</PopulationGUID>
                   <Notification>1999010310</Notification>
                 </Item>
               </ModOp>
@@ -29846,7 +29847,7 @@
                                 <ResidenceStorage>
                                     <InputStorageMax>1</InputStorageMax>
                                 </ResidenceStorage>
-                                <PopulationLevel7>1999005304</PopulationLevel7>
+                                <PopulationLevel7>601388</PopulationLevel7>
                                 <ResidentMax>50</ResidentMax>
                                 <ResidentsRequiredForUpgrade>50</ResidentsRequiredForUpgrade>
                                 <IsBaseResidence>0</IsBaseResidence>
@@ -29968,7 +29969,7 @@
                         <Template>PopulationLevel7</Template>
                         <Values>
                             <Standard>
-                                <GUID>1999005304</GUID>
+                                <GUID>601388</GUID>
                                 <Name>Population Level OW Hacienda Workers</Name>
                                 <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_resident_worker.png</IconFilename>
                             </Standard>
@@ -29980,6 +29981,7 @@
                                     </English>
                                 </LocaText>
                                 <LineID>3757</LineID>
+                                <TextOverride>1999005304</TextOverride>
                             </Text>
                             <PopulationLevel7>
                                 <PopulationInputs>
@@ -30242,16 +30244,16 @@
                 </ModOp>
 
                 <!-- Global Population -->
-                <ModOp Type="addNextSibling" GUID="2001271" Path="/Values/GUIConfig/PopulationLevelList/Item[PopulationLevel = '1999005303']">
+                <ModOp Type="addNextSibling" GUID="2001271" Path="/Values/GUIConfig/PopulationLevelList/Item[PopulationLevel = '601387']">
                     <Item>
-                        <PopulationLevel>1999005304</PopulationLevel>
+                        <PopulationLevel>601388</PopulationLevel>
                     </Item>
                 </ModOp>
 
                 <!-- Residence UI HappinessConfig -->
                 <ModOp Type="add" GUID="25000118" Path="/Values/ObjectmenuResidenceScene/HappinessConfigs">
                     <Item>
-                        <PopulationLevel>1999005304</PopulationLevel>
+                        <PopulationLevel>601388</PopulationLevel>
                         <AssignedConfig>502287</AssignedConfig>
                     </Item>
                 </ModOp>
@@ -30273,7 +30275,7 @@
                         <Values>
                           <MainNotification>
                             <Title>21535</Title>
-                            <NotificationMainIconAsset>1999005304</NotificationMainIconAsset>
+                            <NotificationMainIconAsset>601388</NotificationMainIconAsset>
                             <Icon01>1010360</Icon01>
                             <Icon02>1999005633</Icon02>
                             <Icon03>1999005331</Icon03>
@@ -30315,7 +30317,7 @@
               <ModOp Type="add" GUID="142358" Path="/Values/BannerConfig/CityLevelBanners">
                 <Item>
                   <RequiredValue>1</RequiredValue>
-                  <PopulationGUID>1999005304</PopulationGUID>
+                  <PopulationGUID>601388</PopulationGUID>
                   <Notification>1999010312</Notification>
                 </Item>
               </ModOp>
@@ -30707,7 +30709,7 @@
                                 <ResidenceStorage>
                                     <InputStorageMax>1</InputStorageMax>
                                 </ResidenceStorage>
-                                <PopulationLevel7>1999005305</PopulationLevel7>
+                                <PopulationLevel7>601389</PopulationLevel7>
                                 <ResidentMax>100</ResidentMax>
                                 <ResidentsRequiredForUpgrade>100</ResidentsRequiredForUpgrade>
                                 <IsBaseResidence>0</IsBaseResidence>
@@ -30860,7 +30862,7 @@
                         <Template>PopulationLevel7</Template>
                         <Values>
                             <Standard>
-                                <GUID>1999005305</GUID>
+                                <GUID>601389</GUID>
                                 <Name>Population Level OW Hacienda Artisans</Name>
                                 <IconFilename>data/ui/2kimages/main/3dicons/resident/icon_resident_artisan.png</IconFilename>
                             </Standard>
@@ -30872,6 +30874,7 @@
                                     </English>
                                 </LocaText>
                                 <LineID>3757</LineID>
+                                <TextOverride>1999005305</TextOverride>
                             </Text>
                             <PopulationLevel7>
                                 <PopulationInputs>
@@ -31136,16 +31139,16 @@
                 </ModOp>
 
                 <!-- Global Population -->
-                <ModOp Type="addNextSibling" GUID="2001271" Path="/Values/GUIConfig/PopulationLevelList/Item[PopulationLevel = '1999005304']">
+                <ModOp Type="addNextSibling" GUID="2001271" Path="/Values/GUIConfig/PopulationLevelList/Item[PopulationLevel = '601388']">
                     <Item>
-                        <PopulationLevel>1999005305</PopulationLevel>
+                        <PopulationLevel>601389</PopulationLevel>
                     </Item>
                 </ModOp>
 
                 <!-- Residence UI HappinessConfig -->
                 <ModOp Type="add" GUID="25000118" Path="/Values/ObjectmenuResidenceScene/HappinessConfigs">
                     <Item>
-                        <PopulationLevel>1999005305</PopulationLevel>
+                        <PopulationLevel>601389</PopulationLevel>
                         <AssignedConfig>502287</AssignedConfig>
                     </Item>
                 </ModOp>
@@ -31167,7 +31170,7 @@
                         <Values>
                           <MainNotification>
                             <Title>21535</Title>
-                            <NotificationMainIconAsset>1999005305</NotificationMainIconAsset>
+                            <NotificationMainIconAsset>601389</NotificationMainIconAsset>
                             <Icon01>1999005333</Icon01>
                             <Icon02>1999005297</Icon02>
                             <Icon03>1999005339</Icon03>
@@ -31209,7 +31212,7 @@
               <ModOp Type="add" GUID="142358" Path="/Values/BannerConfig/CityLevelBanners">
                 <Item>
                   <RequiredValue>1</RequiredValue>
-                  <PopulationGUID>1999005305</PopulationGUID>
+                  <PopulationGUID>601389</PopulationGUID>
                   <Notification>1999010314</Notification>
                 </Item>
               </ModOp>
@@ -46121,7 +46124,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005303</Context>
+                                <Context>601387</Context>
                                 <CounterAmount>50</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46180,7 +46183,7 @@
                                 <Condition />
                                 <ConditionPlayerCounter>
                                   <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                  <Context>1999005303</Context>
+                                  <Context>601387</Context>
                                   <CounterAmount>100</CounterAmount>
                                 </ConditionPlayerCounter>
                               </Values>
@@ -46308,7 +46311,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005303</Context>
+                                <Context>601387</Context>
                                 <CounterAmount>150</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46365,7 +46368,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005303</Context>
+                                <Context>601387</Context>
                                 <CounterAmount>200</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46466,7 +46469,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005303</Context>
+                                <Context>601387</Context>
                                 <CounterAmount>300</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46555,7 +46558,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005304</Context>
+                                <Context>601388</Context>
                                 <CounterAmount>1</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46647,7 +46650,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005304</Context>
+                                <Context>601388</Context>
                                 <CounterAmount>150</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46739,7 +46742,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005304</Context>
+                                <Context>601388</Context>
                                 <CounterAmount>300</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46816,7 +46819,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005304</Context>
+                                <Context>601388</Context>
                                 <CounterAmount>500</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46920,7 +46923,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005304</Context>
+                                <Context>601388</Context>
                                 <CounterAmount>750</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -46982,7 +46985,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005305</Context>
+                                <Context>601389</Context>
                                 <CounterAmount>1</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -47080,7 +47083,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005305</Context>
+                                <Context>601389</Context>
                                 <CounterAmount>250</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -47175,7 +47178,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005305</Context>
+                                <Context>601389</Context>
                                 <CounterAmount>500</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -47225,6 +47228,9 @@
                                                 </Item>
                                                 <Item>
                                                     <Asset>1999005228</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1500302200</Asset>
                                                 </Item>
                                                 <Item>
                                                     <Asset>1999005295</Asset>
@@ -47279,7 +47285,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005305</Context>
+                                <Context>601389</Context>
                                 <CounterAmount>750</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -47330,7 +47336,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005305</Context>
+                                <Context>601389</Context>
                                 <CounterAmount>900</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -47392,7 +47398,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005305</Context>
+                                <Context>601389</Context>
                                 <CounterAmount>1000</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -47559,7 +47565,7 @@
                               <Condition />
                               <ConditionPlayerCounter>
                                 <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                <Context>1999005305</Context>
+                                <Context>601389</Context>
                                 <CounterAmount>1500</CounterAmount>
                               </ConditionPlayerCounter>
                             </Values>
@@ -49267,6 +49273,429 @@
                                       </Values>
                                   </TriggerAction>
                               </Item>
+                          </TriggerActions>
+                          <ResetTrigger>
+                              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                              <Values>
+                                  <EmptyAutoCreateValue/>
+                              </Values>
+                          </ResetTrigger>
+                      </Trigger>
+                      <TriggerSetup>
+                          <UsedBySecondParties>0</UsedBySecondParties>
+                      </TriggerSetup>
+                  </Values>
+                </Asset>
+
+                <Asset>
+                  <Template>Trigger</Template>
+                  <Values>
+                      <Standard>
+                          <GUID>1999010501</GUID>
+                          <Name>Sandbox Mode Reregister Triggers after PopulationLevel GUID change</Name>
+                      </Standard>
+                      <Trigger>
+                          <TriggerCondition>
+                            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                            <Values>
+                              <Condition />
+                              <ConditionAlwaysTrue />
+                            </Values>
+                          </TriggerCondition>
+                          <TriggerActions>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005614</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005614</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005613</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005613</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005627</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005627</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005626</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005626</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005612</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005612</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005611</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005611</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005610</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005610</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005609</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005609</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005608</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005608</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005607</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005607</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005606</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005606</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005605</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005605</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005604</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005604</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005603</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005603</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005602</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005602</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005624</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005624</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005625</TriggerAsset>
+                                    <UnregisterTrigger>1</UnregisterTrigger>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
+                            <Item>
+                              <TriggerAction>
+                                <Template>ActionRegisterTrigger</Template>
+                                <Values>
+                                  <Action />
+                                  <ActionRegisterTrigger>
+                                    <TriggerAsset>1999005625</TriggerAsset>
+                                  </ActionRegisterTrigger>
+                                </Values>
+                              </TriggerAction>
+                            </Item>
                           </TriggerActions>
                           <ResetTrigger>
                               <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
